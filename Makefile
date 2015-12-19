@@ -38,7 +38,8 @@ pmbp-install: pmbp-upgrade
 
 SAVE = $(WGET) -O
 
-build: data/firefox-versions.json data/firefox-locales.json
+build: data/firefox-versions.json data/firefox-locales.json \
+    data/firefox-latest.txt
 
 build-clean:
 	rm -fr local/*.html
@@ -49,11 +50,13 @@ data/firefox-versions.json: bin/firefox-versions.pl \
 data/firefox-locales.json: bin/firefox-locales.pl \
     local/firefox-locales.html
 	$(PERL) $< > $@
+data/firefox-latest.txt: data/firefox-versions.json local/bin/jq
+	local/bin/jq '.latest' -r data/firefox-versions.json > $@
 
 local/firefox-releases.html:
 	$(SAVE) $@ https://archive.mozilla.org/pub/firefox/releases/
-local/firefox-locales.html: data/firefox-versions.json local/bin/jq
-	$(SAVE) $@ https://archive.mozilla.org/pub/firefox/releases/`local/bin/jq '.latest' -r data/firefox-versions.json`/linux-x86_64/
+local/firefox-locales.html: data/firefox-latest.txt
+	$(SAVE) $@ https://archive.mozilla.org/pub/firefox/releases/`cat data/firefox-latest.txt`/linux-x86_64/
 
 local/bin/jq:
 	mkdir -p local/bin
