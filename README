@@ -1,0 +1,32 @@
+data-web-impls
+~~~~~~~~~~~~~~
+
+* data/firefox-locales.json
+
+Locales supported by latest stable Firefox release.  The file contains
+a JSON object which has a name |locales|, whose value is a JSON object
+where names are locale language tags as used by Firefox.
+
+* data/firefox-releases.json
+
+Firefox releases.  The file contains a JSON object which has following
+name/value pairs:
+
+  latest
+
+    A string containing the version string of the latest release.
+
+  releases
+
+    A JSON object whose names are version strings of Firefox releases.
+
+* Source
+
+<https://archive.mozilla.org/pub/firefox/releases/>.
+
+* License
+
+Per CC0 <https://creativecommons.org/publicdomain/zero/1.0/>, to the
+extent possible under law, the author of the data files, this
+document, and the scripts used to generate them has waived all
+copyright and related or neighboring rights to them.

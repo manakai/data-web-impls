@@ -36,9 +36,29 @@ pmbp-install: pmbp-upgrade
 
 ## ------ Build ------
 
-build:
+SAVE = $(WGET) -O
+
+build: data/firefox-versions.json data/firefox-locales.json
 
 build-clean:
+	rm -fr local/*.html
+
+data/firefox-versions.json: bin/firefox-versions.pl \
+    local/firefox-releases.html
+	$(PERL) $< > $@
+data/firefox-locales.json: bin/firefox-locales.pl \
+    local/firefox-locales.html
+	$(PERL) $< > $@
+
+local/firefox-releases.html:
+	$(SAVE) $@ https://archive.mozilla.org/pub/firefox/releases/
+local/firefox-locales.html: data/firefox-versions.json local/bin/jq
+	$(SAVE) $@ https://archive.mozilla.org/pub/firefox/releases/`local/bin/jq '.latest' -r data/firefox-versions.json`/linux-x86_64/
+
+local/bin/jq:
+	mkdir -p local/bin
+	$(WGET) -O $@ https://stedolan.github.io/jq/download/linux64/jq
+	chmod u+x $@
 
 ## ------ Tests ------
 
@@ -46,9 +66,11 @@ PROVE = ./prove
 
 test: test-deps test-main
 
-test-deps: deps
+test-deps: deps local/bin/jq
 
 test-main:
-#	$(PROVE) t/*.t
+	$(PROVE) t/*.t
 
-## License: Public Domain.
+## Per CC0 <https://creativecommons.org/publicdomain/zero/1.0/>, to
+## the extent possible under law, the author of this file has waived
+## all copyright and related or neighboring rights to the file.
