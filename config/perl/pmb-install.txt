@@ -1,4 +1,5 @@
 Scalar::Util~1.42
+parent~0.234
 Exporter::Lite~0.07
 File::Spec~3.60
 Test::Tester~0.114
