@@ -20,9 +20,23 @@ name/value pairs:
 
     A JSON object whose names are version strings of Firefox releases.
 
-* Source
+* data/url-samples/brank/YYYYMM.txt
+
+Lists of top Japanese Web site of month YYYY-MM, extracted from the
+daily Hatena Bookmark ranking <http://b.hatena.ne.jp/ranking/daily>.
+
+These files contain list of pairs of the site and one of URLs in the
+site from the ranking, as the lines of the values separated by a
+U+0020 character.  (When there are multiple URLs in a same site in the
+ranking, only one of them are chosen for the list.)  The site is
+identified by the ASCII serialization of the eTLD+1 of the host of the
+URL.  The order of the lines in the files is not significant.
+
+* Sources
 
 <https://archive.mozilla.org/pub/firefox/releases/>.
+
+<http://b.hatena.ne.jp/ranking/daily>.
 
 * License
 

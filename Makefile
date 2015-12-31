@@ -1,4 +1,4 @@
-all: build
+all: build data-url-samples
 
 clean: build-clean
 
@@ -7,7 +7,8 @@ CURL = curl
 GIT = git
 PERL = ./perl
 
-updatenightly: local/bin/pmbp.pl
+updatenightly: clean local/bin/pmbp.pl deps all
+	$(GIT) add data
 	$(CURL) -s -S -L https://gist.githubusercontent.com/wakaba/34a71d3137a52abb562d/raw/gistfile1.txt | sh
 	$(GIT) add modules
 	perl local/bin/pmbp.pl --update
@@ -62,6 +63,15 @@ local/bin/jq:
 	mkdir -p local/bin
 	$(WGET) -O $@ https://stedolan.github.io/jq/download/linux64/jq
 	chmod u+x $@
+
+local/psl.dat:	
+	$(WGET) -O $@ https://raw.githubusercontent.com/publicsuffix/list/master/public_suffix_list.dat
+local/psl.txt: local/psl.dat bin/psl.pl
+	$(PERL) bin/psl.pl > $@
+
+data-url-samples: bin/parse-brank.pl bin/url-samples.pl
+	$(PERL) bin/parse-brank.pl > local/brank-urls.txt
+	$(PERL) bin/url-samples.pl < local/brank-urls.txt > data/url-samples/brank/`perl -e '@time=gmtime;printf "%04d%02d",$$time[5]+1900,$$time[4]+1'`.txt
 
 ## ------ Tests ------
 
