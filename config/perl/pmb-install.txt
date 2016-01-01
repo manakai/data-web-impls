@@ -1,5 +1,7 @@
 Scalar::Util~1.42
 Net::SSLeay~1.72
+parent~0.234
+Exporter::Lite~0.07
 File::Spec~3.60
 Test::NoWarnings~1.04
 Unicode::Normalize~1.25
