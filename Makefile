@@ -69,7 +69,7 @@ local/psl.dat:
 local/psl.txt: local/psl.dat bin/psl.pl
 	$(PERL) bin/psl.pl > $@
 
-data-url-samples: bin/parse-brank.pl bin/url-samples.pl
+data-url-samples: bin/parse-brank.pl bin/url-samples.pl local/psl.txt
 	$(PERL) bin/parse-brank.pl > local/brank-urls.txt
 	$(PERL) bin/url-samples.pl < local/brank-urls.txt > data/url-samples/brank/`perl -e '@time=gmtime;printf "%04d%02d",$$time[5]+1900,$$time[4]+1'`.txt
 
