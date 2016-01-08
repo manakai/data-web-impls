@@ -8,7 +8,7 @@ IO::HTML~1.001
 Unicode::Normalize~1.25
 Encode~2.78
 Path::Tiny~0.076
-URI~1.69
+URI~1.71
 parent~0.234
 AnyEvent~7.11
 Exporter::Lite~0.07
