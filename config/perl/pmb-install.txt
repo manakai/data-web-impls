@@ -1,7 +1,7 @@
 Scalar::Util~1.42
 Net::SSLeay~1.72
 LWP::MediaTypes~6.02
-File::Spec~3.60
+File::Spec~3.62
 Encode::Locale~1.05
 Test::NoWarnings~1.04
 IO::HTML~1.001
