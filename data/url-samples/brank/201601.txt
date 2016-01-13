@@ -16,10 +16,12 @@ asablo.jp http://nanto.asablo.jp/blog/2015/12/31/7966713
 asahi.com http://www.asahi.com/articles/ASHDG66DXHDGUEHF01L.html
 atlassian.com http://japan.blogs.atlassian.com/2016/01/git-2-7-release/
 automaton.am http://jp.automaton.am/articles/columnjp/explain-why-is-splatoon-such-a-terrific-game-in-2015/
+bake-jp.com http://www.bake-jp.com/magazine/?p=3178
 bengo4.com https://www.bengo4.com/internet/1078/n_4148/
 benigumo.com http://android.benigumo.com/20160102/man-%E3%81%AF%E9%95%B7%E3%81%99%E3%81%8E%E3%82%8B%E3%81%AE%E3%81%A7%E3%80%8Ctldr%E3%80%8D/
 biz-journal.jp http://biz-journal.jp/2016/01/post_13136.html
 blogos.com http://blogos.com/article/151911/
+bloomberg.co.jp http://www.bloomberg.co.jp/news/123-O0SK746S972A01.html
 btrax.com http://blog.btrax.com/jp/2016/01/02/design-trends2016/
 career-theory.net http://career-theory.net/about-job-change-agent-2884
 chuko.co.jp https://www.chuko.co.jp/special/tanizaki_mangekyo/no9.html
@@ -31,7 +33,9 @@ creive.me http://creive.me/archives/6771/
 csirt.ninja http://csirt.ninja/?p=193
 cybozu.io http://blog.cybozu.io/entry/2016/01/08/080000
 darui.io http://darui.io/posts/2016nen-yaruzo
+datsumou-recipe.com http://datsumou-recipe.com/sasami-recipe/
 dengekionline.com http://dengekionline.com/elem/000/001/189/1189870/
+diamond.jp http://diamond.jp/articles/-/84384
 doorblog.jp http://kabumatome.doorblog.jp/archives/65849500.html
 el-ement.com http://el-ement.com/blog/2015/12/31/liquid-timer/
 engadget.com http://japanese.engadget.com/2016/01/01/babypod/
@@ -40,6 +44,7 @@ excite.co.jp http://www.excite.co.jp/News/90s/20160108/E1452177561507.html
 facebook.com https://www.facebook.com/dnobori/posts/897538743656099
 fem.jp http://editor.fem.jp/blog/?p=1620
 fukuyuki.net http://fukuyuki.net/post-605/
+fumu.in http://www.fumu.in/entry/2016/01/11/%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AF%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%8B
 fut573.com http://hatena.fut573.com/entry/20160110/1452433661
 gigazine.net http://gigazine.net/news/20160105-how-ma/
 gihyo.jp http://gihyo.jp/dev/column/newyear/2016/api-prospect
@@ -75,7 +80,9 @@ japan-baseball.jp http://www.japan-baseball.jp/jp/news/press/20160106_1.html
 jfsribbon.org http://www.jfsribbon.org/2016/01/blog-post.html
 jimpei.net http://www.jimpei.net/entry/blog39
 jin115.com http://jin115.com/archives/52113975.html
+jnito.com http://blog.jnito.com/entry/2016/01/12/054224
 johotankyu.com http://johotankyu.com/?p=379
+jukennsei.com http://jukennsei.com/2016/01/english-ap10/
 kandosaori.com http://www.kandosaori.com/entry/2016/01/07/004714
 keens.github.io http://keens.github.io/blog/2016/01/01/2016nenchuumokushiteikitaigijutsu/
 kinbricksnow.com http://kinbricksnow.com/archives/51967989.html
@@ -89,6 +96,7 @@ livedoor.com http://news.livedoor.com/article/detail/11020969/
 livedoor.jp http://blog.livedoor.jp/chihhylove/archives/9128472.html
 mainichi.jp http://mainichi.jp/articles/20160105/k00/00m/040/124000c
 manabusakai.com http://blog.manabusakai.com/2016/01/aws-cpu-strategy/
+mangaz.com http://www.mangaz.com/book/detail/105711
 matsuokah.jp http://blog.matsuokah.jp/entry/2016/01/01/191338
 matt.sh https://matt.sh/howto-c
 medium.com https://medium.com/@ageitgey/a26a10b68df3
@@ -111,6 +119,7 @@ nikkansports.com http://www.nikkansports.com/entertainment/news/1590125.html
 nikkei.com http://www.nikkei.com/article/DGXLASDZ10H1G_Q6A110C1MM8000/
 nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/122400454/
 nishinippon.co.jp http://www.nishinippon.co.jp/nnp/world/article/216608
+nomad-ken.com http://nomad-ken.com/5022
 number333.org http://number333.org/2016/01/01/diy-dearwall/
 oneroom-navi.jp http://oneroom-navi.jp/category/single-life
 pasonacareer.jp http://www.pasonacareer.jp/hatalabo/entry/2016/01/07/174726
@@ -118,8 +127,10 @@ pet-seikatsu.jp http://pet-seikatsu.jp/movies/40536
 phileweb.com http://www.phileweb.com/review/column/201601/09/461.html
 photoshopvip.net http://photoshopvip.net/archives/85425
 pjomotesando.com http://www.pjomotesando.com/entry/2016/01/09/170001
-pojihiguma.com http://www.pojihiguma.com/entry/hitori-saikou
+pojihiguma.com http://www.pojihiguma.com/entry/Keywordplanner-PVUP-hissu
 polygon-gmen.com http://polygon-gmen.com/druaga.html
+postd.cc http://postd.cc/scaling-to-100m-mysql-is-a-better-nosql/
+posthaven.com http://chikara.posthaven.com/bizarre-conception-of-penis-prevailing-among-adult-male-in-japan
 programming-idioms.org http://www.programming-idioms.org/
 proof0309.com http://www.proof0309.com/entry/konbininooden
 publickey1.jp http://www.publickey1.jp/blog/16/201632016.html
@@ -133,6 +144,7 @@ rikunabi.com http://next.rikunabi.com/journal/entry/20160108
 ryuzee.com http://www.ryuzee.com/contents/blog/7062
 sakura.ne.jp http://st.sakura.ne.jp/~iyukari/2016ytfsbfs/tfsbfs.html
 sankei.com http://www.sankei.com/affairs/news/160110/afr1601100011-n1.html
+sanspo.com http://cyclist.sanspo.com/225347
 sekaihaasobiba.com http://www.sekaihaasobiba.com/entry/2016/01/01/145234
 shunichi-arai.blogspot.com http://shunichi-arai.blogspot.com/2016/01/blog-post.html
 slideshare.net http://www.slideshare.net/tomohikohayashi/ss-56614985
@@ -144,13 +156,15 @@ square-enix.com http://www.jp.square-enix.com/ff9/
 synodos.jp http://synodos.jp/society/15869
 techcrunch.com http://jp.techcrunch.com/2015/12/31/20151230debian-creator-ian-murdock-dead-at-42/
 techstars.jp https://techstars.jp/blog/engineer-tool-2015/
+theworldmagazine.jp http://www.theworldmagazine.jp/20160111/01world/37005
 thinkit.co.jp https://thinkit.co.jp/story/2015/03/06/5672
 toach.click http://toach.click/2016/01/10/slack-botkit/
 togetter.com http://togetter.com/li/919247
 tohoku.ac.jp http://www.tohoku.ac.jp/japanese/2016/01/press20160105-01.html
 tokyo-np.co.jp http://www.tokyo-np.co.jp/article/national/list/201601/CK2016010302000098.html
 tonari-it.com http://tonari-it.com/iphone-home-2016/
-toyokeizai.net http://toyokeizai.net/articles/-/98392
+toyokeizai.net http://toyokeizai.net/articles/-/100087
+trafficnews.jp http://trafficnews.jp/post/47710/
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000065435.html
 twitter.com http://twitter.com/PredatorRat/status/683170142931431424
 u-ryukyu.ac.jp http://www.phys.u-ryukyu.ac.jp/~maeno/Neutrino/index.html#/
@@ -160,11 +174,13 @@ visionseichou.com http://www.visionseichou.com/entry/201601-saidoku
 warorince.com http://www.warorince.com/entry/blog-6months-pv
 watasan.jp http://inu.watasan.jp/matome2/27/4557333.html
 webfood.info http://webfood.info/materials-to-start-ruby-on-rails/
+webhacck.net http://webhacck.net/archives/868836.html
 webnewtype.com http://webnewtype.com/report/article/70424/
 webtech.co.jp http://www.webtech.co.jp/blog/k1/8819/
 wired.jp http://wired.jp/2016/01/01/mystery-of-go/
 wslash.com https://wslash.com/?p=6472
 yahoo.co.jp http://headlines.yahoo.co.jp/hl?a=20151231-00000039-jij-kr
+yasuhisa.com http://www.yasuhisa.com/could/article/content-for-medium/
 yomiuri.co.jp http://www.yomiuri.co.jp/fukayomi/ichiran/20160105-OYT8T50000.html
 yossense.com http://yossense.com/essence-blog/
 youtube.com http://www.youtube.com/watch?v=KyQQYQDGPJM
