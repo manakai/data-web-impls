@@ -28,10 +28,12 @@ biz-journal.jp http://biz-journal.jp/2016/01/post_13136.html
 blog.jp http://onosakaemiri.blog.jp/archives/1049662655.html
 blogos.com http://blogos.com/article/151911/
 bloomberg.co.jp http://www.bloomberg.co.jp/news/123-O0SK746S972A01.html
+bokukoko.info http://www.bokukoko.info/entry/2016/01/17/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AF%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%8B%E3%82%893%E5%B9%B4%E9%96%93%E3%81%AF%E6%8A%95%E8%B3%87%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B
 btrax.com http://blog.btrax.com/jp/2016/01/02/design-trends2016/
 buildinsider.net http://www.buildinsider.net/web/popularjslib/2016
 buzz-plus.com http://buzz-plus.com/article/2016/01/14/becky-kawatani-motokano/
 career-theory.net http://career-theory.net/about-job-change-agent-2884
+chaos2ch.com http://chaos2ch.com/archives/4565638.html
 chuko.co.jp https://www.chuko.co.jp/special/tanizaki_mangekyo/no9.html
 cinra.net http://www.cinra.net/interview/201601-sunaharayamaguchi
 cocolog-nifty.com http://ga9.cocolog-nifty.com/blog/2016/01/post-683d.html
@@ -68,10 +70,12 @@ gitbook.com https://www.gitbook.com/book/masarakki/c89-the-way-of-programmer-lif
 gitbooks.io https://masarakki.gitbooks.io/c89-the-way-of-programmer-life/content/marriage.html
 gizmodo.jp http://www.gizmodo.jp/sp/2016/01/casiosmartwatch.html
 gmo-media.jp http://tech.gmo-media.jp/post/136590171029/php-53-to-php-56
+gmo.jp https://www.gmo.jp/info/alert/index160116.php
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/bhb/2832
 goo.ne.jp http://blog.goo.ne.jp/wankomondai/e/9ca87e3aa677cffa7d40d1f4d1bbe89b
+goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/2016/01/16/185707
 happiese.com http://www.happiese.com/system/dpattern.html
-hateblo.jp http://ongakudaisukiclub.hateblo.jp/entry/2016/01/13/203409
+hateblo.jp http://stamefusa.hateblo.jp/entry/2016/01/16/023100
 hatelabo.jp http://anond.hatelabo.jp/20151117010604
 hatena.ne.jp http://ianhu.g.hatena.ne.jp/nagaikazu/20160113
 hatenablog.com http://yuuki.hatenablog.com/entry/the-best-entries-of-2015
@@ -86,6 +90,7 @@ hitoriblog.com http://hitoriblog.com/?p=34268
 hiyokko-hard.com http://hiyokko-hard.com/
 hochi.co.jp http://www.hochi.co.jp/topics/20160102-OHT1T50129.html
 homarecipe.com http://www.homarecipe.com/entry/2016/01/10/162158
+horiemon.com http://weblog.horiemon.com/100blog/35548/
 huffingtonpost.jp http://www.huffingtonpost.jp/2015/12/31/yamamoto-taro-and-abe-shinzo_n_8901860.html
 imalive7799.com http://blog.imalive7799.com/entry/kouhaku-utagassen-2015-impression
 impress.co.jp http://pc.watch.impress.co.jp/docs/column/tokusen-app/20160113_738582.html
@@ -121,10 +126,12 @@ lite-ra.com http://lite-ra.com/2016/01/post-1887.html
 livedoor.biz http://karapaia.livedoor.biz/archives/52208283.html
 livedoor.com http://news.livedoor.com/article/detail/11020969/
 livedoor.jp http://blog.livedoor.jp/chihhylove/archives/9128472.html
+mainichi-kotoba.jp http://www.mainichi-kotoba.jp/2016/01/tari.html
 mainichi.jp http://mainichi.jp/articles/20160105/k00/00m/040/124000c
 mana-cat.com http://www.mana-cat.com/entry/2016/01/15/000928
 manabusakai.com http://blog.manabusakai.com/2016/01/aws-cpu-strategy/
 mangaz.com http://www.mangaz.com/book/detail/105711
+mataro1.com http://www.mataro1.com/entry/illustrator_tutorial_all
 matogrosso.jp http://matogrosso.jp/osomatsukun/01.html
 matsuokah.jp http://blog.matsuokah.jp/entry/2016/01/01/191338
 matt.sh https://matt.sh/howto-c
@@ -136,6 +143,7 @@ money-press.info http://www.money-press.info/no-annual-fee-creca/
 moneyforward.com https://moneyforward.com/media/201601/dc-money-planning/
 morizyun.github.io http://morizyun.github.io/blog/nokogiri-scraping-ruby-rails-begineer/
 mudainodocument.com http://www.mudainodocument.com/articles/35642.html
+muratayusuke.com http://www.muratayusuke.com/2016/01/16/how_to_design_web_app/
 mynavi.jp http://news.mynavi.jp/articles/2016/01/08/bdg/
 mzyy94.com http://mzyy94.com/blog/2016/01/10/42inch-4k-display/
 natalie.mu http://natalie.mu/music/news/171785
@@ -160,6 +168,7 @@ phileweb.com http://www.phileweb.com/review/column/201601/09/461.html
 photoshopvip.net http://photoshopvip.net/archives/85425
 pixiv.net http://inside.pixiv.net/entry/2016/01/15/154331
 pjomotesando.com http://www.pjomotesando.com/entry/2016/01/09/170001
+plus-life.jp http://plus-life.jp/ed-recommended-english-pre/
 pojihiguma.com http://www.pojihiguma.com/entry/Keywordplanner-PVUP-hissu
 polygon-gmen.com http://polygon-gmen.com/druaga.html
 postd.cc http://postd.cc/choose-design-over-architecture/
@@ -180,6 +189,7 @@ rocketnews24.com http://rocketnews24.com/2016/01/13/691363/
 ryugaku-kuchikomi.com http://ryugaku-kuchikomi.com/blog/new-york-subway-funny-videos
 ryuzee.com http://www.ryuzee.com/contents/blog/7062
 sakura.ne.jp http://st.sakura.ne.jp/~iyukari/2016ytfsbfs/tfsbfs.html
+sakurabaryo.com http://sakurabaryo.com/person/post-1004/
 sankei.com http://www.sankei.com/affairs/news/160110/afr1601100011-n1.html
 sanspo.com http://cyclist.sanspo.com/225347
 seesaa.net http://mubou.seesaa.net/article/432460939.html
@@ -189,6 +199,7 @@ sideci.com http://blog-ja.sideci.com/entry/2016/01/13/110000
 skky.jp http://blog.skky.jp/entry/2016/01/12/223756
 slideshare.net http://www.slideshare.net/pfi/ss-57087522
 smaroomch.net http://smaroomch.net/iphone-development/
+sniper.jp http://sniper.jp/300special_issue/smap.html
 softantenna.com http://www.softantenna.com/wp/software/awkaster/
 songmu.jp http://www.songmu.jp/riji/entry/2016-01-05-horenso.html
 sonicgarden.jp http://kuranuki.sonicgarden.jp/2016/01/fast-growth.html
@@ -230,7 +241,7 @@ yahoo.co.jp http://headlines.yahoo.co.jp/hl?a=20151231-00000039-jij-kr
 yamamototetsu.com http://www.yamamototetsu.com/entry/ki-gyo
 yamato-hd.co.jp http://www.yamato-hd.co.jp/news/h27/h27_88_01news.html
 yasuhisa.com http://www.yasuhisa.com/could/article/content-for-medium/
-yomiuri.co.jp http://www.yomiuri.co.jp/fukayomi/ichiran/20160105-OYT8T50000.html
+yomiuri.co.jp http://www.yomiuri.co.jp/economy/20160116-OYT1T50070.html
 yossense.com http://yossense.com/essence-blog/
 youtube.com http://www.youtube.com/watch?v=KyQQYQDGPJM
 yugui.jp http://yugui.jp/articles/896
