@@ -17,7 +17,7 @@ appllio.com http://appllio.com/20160106-7879-twitter-character-140-limit-to-1000
 artifact-jp.com http://artifact-jp.com/2015/12/31/bad-impression-good-person/
 asablo.jp http://nanto.asablo.jp/blog/2015/12/31/7966713
 asahi.com http://www.asahi.com/articles/ASHDG66DXHDGUEHF01L.html
-ascii.jp http://ascii.jp/elem/000/001/104/1104305/
+ascii.jp http://ascii.jp/elem/000/001/095/1095781/
 atlassian.com http://japan.blogs.atlassian.com/2016/01/git-2-7-release/
 automaton.am http://jp.automaton.am/articles/columnjp/explain-why-is-splatoon-such-a-terrific-game-in-2015/
 b00st.io https://b00st.io/jp/
@@ -36,6 +36,7 @@ career-theory.net http://career-theory.net/about-job-change-agent-2884
 chaos2ch.com http://chaos2ch.com/archives/4565638.html
 chuko.co.jp https://www.chuko.co.jp/special/tanizaki_mangekyo/no9.html
 cinra.net http://www.cinra.net/interview/201601-sunaharayamaguchi
+classmethod.jp http://dev.classmethod.jp/cloud/aws/slack-integration-blueprint-for-aws-lambda/
 cocolog-nifty.com http://ga9.cocolog-nifty.com/blog/2016/01/post-683d.html
 colors.today https://colors.today/articles/226
 cookien.com http://cookien.com/tsukurioki/5042/
@@ -75,7 +76,7 @@ gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/bhb/2832
 goo.ne.jp http://blog.goo.ne.jp/wankomondai/e/9ca87e3aa677cffa7d40d1f4d1bbe89b
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/2016/01/16/185707
 happiese.com http://www.happiese.com/system/dpattern.html
-hateblo.jp http://stamefusa.hateblo.jp/entry/2016/01/16/023100
+hateblo.jp http://withoutdisorder.hateblo.jp/entry/2016/01/17/190000
 hatelabo.jp http://anond.hatelabo.jp/20151117010604
 hatena.ne.jp http://ianhu.g.hatena.ne.jp/nagaikazu/20160113
 hatenablog.com http://yuuki.hatenablog.com/entry/the-best-entries-of-2015
@@ -119,6 +120,7 @@ konomanga.jp http://konomanga.jp/interview/51952-2
 kyoko-np.net http://kyoko-np.net/2016011501.html
 kyoto-np.co.jp http://www.kyoto-np.co.jp/politics/article/20160114000134
 labaq.com http://labaq.com/archives/51862963.html
+lancers.jp http://www.lancers.jp/work/detail/845165
 lifehacker.jp http://www.lifehacker.jp/2016/01/160101time_wasting_habits.html
 lifehacking.jp http://lifehacking.jp/2016/01/7apps/
 line.me https://store.line.me/stickershop/product/5101/ja
@@ -146,7 +148,7 @@ mudainodocument.com http://www.mudainodocument.com/articles/35642.html
 muratayusuke.com http://www.muratayusuke.com/2016/01/16/how_to_design_web_app/
 mynavi.jp http://news.mynavi.jp/articles/2016/01/08/bdg/
 mzyy94.com http://mzyy94.com/blog/2016/01/10/42inch-4k-display/
-natalie.mu http://natalie.mu/music/news/171785
+natalie.mu http://natalie.mu/comic/news/172712
 naver.jp http://matome.naver.jp/odai/2145152781798410101
 netgeek.biz http://netgeek.biz/archives/62967
 news-postseven.com http://www.news-postseven.com/archives/20160108_376701.html
@@ -194,6 +196,7 @@ sankei.com http://www.sankei.com/affairs/news/160110/afr1601100011-n1.html
 sanspo.com http://cyclist.sanspo.com/225347
 seesaa.net http://mubou.seesaa.net/article/432460939.html
 sekaihaasobiba.com http://www.sekaihaasobiba.com/entry/2016/01/01/145234
+shellbys.com http://www.shellbys.com/entry/music-webservice-47
 shunichi-arai.blogspot.com http://shunichi-arai.blogspot.com/2016/01/blog-post.html
 sideci.com http://blog-ja.sideci.com/entry/2016/01/13/110000
 skky.jp http://blog.skky.jp/entry/2016/01/12/223756
