@@ -77,7 +77,7 @@ goo.ne.jp http://blog.goo.ne.jp/wankomondai/e/9ca87e3aa677cffa7d40d1f4d1bbe89b
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/2016/01/16/185707
 happiese.com http://www.happiese.com/system/dpattern.html
 hateblo.jp http://withoutdisorder.hateblo.jp/entry/2016/01/17/190000
-hatelabo.jp http://anond.hatelabo.jp/20151117010604
+hatelabo.jp http://anond.hatelabo.jp/20150504101626
 hatena.ne.jp http://ianhu.g.hatena.ne.jp/nagaikazu/20160113
 hatenablog.com http://yuuki.hatenablog.com/entry/the-best-entries-of-2015
 hatenablog.jp http://ninjaheads.hatenablog.jp/entry/2016/01/04/235024
@@ -99,10 +99,12 @@ inside-games.jp http://www.inside-games.jp/article/2016/01/12/94861.html
 iphone-mania.jp http://iphone-mania.jp/news-96561/
 irorio.jp http://irorio.jp/grigri/20160107/292610/
 ismedia.jp http://gendai.ismedia.jp/articles/-/47271
+issey-98.com http://www.issey-98.com/entry/2016/01/19/030958
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1601/13/news132.html
 ituore.com http://www.ituore.com/entry/html-css-basic
 iwanami.co.jp http://www.iwanami.co.jp/moreinfo/sin_fair2008/
 iwashi.org http://www.iwashi.org/archives/4108
+japaaan.com http://mag.japaaan.com/archives/34673
 japan-baseball.jp http://www.japan-baseball.jp/jp/news/press/20160106_1.html
 jfsribbon.org http://www.jfsribbon.org/2016/01/blog-post.html
 jimpei.net http://www.jimpei.net/entry/blog39
@@ -112,6 +114,7 @@ johotankyu.com http://johotankyu.com/?p=379
 jukennsei.com http://jukennsei.com/2016/01/english-ap10/
 kandosaori.com http://www.kandosaori.com/entry/2016/01/07/004714
 keens.github.io http://keens.github.io/blog/2016/01/01/2016nenchuumokushiteikitaigijutsu/
+kiji.is http://this.kiji.is/61811384186765313
 kimura511.com http://www.kimura511.com/entry/osusumemanga
 kinbricksnow.com http://kinbricksnow.com/archives/51967989.html
 kingprinters.com https://kingprinters.com/knowledge/print-check/
@@ -152,6 +155,7 @@ natalie.mu http://natalie.mu/comic/news/172712
 naver.jp http://matome.naver.jp/odai/2145152781798410101
 netgeek.biz http://netgeek.biz/archives/62967
 news-postseven.com http://www.news-postseven.com/archives/20160108_376701.html
+newsweekjapan.jp http://www.newsweekjapan.jp/stories/business/2016/01/62.php
 newswitch.jp http://newswitch.jp/p/3133
 nhk.or.jp http://www3.nhk.or.jp/news/html/20151231/k10010357661000.html
 nifty.com http://portal.nifty.com/kiji/160105195423_1.htm
@@ -178,7 +182,7 @@ posthaven.com http://chikara.posthaven.com/bizarre-conception-of-penis-prevailin
 programming-idioms.org http://www.programming-idioms.org/
 proof0309.com http://www.proof0309.com/entry/konbininooden
 publickey1.jp http://www.publickey1.jp/blog/16/201632016.html
-qiita.com http://qiita.com/genzouw/items/35022fa96c120e67c637
+qiita.com http://qiita.com/bezeklik/items/1c4145652661cf5b2271
 qoosky.net https://www.qoosky.net/techs/207
 quitsq.com http://eleclog.quitsq.com/2016/01/restful-toilet.html
 rabbit-punch.com http://rabbit-punch.com/web/1564
@@ -201,7 +205,7 @@ shunichi-arai.blogspot.com http://shunichi-arai.blogspot.com/2016/01/blog-post.h
 sideci.com http://blog-ja.sideci.com/entry/2016/01/13/110000
 skky.jp http://blog.skky.jp/entry/2016/01/12/223756
 slideshare.net http://www.slideshare.net/pfi/ss-57087522
-smaroomch.net http://smaroomch.net/iphone-development/
+smaroomch.net http://smaroomch.net/english-learning-youtube/
 sniper.jp http://sniper.jp/300special_issue/smap.html
 softantenna.com http://www.softantenna.com/wp/software/awkaster/
 songmu.jp http://www.songmu.jp/riji/entry/2016-01-05-horenso.html
@@ -240,7 +244,7 @@ webtech.co.jp http://www.webtech.co.jp/blog/k1/8819/
 wired.jp http://wired.jp/2016/01/01/mystery-of-go/
 withnews.jp http://withnews.jp/article/f0160114001qq000000000000000W02j0601qq000012914A
 wslash.com https://wslash.com/?p=6472
-yahoo.co.jp http://headlines.yahoo.co.jp/hl?a=20151231-00000039-jij-kr
+yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160118-00010008-bjournal-ent
 yamamototetsu.com http://www.yamamototetsu.com/entry/ki-gyo
 yamato-hd.co.jp http://www.yamato-hd.co.jp/news/h27/h27_88_01news.html
 yasuhisa.com http://www.yasuhisa.com/could/article/content-for-medium/
