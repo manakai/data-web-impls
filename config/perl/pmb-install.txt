@@ -10,7 +10,7 @@ Encode~2.80
 Path::Tiny~0.076
 URI~1.71
 parent~0.234
-AnyEvent~7.11
+AnyEvent~7.12
 Exporter::Lite~0.08
 Test::Tester~0.114
 Canary::Stability~2006
