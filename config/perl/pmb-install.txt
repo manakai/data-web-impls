@@ -1,4 +1,4 @@
-Scalar::Util~1.42
+Scalar::Util~1.43
 Net::SSLeay~1.72
 LWP::MediaTypes~6.02
 File::Spec~3.62
