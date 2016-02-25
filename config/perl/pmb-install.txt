@@ -22,7 +22,7 @@ Compress::Raw::Zlib~2.069
 Compress::Raw::Bzip2~2.069
 HTTP::Response~6.11
 MIME::Base64~3.15
-Path::Class~0.35
+Path::Class~0.36
 common::sense~3.74
 IO::Compress::Bzip2~2.069
 Unicode::Stringprep~1.105
