@@ -28,13 +28,17 @@ bipblog.com http://bipblog.com/archives/5184389.html
 biz-journal.jp http://biz-journal.jp/2016/02/post_13674.html
 black-gamer.com http://www.black-gamer.com/entry/konkatu_date_2kaime
 bloglifer.net http://www.bloglifer.net/entry/Ikedahayato-aggressive
+blogos.com http://blogos.com/article/162924/
 bloomberg.co.jp http://www.bloomberg.co.jp/news/123-O2FEUQ6TTDS801.html
 bmemo.pw http://wp.bmemo.pw/650
+buzz-plus.com http://buzz-plus.com/article/2016/02/25/saiban/
 buzzfeed.com http://www.buzzfeed.com/alexkantrowitz/twitter-timeline
 c-brains.jp http://bashalog.c-brains.jp/14/08/06-100100.php
 cakes.mu https://cakes.mu/posts/12220
+career-rise.info http://www.career-rise.info/blog/think-too-much/
 career-theory.net http://career-theory.net/category/change-job-interview
 careerconnection.jp https://news.careerconnection.jp/?p=20964
+careersupli.jp http://careersupli.jp/career/sigoto/
 cinra.net http://www.cinra.net/news/20160219-manben
 classmethod.jp http://dev.classmethod.jp/cloud/cloudcraft-live/
 cloudsalon.net http://www.cloudsalon.net/entry/Cold-prevention20160213
@@ -47,7 +51,9 @@ con-isshow.blogspot.com http://con-isshow.blogspot.com/2016/02/hikikomori.html
 conte-anime.jp http://conte-anime.jp/business/business-wall
 cookpad.com http://techlife.cookpad.com/entry/2016/02/01/182804
 cpplover.blogspot.com http://cpplover.blogspot.com/2016/02/apple.html
+cusugle.com https://www.cusugle.com/skincare/loss-of-hair/post-323
 cyclist-channel.com http://cyclist-channel.com/2015/12/19/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%82%A4%E3%82%AF%E3%81%A8%E3%83%97%E3%83%AA%E3%82%A6%E3%82%B9%E3%81%A7%E3%81%AF%E3%81%A9%E3%81%A1%E3%82%89%E3%81%AE%E6%96%B9%E3%81%8C%E7%87%83%E8%B2%BB%E3%81%8C/
+daily.co.jp http://www.daily.co.jp/gossip/2016/02/26/0008837898.shtml
 daisuiseishocker.com http://www.daisuiseishocker.com/entry/2016/02/15/231211
 danshihack.com http://www.danshihack.com/2016/02/20/junp/macbook-pro-repair-2.html
 denfaminicogamer.jp http://news.denfaminicogamer.jp/projectbook/momotetsu
@@ -80,6 +86,7 @@ gizmodo.jp http://www.gizmodo.jp/2016/02/20160205nfirefox_os.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/bhb/2924
 goo.ne.jp http://blog.goo.ne.jp/raymiyatake/e/31cb15b2832d2d649d0547d5b1eef6cb
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/books_01
+google.com http://design.google.com/resizer/
 googledevjp.blogspot.com http://googledevjp.blogspot.com/2016/02/addy-osmani.html
 gori.me http://gori.me/google/google-news/84085
 granbluefantasy.jp http://granbluefantasy.jp/sp/pages/?p=6590
@@ -87,7 +94,7 @@ growthhackjournal.com https://growthhackjournal.com/monetize/kpi-tree-for-app
 hageatama.org http://www.hageatama.org/wp/2670
 hagelabo.jp https://hagelabo.jp/articles/genius-criminals
 hamusoku.com http://hamusoku.com/archives/9166568.html
-harold-spm.com http://harold-spm.com/programing-gakusyuu-ryousyo/
+harold-spm.com http://harold-spm.com/excel-ryoukiji/
 hateblo.jp http://zopfcode.hateblo.jp/entry/2016/02/02/211740
 hatelabo.jp http://anond.hatelabo.jp/20151229131412
 hatena.ne.jp http://d.hatena.ne.jp/Kango/20160217/1455725647
@@ -108,8 +115,9 @@ honz.jp http://honz.jp/articles/-/42170
 htmlhifive.com http://blog.htmlhifive.com/2016/02/12/bootstrap-easy-view-creator/
 huffingtonpost.jp http://www.huffingtonpost.jp/2016/01/31/boss-wants-you-to-work-less-sleep-more-travel-the-world_n_9128956.html
 hyogen.jp http://hyogen.jp/
+i-engineer.jp http://i-engineer.jp/interesting/kagaku-to-gakushu
 idol808.com http://www.idol808.com/archives/1052012999.html
-imalive7799.com http://blog.imalive7799.com/entry/followup-for-kyushokusha
+imalive7799.com http://blog.imalive7799.com/entry/1day-internship
 impress.co.jp http://pc.watch.impress.co.jp/docs/column/4kshugyousou/20160219_744362.html
 in-activism.com http://www.in-activism.com/entry/blog-Markdown
 ingressblog.jp http://ingressblog.jp/yonayona-ingress/
@@ -124,6 +132,9 @@ jalan.net http://www.jalan.net/news/article/60288/
 jdash.info http://dtp.jdash.info/archives/CSS_for_Windows_Web_Font_Anti_Aliasing
 jetbrains.com http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/
 jiji.com http://www.jiji.com/jc/zc?k=201602/2016021600791&g=pol
+jpcert.or.jp http://www.jpcert.or.jp/magazine/acreport-cms.html
+juggly.cn http://juggly.cn/archives/177467.html
+kai-you.net http://kai-you.net/article/26116
 kakaku.com http://bbs.kakaku.com/bbs/-/SortID=17436012/
 kandosaori.com http://www.kandosaori.com/entry/2016/02/23/073000
 kiji.is http://this.kiji.is/67171510149973495
@@ -140,14 +151,16 @@ kumalog.com http://kumalog.com/2016/02/08235722.php
 kurachic.jp http://www.kurachic.jp/column/chintai/20160214151515.html
 kyoko-np.net http://kyoko-np.net/2016020301.html
 labaq.com http://labaq.com/archives/51864446.html
+landerblue.co.jp http://www.landerblue.co.jp/blog/?p=25289
 levtech.jp https://creator.levtech.jp/tips/article/26/
 lifehacker.jp http://www.lifehacker.jp/2016/02/160202meditation_beginners_guide.html
 lifehacking.jp http://lifehacking.jp/2016/02/10-year-service/
-lineblog.me http://lineblog.me/koikekazuo/archives/4036947.html
+lineblog.me http://lineblog.me/ha_chu/archives/55399557.html
 livedoor.biz http://seiyufan.livedoor.biz/archives/8341557.html
 livedoor.com http://news.livedoor.com/article/detail/11173754/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1869447.html
 locari.jp https://locari.jp/posts/46552
+logmi.jp http://logmi.jp/128987
 love-hacks.jp http://love-hacks.jp/17-points-of-how-to-make-girlfriends/
 macaro-ni.jp http://macaro-ni.jp/24973
 maeharakazuhiro.com http://maeharakazuhiro.com/taiwan-earthquake-message/
@@ -173,6 +186,7 @@ mudainodocument.com http://www.mudainodocument.com/articles/35923.html
 myfoot.org http://myfoot.org/wp/2016/02/02/excel%E3%81%8C%E5%8A%87%E7%9A%84%E3%81%AB%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%8F%E3%81%AA%E3%82%8B%EF%BC%81relaxtools%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B/
 mynavi.jp http://news.mynavi.jp/kikaku/2015/06/23/002/
 n-styles.com http://n-styles.com/main/archives/2016/02/10-055555.php
+nagurigaki.com http://www.nagurigaki.com/entry/luxury-hotel-like
 namaraii.com http://namaraii.com/archives/39626
 natalie.mu http://natalie.mu/comic/news/174713
 naver.jp http://matome.naver.jp/odai/2145355979956024301
@@ -183,6 +197,7 @@ nicovideo.jp http://dic.nicovideo.jp/a/%E8%A6%9A%E9%86%92%E5%89%A4%E6%89%93%E3%8
 nifty.com http://portal.nifty.com/kiji/160205195670_1.htm
 nihon-eisei.org http://www.nihon-eisei.org/tabacco-pubcomme/
 nikkan.co.jp https://www.nikkan.co.jp/articles/view/00374346
+nikkansports.com http://www.nikkansports.com/entertainment/news/1608993.html
 nikkei.com http://www.nikkei.com/article/DGXLASDZ17I14_X10C16A2MM8000/
 nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/16/021200053/
 nintendo.co.jp http://mariomaker-wp.nintendo.co.jp/
@@ -208,6 +223,7 @@ publickey1.jp http://www.publickey1.jp/blog/16/5angularjstypescriptspa_developer
 qiita.com http://qiita.com/Hironsan/items/326b66711eb4196aa9d4
 re-workstyle.com http://re-workstyle.com/articles/osh2016/
 realkyoto.jp http://realkyoto.jp/blog/asada-akira_160129/
+realsound.jp http://realsound.jp/2016/02/post-6446.html
 recomtank.com http://www.recomtank.com/entry/probiotics
 retrip.jp https://retrip.jp/articles/24994/
 retty.me http://retty.me/pickup-feature/15500/
@@ -220,6 +236,7 @@ sakurabaryo.com http://sakurabaryo.com/person/post-1129/
 sakurajima.gr.jp http://www.sakurajima.gr.jp/kinkyu/002115.html
 sankei.com http://www.sankei.com/affairs/news/160219/afr1602190036-n1.html
 sanspo.com http://www.sanspo.com/baseball/news/20160209/npb16020905050001-n1.html
+satotaichi.info http://blog.satotaichi.info/first-thoughts-of-kotlin/
 security-next.com http://www.security-next.com/066960
 seesaa.net http://mubou.seesaa.net/article/433611741.html
 seishun.style http://seishun.style/
@@ -229,6 +246,7 @@ shachikuman.com http://www.shachikuman.com/entry/2016/02/06/201147
 shellbys.com http://www.shellbys.com/entry/cool-music-top10
 shijo-street-weekend.com http://www.shijo-street-weekend.com/entry/2016/02/08/230025
 shinma.tokyo http://blog.shinma.tokyo/entry/2016/02/10/173000
+shonenjump.com http://rookie.shonenjump.com/series/FlR8CfEExrQ/FlR8CfEExrY
 shortnote.jp https://www.shortnote.jp/view/notes/AQTSj9T0
 slideshare.net https://www.slideshare.net/ikeharu/9-58134344
 social-design-net.com http://social-design-net.com/archives/26706
@@ -288,6 +306,7 @@ world-fusigi.net http://world-fusigi.net/archives/8346681.html?p=2
 wotopi.jp http://wotopi.jp/archives/34457
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160202-00010000-jisin-ent
 yamamototetsu.com http://www.yamamototetsu.com/entry/eng-app
+yamasha.net http://yamasha.net/photo/camera-wrong
 yomiuri.co.jp http://www.yomiuri.co.jp/economy/20160207-OYT1T50103.html
 youtube.com http://www.youtube.com/watch?v=3Gog-1Yw_uU
 yuiki1994.com http://www.yuiki1994.com/entry/ippudo-moyashi
