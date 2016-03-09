@@ -12,6 +12,7 @@ beagle-voyage.com http://beagle-voyage.com/movie-chris-rock-oscar-jokes-2016.htm
 bizzine.jp http://bizzine.jp/article/detail/1454
 blogos.com http://blogos.com/article/165006/
 businessnewsline.com http://www.businessnewsline.com/news/201603010942110000.html
+cakes.mu https://cakes.mu/posts/12406
 career-theory.net http://career-theory.net/quit-company-5631
 cloudsalon.net http://www.cloudsalon.net/entry/firehydro20160307
 coliss.com http://coliss.com/articles/build-websites/operation/design/30-ideas-for-responsive-web-design.html
@@ -19,8 +20,9 @@ connehito.com http://tech.connehito.com/entry/2016/03/04/183522
 cookpad.com http://techlife.cookpad.com/entry/2016/03/02/083000
 cpplover.blogspot.com http://cpplover.blogspot.com/2016/03/am.html
 ddnavi.com http://ddnavi.com/news/289413/a/
+denfaminicogamer.jp http://news.denfaminicogamer.jp/projectbook/dungeon
 did2memo.net http://did2memo.net/2016/03/05/mercari-soku-kounyuu-kinshi/
-doorblog.jp http://kabumatome.doorblog.jp/archives/65855328.html
+doorblog.jp http://kabumatome.doorblog.jp/archives/65832676.html
 e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/ARuFa006
 eisbahn.jp https://www.eisbahn.jp/yoichiro/2016/03/hackathon2.html
 enejoys.jp https://enejoys.jp/contents/article/2206/
@@ -30,10 +32,12 @@ fc2.com http://shinboshiumi.blog.fc2.com/blog-entry-34.html#continue
 ferret-plus.com https://ferret-plus.com/2783
 geechs-magazine.com https://geechs-magazine.com/tag/tech/20160229
 gigazine.net http://gigazine.net/news/20160229-mit-10-breakthrough-technologies-2016/
+gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/kudokimeshi/2958
 goo.ne.jp http://blog.goo.ne.jp/yukks453145/e/a3db1b86cb493dfd3958c655fad7c13a
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/moneyshort
 growiz.us http://growiz.us/the-definitive-guide-to-pmf/
 happy-bears.com http://www.happy-bears.com/comment/
+harold-spm.com http://harold-spm.com/listening-iphone-app/
 hateblo.jp http://moognyk.hateblo.jp/entry/2016/03/03/180000
 hatelabo.jp http://anond.hatelabo.jp/20160229140218
 hatena.ne.jp http://d.hatena.ne.jp/Baatarism/20160305/1457192320
@@ -45,6 +49,7 @@ hisaju.org http://tech.blog.hisaju.org/2016/03/06/web-development/
 hitode-festival.com http://www.hitode-festival.com/entry/2016/02/29/180157
 honz.jp http://honz.jp/articles/-/42508
 hotpepper.jp http://www.hotpepper.jp/mesitsu/entry/etc/1602079
+igaku-shoin.co.jp http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03165_01
 impress.co.jp http://pc.watch.impress.co.jp/docs/news/yajiuma/20160302_746417.html
 in-activism.com http://www.in-activism.com/entry/after-start-selling-minne
 infoq.com http://www.infoq.com/jp/news/2016/03/ddd-microservices
@@ -52,6 +57,7 @@ inside-games.jp http://www.inside-games.jp/article/2016/03/01/96435.html
 irasutoya.com http://www.irasutoya.com/2016/03/blog-post_24.html
 islog.jp http://www.islog.jp/entry/asakusa-yadoroku/
 ismedia.jp http://wedge.ismedia.jp/articles/-/6248
+itmedia.co.jp http://nlab.itmedia.co.jp/nl/articles/1603/07/news100.html
 itpropartners.com https://itpropartners.com/blog/1287/
 ituore.com http://www.ituore.com/entry/study-examination
 iwata09.com http://www.iwata09.com/entry/ladies15
@@ -69,6 +75,7 @@ livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1873367.html
 m-forest.net http://www.m-forest.net/entry/game-wast-of-time
 mainichi.jp http://mainichi.jp/articles/20160302/k00/00m/010/125000c
 marketimes.jp http://marketimes.jp/2016-marketing-blogmedia
+microsoft.com https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/
 mikinote.com http://www.mikinote.com/entry/ipod-c-256gb
 mirakui.com http://diary2.mirakui.com/entry/2016/03/01/001421
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/36408
@@ -86,7 +93,7 @@ nikkeibp.co.jp http://business.nikkeibp.co.jp/atcl/opinion/15/174784/030300034/
 nintendo.co.jp https://www.nintendo.co.jp/wiiu/agmj/update/index_260.html
 note.mu https://note.mu/shibataism/n/nf7cfa3707e8d
 oricon.co.jp http://www.oricon.co.jp/news/2067871/full/?ref_cd=tw
-postd.cc http://postd.cc/angular-2-first-app-post-mortem/
+postd.cc http://postd.cc/a-beginners-guide-to-scaling-to-11-million-users-on-amazons/
 proof0309.com http://www.proof0309.com/entry/burogushosinsha
 publickey1.jp http://www.publickey1.jp/blog/16/javascriptoracle_jetspaui.html
 publog.jp http://deniirotwitter.publog.jp/archives/1053366183.html
@@ -102,6 +109,7 @@ softantenna.com http://www.softantenna.com/wp/windows/git-kraken/
 spacemarket.com http://blog.spacemarket.com/code/migration-to-react/
 speakerdeck.com https://speakerdeck.com/armorik83/da-xing-hurontoendokai-fa-niokerutypescripttoddd
 spotlight-media.jp http://spotlight-media.jp/article/243558017453138266
+squallchannel.com http://squallchannel.com/archives/47024702.html
 stocker.jp http://stocker.jp/500W/2016/03/04/search/
 synodos.jp http://synodos.jp/international/16290
 tabroom.jp http://tabroom.jp/contents/report/ranking2015/
@@ -109,12 +117,16 @@ techcrunch.com http://jp.techcrunch.com/2016/03/03/istagram-genking/
 togech.jp http://togech.jp/2016/02/29/33102
 togetter.com http://togetter.com/li/944728
 tokyo-sports.co.jp http://www.tokyo-sports.co.jp/entame/entertainment/514205/
+toma-g.net http://www.toma-g.net/entry/2016/03/07/215755
 toyokeizai.net http://toyokeizai.net/articles/-/106613
 twitter.com http://twitter.com/ishiitakaaki/status/705611306162761728
+utf-8.jp http://utf-8.jp/public/2016/0307/electron.pdf
 uxmilk.jp http://uxmilk.jp/14664
 wired.jp http://wired.jp/2016/03/04/kusano-teacher/
 world-fusigi.net http://world-fusigi.net/archives/8379039.html
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160303-01059720-sspa-soci
+yomiuri.co.jp http://www.yomiuri.co.jp/politics/20160307-OYT1T50091.html
 youtube.com http://www.youtube.com/watch?v=SkJcN-IggRE
 yukicoco.net http://www.yukicoco.net/entry/2016/03/05/111610
 yutorism.jp http://www.yutorism.jp/entry/EraName
+zeiri4.com https://www.zeiri4.com/c_6/h_146/
