@@ -1,4 +1,4 @@
-Scalar::Util~1.43
+Scalar::Util~1.44
 Net::SSLeay~1.72
 LWP::MediaTypes~6.02
 Encode::Locale~1.05
