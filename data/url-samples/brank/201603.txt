@@ -4,7 +4,9 @@
 adobe.com https://blogs.adobe.com/creativestation/web-how-to-play-with-adobe-xd
 affility.co.jp http://www.affility.co.jp/archives/1468
 afpbb.com http://www.afpbb.com/articles/-/3078817
-akisane.com http://www.akisane.com/entry/FinalFantasyVII-MusicMemory
+akisane.com http://www.akisane.com/entry/FinalFantasyVI-CharacterLove
+alfalfalfa.com http://alfalfalfa.com/articles/147523.html
+amazon.co.jp http://www.amazon.co.jp/exec/obidos/ASIN/B01BGIH6U6/hatena-b-22/ref=nosim
 amazon.com https://aws.amazon.com/jp/solutions/case-studies/canon/
 amedama.jp http://blog.amedama.jp/entry/2016/03/13/234450
 animate.tv http://www.animate.tv/news/details.php?id=1458289383
@@ -15,6 +17,7 @@ aramame.net http://aramame.net/archives/67406
 archive.org https://archive.org/details/davidwnivenjazz&tab=collection
 asahi.com http://www.asahi.com/articles/ASJ1N45K8J1NIIPE00R.html
 asimino.com http://blog.asimino.com/entry/2016/03/15/work-that-you-like
+asks.jp http://hiro.asks.jp/95092.html
 automaton.am http://jp.automaton.am/articles/newsjp/block-hood-will-release-march-10/
 baitalk.jp https://baitalk.jp/media/article/41/
 bbc.com http://www.bbc.com/japanese/features-and-analysis-35705524
@@ -32,7 +35,7 @@ buildup-db.blogspot.com http://buildup-db.blogspot.com/2016/03/mysql.html
 bunshun.jp http://number.bunshun.jp/articles/-/825296
 businessnewsline.com http://www.businessnewsline.com/news/201603010942110000.html
 buzzfeed.com http://www.buzzfeed.com/ryanhatesthis/i-made-my-dad-explain-why-he-likes-donald-tump-1
-cakes.mu https://cakes.mu/posts/12406
+cakes.mu https://cakes.mu/posts/12313
 career-theory.net http://career-theory.net/quit-company-5631
 careersupli.jp http://careersupli.jp/career/jiyu/
 chibicode.com http://chibicode.com/silicon-valley-history/
@@ -90,6 +93,7 @@ hatenablog.com http://yuuki.hatenablog.com/entry/infra-for-newlang
 hatenablog.jp http://waterman.hatenablog.jp/entry/2016/03/12/213000
 hatenadiary.jp http://zuisho.hatenadiary.jp/entry/2016/03/08/181911
 hatenastaff.com http://developer.hatenastaff.com/entry/2016/03/16/180657
+hikikomotrip.com http://www.hikikomotrip.com/entry/kyoto
 himasoku.com http://himasoku.com/archives/51943334.html
 hisaju.org http://tech.blog.hisaju.org/2016/03/06/web-development/
 hitode-festival.com http://www.hitode-festival.com/entry/2016/02/29/180157
@@ -148,7 +152,9 @@ m-forest.net http://www.m-forest.net/entry/game-wast-of-time
 mainichi.jp http://mainichi.jp/articles/20160302/k00/00m/010/125000c
 marketimes.jp http://marketimes.jp/2016-marketing-blogmedia
 marswee.com http://blog.marswee.com/entry/white-company
+mayoinu.com http://www.mayoinu.com/entry/2016/03/19/200000
 mdn.co.jp http://www.mdn.co.jp/di/newstopics/44476/
+medium.com https://medium.com/@ihayato/596811c552aa
 mess-y.com http://mess-y.com/archives/27773
 microsoft.com https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/
 mikinote.com http://www.mikinote.com/entry/donabe-gohan
@@ -170,6 +176,7 @@ neuro-awareness.com http://neuro-awareness.com/jiritsushinkei-kusuri-kaizesn/
 newsweekjapan.jp http://www.newsweekjapan.jp/morley/2016/03/post-2.php
 nhk.or.jp http://www3.nhk.or.jp/news/html/20160229/k10010426121000.html
 nifty.com http://portal.nifty.com/kiji/160301195835_1.htm
+nikkansports.com http://www.nikkansports.com/general/news/1618657.html
 nikkei.com http://www.nikkei.com/article/DGXLASDG12H34_U6A310C1000000/
 nikkeibp.co.jp http://business.nikkeibp.co.jp/atcl/opinion/15/174784/030300034/
 nintendo.co.jp https://www.nintendo.co.jp/wiiu/agmj/update/index_260.html
@@ -191,7 +198,8 @@ postd.cc http://postd.cc/a-beginners-guide-to-scaling-to-11-million-users-on-ama
 proof0309.com http://www.proof0309.com/entry/burogushosinsha
 publickey1.jp http://www.publickey1.jp/blog/16/eclipse_che.html
 publog.jp http://deniirotwitter.publog.jp/archives/1053366183.html
-qiita.com http://qiita.com/haminiku/items/9f1b9a2fb773c732c494
+qiita.com http://qiita.com/akameco/items/39a55635ceb0ba185b7f
+raku-job.jp http://raku-job.jp/news/feature/14053/
 rakuten.jp http://srdk.rakuten.jp/entry/2016/03/17/110000
 rcmdnk.github.io http://rcmdnk.github.io/blog/2016/03/15/computer-windows/
 realsound.jp http://realsound.jp/movie/2016/03/post-1199.html
@@ -207,9 +215,10 @@ sankei.com http://www.sankei.com/affairs/news/160314/afr1603140001-n1.html
 sbbit.jp http://www.sbbit.jp/article/cont1/31865
 scei.co.jp http://www.scei.co.jp/corporate/release/2016/160316.html
 seesaa.net http://neuropsychology.seesaa.net/article/434643928.html
+shachikuman.com http://www.shachikuman.com/entry/2016/03/19/120000
 shonenjump.com http://www.shonenjump.com/p/sp/1603/hxh/
 shueisha.co.jp http://wpb.shueisha.co.jp/2016/03/13/62385/
-slideshare.net http://www.slideshare.net/capcom_rd/ss-59063333
+slideshare.net https://www.slideshare.net/masuda220/ss-59756718
 smaroomch.net http://smaroomch.net/english_study_readingskill/
 softantenna.com http://www.softantenna.com/wp/windows/git-kraken/
 spacemarket.com http://blog.spacemarket.com/code/migration-to-react/
@@ -247,6 +256,7 @@ utf-8.jp http://utf-8.jp/public/2016/0307/electron.pdf
 uxmilk.jp http://uxmilk.jp/14664
 vaaaaanquish.jp http://vaaaaanquish.jp/pdca/
 vice.com http://jp.vice.com/lifestyle/this-kurdish-singer-is-fighting-isis-with-pop-song
+visionseichou.com http://www.visionseichou.com/entry/kigyou-hon15
 webhacck.net http://webhacck.net/archives/1838668.html
 wired.jp http://wired.jp/2016/03/04/kusano-teacher/
 world-fusigi.net http://world-fusigi.net/archives/8379039.html
