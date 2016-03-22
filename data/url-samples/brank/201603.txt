@@ -8,14 +8,17 @@ akisane.com http://www.akisane.com/entry/FinalFantasyVI-CharacterLove
 alfalfalfa.com http://alfalfalfa.com/articles/147523.html
 amazon.co.jp http://www.amazon.co.jp/exec/obidos/ASIN/B01BGIH6U6/hatena-b-22/ref=nosim
 amazon.com https://aws.amazon.com/jp/solutions/case-studies/canon/
+ameblo.jp http://ameblo.jp/masaokusakari/entry-12140887439.html
 amedama.jp http://blog.amedama.jp/entry/2016/03/13/234450
 animate.tv http://www.animate.tv/news/details.php?id=1458289383
 anizm.xyz http://www.anizm.xyz/entry/watamihh
 app-note.com http://app-note.com/shinjuku-cafe-8shops/
 appmarketinglabo.net http://appmarketinglabo.net/mercari/
+aqua-exp.com http://www.aqua-exp.com/entry/how-to-Atom
 aramame.net http://aramame.net/archives/67406
 archive.org https://archive.org/details/davidwnivenjazz&tab=collection
 asahi.com http://www.asahi.com/articles/ASJ1N45K8J1NIIPE00R.html
+ascii.jp http://ascii.jp/elem/000/001/136/1136899/
 asimino.com http://blog.asimino.com/entry/2016/03/15/work-that-you-like
 asks.jp http://hiro.asks.jp/95092.html
 automaton.am http://jp.automaton.am/articles/newsjp/block-hood-will-release-march-10/
@@ -88,6 +91,7 @@ happy-bears.com http://www.happy-bears.com/comment/
 harold-spm.com http://harold-spm.com/listening-iphone-app/
 hateblo.jp http://moognyk.hateblo.jp/entry/2016/03/03/180000
 hatelabo.jp http://anond.hatelabo.jp/20160209200316
+hatena.city http://hatena.city/entry/2016/03/20/210247
 hatena.ne.jp http://d.hatena.ne.jp/Baatarism/20160305/1457192320
 hatenablog.com http://yuuki.hatenablog.com/entry/infra-for-newlang
 hatenablog.jp http://waterman.hatenablog.jp/entry/2016/03/12/213000
@@ -131,6 +135,7 @@ jyajyayome.com http://www.jyajyayome.com/entry/2016/03/07/073000
 kabu-1.jp http://www.kabu-1.jp/shoshinsha
 kai-you.net http://kai-you.net/article/26397
 kakuyomu.jp https://kakuyomu.jp/works/1177354054880239915
+kanaloco.jp http://www.kanaloco.jp/article/160568
 kandosaori.com http://www.kandosaori.com/entry/2016/03/15/073000_1
 kaoriya.net http://mattn.kaoriya.net/software/20160309091404.htm
 keizai.biz http://namba.keizai.biz/headline/3329/
@@ -144,7 +149,8 @@ labaq.com http://labaq.com/archives/51865799.html
 life-abstract.com http://www.life-abstract.com/entry/2016/03/10/060000
 lifehacker.jp http://www.lifehacker.jp/2016/03/160301unprofessional_behaviors.html
 lifehacking.jp http://lifehacking.jp/2016/03/103-2-1-0-rule/
-lineblog.me http://lineblog.me/yamamotoichiro/archives/4257236.html
+lifememo.jp http://lifememo.jp/science/decimals-of-pi/
+lineblog.me http://lineblog.me/ha_chu/archives/56947577.html
 livedoor.biz http://lifehack2ch.livedoor.biz/archives/51623314.html
 livedoor.com http://news.livedoor.com/article/detail/11306869/
 livedoor.jp http://blog.livedoor.jp/dg_law/archives/52317814.html
@@ -163,10 +169,12 @@ miyahaya.com http://www.miyahaya.com/entry/2016/03/13/205344
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/36408
 money-press.info http://www.money-press.info/money-manga-matome/
 move-wife.com http://www.move-wife.com/entry/potechi
+mtrl.tokyo http://blog.mtrl.tokyo/12161
 mudainodocument.com http://www.mudainodocument.com/articles/36321.html
 mynavi.jp http://wedding.mynavi.jp/kekoon/entry/2016/03/17/180000
 nagibrno.com http://www.nagibrno.com/entry/powerpoint-presentation
 nagurigaki.com http://www.nagurigaki.com/entry/neet-freeter-blog
+nakaken88.com http://nakaken88.com/2016/03/14/080817
 nakamorikzs.net http://nakamorikzs.net/entry/2016/03/13/000540
 nanapi.jp https://nanapi.jp/125754/
 natalie.mu http://natalie.mu/comic/news/178824
@@ -180,7 +188,7 @@ nikkansports.com http://www.nikkansports.com/general/news/1618657.html
 nikkei.com http://www.nikkei.com/article/DGXLASDG12H34_U6A310C1000000/
 nikkeibp.co.jp http://business.nikkeibp.co.jp/atcl/opinion/15/174784/030300034/
 nintendo.co.jp https://www.nintendo.co.jp/wiiu/agmj/update/index_260.html
-note.mu https://note.mu/kahoko_tsunezawa/n/nfb85115ec99b
+note.mu https://note.mu/kagamihiroyuki/n/n4d8a2555c667
 omocoro.jp http://omocoro.jp/kiji/76515/
 omura-highschool.net http://omura-highschool.net/2016/03/12/18590/
 onk.ninja http://sharedoc.onk.ninja/onk/git-rm-r-spec
@@ -250,7 +258,7 @@ traicy.com http://www.traicy.com/20160314-AD870
 tsr-net.co.jp http://www.tsr-net.co.jp/news/tsr/20160314_01.html
 tumblr.com http://potcla.tumblr.com/post/141042564218/%E4%BB%8A%E5%BA%A6%E3%81%93%E3%81%9Dcopywriting%E3%81%8C%E5%87%8D%E7%B5%90%E3%81%8B
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000070642.html
-twitter.com http://twitter.com/ishiitakaaki/status/705611306162761728
+twitter.com http://twitter.com/irobutsu/status/711368914555371520
 uedakeita.net http://diary.uedakeita.net/entry/2016/03/11/112313
 utf-8.jp http://utf-8.jp/public/2016/0307/electron.pdf
 uxmilk.jp http://uxmilk.jp/14664
