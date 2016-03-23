@@ -4,6 +4,8 @@
 adobe.com https://blogs.adobe.com/creativestation/web-how-to-play-with-adobe-xd
 affility.co.jp http://www.affility.co.jp/archives/1468
 afpbb.com http://www.afpbb.com/articles/-/3078817
+agora-web.jp http://agora-web.jp/archives/2018247.html
+aitabata.com http://www.aitabata.com/entry/english
 akisane.com http://www.akisane.com/entry/FinalFantasyVI-CharacterLove
 alfalfalfa.com http://alfalfalfa.com/articles/147523.html
 amazon.co.jp http://www.amazon.co.jp/exec/obidos/ASIN/B01BGIH6U6/hatena-b-22/ref=nosim
@@ -13,12 +15,13 @@ amedama.jp http://blog.amedama.jp/entry/2016/03/13/234450
 animate.tv http://www.animate.tv/news/details.php?id=1458289383
 anizm.xyz http://www.anizm.xyz/entry/watamihh
 app-note.com http://app-note.com/shinjuku-cafe-8shops/
+apple.com http://www.apple.com/jp/iphone-se/
 appmarketinglabo.net http://appmarketinglabo.net/mercari/
 aqua-exp.com http://www.aqua-exp.com/entry/how-to-Atom
 aramame.net http://aramame.net/archives/67406
 archive.org https://archive.org/details/davidwnivenjazz&tab=collection
 asahi.com http://www.asahi.com/articles/ASJ1N45K8J1NIIPE00R.html
-ascii.jp http://ascii.jp/elem/000/001/136/1136899/
+ascii.jp http://ascii.jp/elem/000/001/132/1132601/
 asimino.com http://blog.asimino.com/entry/2016/03/15/work-that-you-like
 asks.jp http://hiro.asks.jp/95092.html
 automaton.am http://jp.automaton.am/articles/newsjp/block-hood-will-release-march-10/
@@ -40,6 +43,7 @@ businessnewsline.com http://www.businessnewsline.com/news/201603010942110000.htm
 buzzfeed.com http://www.buzzfeed.com/ryanhatesthis/i-made-my-dad-explain-why-he-likes-donald-tump-1
 cakes.mu https://cakes.mu/posts/12313
 career-theory.net http://career-theory.net/quit-company-5631
+careerconnection.jp https://news.careerconnection.jp/?p=22330
 careersupli.jp http://careersupli.jp/career/jiyu/
 chibicode.com http://chibicode.com/silicon-valley-history/
 chosunonline.com http://www.chosunonline.com/site/data/html_dir/2016/03/11/2016031100881.html
@@ -73,13 +77,14 @@ ferret-plus.com https://ferret-plus.com/2783
 flipsblog.jp http://flipsblog.jp/archives/2554
 foocom.net http://www.foocom.net/column/editor/13935/
 fukuyuki.net http://fukuyuki.net/post-785/
+fun.ac.jp http://www.fun.ac.jp/~kimagure_ai/results/stories/617.pdf
 gamespark.jp http://www.gamespark.jp/article/2016/03/13/64363.html
 gedow.net http://blog.father.gedow.net/2016/03/08/package-control/
 geechs-magazine.com https://geechs-magazine.com/tag/tech/20160229
 gigazine.net http://gigazine.net/news/20160229-mit-10-breakthrough-technologies-2016/
 giko-neko.com http://giko-neko.com/?p=488
 github.com https://github.com/blog/2123-more-code-review-tools
-gizmodo.jp http://www.gizmodo.jp/2016/03/post_664250.html
+gizmodo.jp http://www.gizmodo.jp/2016/03/iphone_seiphone.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/kudokimeshi/2958
 gogotsu.com http://gogotsu.com/archives/16579
 goo.ne.jp http://ima.goo.ne.jp/column/article/4051.html
@@ -93,7 +98,7 @@ hateblo.jp http://moognyk.hateblo.jp/entry/2016/03/03/180000
 hatelabo.jp http://anond.hatelabo.jp/20160209200316
 hatena.city http://hatena.city/entry/2016/03/20/210247
 hatena.ne.jp http://d.hatena.ne.jp/Baatarism/20160305/1457192320
-hatenablog.com http://yuuki.hatenablog.com/entry/infra-for-newlang
+hatenablog.com http://zoomer.hatenablog.com/entry/2016/03/21/100000pool
 hatenablog.jp http://waterman.hatenablog.jp/entry/2016/03/12/213000
 hatenadiary.jp http://zuisho.hatenadiary.jp/entry/2016/03/08/181911
 hatenastaff.com http://developer.hatenastaff.com/entry/2016/03/16/180657
@@ -112,7 +117,7 @@ ichitaso.com http://ichitaso.com/hackitosh/el-capitan-on-windows-pc/
 ics.media https://ics.media/entry/11221
 idol808.com http://www.idol808.com/archives/1053832008.html
 igaku-shoin.co.jp http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03165_01
-imalive7799.com http://blog.imalive7799.com/entry/shikaku-shutoku-furikaeri
+imalive7799.com http://blog.imalive7799.com/entry/get-inspiration-during-travel
 impress.co.jp http://pc.watch.impress.co.jp/docs/column/config/20160318_748846.html
 impressrd.jp http://web-tan.forum.impressrd.jp/e/2016/03/15/22393
 in-activism.com http://www.in-activism.com/entry/after-start-selling-minne
@@ -226,6 +231,7 @@ seesaa.net http://neuropsychology.seesaa.net/article/434643928.html
 shachikuman.com http://www.shachikuman.com/entry/2016/03/19/120000
 shonenjump.com http://www.shonenjump.com/p/sp/1603/hxh/
 shueisha.co.jp http://wpb.shueisha.co.jp/2016/03/13/62385/
+shukatsu-eat.com http://www.shukatsu-eat.com/entry/2016/03/21/201105
 slideshare.net https://www.slideshare.net/masuda220/ss-59756718
 smaroomch.net http://smaroomch.net/english_study_readingskill/
 softantenna.com http://www.softantenna.com/wp/windows/git-kraken/
@@ -274,7 +280,9 @@ xn--nyqy26a13k.jp http://xn--nyqy26a13k.jp/archives/13980
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160303-01059720-sspa-soci
 yomiuri.co.jp http://www.yomiuri.co.jp/politics/20160307-OYT1T50091.html
 youtube.com http://www.youtube.com/watch?v=SkJcN-IggRE
+yuiki1994.com http://www.yuiki1994.com/entry/hotyou-huyou-recipe
 yukicoco.net http://www.yukicoco.net/entry/2016/03/05/111610
+yukimitsu.link http://www.yukimitsu.link/entry/2016/03/21/123631
 yusuke.be http://blog.yusuke.be/entry/2016/03/18/150640
 yutorigoto.com http://blog.yutorigoto.com/entry/%E5%9B%9E%E8%BB%A2%E5%AF%BF%E5%8F%B8%E3%81%8C%E5%9B%9E%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B
 yutorism.jp http://www.yutorism.jp/entry/EraName
