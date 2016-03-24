@@ -14,6 +14,7 @@ ameblo.jp http://ameblo.jp/masaokusakari/entry-12140887439.html
 amedama.jp http://blog.amedama.jp/entry/2016/03/13/234450
 animate.tv http://www.animate.tv/news/details.php?id=1458289383
 anizm.xyz http://www.anizm.xyz/entry/watamihh
+aol.jp http://news.aol.jp/2016/03/21/sexyyoutuber/
 app-note.com http://app-note.com/shinjuku-cafe-8shops/
 apple.com http://www.apple.com/jp/iphone-se/
 appmarketinglabo.net http://appmarketinglabo.net/mercari/
@@ -49,6 +50,7 @@ chibicode.com http://chibicode.com/silicon-valley-history/
 chosunonline.com http://www.chosunonline.com/site/data/html_dir/2016/03/11/2016031100881.html
 classmethod.jp http://dev.classmethod.jp/cloud/aws/are-you-well-architected-cost-optimization/
 cloudsalon.net http://www.cloudsalon.net/entry/black20160313
+codeiq.jp https://codeiq.jp/magazine/2016/03/38660/
 coliss.com http://coliss.com/articles/build-websites/operation/design/30-ideas-for-responsive-web-design.html
 comico.jp http://www.comico.jp/challenge/articleList.nhn?titleNo=14519
 connehito.com http://tech.connehito.com/entry/2016/03/04/183522
@@ -70,9 +72,10 @@ en-japan.com http://careerhack.en-japan.com/report/detail/645
 enejoys.jp https://enejoys.jp/contents/article/2206/
 engadget.com http://japanese.engadget.com/2016/02/29/64bit-raspberry-pi-3-10-wifi-bluetooth/
 excite.co.jp http://www.excite.co.jp/News/it_g/20160229/RbbToday_140079.html
+f-shin.net https://f-shin.net/fsgarage/4580
 famitsu.com http://www.famitsu.com/news/201603/10101102.html
 fashionsnap.com http://www.fashionsnap.com/the-posts/2016-03-09/mens-pants-10/
-fc2.com http://shinboshiumi.blog.fc2.com/blog-entry-34.html#continue
+fc2.com http://yoicomic.blog24.fc2.com/blog-entry-425.html
 ferret-plus.com https://ferret-plus.com/2783
 flipsblog.jp http://flipsblog.jp/archives/2554
 foocom.net http://www.foocom.net/column/editor/13935/
@@ -126,6 +129,7 @@ inside-games.jp http://www.inside-games.jp/article/2016/03/01/96435.html
 irasutoya.com http://www.irasutoya.com/2016/03/blog-post_24.html
 islog.jp http://www.islog.jp/entry/asakusa-yadoroku/
 ismedia.jp http://wedge.ismedia.jp/articles/-/6248
+it-toranoana.com http://it-toranoana.com/2016/03/22/ana-trouble/
 itmedia.co.jp http://www.itmedia.co.jp/lifestyle/articles/1603/15/news141.html
 itpropartners.com https://itpropartners.com/blog/1287/
 ituore.com http://www.ituore.com/entry/study-examination
@@ -134,6 +138,7 @@ iwebstyle.net http://www.iwebstyle.net/webmarketing/2016/03/15/affi10/
 j-cast.com http://www.j-cast.com/2016/03/17261659.html
 jdash.info http://dtp.jdash.info/archives/Photoshop%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AB%E5%BF%9C%E3%81%98%E3%82%8B%E5%A1%97%E3%82%8A%E3%81%A4%E3%81%B6%E3%81%97
 jimpei.net http://www.jimpei.net/entry/ishiki
+jnito.com http://blog.jnito.com/entry/2016/03/22/083055
 joins.com http://japanese.joins.com/article/108/213108.html?ref=mobile
 jukennsei.com http://jukennsei.com/2016/03/28fc-american-president/
 jyajyayome.com http://www.jyajyayome.com/entry/2016/03/07/073000
@@ -184,6 +189,7 @@ nakamorikzs.net http://nakamorikzs.net/entry/2016/03/13/000540
 nanapi.jp https://nanapi.jp/125754/
 natalie.mu http://natalie.mu/comic/news/178824
 naver.jp http://matome.naver.jp/odai/2145647128136025301
+ndl.go.jp http://crd.ndl.go.jp/reference/modules/d3ndlcrdentry/index.php?page=ref_view&id=1000189685
 netgeek.biz http://netgeek.biz/archives/68189
 neuro-awareness.com http://neuro-awareness.com/jiritsushinkei-kusuri-kaizesn/
 newsweekjapan.jp http://www.newsweekjapan.jp/morley/2016/03/post-2.php
@@ -202,6 +208,7 @@ oricon.co.jp http://www.oricon.co.jp/news/2067871/full/?ref_cd=tw
 otaden.jp http://hirorin.otaden.jp/e433726.html
 otapol.jp http://otapol.jp/2016/03/post-5973.html
 outward-matrix.com http://www.outward-matrix.com/entry/2016/03/11/153000
+panasonic.jp http://panasonic.jp/mens/face/er-gn-hiwa/
 parabell-life.net http://www.parabell-life.net/entry/2016/03/11/235946
 pechat.jp http://pechat.jp/
 photoshopvip.net http://photoshopvip.net/archives/88174
@@ -241,6 +248,7 @@ sponichi.co.jp http://www.sponichi.co.jp/entertainment/news/2016/03/17/kiji/K201
 spotlight-media.jp http://spotlight-media.jp/article/243558017453138266
 squallchannel.com http://squallchannel.com/archives/47024702.html
 stocker.jp http://stocker.jp/500W/2016/03/04/search/
+studiogalago.com http://www.studiogalago.com/the-swift-programming-language/
 superhero-year.com http://www.superhero-year.com/amazons/
 synodos.jp http://synodos.jp/international/16290
 tabi-labo.com http://tabi-labo.com/177447/dragonquest03/
@@ -263,10 +271,11 @@ trafficnews.jp http://trafficnews.jp/post/49423/
 traicy.com http://www.traicy.com/20160314-AD870
 tsr-net.co.jp http://www.tsr-net.co.jp/news/tsr/20160314_01.html
 tumblr.com http://potcla.tumblr.com/post/141042564218/%E4%BB%8A%E5%BA%A6%E3%81%93%E3%81%9Dcopywriting%E3%81%8C%E5%87%8D%E7%B5%90%E3%81%8B
-tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000070642.html
+tv-asahi.co.jp http://news.tv-asahi.co.jp/news_international/articles/000070851.html
 twitter.com http://twitter.com/irobutsu/status/711368914555371520
 uedakeita.net http://diary.uedakeita.net/entry/2016/03/11/112313
 utf-8.jp http://utf-8.jp/public/2016/0307/electron.pdf
+utsujoshi.com http://www.utsujoshi.com/entry/why-living
 uxmilk.jp http://uxmilk.jp/14664
 vaaaaanquish.jp http://vaaaaanquish.jp/pdca/
 vice.com http://jp.vice.com/lifestyle/this-kurdish-singer-is-fighting-isis-with-pop-song
