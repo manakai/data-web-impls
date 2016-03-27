@@ -37,6 +37,7 @@ biztikara.com http://www.biztikara.com/entry/social-buturigaku
 bizzine.jp http://bizzine.jp/article/detail/1454
 blog.jp http://natsumeg.blog.jp/archives/47066799.html
 blogos.com http://blogos.com/article/165006/
+boj.or.jp http://www.boj.or.jp/announcements/education/exp/exp01.htm/
 boo.jp http://fragile.mdma.boo.jp/?eid=1065810
 boxil.jp http://boxil.jp/magazine/cloudservice-matome/
 buildup-db.blogspot.com http://buildup-db.blogspot.com/2016/03/mysql.html
@@ -50,6 +51,7 @@ careersupli.jp http://careersupli.jp/career/jiyu/
 carnny.com https://www.carnny.com/magazine/p719
 chibicode.com http://chibicode.com/silicon-valley-history/
 chosunonline.com http://www.chosunonline.com/site/data/html_dir/2016/03/11/2016031100881.html
+cinemacity.co.jp http://cinemacity.co.jp/wp/ccnews/i_live_i_die_i_live_again/
 classmethod.jp http://dev.classmethod.jp/cloud/aws/are-you-well-architected-cost-optimization/
 cloudsalon.net http://www.cloudsalon.net/entry/black20160313
 codeiq.jp https://codeiq.jp/magazine/2016/03/38660/
@@ -59,7 +61,7 @@ connehito.com http://tech.connehito.com/entry/2016/03/04/183522
 cookpad.com http://techlife.cookpad.com/entry/2016/03/02/083000
 corylog.com http://www.corylog.com/entry/2016/03/10/211557
 cpplover.blogspot.com http://cpplover.blogspot.com/2016/03/am.html
-creive.me http://creive.me/archives/8596/
+creive.me http://creive.me/archives/10043/
 crowdworks.jp http://engineer.crowdworks.jp/entry/2016/03/11/153300
 ddnavi.com http://ddnavi.com/news/289413/a/
 denfaminicogamer.jp http://news.denfaminicogamer.jp/projectbook/dungeon
@@ -84,13 +86,14 @@ flipsblog.jp http://flipsblog.jp/archives/2554
 foocom.net http://www.foocom.net/column/editor/13935/
 fukuyuki.net http://fukuyuki.net/post-785/
 fun.ac.jp http://www.fun.ac.jp/~kimagure_ai/results/stories/617.pdf
+gaishishukatsu.com http://gaishishukatsu.com/archives/70238
 gamespark.jp http://www.gamespark.jp/article/2016/03/13/64363.html
 gedow.net http://blog.father.gedow.net/2016/03/08/package-control/
 geechs-magazine.com https://geechs-magazine.com/tag/tech/20160229
 gigazine.net http://gigazine.net/news/20160229-mit-10-breakthrough-technologies-2016/
 giko-neko.com http://giko-neko.com/?p=488
 github.com https://github.com/blog/2123-more-code-review-tools
-gizmodo.jp http://www.gizmodo.jp/2016/03/iphone_seiphone.html
+gizmodo.jp http://www.gizmodo.jp/2016/03/aisophia.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/kudokimeshi/2958
 gogotsu.com http://gogotsu.com/archives/16579
 goo.ne.jp http://ima.goo.ne.jp/column/article/4051.html
@@ -146,6 +149,7 @@ joins.com http://japanese.joins.com/article/108/213108.html?ref=mobile
 jukennsei.com http://jukennsei.com/2016/03/28fc-american-president/
 jyajyayome.com http://www.jyajyayome.com/entry/2016/03/07/073000
 kabu-1.jp http://www.kabu-1.jp/shoshinsha
+kaerucloud.com http://blog.kaerucloud.com/entry/tattoo-wedding
 kai-you.net http://kai-you.net/article/26397
 kakuyomu.jp https://kakuyomu.jp/works/1177354054880239915
 kanaloco.jp http://www.kanaloco.jp/article/160568
@@ -159,6 +163,7 @@ kokoro-fire.com http://www.kokoro-fire.com/entry/blog-money-PV
 kurashinista.jp http://kurashinista.jp/articles/detail/18285
 kyoko-np.net http://kyoko-np.net/2016031501.html
 labaq.com http://labaq.com/archives/51865799.html
+landerblue.co.jp http://www.landerblue.co.jp/blog/?p=25791
 life-abstract.com http://www.life-abstract.com/entry/2016/03/10/060000
 lifehacker.jp http://www.lifehacker.jp/2016/03/160301unprofessional_behaviors.html
 lifehacking.jp http://lifehacking.jp/2016/03/103-2-1-0-rule/
@@ -180,13 +185,15 @@ mikinote.com http://www.mikinote.com/entry/donabe-gohan
 mirakui.com http://diary2.mirakui.com/entry/2016/03/01/001421
 miyahaya.com http://www.miyahaya.com/entry/2016/03/13/205344
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/36408
+momijimom.net http://www.momijimom.net/entry/2016/03/26/000000
 money-press.info http://www.money-press.info/money-manga-matome/
+moneyforward.com http://corp.moneyforward.com/service/pfm/20160325-mf-api-sbi/
 moshisata.com http://www.moshisata.com/entry/2016/03/24/072404
 move-wife.com http://www.move-wife.com/entry/potechi
 mtrl.tokyo http://blog.mtrl.tokyo/12161
 mudainodocument.com http://www.mudainodocument.com/articles/36321.html
 mynavi.jp http://wedding.mynavi.jp/kekoon/entry/2016/03/17/180000
-nagibrno.com http://www.nagibrno.com/entry/powerpoint-presentation
+nagibrno.com http://www.nagibrno.com/entry/about-time
 nagurigaki.com http://www.nagurigaki.com/entry/neet-freeter-blog
 nakaken88.com http://nakaken88.com/2016/03/14/080817
 nakamorikzs.net http://nakamorikzs.net/entry/2016/03/13/000540
@@ -203,7 +210,7 @@ nifty.com http://portal.nifty.com/kiji/160301195835_1.htm
 nikkan-gendai.com http://www.nikkan-gendai.com/articles/view/news/177926?pc=true
 nikkansports.com http://www.nikkansports.com/general/news/1618657.html
 nikkei.com http://www.nikkei.com/article/DGXLASDG12H34_U6A310C1000000/
-nikkeibp.co.jp http://business.nikkeibp.co.jp/atcl/opinion/15/174784/030300034/
+nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/14/346926/032500489/
 nikon-image.com http://www.nikon-image.com/sp/cosgenic/
 nintendo.co.jp https://www.nintendo.co.jp/wiiu/agmj/update/index_260.html
 note.mu https://note.mu/kagamihiroyuki/n/n4d8a2555c667
@@ -231,6 +238,7 @@ qiita.com http://qiita.com/Ichiro_Tsuji/items/c174d580587a622d3358
 raku-job.jp http://raku-job.jp/news/feature/14053/
 rakuten.jp http://srdk.rakuten.jp/entry/2016/03/17/110000
 rcmdnk.github.io http://rcmdnk.github.io/blog/2016/03/15/computer-windows/
+realm.io https://realm.io/jp/news/tryswift-rachel-bobbins-design-everyday-swift/
 realsound.jp http://realsound.jp/movie/2016/03/post-1199.html
 recomtank.com http://www.recomtank.com/entry/craftsman-education
 reuters.com http://jp.reuters.com/article/idJPKCN0W5123
