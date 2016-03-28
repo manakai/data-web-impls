@@ -14,6 +14,7 @@ amazon.com https://aws.amazon.com/jp/solutions/case-studies/canon/
 ameblo.jp http://ameblo.jp/masaokusakari/entry-12140887439.html
 amedama.jp http://blog.amedama.jp/entry/2016/03/13/234450
 animate.tv http://www.animate.tv/news/details.php?id=1458289383
+animeanime.jp http://animeanime.jp/article/2016/03/26/27667.html
 anizm.xyz http://www.anizm.xyz/entry/2016/03/23/194213
 aol.jp http://news.aol.jp/2016/03/21/sexyyoutuber/
 app-note.com http://app-note.com/shinjuku-cafe-8shops/
@@ -40,6 +41,7 @@ blogos.com http://blogos.com/article/165006/
 boj.or.jp http://www.boj.or.jp/announcements/education/exp/exp01.htm/
 boo.jp http://fragile.mdma.boo.jp/?eid=1065810
 boxil.jp http://boxil.jp/magazine/cloudservice-matome/
+buchineko.website http://buchineko.website/chrome-devtools-cording/
 buildup-db.blogspot.com http://buildup-db.blogspot.com/2016/03/mysql.html
 bunshun.jp http://number.bunshun.jp/articles/-/825296
 businessnewsline.com http://www.businessnewsline.com/news/201603010942110000.html
@@ -54,6 +56,7 @@ chosunonline.com http://www.chosunonline.com/site/data/html_dir/2016/03/11/20160
 cinemacity.co.jp http://cinemacity.co.jp/wp/ccnews/i_live_i_die_i_live_again/
 classmethod.jp http://dev.classmethod.jp/cloud/aws/are-you-well-architected-cost-optimization/
 cloudsalon.net http://www.cloudsalon.net/entry/black20160313
+cnn.co.jp http://www.cnn.co.jp/tech/35080185.html
 codeiq.jp https://codeiq.jp/magazine/2016/03/38660/
 coliss.com http://coliss.com/articles/build-websites/operation/design/30-ideas-for-responsive-web-design.html
 comico.jp http://www.comico.jp/challenge/articleList.nhn?titleNo=14519
@@ -97,7 +100,7 @@ gizmodo.jp http://www.gizmodo.jp/2016/03/aisophia.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/kudokimeshi/2958
 gogotsu.com http://gogotsu.com/archives/16579
 goo.ne.jp http://ima.goo.ne.jp/column/article/4051.html
-goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/moneyshort
+goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/freelance
 goope.jp http://blog.goope.jp/?eid=461
 growiz.us http://growiz.us/the-definitive-guide-to-pmf/
 hamusoku.com http://hamusoku.com/archives/9196809.html
@@ -108,7 +111,7 @@ hatelabo.jp http://anond.hatelabo.jp/20160209200316
 hatena.city http://hatena.city/entry/2016/03/20/210247
 hatena.ne.jp http://d.hatena.ne.jp/Baatarism/20160305/1457192320
 hatenablog.com http://zoomer.hatenablog.com/entry/2016/03/21/100000pool
-hatenablog.jp http://waterman.hatenablog.jp/entry/2016/03/12/213000
+hatenablog.jp http://yukiyan.hatenablog.jp/entry/2016/03/26/234128
 hatenadiary.jp http://zuisho.hatenadiary.jp/entry/2016/03/08/181911
 hatenastaff.com http://developer.hatenastaff.com/entry/2016/03/16/180657
 hikikomotrip.com http://www.hikikomotrip.com/entry/kyoto
@@ -169,6 +172,7 @@ lifehacker.jp http://www.lifehacker.jp/2016/03/160301unprofessional_behaviors.ht
 lifehacking.jp http://lifehacking.jp/2016/03/103-2-1-0-rule/
 lifememo.jp http://lifememo.jp/science/decimals-of-pi/
 lineblog.me http://lineblog.me/ha_chu/archives/56947577.html
+lite-ra.com http://lite-ra.com/2016/03/post-2102.html
 livedoor.biz http://lifehack2ch.livedoor.biz/archives/51623314.html
 livedoor.com http://news.livedoor.com/article/detail/11306869/
 livedoor.jp http://blog.livedoor.jp/dg_law/archives/52317814.html
@@ -177,6 +181,7 @@ mainichi.jp http://mainichi.jp/articles/20160302/k00/00m/010/125000c
 marketimes.jp http://marketimes.jp/2016-marketing-blogmedia
 marswee.com http://blog.marswee.com/entry/white-company
 mayoinu.com http://www.mayoinu.com/entry/2016/03/19/200000
+mazimazi-party.com http://www.mazimazi-party.com/entry/wakamonotokyo
 mdn.co.jp http://www.mdn.co.jp/di/newstopics/44476/
 medium.com https://medium.com/@ihayato/596811c552aa
 mess-y.com http://mess-y.com/archives/27773
@@ -188,11 +193,13 @@ miyearnzzlabo.com http://miyearnzzlabo.com/archives/36408
 momijimom.net http://www.momijimom.net/entry/2016/03/26/000000
 money-press.info http://www.money-press.info/money-manga-matome/
 moneyforward.com http://corp.moneyforward.com/service/pfm/20160325-mf-api-sbi/
+morizyun.github.io http://morizyun.github.io/blog/git-commit-log-format/
 moshisata.com http://www.moshisata.com/entry/2016/03/24/072404
 move-wife.com http://www.move-wife.com/entry/potechi
 mtrl.tokyo http://blog.mtrl.tokyo/12161
 mudainodocument.com http://www.mudainodocument.com/articles/36321.html
 mynavi.jp http://wedding.mynavi.jp/kekoon/entry/2016/03/17/180000
+n-knuckles.com http://n-knuckles.com/serialization/yoshida/news002214.html
 nagibrno.com http://www.nagibrno.com/entry/about-time
 nagurigaki.com http://www.nagurigaki.com/entry/neet-freeter-blog
 nakaken88.com http://nakaken88.com/2016/03/14/080817
@@ -214,6 +221,7 @@ nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/14/346926/032500489/
 nikon-image.com http://www.nikon-image.com/sp/cosgenic/
 nintendo.co.jp https://www.nintendo.co.jp/wiiu/agmj/update/index_260.html
 note.mu https://note.mu/kagamihiroyuki/n/n4d8a2555c667
+nurse-diaries.com http://www.nurse-diaries.com/entry/infant-masturbation
 omocoro.jp http://omocoro.jp/kiji/76515/
 omura-highschool.net http://omura-highschool.net/2016/03/12/18590/
 onk.ninja http://sharedoc.onk.ninja/onk/git-rm-r-spec
@@ -226,6 +234,7 @@ outward-matrix.com http://www.outward-matrix.com/entry/2016/03/11/153000
 panasonic.jp http://panasonic.jp/mens/face/er-gn-hiwa/
 parabell-life.net http://www.parabell-life.net/entry/2016/03/11/235946
 pechat.jp http://pechat.jp/
+pet-seikatsu.jp http://pet-seikatsu.jp/movies/59864
 photoshopvip.net http://photoshopvip.net/archives/88174
 pixiv.net http://www.pixiv.net/member_illust.php?mode=medium&illust_id=55739510
 pokemon.co.jp http://www.pokemon.co.jp/ex/PokemonGO/160324_01.html
@@ -279,6 +288,7 @@ takagi-hiromitsu.jp http://takagi-hiromitsu.jp/diary/20160314.html
 tatsuru.com http://blog.tatsuru.com/2016/03/13_1552.php
 techcrunch.com http://jp.techcrunch.com/2016/03/03/istagram-genking/
 tenkomo.com http://tenkomo.com/blog-entry-5008.html
+tetsudo-shimbun.com http://tetsudo-shimbun.com/article/topic/entry-686.html
 thebridge.jp http://thebridge.jp/2016/03/career-advice-no-one-tells-you
 thegg.net http://thegg.net/articles/a-message-to-japanese-game-developers-from-an-us-game-developer/
 tinect.jp http://blog.tinect.jp/?p=21691
@@ -310,9 +320,10 @@ xn--nyqy26a13k.jp http://xn--nyqy26a13k.jp/archives/13980
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160303-01059720-sspa-soci
 yasuhisa.com http://www.yasuhisa.com/could/article/designer-life-work/
 yomiuri.co.jp http://www.yomiuri.co.jp/politics/20160307-OYT1T50091.html
-youtube.com http://www.youtube.com/watch?v=SkJcN-IggRE
+youtube.com http://www.youtube.com/watch?v=7d59O6cfaM0
 yuiki1994.com http://www.yuiki1994.com/entry/hotyou-huyou-recipe
 yukicoco.net http://www.yukicoco.net/entry/2016/03/05/111610
+yukihy.com http://www.yukihy.com/entry/keywordplanner-to-pv
 yukimitsu.link http://www.yukimitsu.link/entry/2016/03/21/123631
 yusuke.be http://blog.yusuke.be/entry/2016/03/18/150640
 yutorigoto.com http://blog.yutorigoto.com/entry/%E5%9B%9E%E8%BB%A2%E5%AF%BF%E5%8F%B8%E3%81%8C%E5%9B%9E%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B
