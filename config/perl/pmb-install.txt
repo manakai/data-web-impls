@@ -1,11 +1,11 @@
 Scalar::Util~1.45
-Net::SSLeay~1.72
+Net::SSLeay~1.74
 LWP::MediaTypes~6.02
 Encode::Locale~1.05
 Test::NoWarnings~1.04
 IO::HTML~1.001
 Unicode::Normalize~1.25
-Encode~2.83
+Encode~2.84
 Path::Tiny~0.086
 URI~1.71
 parent~0.234
