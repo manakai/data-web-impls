@@ -39,6 +39,7 @@ buzzfeed.com https://www.buzzfeed.com/mathonan/google-ceo
 cakes.mu https://cakes.mu/posts/12622
 car-teach.com http://car-teach.com/car-application
 careersupli.jp http://careersupli.jp/lifehack/manga/
+chaos2ch.com http://chaos2ch.com/archives/4618317.html
 chester-souzoku.com http://chester-souzoku.com/incorporation-merit-demerit-720
 cinefil.tokyo http://cinefil.tokyo/_ct/16950800
 classmethod.jp http://dev.classmethod.jp/devenv/mastering-tmux-with-tpm-plugin/
@@ -47,13 +48,16 @@ cloudsalon.net http://www.cloudsalon.net/entry/2016/04/07/000000
 cnet.com http://m.japan.cnet.com/story/35080686/
 cocolog-nifty.com http://finalvent.cocolog-nifty.com/fareastblog/2016/04/post-2a0b.html
 coliss.com http://coliss.com/articles/build-websites/operation/css/maintainable-css-by-adam.html
+continue-is-power.com http://www.continue-is-power.com/entry/2016/04/23/191209
 cookpad.com http://techlife.cookpad.com/entry/2016/04/06/100000
 courrier.jp https://courrier.jp/news/archives/47393/
 coziest.net http://coziest.net/?p=2222
 cpi.ad.jp http://www.cpi.ad.jp/column/column08/
 cpplover.blogspot.com http://cpplover.blogspot.com/2016/04/brian-kernighangotroff.html
 cybozu.io http://blog.cybozu.io/entry/2016/04/13/080000
+daipresents.com http://daipresents.com/2016/github-fatigue/
 denfaminicogamer.jp http://news.denfaminicogamer.jp/projectbook/daisennryaku
+dengekionline.com http://dengekionline.com/elem/000/001/262/1262350/
 diamond.jp http://diamond.jp/articles/-/89146
 did2memo.net http://did2memo.net/2016/04/14/naver-line-radio-wave-phone-rumor/
 dmm.com http://www.dmm.com/pr/special/april/2016/=/navi=1
@@ -71,8 +75,10 @@ f-shin.net https://f-shin.net/fsgarage/4614
 facebook.com https://www.facebook.com/note.php?note_id=966379090082502
 factory70.com http://blog.factory70.com/tips-of-design-and-illustration/illegal-use-illustration
 fair-skinned-monster.com http://www.fair-skinned-monster.com/entry/2016/04/15/213150
+fc2.com http://i2chmeijin.blog.fc2.com/blog-entry-3747.html
 fcart.jp http://akasugu.fcart.jp/taikenki/entry/2016/04/06/special0240
 fem.jp http://editor.fem.jp/blog/?p=2039
+fnshr.info http://id.fnshr.info/2016/04/22/math201604/
 fukayoi.com http://www.fukayoi.com/entry/partyrecipe
 fukeiki.com http://www.fukeiki.com/2016/04/village-vanguard-2016-loss2.html
 fukuyuki.net http://fukuyuki.net/post-848/
@@ -84,9 +90,12 @@ gizmodo.jp http://www.gizmodo.jp/2016/04/post_664410.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/fcf/3056
 goo.ne.jp http://blog.goo.ne.jp/toyodang/e/bee524311262ac48a89134496e055bfe
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/AI
+goodgoodlife.xyz http://www.goodgoodlife.xyz/entry/2016/04/23/Amazon%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%93%E3%83%87%E3%82%AA%E3%81%A7%E8%A6%B3%E3%82%89%E3%82%8C%E3%82%8B%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E6%98%A0%E7%94%BB%EF%BC%91%EF%BC%90%E9%81%B8
 google.co.jp https://www.google.co.jp/ime/furikku/
+google.com https://www.google.com/transparencyreport/removals/copyright/owners/169075/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEDYM/
 googlejapan.blogspot.com http://googlejapan.blogspot.com/2016/04/furikku.html
 goope.jp http://blog.goope.jp/?eid=463
+gqjapan.jp http://gqjapan.jp/entertainment/music/20160308/jazz-on-the-loose
 gunma-web.com http://gunma-web.com/blog/web/stop-windows10-upgrade.html
 hahalife0.com http://www.hahalife0.com/entry/2016/04/14/070733
 haiji.co http://blog.haiji.co/entry/got_engaged_to_hmsk
@@ -130,6 +139,7 @@ j-cast.com http://www.j-cast.com/2016/04/01263092.html
 jiji.com http://www.jiji.com/jc/article?k=2016040300066&g=int
 jimpei.net http://www.jimpei.net/entry/100man
 jin115.com http://jin115.com/archives/52126510.html
+jugem.jp http://aoinishimata.jugem.jp/?eid=5205
 jukennsei.com http://jukennsei.com/2016/04/boki3kyuu4/
 kabu-1.jp http://www.kabu-1.jp/article/kabu-kaikata
 kagua.biz http://www.kagua.biz/help/updates/userexplorer.html
@@ -144,6 +154,7 @@ keikotomanabu.net http://www.keikotomanabu.net/news/entry/201604/00000395/
 kiji.is http://this.kiji.is/88188718705950723
 kinakonan.com http://kinakonan.com/koganeizakura/
 kite.com https://kite.com/
+kkt.jp http://www.kkt.jp/information/info_20160421.html
 klab.org http://dsas.blog.klab.org/archives/raspi-netem1.html
 kokoro-fire.com http://www.kokoro-fire.com/entry/hissatsuwaza
 kosotatu.jp http://kosotatu.jp/childcare/%E3%83%86%E3%83%AC%E3%83%93%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%99%E3%82%8B%E5%AD%90%E4%BE%9B%E3%81%8C%E5%A2%97%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B/
@@ -164,6 +175,7 @@ mag2.com http://www.mag2.com/p/news/165175
 magazine-k.jp http://magazine-k.jp/2016/04/08/straightedge/
 mainichi.jp http://mainichi.jp/articles/20160402/mog/00m/300/003000c
 mantan-web.jp http://mantan-web.jp/2016/04/07/20160407dog00m200035000c.html
+marswee.com http://blog.marswee.com/entry/movie/money
 mayoinu.com http://www.mayoinu.com/entry/2016/04/09/200000
 mazimazi-party.com http://www.mazimazi-party.com/entry/fcup
 medium.com https://medium.com/@c_z/d10201bbe195
@@ -172,6 +184,7 @@ mess-y.com http://mess-y.com/archives/28313
 metro.tokyo.jp http://www.metro.tokyo.jp/INET/OSHIRASE/2016/04/20q47500.htm
 microsoft.com https://msdn.microsoft.com/en-us/commandline/wsl/about
 mikinote.com http://www.mikinote.com/entry/apple-kowarenai-k
+miyahaya.com http://www.miyahaya.com/entry/2016/04/22/190857
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/37228
 moguragames.com http://www.moguragames.com/entry/hyper_light_drifter/
 monetizemaster.com http://monetizemaster.com/2258.html
@@ -182,6 +195,7 @@ nagoya-u.ac.jp http://www.nces.is.nagoya-u.ac.jp/NEXCESS/blog/index.php?catid=44
 nanapi.jp https://nanapi.jp/topics/674
 natalie.mu http://natalie.mu/music/news/183061
 naver.jp http://matome.naver.jp/odai/2145521809537803101
+net-mania.net http://www.net-mania.net/entry/english-learn-app
 netgeek.biz http://netgeek.biz/archives/69945
 newsln.jp http://business.newsln.jp/news/201604112024400000.html
 newsweekjapan.jp http://www.newsweekjapan.jp/column/sakai/2016/04/post-952.php
@@ -204,6 +218,7 @@ ox-tv.co.jp http://www.ox-tv.co.jp/information/info_2016-04-19.html
 paiza.jp https://paiza.jp/cgc
 pasonacareer.jp http://www.pasonacareer.jp/hatalabo/entry/2016/04/19/
 perlassociation.org http://blog.perlassociation.org/2016/04/japan-perl-associationjpa.html
+pero.li http://tech.pero.li/entry/2016/04/22/150000
 photo-yatra.tokyo https://www.photo-yatra.tokyo/blog/archives/4894
 photoshopvip.net http://photoshopvip.net/10-cropping-tips-in-photoshop
 playstation.net https://remoteplay.dl.playstation.net/remoteplay/lang/jp/index.html
@@ -218,6 +233,7 @@ recomtank.com http://www.recomtank.com/entry/avocado-salad
 recruit-lifestyle.co.jp http://www.recruit-lifestyle.co.jp/news/pressrelease/beauty/nw17238_20160412
 rekishiwales.com http://www.rekishiwales.com/entry/2016/04/08/183000
 remotekid.com http://www.remotekid.com/?p=2565
+rentalhomepage.com http://rentalhomepage.com/post-21197/
 rieti.go.jp http://www.rieti.go.jp/jp/publications/nts/16e037.html
 rikunabi.com http://next.rikunabi.com/journal/entry/20160412_1
 robotstart.info http://robotstart.info/2016/04/08/news-schaft_robot_nest2016.html
@@ -225,7 +241,7 @@ ryosuke-takano.net http://www.ryosuke-takano.net/entry/2016/04/10/110000
 ryuzee.com http://www.ryuzee.com/contents/blog/7085
 sakura.ne.jp http://minase-souya.sakura.ne.jp/online_graphics_processing/animeGifMaker_dezakiEffect01_shortVer/animeGifMaker_dezakiEffect01_shortVer.html
 sakurabaryo.com http://sakurabaryo.com/results/post-2782/
-sankei.com http://www.sankei.com/politics/news/160331/plt1603310035-n1.html
+sankei.com http://www.sankei.com/life/news/160422/lif1604220015-n1.html
 seesaa.net http://oriaso.seesaa.net/article/436182632.html
 server-party.com http://sabameshi.server-party.com/entry/10-application-about-macintosh
 serverworks.co.jp http://blog.serverworks.co.jp/ceo/?p=793
@@ -239,11 +255,12 @@ smaroomch.net http://smaroomch.net/matome_study-english_for-engineer/
 so-net.ne.jp http://lte.so-net.ne.jp/sim/0sim/0janai/
 softantenna.com http://www.softantenna.com/wp/review/gentallela/
 solid-earth.com http://www.solid-earth.com/blog/2016/04/17/post-1401/
-speakerdeck.com https://speakerdeck.com/htomine/ji-chuan-zhuo-ye-karafalsechuan-yan-pmfalsexin-de-3tiao
+speakerdeck.com https://speakerdeck.com/bufferings/zi-ran-tosounarukai-fa-timuwotukuruitonamu-number-toteka
 spot-app.jp https://travel.spot-app.jp/beppu_yoppy/
 spotlight-media.jp http://spotlight-media.jp/article/271132273598724204
 spotlight.pics http://spotlight.pics/ja/a/1211
 sqlazure.jp http://sqlazure.jp/r/tips/794/
+srad.jp http://yro.srad.jp/comments.pl?sid=683584&cid=3001813
 t-nishijima.net http://www.t-nishijima.net/entry/2016/04/05/112701
 taisy0.com http://taisy0.com/2016/04/05/67462.html
 tbs.co.jp http://news.tbs.co.jp/newseye/tbs_newseye2753525.html
@@ -277,6 +294,7 @@ wired.jp http://wired.jp/2016/04/01/transparent-wood/
 wirelesswire.jp https://wirelesswire.jp/2016/04/52114/
 withnews.jp http://withnews.jp/article/f0160408002qq000000000000000W03610101qq000013244A
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160409-00000003-sasahi-life
+yamamototetsu.com http://www.yamamototetsu.com/entry/fx0423
 yaplog.jp http://yaplog.jp/lp-n-rena/archive/1214
 yasuhisay.info http://www.yasuhisay.info/entry/2016/04/03/230000
 yomiuri.co.jp http://www.yomiuri.co.jp/economy/20160401-OYT1T50159.html
