@@ -5,12 +5,21 @@ use JSON::PS;
 use HTTP::Response;
 use Web::DOM::Document;
 use Web::XML::Parser;
+use Web::HTML::Parser;
 
 my ($list_file_name, $data_dir_name) = @ARGV;
 die "Usage: $0 list-file data-dir" unless defined $data_dir_name;
 
 my $list = path ($list_file_name)->slurp;
 my $data_path = path ($data_dir_name);
+
+sub origin_of ($) {
+  if ($_[0] =~ m{^([^:/]+://[^/]+)}) {
+    return $1;
+  } else {
+    return '';
+  }
+} # origin_of
 
 sub parse_header_data ($) {
   my $path = $_[0];
@@ -34,6 +43,7 @@ sub parse_header_data ($) {
   return $response;
 } # parse_header_data
 
+sub add_html_data ($$);
 sub add_element_counts ($$$);
 sub add_element_counts ($$$) {
   my ($child, $pkey, $data) = @_;
@@ -62,8 +72,28 @@ sub add_element_counts ($$$) {
   }
 
   if ($child->local_name eq 'description') {
-    if ($child->text_content =~ /[<&]/) {
+    my $text = $child->text_content;
+    if ($text =~ /[<&]/) {
       $data->{counts}->{"$key.markup"}++;
+      add_html_data $text => $data;
+    }
+  }
+
+  if ($child->local_name eq 'encoded' or
+      $child->local_name eq 'content') {
+    add_html_data $child->text_content => $data;
+  }
+
+  if ($child->local_name eq 'link') {
+    my $url = $child->get_attribute ('href') // $child->text_content;
+    my $rel = $child->get_attribute ('rel') // '';
+    if (length $url and not $rel eq 'hub') {
+      my $origin = origin_of $url;
+      if ($origin eq $data->{origin}) {
+        $data->{counts}->{"$key\_originsame"}++;
+      } else {
+        $data->{counts}->{"$key\_origincross"}++;
+      }
     }
   }
 
@@ -102,6 +132,31 @@ sub add_element_counts ($$$) {
   }
 } # add_element_counts
 
+my $_doc = new Web::DOM::Document;
+$_doc->manakai_is_html (1);
+my $html_parser = Web::HTML::Parser->new;
+$html_parser->onerror (sub { });
+sub add_html_data ($$) {
+  return unless $_[0] =~ /[<&]/;
+  my $data = $_[1];
+  my $el = $_doc->create_element ('div');
+  my $node_list = $html_parser->parse_char_string_with_context
+      ($_[0], $el, $_doc);
+  
+  my $key = 'htmlelement_';
+  my @node = @$node_list;
+  while (@node) {
+    my $node = shift @node;
+    next unless $node->node_type == 1;
+    my $ln = $node->local_name;
+    $data->{counts}->{$key.$ln}++;
+    unshift @node, $node->children->to_list;
+    for (@{$node->get_attribute_names}) {
+      $data->{counts}->{$key.$ln.'@'.$_}++;
+    }
+  }
+} # add_html_data
+
 my $Data = {};
 my $next_id = {};
 my $i = 0;
@@ -117,6 +172,7 @@ for (split /[\x0D\x0A]+/, $list) {
   my $body_path = $data_path->child ("$site.$id.body");
 
   $Data->{$url}->{url} = $url;
+  $Data->{$url}->{origin} = origin_of $url;
   $Data->{$url}->{header_data} = parse_header_data $headers_path;
 
   my $data = $Data->{$url};
