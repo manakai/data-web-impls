@@ -34,6 +34,14 @@ sub parse_header_data ($) {
   return $response;
 } # parse_header_data
 
+sub origin_of ($) {
+  if ($_[0] =~ m{^([^:/]+://[^/]+)}) {
+    return $1;
+  } else {
+    return '';
+  }
+} # origin_of
+
 my $Data = {};
 
 my $i = 0;
@@ -42,11 +50,13 @@ for (split /[\x0D\x0A]+/, $list) {
   next unless $site =~ /\A[0-9a-z._-]+\z/;
   warn $i++, "\n";
   $Data->{sites}->{$site}->{page}->{url} = $url;
+  $Data->{sites}->{$site}->{page}->{origin} = origin_of $url;
   $Data->{sites}->{$site}->{page}->{header_data} = parse_header_data $data_path->child ("$site.page.headers");
 
   $url =~ m{^([^:/]+://[^/]+/)} or die "Bad input URL <$url>";
   unless ($url eq $1) {
     $Data->{sites}->{$site}->{top}->{url} = $1;
+    $Data->{sites}->{$site}->{top}->{origin} = origin_of $1;
     $Data->{sites}->{$site}->{top}->{header_data} = parse_header_data $data_path->child ("$site.top.headers");
   } else {
     $Data->{sites}->{$site}->{top} = delete $Data->{sites}->{$site}->{page};
@@ -108,6 +118,13 @@ for (split /[\x0D\x0A]+/, $list) {
           $Data->{counts}->{"feedlink_media_$link->{media}"}->[0]++;
           $Data->{counts}->{"feedlink_localname_$link->{local_name}"}->[0]++;
           $Data->{sites}->{$site}->{$key}->{has_feed_link} = 1;
+
+          $link->{href_origin} = origin_of $link->{href};
+          if ($link->{href_origin} eq $data->{origin}) {
+            $Data->{counts}->{"feedlink_origin_same"}->[0]++;
+          } else {
+            $Data->{counts}->{"feedlink_origin_cross"}->[0]++;
+          }
         }
       }
 
@@ -115,6 +132,18 @@ for (split /[\x0D\x0A]+/, $list) {
       my $feed_links = [grep { $_->{is_feed} } @{$data->{alternates} || []}];
       $Data->{counts}->{"node_feedlink_@{[0+@$feed_links]}"}->[0]++;
       $Data->{counts}->{node_feedlink}->[0]++ if @$feed_links;
+      my $same_origin_feed_links = [grep { $_->{href_origin} eq $data->{origin} } @$feed_links];
+      my $cross_origin_feed_links = [grep { not $_->{href_origin} eq $data->{origin} } @$feed_links];
+      if (@$same_origin_feed_links and @$cross_origin_feed_links) {
+        $Data->{counts}->{node_feedlink_origin_both}->[0]++;
+        $data->{feedlink_origin_type} = 'both';
+      } elsif (@$same_origin_feed_links) {
+        $Data->{counts}->{node_feedlink_origin_same}->[0]++;
+        $data->{feedlink_origin_type} = 'same';
+      } elsif (@$cross_origin_feed_links) {
+        $Data->{counts}->{node_feedlink_origin_cross}->[0]++;
+        $data->{feedlink_origin_type} = 'cross';
+      }
       $data->{feed_link_count} = @$feed_links;
     }
   }
