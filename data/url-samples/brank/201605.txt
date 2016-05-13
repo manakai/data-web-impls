@@ -4,7 +4,7 @@
 afpbb.com http://www.afpbb.com/articles/-/3085931
 aissy.co.jp http://aissy.co.jp/ajihakase/blog/archives/10422
 alfalfalfa.com http://alfalfalfa.com/articles/151949.html
-ameblo.jp http://ameblo.jp/suzuki-ryohei/entry-12157298795.html
+ameblo.jp http://ameblo.jp/ca-seo/entry-12159258765.html
 animeruze.com http://www.animeruze.com/entry/kappurukyodoakaunto
 aoky.net http://www.aoky.net/articles/linus_torvalds/the_mind_behind_linux.htm
 asahi.com http://www.asahi.com/articles/ASJ4C3DS1J4CPTFC006.html
@@ -12,6 +12,7 @@ ascii.jp http://ascii.jp/elem/000/001/157/1157095/
 automaton.am http://jp.automaton.am/articles/iotw/indie-pick-249-overland/
 b-chan.jp http://www.b-chan.jp/entry/pc/Excel-skill_1
 baitalk.jp https://baitalk.jp/media/article/133/
+banka-enjoy.jp http://www.banka-enjoy.jp/entry/2016/05/11/115158
 bbc.com http://www.bbc.com/japanese/36184811
 biz-journal.jp http://biz-journal.jp/2016/05/post_15033.html
 blog.jp http://societas.blog.jp/1057101629
@@ -22,12 +23,14 @@ btrax.com http://blog.btrax.com/jp/2016/05/02/designer-engineer/
 buildinsider.net http://www.buildinsider.net/enterprise/devops/01
 buzzfeed.com https://www.buzzfeed.com/eimiyamamitsu/photos
 cakes.mu https://cakes.mu/posts/12954
+careersupli.jp http://careersupli.jp/lifehack/cooking-2/
 cinra.net http://www.cinra.net/column/201605-qurulinowandthen
 citrus-net.jp http://citrus-net.jp/article/835
 classmethod.jp http://dev.classmethod.jp/etc/bookreview-aws-native-app-978-4797386318/
 cloudsalon.net http://www.cloudsalon.net/entry/kinmaku20160510
 cnn.co.jp http://www.cnn.co.jp/business/35082121.html
 cocolog-nifty.com http://forza.cocolog-nifty.com/blog/2016/05/post-bef6.html
+cookpad.com http://techlife.cookpad.com/entry/2016/05/11/170000
 corylog.com http://www.corylog.com/entry/2016/05/07/030910
 cpplover.blogspot.com http://cpplover.blogspot.com/2016/05/blog-post.html
 cybozu.io http://blog.cybozu.io/entry/8320
@@ -35,7 +38,9 @@ daily.co.jp http://www.daily.co.jp/newsflash/gossip/2016/05/09/0009066480.shtml
 danshihack.com http://www.danshihack.com/2016/05/04/junp/time-50-most-influential-gadgets.html
 denfaminicogamer.jp http://news.denfaminicogamer.jp/diary/creator_genealogy
 dengekionline.com http://dengekionline.com/elem/000/001/269/1269247/
+doope.jp http://doope.jp/2016/0553991.html
 doorblog.jp http://kabumatome.doorblog.jp/archives/65859992.html
+en-japan.com http://careerhack.en-japan.com/report/detail/659
 engadget.com http://japanese.engadget.com/2016/05/05/ceo-iphone-7/
 eure.jp https://developers.eure.jp/tech/infra-provisioning/
 exblog.jp http://wivern.exblog.jp/25758679/
@@ -106,6 +111,7 @@ miyachiman.com http://www.miyachiman.com/entry/japan-rap-osusume
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/37462
 monstersproshop.com http://www.monstersproshop.com/osaka-alligator-gar/
 morningmanga.jp http://d.morningmanga.jp/viewer/539/muranitutawaru
+mtrl.tokyo http://blog.mtrl.tokyo/12537
 murasakai.net http://www.murasakai.net/entry/2016/04/30/205456
 mynavi.jp http://news.mynavi.jp/articles/2016/05/09/itoana/
 nagibrno.com http://www.nagibrno.com/entry/the-elements
@@ -125,6 +131,7 @@ onayami-solution.com http://onayami-solution.com/archives/431.html
 one-cut.net http://camera.one-cut.net/entry/photostepup
 oreilly.co.jp http://www.oreilly.co.jp/books/9784873117683/
 oshibon.net http://www.oshibon.net/entry/zinruigasitteirukotosubeteno
+otakuma.net http://otakei.otakuma.net/archives/2016051104.html
 outward-matrix.com http://www.outward-matrix.com/entry/2016/04/30/093000
 photo-studio9.com http://photo-studio9.com/instaflash-pro/
 photoshopvip.net http://photoshopvip.net/89662
@@ -137,12 +144,12 @@ qiita.com http://qiita.com/aggre/items/928eb2bedbac6a7829c0
 rcmdnk.github.io http://rcmdnk.github.io/blog/2016/05/01/computer-brew-file-github/
 recomtank.com http://www.recomtank.com/entry/headphone
 rekishiwales.com http://www.rekishiwales.com/entry/2016/05/04/200000
+rikunabi.com http://next.rikunabi.com/journal/entry/20160511
 riywo.com https://blog.riywo.com/2016/05/english-training-within-a-minute-everyday/
 rocketnews24.com http://rocketnews24.com/2016/05/03/744040/
 sakura.ne.jp http://www.wayto1945.sakura.ne.jp/KOR10-colony.html
 sankei.com http://www.sankei.com/affairs/news/160502/afr1605020005-n1.html
 seesaa.net http://sinnnoaikokuhosyu.seesaa.net/article/437558331.html
-seiko.site http://www.seiko.site/entry/2016/04/30/204330
 shiningmaru.com http://www.shiningmaru.com/entry/2016/04/29/212824
 shogakukan.co.jp http://comic-soon.shogakukan.co.jp/blog/report/juhan-tv-comitia-offstage-report/
 shonenjump.com http://www.shonenjump.com/p/sp/1605/dq_dai/
@@ -150,11 +157,14 @@ simplie.jp http://post.simplie.jp/posts/23
 skky.jp http://blog.skky.jp/entry/2016/05/04/194627
 slideshare.net http://www.slideshare.net/yasuhideminoda/ss-61542316
 sugatareiji.com http://www.sugatareiji.com/entry/Siri
+sunrise.am http://blog.sunrise.am/post/144196642739/its-almost-time-to-say-goodbye
 syosetu.com http://ncode.syosetu.com/n2928dh/
 taiyaki-oyako.com http://www.taiyaki-oyako.com/entry/2016/05/05/010020
 targma.jp http://www.targma.jp/yanashita/?p=4488
 tarohere.com http://tarohere.com/archives/868
 techcrunch.com http://jp.techcrunch.com/2016/04/30/20160425the-driverless-truck-is-coming-and-its-going-to-automate-millions-of-jobs/
+theguardian.com https://www.theguardian.com/sport/2016/may/11/tokyo-olympics-payment-diack-2020-games
+tinect.jp http://blog.tinect.jp/?p=24307
 togech.jp http://togech.jp/2016/05/09/35989
 togetter.com http://togetter.com/li/968983
 toma-g.net http://www.toma-g.net/entry/original_analytics
@@ -165,6 +175,7 @@ twitter.com http://twitter.com/ash0966/status/726348439164841984
 umenon.com http://umenon.com/2016/05/08/netflix/
 unsolublesugar.com http://unsolublesugar.com/20160508/213844/
 valvallow.blogspot.com http://valvallow.blogspot.com/2016/04/windowscmdexe.html
+vesta.onl https://news.vesta.onl/2016/05/11/realestate/
 vice.com http://jp.vice.com/news/ghost-rapes-of-bolivia
 visionseichou.com http://www.visionseichou.com/entry/saidoku-koten
 warorince.com http://www.warorince.com/entry/line-sibling
