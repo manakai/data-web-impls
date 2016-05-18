@@ -1,5 +1,5 @@
-Scalar::Util~1.45
 Net::SSLeay~1.74
+Scalar::Util~1.45
 LWP::MediaTypes~6.02
 Encode::Locale~1.05
 Test::NoWarnings~1.04
@@ -11,13 +11,12 @@ URI~1.71
 parent~0.234
 AnyEvent~7.12
 Exporter::Lite~0.08
-Test::Tester~1.302015
+Test::Tester~1.302019
 Canary::Stability~2011
 AnyEvent::HTTP~2.22
-Exporter~5.72
 HTTP::Date~6.02
-Carp~1.38
 Compress::Raw::Zlib~2.069
+Carp~1.38
 Compress::Raw::Bzip2~2.069
 HTTP::Response~6.11
 MIME::Base64~3.15

@@ -11,6 +11,7 @@ allabout.co.jp http://form.allabout.co.jp/series/22/246/
 ameblo.jp http://ameblo.jp/ca-seo/entry-12159258765.html
 animeruze.com http://www.animeruze.com/entry/kappurukyodoakaunto
 aoky.net http://www.aoky.net/articles/linus_torvalds/the_mind_behind_linux.htm
+appmarketinglabo.net http://appmarketinglabo.net/iyodasan/
 asahi.com http://www.asahi.com/articles/ASJ4C3DS1J4CPTFC006.html
 ascii.jp http://ascii.jp/elem/000/001/157/1157095/
 automaton.am http://jp.automaton.am/articles/iotw/indie-pick-249-overland/
@@ -34,6 +35,7 @@ classmethod.jp http://dev.classmethod.jp/etc/bookreview-aws-native-app-978-47973
 cloudsalon.net http://www.cloudsalon.net/entry/kinmaku20160510
 cnn.co.jp http://www.cnn.co.jp/business/35082121.html
 cocolog-nifty.com http://mitaimon.cocolog-nifty.com/blog/2016/05/evernotegoogled.html
+comic-walker.com http://comic-walker.com/contents/detail/KDCW_AM09000031010000_68/
 cookpad.com http://techlife.cookpad.com/entry/2016/05/11/170000
 corylog.com http://www.corylog.com/entry/2016/05/07/030910
 cpplover.blogspot.com http://cpplover.blogspot.com/2016/05/blog-post.html
@@ -43,6 +45,7 @@ daily.co.jp http://www.daily.co.jp/newsflash/gossip/2016/05/09/0009066480.shtml
 danshihack.com http://www.danshihack.com/2016/05/04/junp/time-50-most-influential-gadgets.html
 denfaminicogamer.jp http://news.denfaminicogamer.jp/diary/creator_genealogy
 dengekionline.com http://dengekionline.com/elem/000/001/269/1269247/
+diamond.jp http://diamond.jp/articles/-/91159
 dokusyo-geek-ki.com http://www.dokusyo-geek-ki.com/entry/2016/05/13/190000
 doope.jp http://doope.jp/2016/0553991.html
 doorblog.jp http://kabumatome.doorblog.jp/archives/65859992.html
@@ -55,10 +58,10 @@ fc2.com http://workingnews.blog117.fc2.com/blog-entry-9352.html
 getnews.jp http://getnews.jp/archives/1455974
 gigazine.net http://gigazine.net/news/20160430-dispatchwork-lego/
 gizmodo.jp https://www.gizmodo.jp/2016/05/great-plot-twisted-movies.html
-gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/narumi/3101
+gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/fcf/3111
 goo.ne.jp http://blog.goo.ne.jp/raymiyatake/e/39f1a5130d33bb7e0ed7d32cead7e692
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/degawa_monster
-google.com https://docs.google.com/spreadsheets/d/1hkZspU6Rly4ju5GlGLFH3SFvNim1iRuqBGkv154dBqA/htmlview?pli=1
+google.com https://www.google.com/about/careers/students/guide-to-technical-development.html
 haikara-city.com http://haikara-city.com/2016/04/09/hennyu_science/
 hamusoku.com http://hamusoku.com/archives/9243352.html
 hateblo.jp http://zopfcode.hateblo.jp/entry/router_tank
@@ -133,6 +136,7 @@ miyearnzzlabo.com http://miyearnzzlabo.com/archives/37462
 moae.jp http://www.moae.jp/comic/mangakarestart/17
 monstersproshop.com http://www.monstersproshop.com/osaka-alligator-gar/
 morningmanga.jp http://d.morningmanga.jp/viewer/539/muranitutawaru
+moshisata.com http://www.moshisata.com/entry/2016/05/17/065110
 mtrl.tokyo http://blog.mtrl.tokyo/12537
 murasakai.net http://www.murasakai.net/entry/2016/04/30/205456
 mynavi.jp http://news.mynavi.jp/articles/2016/05/09/itoana/
@@ -154,6 +158,7 @@ nxworld.net http://www.nxworld.net/tips/css-background-aspect-ratio.html
 onayami-solution.com http://onayami-solution.com/archives/431.html
 one-cut.net http://camera.one-cut.net/entry/photostepup
 oreilly.co.jp http://www.oreilly.co.jp/books/9784873117683/
+oricon.co.jp http://www.oricon.co.jp/news/2071764/full/
 oshibon.net http://www.oshibon.net/entry/zinruigasitteirukotosubeteno
 osusumerank.net http://www.osusumerank.net/entry/tousi-matomeru
 otakuma.net http://otakei.otakuma.net/archives/2016051104.html
@@ -202,6 +207,7 @@ togech.jp http://togech.jp/2016/05/09/35989
 togetter.com http://togetter.com/li/968983
 toma-g.net http://www.toma-g.net/entry/original_analytics
 toyokeizai.net http://toyokeizai.net/articles/-/115735
+tsubotax.com http://blog.tsubotax.com/archives/795
 tumblr.com http://noiehoie.tumblr.com/post/143907452146/%E3%82%B5%E3%83%A8%E3%82%AF%E3%81%A3%E3%81%A6%E6%9C%AC%E5%BD%93%E3%81%AB%E3%83%80%E3%83%A1%E3%81%A0%E3%81%AA%E3%81%81%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E4%BB%B6
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_economy/articles/000073931.html
 twitter.com http://twitter.com/ash0966/status/726348439164841984
@@ -213,6 +219,7 @@ vesta.onl https://news.vesta.onl/2016/05/11/realestate/
 vice.com http://jp.vice.com/news/ghost-rapes-of-bolivia
 visionseichou.com http://www.visionseichou.com/entry/saidoku-koten
 vivi-life.com http://www.vivi-life.com/entry/rails-ruby-web-app/
+voyagegroup.com http://techlog.voyagegroup.com/entry/2016/05/16/095036
 warorince.com http://www.warorince.com/entry/line-sibling
 wayohoo.com https://wayohoo.com/google-chrome/tips/google-chrome-tips-that-google-employees-told.html
 wikipedia.org https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB%E5%A4%A9%E7%9A%87%E5%AE%87%E5%AE%99%E3%81%AE%E6%97%85
