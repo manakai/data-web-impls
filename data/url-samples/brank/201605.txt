@@ -1,4 +1,5 @@
 0012.org http://bobcoffee.0012.org/entry/2016/05/02/151836
+1000ch.net https://1000ch.net/posts/2016/abematv-runtime-perf-audit.html
 2chblog.jp http://rabitsokuhou.2chblog.jp/archives/68543448.html
 4gamer.net http://www.4gamer.net/games/282/G028286/20160509005/
 affiliate-review-blog.com http://affiliate-review-blog.com/archives/4379
@@ -35,6 +36,7 @@ classmethod.jp http://dev.classmethod.jp/etc/bookreview-aws-native-app-978-47973
 cloudsalon.net http://www.cloudsalon.net/entry/kinmaku20160510
 cnn.co.jp http://www.cnn.co.jp/business/35082121.html
 cocolog-nifty.com http://mitaimon.cocolog-nifty.com/blog/2016/05/evernotegoogled.html
+coliss.com http://coliss.com/articles/build-websites/operation/work/javascript-best-2016-may.html
 comic-walker.com http://comic-walker.com/contents/detail/KDCW_AM09000031010000_68/
 cookpad.com http://techlife.cookpad.com/entry/2016/05/11/170000
 corylog.com http://www.corylog.com/entry/2016/05/07/030910
@@ -70,7 +72,7 @@ hatena.ne.jp http://d.hatena.ne.jp/Baatarism/20160505/1462460710
 hatenablog.com http://zoomer.hatenablog.com/entry/2016/05/14/masuzoe
 hatenablog.jp http://nounai-backpacker.hatenablog.jp/entry/eiga-ranking
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20160510/1462865729
-hatenadiary.jp http://huyukiitoichi.hatenadiary.jp/entry/2016/05/15/180157
+hatenadiary.jp http://orangestar.hatenadiary.jp/entry/2016/05/17/231513
 hirolog-ibaraki.net http://www.hirolog-ibaraki.net/entry/nemocurry
 hochi.co.jp http://www.hochi.co.jp/topics/20160515-OHT1T50094.html
 huffingtonpost.jp http://www.huffingtonpost.jp/2016/05/03/chicago-woman-sues-starbucks_n_9826402.html
@@ -82,7 +84,7 @@ inside-games.jp http://www.inside-games.jp/article/2016/05/06/98407.html
 ipa.go.jp http://www.ipa.go.jp/security/iot/iotguide.html
 irasutoya.com http://www.irasutoya.com/2016/05/blog-post_222.html
 ishikawayulio.net http://www.ishikawayulio.net/entry/chuusotsu-roudousha
-ismedia.jp http://jbpress.ismedia.jp/articles/-/46751
+ismedia.jp http://wedge.ismedia.jp/articles/-/6807
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1605/06/news091.html
 ito-tomohide.com http://www.ito-tomohide.com/entry/2016/05/15/213000
 ito.com http://joi.ito.com/jp/archives/2016/05/08/005596.html
@@ -92,6 +94,7 @@ jalan.net http://www.jalan.net/news/article/84404/
 japaaan.com http://mag.japaaan.com/archives/38459
 jarna.jp http://www.jarna.jp/entry/entry/life/tetunagi
 jcp.or.jp http://www.jcp.or.jp/akahata/aik16/2016-05-09/2016050901_01_1.html
+jpo.go.jp http://www.jpo.go.jp/tetuzuki/t_shouhyou/shutsugan/tanin_shutsugan.htm
 jukennsei.com http://jukennsei.com/2016/05/fantaji-10/
 kaeln.net http://www.kaeln.net/entry/2016/05/14/100502
 kaerucloud.com http://blog.kaerucloud.com/entry/freemixtape_1
@@ -144,8 +147,10 @@ nagibrno.com http://www.nagibrno.com/entry/the-elements
 nakamu.info http://www.nakamu.info/entry/2016/05/15/000401
 natalie.mu http://natalie.mu/owarai/news/186239
 naver.jp http://matome.naver.jp/odai/2145166359752211301
+netgeek.biz http://netgeek.biz/archives/73498
 newsweekjapan.jp http://www.newsweekjapan.jp/stories/world/2016/05/post-5030.php
 nhk.or.jp http://www3.nhk.or.jp/news/html/20160430/k10010504331000.html
+nifty.com http://portal.nifty.com/kiji/160517196564_1.htm
 nikkan-spa.jp http://nikkan-spa.jp/1104565
 nikkansports.com http://www.nikkansports.com/general/news/1641033.html
 nikkei.co.jp http://dual.nikkei.co.jp/article.aspx?id=8319
@@ -155,6 +160,7 @@ nikufes.jp https://nikufes.jp/archives/news/%E3%80%8C%E8%82%89%E3%83%95%E3%82%A7
 note.mu https://note.mu/elis_ragina/n/n18b780a5fe4c
 nurse-diaries.com http://www.nurse-diaries.com/entry/nurse-marriage
 nxworld.net http://www.nxworld.net/tips/css-background-aspect-ratio.html
+omocoro.jp http://omocoro.jp/kiji/80821/
 onayami-solution.com http://onayami-solution.com/archives/431.html
 one-cut.net http://camera.one-cut.net/entry/photostepup
 oreilly.co.jp http://www.oreilly.co.jp/books/9784873117683/
@@ -180,6 +186,8 @@ reuters.com http://jp.reuters.com/article/idJPTYE90E05020130115
 rikunabi.com http://next.rikunabi.com/journal/entry/20160511
 riywo.com https://blog.riywo.com/2016/05/english-training-within-a-minute-everyday/
 rocketnews24.com http://rocketnews24.com/2016/05/03/744040/
+rubykaigi.org http://regional.rubykaigi.org/tokyo11/interview/kazuho/
+sakaiosamu.com http://sakaiosamu.com/2016/0517111557/
 sakura.ne.jp http://www.wayto1945.sakura.ne.jp/KOR10-colony.html
 sankei.com http://www.sankei.com/affairs/news/160502/afr1605020005-n1.html
 seesaa.net http://sinnnoaikokuhosyu.seesaa.net/article/437558331.html
@@ -189,12 +197,14 @@ shonenjump.com http://www.shonenjump.com/p/sp/1605/dq_dai/
 simplie.jp http://post.simplie.jp/posts/23
 skky.jp http://blog.skky.jp/entry/2016/05/04/194627
 slideshare.net https://www.slideshare.net/RyoNakamura3/ss-61945131
+songmu.jp http://www.songmu.jp/riji/entry/prepare-golang-development-environment-on-mac.html
 speakerdeck.com https://speakerdeck.com/hanazuki/gou-cheng-guan-li-siterutumoritakeninaranaifang-fa
 study-doctor.jp http://study-doctor.jp/
 sugatareiji.com http://www.sugatareiji.com/entry/Siri
 sunrise.am http://blog.sunrise.am/post/144196642739/its-almost-time-to-say-goodbye
 suzunasu.com http://www.suzunasu.com/entry/2016/05/12/204732
 syosetu.com http://ncode.syosetu.com/n2928dh/
+tabi-labo.com http://tabi-labo.com/260657/fried-vegetables/
 taiyaki-oyako.com http://www.taiyaki-oyako.com/entry/2016/05/05/010020
 targma.jp http://www.targma.jp/yanashita/?p=4488
 tarohere.com http://tarohere.com/archives/868
@@ -225,6 +235,7 @@ wayohoo.com https://wayohoo.com/google-chrome/tips/google-chrome-tips-that-googl
 wikipedia.org https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB%E5%A4%A9%E7%9A%87%E5%AE%87%E5%AE%99%E3%81%AE%E6%97%85
 wimax2text.jp http://www.wimax2text.jp/newnews/2016/05/08/656/
 wired.jp http://wired.jp/2016/05/01/more-viruses/
+withnews.jp http://withnews.jp/article/f0160517000qq000000000000000W03610701qq000013252A
 xn--e--0g4awc3c1451cnh5a.com http://xn--e--0g4awc3c1451cnh5a.com/yuurei/
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160503-00010001-footballc-socc
 yamamototetsu.com http://www.yamamototetsu.com/entry/abematv
