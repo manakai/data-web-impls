@@ -18,6 +18,7 @@ aoky.net http://www.aoky.net/articles/linus_torvalds/the_mind_behind_linux.htm
 appmarketinglabo.net http://appmarketinglabo.net/iyodasan/
 asahi.com http://www.asahi.com/articles/ASJ4C3DS1J4CPTFC006.html
 ascii.jp http://ascii.jp/elem/000/001/157/1157095/
+atmarkit.co.jp http://www.atmarkit.co.jp/ait/articles/1605/26/news029.html
 aucfan.com http://aucfan.com/article/ritsumei-15439/
 automaton.am http://jp.automaton.am/articles/iotw/indie-pick-249-overland/
 b-chan.jp http://www.b-chan.jp/entry/pc/Excel-skill_1
@@ -34,12 +35,13 @@ brother.co.jp http://www.brother.co.jp/product/printer/sp/m/magazine/kiji33.html
 btrax.com http://blog.btrax.com/jp/2016/05/02/designer-engineer/
 buildinsider.net http://www.buildinsider.net/column/kawai-yoshifumi/004
 bunshun.jp http://shukan.bunshun.jp/articles/-/6156
-buzzfeed.com https://www.buzzfeed.com/eimiyamamitsu/photos
+buzzfeed.com https://www.buzzfeed.com/daisukefuruta/behind-the-scenes-g7
 cakes.mu https://cakes.mu/posts/12912
 cao.go.jp http://www5.cao.go.jp/keizai-shimon/kaigi/special/future/kimini_book.pdf
 career-theory.net http://career-theory.net/abroad-job-change-sites-5689#index200
 careersupli.jp http://careersupli.jp/lifehack/cooking-2/
 change-makers.jp https://www.change-makers.jp/business/11053
+cho-gouriteki.com http://www.cho-gouriteki.com/entry/EDM-AVICII_best
 cinra.net http://www.cinra.net/column/201605-qurulinowandthen
 citrus-net.jp http://citrus-net.jp/article/835
 classmethod.jp http://dev.classmethod.jp/etc/bookreview-aws-native-app-978-4797386318/
@@ -57,7 +59,8 @@ cybozu.io http://blog.cybozu.io/entry/2016/05/18/103000
 daily.co.jp http://www.daily.co.jp/newsflash/gossip/2016/05/09/0009066480.shtml
 danshihack.com http://www.danshihack.com/2016/05/04/junp/time-50-most-influential-gadgets.html
 ddnavi.com http://ddnavi.com/news/301993/a/
-denfaminicogamer.jp http://news.denfaminicogamer.jp/diary/creator_genealogy
+dekiru.net https://dekiru.net/article/14127/
+denfaminicogamer.jp http://news.denfaminicogamer.jp/column03/game-gatari01
 dengekionline.com http://dengekionline.com/elem/000/001/269/1269247/
 diamond.jp http://diamond.jp/articles/-/91159
 diet-slimo.com http://diet-slimo.com/blog/%E3%81%8A%E8%85%B9%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E7%89%B9%E9%9B%86/
@@ -79,7 +82,9 @@ facebook.com https://www.facebook.com/akira.yahagi/posts/10209501343948067
 favclip.com https://logirl.favclip.com/article/detail/5699708345384960
 fc2.com http://workingnews.blog117.fc2.com/blog-entry-9352.html
 fmworld.net https://azby.fmworld.net/support/repair/syurikitei/
+fullstackreact.com https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/
 gamespark.jp http://www.gamespark.jp/article/2016/05/19/65941.html
+ge-ron.biz http://ge-ron.biz/archives/1057897615.html
 getnews.jp http://getnews.jp/archives/1455974
 gigazine.net http://gigazine.net/news/20160430-dispatchwork-lego/
 github.com https://github.com/blog/2173-more-contributions-on-your-profile
@@ -88,6 +93,7 @@ gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/fcf/3111
 goo.ne.jp http://blog.goo.ne.jp/raymiyatake/e/39f1a5130d33bb7e0ed7d32cead7e692
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/degawa_monster
 google.com https://www.google.com/about/careers/students/guide-to-technical-development.html
+goope.jp http://blog.goope.jp/?eid=466
 hahalife0.com http://www.hahalife0.com/entry/2016/05/23/070300
 haikara-city.com http://haikara-city.com/2016/04/09/hennyu_science/
 hama1-cl.jp http://media.hama1-cl.jp/worry/av-couple-boyfriend/
@@ -108,6 +114,7 @@ honz.jp http://honz.jp/articles/-/42823
 huffingtonpost.jp http://www.huffingtonpost.jp/2016/05/03/chicago-woman-sues-starbucks_n_9826402.html
 ikeay.net http://learning.ikeay.net/entry/2016/05/10/224608
 imalive7799.com http://blog.imalive7799.com/entry/Ikegami-akira-rules
+imishin.jp http://www.imishin.jp/water-boiling/
 impress.co.jp http://www.forest.impress.co.jp/docs/news/20160520_758407.html
 in-activism.com http://www.in-activism.com/entry/JUDY-AND-MARY
 inside-games.jp http://www.inside-games.jp/article/2016/05/06/98407.html
@@ -133,8 +140,10 @@ kaerucloud.com http://blog.kaerucloud.com/entry/freemixtape_1
 kai-you.net http://kai-you.net/article/28587
 kakuyomu.jp https://kakuyomu.jp/works/1177354054880979960/episodes/1177354054880979972
 kandareiji.com http://www.kandareiji.com/entry/chikirin
+kandosaori.com http://www.kandosaori.com/entry/2016/05/25/210000
 kanemotilevel.com http://kanemotilevel.com/hukugyou.html
 kantan-shikaku.com http://kantan-shikaku.com/ks/blog-management/
+kddi.com http://time-space.kddi.com/ketaizukan/index.html
 keisen.ac.jp http://www.keisen.ac.jp/blog/president/2016/05/post-4.html
 kiji.is http://this.kiji.is/100797615857141244
 kindou.info http://kindou.info/67003.html
@@ -154,6 +163,7 @@ lifehacker.jp http://www.lifehacker.jp/2016/05/160509eight_things_everyday.html
 lineblog.me http://lineblog.me/hikashu/archives/59713796.html
 lite-ra.com http://lite-ra.com/2016/05/post-2230.html
 livedoor.biz http://lifehack2ch.livedoor.biz/archives/51627425.html
+livedoor.com http://news.livedoor.com/article/detail/11568724/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1880802.html
 livejournal.com http://karino2.livejournal.com/400478.html
 livesense.co.jp http://made.livesense.co.jp/entry/2016/05/10/083000
@@ -166,6 +176,7 @@ medium.com https://medium.com/outsystems-engineering/64ae6d468358
 meg2.net http://www.meg2.net/entry/2016/05/03/103900
 meguminimal.com http://www.meguminimal.com/entry/_fast-write_
 mensfashion.cc http://mensfashion.cc/41403
+mercari.com http://tech.mercari.com/entry/2016/05/25/170108
 microsoft.com https://blogs.msdn.microsoft.com/chomado/xamarin/xamarin-history-as-a-company/
 mikinote.com http://www.mikinote.com/entry/hhkb
 minnanokaigo.com http://www.minnanokaigo.com/news/yamamoto/lesson2/
@@ -175,6 +186,7 @@ moae.jp http://www.moae.jp/comic/mangakarestart/17
 monstersproshop.com http://www.monstersproshop.com/osaka-alligator-gar/
 morningmanga.jp http://d.morningmanga.jp/viewer/539/muranitutawaru
 moshisata.com http://www.moshisata.com/entry/2016/05/17/065110
+moukotanmen-nakamoto.com http://www.moukotanmen-nakamoto.com/oshirase
 mtrl.tokyo http://blog.mtrl.tokyo/12537
 murasakai.net http://www.murasakai.net/entry/2016/04/30/205456
 mynavi.jp http://news.mynavi.jp/articles/2016/05/09/itoana/
@@ -188,6 +200,7 @@ newsweekjapan.jp http://www.newsweekjapan.jp/stories/world/2016/05/post-5030.php
 nhk.or.jp http://www3.nhk.or.jp/news/html/20160430/k10010504331000.html
 nicovideo.jp http://www.nicovideo.jp/watch/sm28906770
 nifty.com http://portal.nifty.com/kiji/160517196564_1.htm
+nihon-trim.co.jp http://www.nihon-trim.co.jp/dl/ir/565c4f65f2f5e0ecf35e1f3ba74e4500.pdf
 nikkan-gendai.com http://www.nikkan-gendai.com/articles/view/news/181984?pc=true
 nikkan-spa.jp http://nikkan-spa.jp/1104565
 nikkansports.com http://www.nikkansports.com/general/news/1641033.html
@@ -227,6 +240,7 @@ rakuten.jp http://srdk.rakuten.jp/entry/2016/05/19/110000
 rcmdnk.github.io http://rcmdnk.github.io/blog/2016/05/01/computer-brew-file-github/
 recomtank.com http://www.recomtank.com/entry/headphone
 recruit-mp.co.jp https://tech.recruit-mp.co.jp/event/post-10091/
+redbull.com http://www.redbull.com/jp/ja/games/stories/1331796797606/input-latency-is-affecting-street-fighter-v
 rekishiwales.com http://www.rekishiwales.com/entry/2016/05/04/200000
 reuters.com http://jp.reuters.com/article/idJPTYE90E05020130115
 rikunabi.com http://next.rikunabi.com/journal/entry/20160511
@@ -264,6 +278,7 @@ tarohere.com http://tarohere.com/archives/868
 tatsuru.com http://blog.tatsuru.com/2016/05/15_0947.php
 tbs.co.jp http://news.tbs.co.jp/newseye/tbs_newseye2773459.html
 techcrunch.com http://jp.techcrunch.com/2016/04/30/20160425the-driverless-truck-is-coming-and-its-going-to-automate-millions-of-jobs/
+tedium-life.com http://www.tedium-life.com/entry/2016/05/25/190000
 theguardian.com https://www.theguardian.com/sport/2016/may/11/tokyo-olympics-payment-diack-2020-games
 tinect.jp http://blog.tinect.jp/?p=24307
 togech.jp http://togech.jp/2016/05/09/35989
@@ -302,4 +317,5 @@ yukihy.com http://www.yukihy.com/entry/thermodynamics-contents
 yutorigoto.com http://blog.yutorigoto.com/entry/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9C%E3%83%88%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC
 yutorism.jp http://www.yutorism.jp/entry/costing
 zakzak.co.jp http://hatsugen.zakzak.co.jp/qa9165486.html
+zanreko.com http://zanreko.com/
 zenmashiniki.com http://www.zenmashiniki.com/entry/2016/05/01/%EF%BC%91%E6%97%A5%E3%81%AE%E6%91%82%E5%8F%96%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%922500kcal%E4%BB%A5%E5%86%85%E3%81%AB%E6%8A%91%E3%81%88%E3%82%8B%E3%81%A8%E3%81%8B%E3%81%84%E3%81%86%E7%84%A1
