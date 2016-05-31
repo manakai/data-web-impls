@@ -46,6 +46,7 @@ career-theory.net http://career-theory.net/abroad-job-change-sites-5689#index200
 careersupli.jp http://careersupli.jp/lifehack/cooking-2/
 change-makers.jp https://www.change-makers.jp/business/11053
 cho-gouriteki.com http://www.cho-gouriteki.com/entry/EDM-AVICII_best
+cinema-frontline.com http://www.cinema-frontline.com/2016/05/movie-trailer-alita-battle-angel.html
 cinra.net http://www.cinra.net/column/201605-qurulinowandthen
 citrus-net.jp http://citrus-net.jp/article/835
 classmethod.jp http://dev.classmethod.jp/etc/bookreview-aws-native-app-978-4797386318/
@@ -68,6 +69,7 @@ ddnavi.com http://ddnavi.com/news/301993/a/
 dekiru.net https://dekiru.net/article/14127/
 denfaminicogamer.jp http://news.denfaminicogamer.jp/column03/game-gatari01
 dengekionline.com http://dengekionline.com/elem/000/001/269/1269247/
+depressionnote.com http://www.depressionnote.com/entry/2016/05/29/113000
 diamond.jp http://diamond.jp/articles/-/91159
 diet-slimo.com http://diet-slimo.com/blog/%E3%81%8A%E8%85%B9%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E7%89%B9%E9%9B%86/
 dokusyo-geek-ki.com http://www.dokusyo-geek-ki.com/entry/2016/05/13/190000
@@ -120,6 +122,7 @@ hochi.co.jp http://www.hochi.co.jp/topics/20160515-OHT1T50094.html
 hokkaido-np.co.jp http://dd.hokkaido-np.co.jp/sports/baseball/fighters/1-0273599.html
 homeo.club http://homeo.club/bulge-of-a-chest/
 honz.jp http://honz.jp/articles/-/42823
+hosyusokuhou.jp http://hosyusokuhou.jp/archives/47661169.html
 huffingtonpost.jp http://www.huffingtonpost.jp/2016/05/03/chicago-woman-sues-starbucks_n_9826402.html
 ikeay.net http://learning.ikeay.net/entry/2016/05/10/224608
 ikedahayato.com http://www.ikedahayato.com/20160529/60686783.html
@@ -132,12 +135,14 @@ inte.co.jp https://haken.inte.co.jp/i-engineer/interesting/monotaro
 internetcom.jp http://internetcom.jp/201020/tokyo-railway-electronic-circuit-map-case
 ipa.go.jp http://www.ipa.go.jp/security/iot/iotguide.html
 irasutoya.com http://www.irasutoya.com/2016/05/blog-post_222.html
+ironna.jp http://ironna.jp/article/3391
 ishikawayulio.net http://www.ishikawayulio.net/entry/chuusotsu-roudousha
 ismedia.jp http://wedge.ismedia.jp/articles/-/6807
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1605/06/news091.html
 ito-tomohide.com http://www.ito-tomohide.com/entry/2016/05/15/213000
 ito.com http://joi.ito.com/jp/archives/2016/05/08/005596.html
 ituore.com http://www.ituore.com/entry/javascript-basic
+itutado.com http://www.itutado.com/entry/2016/05/29/%E3%81%9D%E3%82%8C%E3%81%AF%E3%81%BE%E3%81%95%E3%81%AB%E5%91%AA%E3%81%84%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%80%82%E6%AD%BB%E3%82%93%E3%81%A0%E5%A6%B9%E3%81%AE%E6%81%8B%E4%BA%BA%E3%81%A8%E4%BA%A4%E9%9A%9B
 j-cast.com http://www.j-cast.com/2016/05/12266638.html
 jalan.net http://www.jalan.net/news/article/84404/
 japaaan.com http://mag.japaaan.com/archives/38459
@@ -252,7 +257,7 @@ postd.cc http://postd.cc/designing-more-efficient-forms-structure-inputs-labels-
 print-on.jp http://www.print-on.jp/doujin/doujin_index_orei.htm
 programming-study.com http://programming-study.com/trouble/ai5/
 publickey1.jp http://www.publickey1.jp/blog/16/allo_duo_google_io_2016.html
-qiita.com http://qiita.com/TakahikoKawasaki/items/037320792092bb5a1f62
+qiita.com http://qiita.com/Algebra_nobu/items/4e2b36bdb38434e183de
 rakuten.jp http://srdk.rakuten.jp/entry/2016/05/19/110000
 rcmdnk.github.io http://rcmdnk.github.io/blog/2016/05/01/computer-brew-file-github/
 recomtank.com http://www.recomtank.com/entry/alcohol-harassment
@@ -269,8 +274,11 @@ ryukyushimpo.jp http://ryukyushimpo.jp/editorial/entry-282393.html
 ryuzee.com http://www.ryuzee.com/contents/blog/7090
 sakaiosamu.com http://sakaiosamu.com/2016/0517111557/
 sakura.ne.jp http://www.wayto1945.sakura.ne.jp/KOR10-colony.html
+salmon-garage.com http://www.salmon-garage.com/entry/2016/04/20/164414
 sankei.com http://www.sankei.com/affairs/news/160502/afr1605020005-n1.html
+sankeibiz.jp http://www.sankeibiz.jp/aireport/news/160529/aia1605290700001-n1.htm
 seesaa.net http://sinnnoaikokuhosyu.seesaa.net/article/437558331.html
+sekaihaasobiba.com http://www.sekaihaasobiba.com/entry/2016/05/29/205140
 shijo-street-weekend.com http://www.shijo-street-weekend.com/entry/2016/05/24/191000
 shiningmaru.com http://www.shiningmaru.com/entry/2016/04/29/212824
 shogakukan.co.jp http://comic-soon.shogakukan.co.jp/blog/report/juhan-tv-comitia-offstage-report/
