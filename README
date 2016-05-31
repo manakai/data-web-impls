@@ -20,6 +20,11 @@ name/value pairs:
 
     A JSON object whose names are version strings of Firefox releases.
 
+* data/firefox-blocklisted-certs.json
+
+Revocations of certificates, extracted from Firefox's |blocklist.xml|
+<https://github.com/mozilla/gecko-dev/blob/master/browser/app/blocklist.xml>.
+
 * data/url-samples/brank/YYYYMM.txt
 
 Lists of top Japanese Web site of month YYYY-MM, extracted from the
@@ -36,7 +41,9 @@ URL.  The order of the lines in the files is not significant.
 
 <https://archive.mozilla.org/pub/firefox/releases/>.
 
-<http://b.hatena.ne.jp/ranking/daily>.
+<https://github.com/mozilla/gecko-dev/blob/master/browser/app/blocklist.xml>.
+
+<https://b.hatena.ne.jp/ranking/daily>.
 
 * License
 
@@ -44,3 +51,7 @@ Per CC0 <https://creativecommons.org/publicdomain/zero/1.0/>, to the
 extent possible under law, the author of the data files, this
 document, and the scripts used to generate them has waived all
 copyright and related or neighboring rights to them.
+
+The |data/firefox-blocklisted-certs.json| file is extracted from
+Gecko's |blocklist.xml|, which is covered by
+<https://github.com/mozilla/gecko-dev/blob/master/LICENSE>.

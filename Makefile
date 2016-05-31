@@ -39,8 +39,10 @@ pmbp-install: pmbp-upgrade
 
 SAVE = $(WGET) -O
 
-build: data/firefox-versions.json data/firefox-locales.json \
-    data/firefox-latest.txt
+build: data
+
+data: data/firefox-versions.json data/firefox-locales.json \
+    data/firefox-latest.txt data/firefox-blocklisted-certs.json
 
 build-clean:
 	rm -fr local/*.html
@@ -58,6 +60,8 @@ local/firefox-releases.html:
 	$(SAVE) $@ https://archive.mozilla.org/pub/firefox/releases/
 local/firefox-locales.html: data/firefox-latest.txt
 	$(SAVE) $@ https://archive.mozilla.org/pub/firefox/releases/`cat data/firefox-latest.txt`/linux-x86_64/
+local/firefox-blocklist.xml:
+	$(SAVE) $@ https://raw.githubusercontent.com/mozilla/gecko-dev/master/browser/app/blocklist.xml
 
 local/bin/jq:
 	mkdir -p local/bin
@@ -68,6 +72,10 @@ local/psl.dat:
 	$(WGET) -O $@ https://raw.githubusercontent.com/publicsuffix/list/master/public_suffix_list.dat
 local/psl.txt: local/psl.dat bin/psl.pl
 	$(PERL) bin/psl.pl > $@
+
+data/firefox-blocklisted-certs.json: bin/firefox-blocklisted-certs.pl \
+    local/firefox-blocklist.xml
+	$(PERL) $< > $@
 
 data-url-samples: bin/parse-brank.pl bin/url-samples.pl local/psl.txt
 	$(PERL) bin/parse-brank.pl > local/brank-urls.txt
