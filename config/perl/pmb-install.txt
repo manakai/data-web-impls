@@ -11,7 +11,7 @@ URI~1.71
 parent~0.234
 AnyEvent~7.12
 Exporter::Lite~0.08
-Test::Tester~1.302026
+Test::Tester~1.302030
 Canary::Stability~2011
 AnyEvent::HTTP~2.22
 HTTP::Date~6.02
