@@ -1,3 +1,4 @@
+0shiki.jp http://www.0shiki.jp/entry/mistery-novel
 2chblog.jp http://rabitsokuhou.2chblog.jp/archives/68548829.html
 4gamer.net http://www.4gamer.net/games/292/G029299/20160614035/
 afcp.jp http://www.afcp.jp/entry/2016/06/15/002500
@@ -27,7 +28,9 @@ bunshun.jp http://shukan.bunshun.jp/articles/-/6253
 buzzfeed.com https://www.buzzfeed.com/kazukiwatanabe/arent-we-news-media
 ca-reward.co.jp http://techblog.ca-reward.co.jp/techblog/2016/06/post-33.html
 cavolump.com http://cavolump.com/jp-photo/av-photo/9070/
+chibanippo.co.jp http://www.chibanippo.co.jp/exemption_matters
 chlamydia-std.xyz http://chlamydia-std.xyz/ohmygosh/
+cho-gouriteki.com http://www.cho-gouriteki.com/entry/karaoke-business_teppan_best
 chunichi.co.jp http://www.chunichi.co.jp/s/article/2016060490221806.html
 cinra.net http://www.cinra.net/news/201606080-matthewherbert
 classmethod.jp http://dev.classmethod.jp/cloud/aws/aws-summit-tokyo-2016-devcon-hb1520/
@@ -61,6 +64,7 @@ engadget.com http://japanese.engadget.com/2016/06/06/google/
 english-speaking.jp https://www.english-speaking.jp/ondoku-imagelink/2016/06/03/ondoku-starter-guide/
 f-shin.net https://f-shin.net/fsgarage/4724
 fabcross.jp https://fabcross.jp/category/make/20160608_okashi.html
+fair-skinned-monster.com http://www.fair-skinned-monster.com/entry/2016/06/19/213143
 famitsu.com http://www.famitsu.com/news/201606/06107465.html
 favclip.com https://www.favclip.com/article/detail/5770028435636224
 fc2.com http://veadardiary.blog29.fc2.com/blog-entry-6189.html
@@ -70,6 +74,7 @@ fortunerinn.org http://www.fortunerinn.org/blog/2016/06/10725
 freee.co.jp https://kigyo.freee.co.jp/story-sasaki/
 full-count.jp http://full-count.jp/2016/06/16/post35461/
 genryudaigaku.com http://genryudaigaku.com/archives/2756
+geocities.jp http://www.geocities.jp/straphangerseye/transport/ic/error.html
 gibe-on.info http://www.gibe-on.info/entry/deepsea-organisms
 gigazine.net http://gigazine.net/news/20160531-child-book-earning/
 ginzamag.com https://ginzamag.com/archives/4975
@@ -81,6 +86,7 @@ goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/brexit
 google.com https://fonts.google.com/
 goope.jp http://blog.goope.jp/?eid=467
 gree.jp http://labs.gree.jp/blog/2016/06/16024/
+hahalife0.com http://www.hahalife0.com/entry/2016/06/20/070300
 hateblo.jp http://yuki3mori.hateblo.jp/entry/20160616/1466085267
 hatelabo.jp http://anond.hatelabo.jp/20160227003106
 hatena.ne.jp http://d.hatena.ne.jp/Baatarism/20160605/1465136437
@@ -101,8 +107,9 @@ huin.me http://blog.huin.me/2016/06/13/wwdc-2016-keynote/
 hydrogencooking.com http://www.hydrogencooking.com/facilities.html
 ikeay.net http://learning.ikeay.net/entry/2016/06/01/210452
 imalive7799.com http://blog.imalive7799.com/entry/1month-after-retirement-2006
-impress.co.jp http://pc.watch.impress.co.jp/docs/news/1005202.html
+impress.co.jp http://pc.watch.impress.co.jp/docs/column/nishikawa/1006048.html
 infoq.com https://www.infoq.com/jp/news/2016/06/agile-dead-again
+inoueyuuki.com http://www.inoueyuuki.com/entry/wifi-no
 inside-games.jp http://www.inside-games.jp/article/2016/06/01/99130.html
 inte.co.jp https://haken.inte.co.jp/i-engineer/interesting/numadumari-4
 invregister.com https://oco-fx.invregister.com/op_01/
@@ -113,10 +120,11 @@ itmedia.co.jp http://www.itmedia.co.jp/business/articles/1606/03/news039.html
 ituore.com http://www.ituore.com/entry/anime-eiga-osusume
 iwashi.co http://iwashi.co/2015/10/22/oncodereview-translated
 j-cast.com http://www.j-cast.com/2016/06/06268906.html
+jiburi.com http://jiburi.com/working-abroad10/
 jimpei.net http://www.jimpei.net/entry/camper
 jquery.com http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/
 kabi.jp http://www.kabi.jp/breed/
-kaerucloud.com http://blog.kaerucloud.com/entry/cream-ann
+kaerucloud.com http://blog.kaerucloud.com/entry/amazon-prime
 kahoku.co.jp http://www.kahoku.co.jp/tohokunews/201606/20160604_13028.html
 kai-you.net http://kai-you.net/article/29354
 kamipro.com http://kamipro.com/blog/?p=16006
@@ -154,7 +162,7 @@ martinfowler.com http://martinfowler.com/articles/serverless.html
 matogrosso.jp http://matogrosso.jp/privaterepo/01.html
 mazimazi-party.com http://www.mazimazi-party.com/entry/joshikai
 medium.com https://medium.com/@osamingo/b01bac834040
-mikinote.com http://www.mikinote.com/entry/ikari-kodomoni
+mikinote.com http://www.mikinote.com/entry/game-egui
 mildch.com http://mildch.com/archives/47694804.html
 minamimitsuhiro.info http://minamimitsuhiro.info/archives/4638326.html
 mixi.jp http://news.mixi.jp/view_news.pl?id=4040216&media_id=220
@@ -167,6 +175,7 @@ msdn.com https://channel9.msdn.com/Events/de-code/2016/CLT-016
 mudainodocument.com http://www.mudainodocument.com/articles/37581.html
 mukaikaze.net http://www.mukaikaze.net/entry/2016/06/04/220148
 natalie.mu http://natalie.mu/music/news/189215
+naver.jp http://matome.naver.jp/odai/2146628054776330801
 navikuru-car.com https://navikuru-car.com/excel-macro-2323
 netgeek.biz http://netgeek.biz/archives/75121
 newsln.jp http://business.newsln.jp/news/201512081716460000.html
@@ -240,10 +249,11 @@ targma.jp http://www.targma.jp/yasuda/2016/06/04/post119/
 techcrunch.com http://jp.techcrunch.com/2016/05/31/20160528what-ux-designers-can-learn-from-1990s-japanese-video-games/
 tedium-life.com http://www.tedium-life.com/entry/2016/06/05/200348
 tenki.jp http://www.tenki.jp/forecaster/diary/keiko_mochizuki/2016/05/31/44761.html
+thebridge.jp http://thebridge.jp/2016/06/amazon-is-just-beginning-to-use-robots-in-its-warehouses-and-theyre-already-making-a-huge-difference-pickupnews
 tinect.jp http://blog.tinect.jp/?p=26185
 tkengo.github.io http://tkengo.github.io/blog/2016/06/06/yaruo-machine-learning0/
 tm2501.com http://www.tm2501.com/entry/2016/06/11/192000
-togetter.com http://togetter.com/li/981493
+togetter.com http://togetter.com/li/948786
 tohan.jp http://www.tohan.jp/news/20160601_751.html
 tokyo-np.co.jp http://www.tokyo-np.co.jp/article/economics/list/201606/CK2016060502000129.html
 tomoyukiarasuna.com http://tomoyukiarasuna.com/as-it-is-wireframe/
