@@ -3,7 +3,8 @@
 4gamer.net http://www.4gamer.net/games/292/G029299/20160614035/
 afcp.jp http://www.afcp.jp/entry/2016/06/15/002500
 afpbb.com http://www.afpbb.com/articles/-/3089102
-akisane.com http://www.akisane.com/entry/Rule-and-Manner-and-Justice
+akisane.com http://www.akisane.com/entry/NPB-AmazingSceanBest9
+alfalfalfa.com http://alfalfalfa.com/articles/156275.html
 alpine-driveseminar.com http://www.alpine-driveseminar.com/howto/id_heavy-metal-bgm/
 amazon.co.jp http://www.amazon.co.jp/exec/obidos/ASIN/B016O9AVUY/hatena-b-22/ref=nosim
 ameblo.jp http://ameblo.jp/bluedragonno1/entry-12146880481.html
@@ -12,6 +13,7 @@ applech2.com http://applech2.com/archives/20160610-table-tool-cvs-editor-for-mac
 appmarketinglabo.net http://appmarketinglabo.net/arab-mobilegame/
 arikawashuhei.com http://www.arikawashuhei.com/entry/matsukoheadphone
 asahi.com http://www.asahi.com/articles/ASJ615RDRJ61TIPE02Q.html
+atmarkit.co.jp http://www.atmarkit.co.jp/ait/articles/1606/21/news016.html
 automaton.am http://jp.automaton.am/articles/interviewsjp/3do-complete-collector-lras-interview/
 b-chan.jp http://www.b-chan.jp/entry/seo/resident-tax-bill
 bbc.com http://www.bbc.com/japanese/video-36476470
@@ -20,6 +22,7 @@ biancaweb.net http://biancaweb.net/blog/everything/
 birumendesu.com http://www.birumendesu.com/entry/2016/06/06/060100
 bita.jp https://bita.jp/dml/reactive_int
 biz-journal.jp http://biz-journal.jp/2016/06/post_15350.html
+biztikara.com http://www.biztikara.com/entry/tukaeru-nou-kitaekata
 black-gamer.com http://www.black-gamer.com/entry/game_catchcopy
 bloglifer.net http://www.bloglifer.net/entry/free-offer-affiliates-blame
 blogos.com http://blogos.com/article/179312/
@@ -32,6 +35,7 @@ chibanippo.co.jp http://www.chibanippo.co.jp/exemption_matters
 chlamydia-std.xyz http://chlamydia-std.xyz/ohmygosh/
 cho-gouriteki.com http://www.cho-gouriteki.com/entry/karaoke-business_teppan_best
 chunichi.co.jp http://www.chunichi.co.jp/s/article/2016060490221806.html
+cinemacity.co.jp http://cinemacity.co.jp/wp/ccnews/bermuda_attack/
 cinra.net http://www.cinra.net/news/201606080-matthewherbert
 classmethod.jp http://dev.classmethod.jp/cloud/aws/aws-summit-tokyo-2016-devcon-hb1520/
 cnet.com http://japan.cnet.com/news/topics/35083731/
@@ -119,6 +123,7 @@ ismedia.jp http://jbpress.ismedia.jp/articles/-/46968
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1606/03/news039.html
 ituore.com http://www.ituore.com/entry/anime-eiga-osusume
 iwashi.co http://iwashi.co/2015/10/22/oncodereview-translated
+iwata09.com http://www.iwata09.com/entry/brand105
 j-cast.com http://www.j-cast.com/2016/06/06268906.html
 jiburi.com http://jiburi.com/working-abroad10/
 jimpei.net http://www.jimpei.net/entry/camper
@@ -132,6 +137,7 @@ kanasoku.info http://kanasoku.info/articles/84659.html
 kandosaori.com http://www.kandosaori.com/entry/2016/06/03/073000
 kango-oshigoto.jp http://kango-oshigoto.jp/media/article/796/
 kiji.is http://this.kiji.is/111734236282963445
+kijosoku.com http://kijosoku.com/archives/48894343.html
 kinoblo.com http://www.kinoblo.com/entry/konopagemo.hitotsuno.insyousousa
 kojima1992.com http://kojima1992.com/%E3%83%A9%E3%82%A4%E3%83%96%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%A4%E3%83%88-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0
 konomanga.jp http://konomanga.jp/interview/66237-2
@@ -143,12 +149,13 @@ labaq.com http://labaq.com/archives/51869898.html
 lclco.com http://techblog.lclco.com/entry/2016/01/27/032402
 ldblog.jp http://royal2627.ldblog.jp/archives/48837335.html
 letibee.com http://life.letibee.com/news/frorida-gay-shooting/
+levtech.jp https://freelance.levtech.jp/guide/detail/38/
 life-and-mind.com http://life-and-mind.com/office-relationship-791
 life-d.net http://www.life-d.net/entry/2016/06/09/173422
 lifehacker.jp http://www.lifehacker.jp/2016/06/160602Technique_Work.html
 line.me https://store.line.me/stickershop/product/1289122
 lite-ra.com http://lite-ra.com/2016/06/post-2340.html
-livedoor.biz http://karapaia.livedoor.biz/archives/52219279.html
+livedoor.biz http://lifehack2ch.livedoor.biz/archives/51631234.html
 livedoor.com http://news.livedoor.com/article/detail/11632376/
 livedoor.jp http://blog.livedoor.jp/blackwingcat/archives/1930035.html
 logmi.jp http://logmi.jp/147408
@@ -185,7 +192,7 @@ nhk.or.jp http://www3.nhk.or.jp/news/html/20160602/k10010543341000.html
 nicovideo.jp http://www.nicovideo.jp/watch/sm28967087
 nifty.com http://portal.nifty.com/kiji/160611196751_1.htm
 nikkan-spa.jp http://nikkan-spa.jp/1124993
-nikkansports.com http://www.nikkansports.com/general/news/1663641.html
+nikkansports.com http://www.nikkansports.com/entertainment/news/1666182.html
 nikkei.co.jp http://dual.nikkei.co.jp/article.aspx?id=5530&n_cid=DUALML01
 nikkei.com http://www.nikkei.com/article/DGXLASDZ08HRM_Y6A600C1MM8000/
 nikkeibp.co.jp http://www.nikkeibp.co.jp/atcl/tk/DTrans/ecs/060200028/
@@ -193,6 +200,7 @@ nintendo.co.jp https://topics.nintendo.co.jp/c/article/842ff951-2d0d-11e6-8360-0
 note.mu https://note.mu/kensuu/n/n484fd76f556a
 nubatamanon.com http://www.nubatamanon.com/entry/2016/06/15/224757
 nurse-diaries.com http://www.nurse-diaries.com/entry/rookie-education
+oiwa.jp http://www.oiwa.jp/~yutaka/tdiary/20160620.html#p01
 okinawatimes.co.jp http://www.okinawatimes.co.jp/article.php?id=171005
 omocoro.jp http://omocoro.jp/kiji/83042/
 opdsgn.com http://webya.opdsgn.com/english/grammarly/
@@ -224,7 +232,7 @@ sankei.com http://www.sankei.com/affairs/news/160601/afr1606010038-n1.html
 sanspo.com http://www.sanspo.com/sports/news/20160614/fgr16061405040001-n1.html
 satouwataru.com http://www.satouwataru.com/entry/20years-important
 sbbit.jp http://www.sbbit.jp/article/cont1/32252
-seesaa.net http://openblog.seesaa.net/article/438592337.html
+seesaa.net http://zen.seesaa.net/article/439047519.html
 seicho-no-ie.org http://www.jp.seicho-no-ie.org/news/sni_news_20160609.html
 server-party.com http://sabameshi.server-party.com/entry/free-high-resolution-picture
 shijo-street-weekend.com http://www.shijo-street-weekend.com/entry/2016/06/09/191000
