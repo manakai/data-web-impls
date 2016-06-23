@@ -4,7 +4,7 @@
 afcp.jp http://www.afcp.jp/entry/2016/06/15/002500
 afpbb.com http://www.afpbb.com/articles/-/3089102
 akisane.com http://www.akisane.com/entry/NPB-AmazingSceanBest9
-alfalfalfa.com http://alfalfalfa.com/articles/156275.html
+alfalfalfa.com http://alfalfalfa.com/articles/156265.html
 alpine-driveseminar.com http://www.alpine-driveseminar.com/howto/id_heavy-metal-bgm/
 amazon.co.jp http://www.amazon.co.jp/exec/obidos/ASIN/B016O9AVUY/hatena-b-22/ref=nosim
 ameblo.jp http://ameblo.jp/bluedragonno1/entry-12146880481.html
@@ -49,6 +49,7 @@ continue-is-power.com http://www.continue-is-power.com/entry/2016/06/03/143938
 cookpad.com http://techlife.cookpad.com/entry/2016/06/09/220847
 courrier.jp http://courrier.jp/news/archives/53537/
 crowdworks.jp http://engineer.crowdworks.jp/entry/2016/05/31/164434
+cygames.co.jp http://tech.cygames.co.jp/archives/2820/
 danshihack.com http://www.danshihack.com/2016/06/17/junp/runners-pi.html
 ddnavi.com http://ddnavi.com/news/304259/a/
 degica.com http://tech.degica.com/ja/2016/06/14/dockerized-rails-development/
@@ -79,7 +80,7 @@ freee.co.jp https://kigyo.freee.co.jp/story-sasaki/
 full-count.jp http://full-count.jp/2016/06/16/post35461/
 genryudaigaku.com http://genryudaigaku.com/archives/2756
 geocities.jp http://www.geocities.jp/straphangerseye/transport/ic/error.html
-gibe-on.info http://www.gibe-on.info/entry/deepsea-organisms
+gibe-on.info http://www.gibe-on.info/entry/cryonics
 gigazine.net http://gigazine.net/news/20160531-child-book-earning/
 ginzamag.com https://ginzamag.com/archives/4975
 github.com https://github.com/mohayonao/web-audio-lesson
@@ -218,7 +219,7 @@ postd.cc http://postd.cc/advanced-ping-httping-dnsping-smtpping/
 president.jp http://president.jp/articles/-/18120
 proof0309.com http://www.proof0309.com/entry/50mangakusei
 publickey1.jp http://www.publickey1.jp/blog/16/blue_ocean_jenkins_design_language.html
-qiita.com http://qiita.com/akameco/items/cc6fc949e7c9f0d1a42a
+qiita.com http://qiita.com/Takamichi-tsutsumi/items/12b304cee381a6270649
 rcmdnk.github.io http://rcmdnk.github.io/blog/2016/06/05/computer-windows-ubuntu-bash/
 recomtank.com http://www.recomtank.com/entry/aquari-pocari
 recruit-sumai.co.jp https://tech.recruit-sumai.co.jp/realtime-log-monitoring-with-fluentd-kinesis-elasticsearch-kibana-grafana/
@@ -234,6 +235,7 @@ satouwataru.com http://www.satouwataru.com/entry/20years-important
 sbbit.jp http://www.sbbit.jp/article/cont1/32252
 seesaa.net http://zen.seesaa.net/article/439047519.html
 seicho-no-ie.org http://www.jp.seicho-no-ie.org/news/sni_news_20160609.html
+seojapan.com http://www.seojapan.com/blog/the-ultimate-guide-to-using-google-search-console-as-a-powerful-seo-tool
 server-party.com http://sabameshi.server-party.com/entry/free-high-resolution-picture
 shijo-street-weekend.com http://www.shijo-street-weekend.com/entry/2016/06/09/191000
 shonenjump.com http://www.shonenjump.com/p/sp/1606/hyskoa/
@@ -269,6 +271,7 @@ touchlab.jp http://touchlab.jp/2016/06/google_motion_stills_app/
 toyokeizai.net http://toyokeizai.net/articles/-/119869
 trick-spec.com http://www.trick-spec.com/entry/2016/06/13/073303
 tsubakimoto-neko.com http://www.tsubakimoto-neko.com/entry/2016/06/18/115325
+tumblr.com http://masmeyoshimoto.tumblr.com/post/146258131532/%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000076666.html
 twitter.com http://twitter.com/hahaguma/status/738390883616231424
 type.jp http://type.jp/et/feature/1341
@@ -276,6 +279,7 @@ varis.jp http://www.varis.jp/entry/2016/06/15/182128
 visionseichou.com http://www.visionseichou.com/entry/iphone-eigo-app
 wantedly.com https://www.wantedly.com/companies/wantedly/post_articles/27548
 webdice.jp http://www.webdice.jp/dice/detail/5136/
+webkikaku.co.jp https://webkikaku.co.jp/blog/software/inoreader/
 weblio.jp https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/sound-look-seem
 weblog-life.net http://www.weblog-life.net/entry/2016/06/17/000000
 wired.jp http://wired.jp/2016/06/03/brain-infections-may-spark-alzheimers/
