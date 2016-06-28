@@ -127,7 +127,7 @@ inoueyuuki.com http://www.inoueyuuki.com/entry/wifi-no
 inside-games.jp http://www.inside-games.jp/article/2016/06/01/99130.html
 inte.co.jp https://haken.inte.co.jp/i-engineer/interesting/numadumari-4
 invregister.com https://oco-fx.invregister.com/op_01/
-irasutoya.com http://www.irasutoya.com/2016/06/blog-post_263.html
+irasutoya.com http://www.irasutoya.com/2016/06/blog-post_177.html
 irorio.jp http://irorio.jp/kaseisana/20160611/326334/
 ismedia.jp http://wedge.ismedia.jp/articles/-/7124
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1606/03/news039.html
@@ -136,7 +136,7 @@ iwashi.co http://iwashi.co/2015/10/22/oncodereview-translated
 iwata09.com http://www.iwata09.com/entry/brand105
 j-cast.com http://www.j-cast.com/2016/06/06268906.html
 jiburi.com http://jiburi.com/working-abroad10/
-jimpei.net http://www.jimpei.net/entry/camper
+job-draft.jp https://job-draft.jp/articles/36
 jquery.com http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/
 kabi.jp http://www.kabi.jp/breed/
 kaerucloud.com http://blog.kaerucloud.com/entry/amazon-prime
@@ -271,7 +271,7 @@ social-creator.info http://social-creator.info/articles/163467
 songmu.jp http://www.songmu.jp/riji/entry/2016-06-13-make2help.html
 sonicgarden.jp http://kuranuki.sonicgarden.jp/2016/06/programmers-value.html
 sorae.jp http://sorae.jp/030201/2016_06_10_ss520.html
-speakerdeck.com https://speakerdeck.com/hideokamoto/xing-zheng-falsecsvhuairuwo-sheng-shou-niapinisitemitahua
+speakerdeck.com https://speakerdeck.com/ayakasumida/huriransudezainafalse-tukurukoto-hatarakukoto
 sputniknews.com http://jp.sputniknews.com/life/20160611/2290166.html
 srad.jp http://science.srad.jp/story/16/06/10/0457234/
 stay-minimal.com http://www.stay-minimal.com/entry/salesbooks
@@ -301,6 +301,7 @@ tumblr.com http://masmeyoshimoto.tumblr.com/post/146258131532/%E3%82%A2%E3%83%8B
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000076666.html
 twitter.com http://twitter.com/finalvent/status/745059869078622208
 type.jp http://type.jp/et/feature/1341
+uni45.com http://www.uni45.com/entry/2016/06/26/124309
 varis.jp http://www.varis.jp/entry/2016/06/15/182128
 visionseichou.com http://www.visionseichou.com/entry/iphone-eigo-app
 wakai-ojisan.com http://www.wakai-ojisan.com/entry/2016/06/24/220000
@@ -312,6 +313,7 @@ weblog-life.net http://www.weblog-life.net/entry/2016/06/17/000000
 wired.jp http://wired.jp/2016/06/03/brain-infections-may-spark-alzheimers/
 wirelesswire.jp https://wirelesswire.jp/2016/06/54327/
 withnews.jp http://withnews.jp/article/f0160607000qq000000000000000W03610701qq000013405A
+wordpress.com https://societyforlightnovel.wordpress.com/2016/06/20/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E6%9B%B8%E5%BA%97%E3%81%AB%E3%81%A62016%E5%B9%B4/
 www.cml-office.org:8080 http://www.cml-office.org:8080/official/wwatch/alkalli/comment-ph-10
 xmisao.com http://www.xmisao.com/2016/04/18/get-free-certification-by-letsencrypt-dns-01-authentication.html
 xn--n8jyc2llfpe.xyz http://www.xn--n8jyc2llfpe.xyz/entry/2016/06/08/%E3%80%90DIY%E3%80%91%E3%83%9E%E3%82%AD%E3%82%BF%E3%81%AE%E9%9B%BB%E5%8B%95%E5%B7%A5%E5%85%B7%E3%81%A7%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E3%82%82%E3%81%AE%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99
@@ -323,6 +325,7 @@ youtube.com http://www.youtube.com/watch?v=18otfdWJlLI
 yuichi.nu http://yuichi.nu/blog/?p=176
 yukisako.xyz http://www.yukisako.xyz/entry/task-manage
 yururimaaruku.com http://www.yururimaaruku.com/entry/idea_no_tsukurikata
+yutorigoto.com http://blog.yutorigoto.com/entry/%E5%8F%97%E9%87%91%E5%85%B7%E3%82%92%E3%80%8C%E3%83%A1%E3%82%B9%E3%80%8D%E3%81%A8%E5%91%BC%E3%81%B6%E3%81%93%E3%81%A8%E3%81%AF%E7%94%B7%E5%A5%B3%E5%B7%AE%E5%88%A5%E3%81%AA%E3%81%AE%E3%81%8B
 yutorism.jp http://www.yutorism.jp/entry/OverTime
 yuuk.io http://blog.yuuk.io/entry/google-linux-distribution-live-upgrade
 zenmashiniki.com http://www.zenmashiniki.com/entry/2016/06/05/%E7%A4%BE%E4%BC%9A%E4%BA%BA%EF%BC%91%E5%B9%B4%E7%9B%AE%E5%B9%B4%E5%8F%8E%EF%BC%93%EF%BC%90%EF%BC%90%E4%B8%87%E5%86%86%E3%81%A7%EF%BC%91%EF%BC%90%EF%BC%90%E4%B8%87%E5%86%86%E8%B2%AF%E3%82%81%E3%81%9F
