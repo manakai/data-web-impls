@@ -3,11 +3,14 @@
 4gamer.net http://www.4gamer.net/games/292/G029299/20160614035/
 afcp.jp http://www.afcp.jp/entry/2016/06/15/002500
 afpbb.com http://www.afpbb.com/articles/-/3089102
+aitabata.com http://www.aitabata.com/entry/kokusai_renai
 akisane.com http://www.akisane.com/entry/NPB-AmazingSceanBest9
 alfalfalfa.com http://alfalfalfa.com/articles/156265.html
 alpine-driveseminar.com http://www.alpine-driveseminar.com/howto/id_heavy-metal-bgm/
 amazon.co.jp http://www.amazon.co.jp/exec/obidos/ASIN/B016O9AVUY/hatena-b-22/ref=nosim
 ameblo.jp http://ameblo.jp/bluedragonno1/entry-12146880481.html
+animatelab.com http://developer.animatelab.com/entry/2016/06/28/120200
+anime-js.com http://anime-js.com/
 anizm.xyz http://www.anizm.xyz/entry/2016/06/01/165736
 applech2.com http://applech2.com/archives/20160610-table-tool-cvs-editor-for-mac.html
 appmarketinglabo.net http://appmarketinglabo.net/arab-mobilegame/
@@ -28,6 +31,7 @@ blog.jp http://takota.blog.jp/archives/1058716479.html
 bloglifer.net http://www.bloglifer.net/entry/free-offer-affiliates-blame
 blogos.com http://blogos.com/article/179312/
 blogs.com http://satoshi.blogs.com/life/2016/05/time.html
+bunkanews.jp http://www.bunkanews.jp/news/news.php?id=16901
 bunshun.jp http://shukan.bunshun.jp/articles/-/6253
 buzzfeed.com https://www.buzzfeed.com/albertonardelli/how-would-a-brexit-actually-work-1
 ca-reward.co.jp http://techblog.ca-reward.co.jp/techblog/2016/06/post-33.html
@@ -38,7 +42,7 @@ chlamydia-std.xyz http://chlamydia-std.xyz/ohmygosh/
 cho-gouriteki.com http://www.cho-gouriteki.com/entry/karaoke-business_teppan_best
 chunichi.co.jp http://www.chunichi.co.jp/s/article/2016060490221806.html
 cinemacity.co.jp http://cinemacity.co.jp/wp/ccnews/bermuda_attack/
-cinra.net http://www.cinra.net/news/201606080-matthewherbert
+cinra.net http://www.cinra.net/interview/201606-bjork
 classmethod.jp http://dev.classmethod.jp/cloud/aws/aws-summit-tokyo-2016-devcon-hb1520/
 cnet.com http://japan.cnet.com/news/topics/35083731/
 cnn.co.jp http://www.cnn.co.jp/fringe/35084313.html
@@ -52,6 +56,7 @@ cookpad.com http://techlife.cookpad.com/entry/2016/06/09/220847
 courrier.jp http://courrier.jp/news/archives/53537/
 crowdworks.jp http://engineer.crowdworks.jp/entry/2016/05/31/164434
 curazy.com http://curazy.com/archives/140867
+cyberagent.co.jp https://www.cyberagent.co.jp/newsinfo/info/detail/id=12205
 cygames.co.jp http://tech.cygames.co.jp/archives/2820/
 danshihack.com http://www.danshihack.com/2016/06/17/junp/runners-pi.html
 ddnavi.com http://ddnavi.com/news/304259/a/
@@ -70,6 +75,7 @@ ele-king.net http://www.ele-king.net/news/rip/005137/
 en-japan.com http://careerhack.en-japan.com/report/detail/673
 engadget.com http://japanese.engadget.com/2016/06/06/google/
 english-speaking.jp https://www.english-speaking.jp/ondoku-imagelink/2016/06/03/ondoku-starter-guide/
+evernote.com https://blog.evernote.com/jp/2016/06/29/53395
 exblog.jp http://brevis.exblog.jp/24479497/
 f-shin.net https://f-shin.net/fsgarage/4724
 fabcross.jp https://fabcross.jp/category/make/20160608_okashi.html
@@ -93,7 +99,7 @@ gizmodo.jp https://www.gizmodo.jp/2016/06/the-20-scariest-horror-movies-of-the-l
 glocallife.net http://www.glocallife.net/entry/sexuality-11
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/kudokimeshi/3170
 golden-lucky.net http://note.golden-lucky.net/2016/06/markdowngithub.html
-goo.ne.jp http://blog.goo.ne.jp/keisai-dousureba/e/65e55bb370b5a59bd6d9af29b4df9247
+goo.ne.jp http://blog.goo.ne.jp/1shig/e/56bedaaddf87cd65d4ed5647df4b59ca
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/brexit
 google.com https://fonts.google.com/
 goope.jp http://blog.goope.jp/?eid=467
@@ -105,7 +111,7 @@ hatelabo.jp http://anond.hatelabo.jp/20160227003106
 hatena.ne.jp http://d.hatena.ne.jp/Baatarism/20160605/1465136437
 hatena.social http://hatena.social/entry/2016/06/18/201929
 hatenablog.com http://yutoma233.hatenablog.com/entry/2016/06/09/073000
-hatenablog.jp http://stohspaceg.hatenablog.jp/entry/2016/06/12/161536
+hatenablog.jp http://waterman.hatenablog.jp/entry/2016/06/27/204500
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20160602/1464793200
 hatenadiary.jp http://tomolog.hatenadiary.jp/entry/2016/06/04/230642
 hatenastaff.com http://developer.hatenastaff.com/entry/2016/06/16/165924
@@ -123,7 +129,6 @@ ikebukuroh.com http://blog.ikebukuroh.com/?eid=1338
 imalive7799.com http://blog.imalive7799.com/entry/1month-after-retirement-2006
 impress.co.jp http://pc.watch.impress.co.jp/docs/column/nishikawa/1006048.html
 infoq.com https://www.infoq.com/jp/news/2016/06/agile-dead-again
-inoueyuuki.com http://www.inoueyuuki.com/entry/wifi-no
 inside-games.jp http://www.inside-games.jp/article/2016/06/01/99130.html
 inte.co.jp https://haken.inte.co.jp/i-engineer/interesting/numadumari-4
 invregister.com https://oco-fx.invregister.com/op_01/
@@ -179,6 +184,7 @@ lunanet.gr.jp http://rimuru.lunanet.gr.jp/notes/post/how-to-root-from-inside-con
 machida.kanagawa.jp http://machida.kanagawa.jp/referendum.html
 madameriri.com http://www.madameriri.com/2016/06/01/problem-of-parenting-in-japan/
 mainichi.jp http://mainichi.jp/articles/20160604/k00/00e/040/262000c
+mana-cat.com http://www.mana-cat.com/entry/iot-plarail
 manabiguide.jp https://manabiguide.jp/senior-parents/yamamoto-youshou-kyouiku/
 markethack.net http://markethack.net/archives/52011726.html
 marswee.com http://blog.marswee.com/entry/how-to/rakuten-affiliate
@@ -203,7 +209,7 @@ mudainodocument.com http://www.mudainodocument.com/articles/37581.html
 mukaikaze.net http://www.mukaikaze.net/entry/2016/06/04/220148
 mynavi.jp http://news.mynavi.jp/articles/2016/06/24/bakuon/
 natalie.mu http://natalie.mu/music/news/189215
-naver.jp http://matome.naver.jp/odai/2146628054776330801
+naver.jp http://matome.naver.jp/odai/2144500821497155201
 navikuru-car.com https://navikuru-car.com/excel-macro-2323
 netgeek.biz http://netgeek.biz/archives/75121
 news-postseven.com http://www.news-postseven.com/archives/20160622_423699.html
@@ -228,6 +234,7 @@ omocoro.jp http://omocoro.jp/kiji/83042/
 opdsgn.com http://webya.opdsgn.com/english/grammarly/
 open.ad.jp https://i.open.ad.jp/news-160614/
 oricon.co.jp http://www.oricon.co.jp/news/2072928/full/
+osdn.jp https://osdn.jp/magazine/16/06/28/090000
 osstech.co.jp https://www.osstech.co.jp/~hamano/posts/jpki-ssh/
 ototoy.jp http://ototoy.jp/news/83774
 outsiders-report.com http://outsiders-report.com/archives/57
@@ -273,14 +280,17 @@ sonicgarden.jp http://kuranuki.sonicgarden.jp/2016/06/programmers-value.html
 sorae.jp http://sorae.jp/030201/2016_06_10_ss520.html
 speakerdeck.com https://speakerdeck.com/ayakasumida/huriransudezainafalse-tukurukoto-hatarakukoto
 sputniknews.com http://jp.sputniknews.com/life/20160611/2290166.html
-srad.jp http://science.srad.jp/story/16/06/10/0457234/
+srad.jp http://srad.jp/story/16/06/28/0424239/
 stay-minimal.com http://www.stay-minimal.com/entry/salesbooks
 sugyan.com http://memo.sugyan.com/entry/2016/06/14/220624
 suzunasu.com http://www.suzunasu.com/entry/2016/06/14/214221
 synodos.jp http://synodos.jp/intro/17225
 t-nishijima.net http://www.t-nishijima.net/entry/2016/06/16/100000
 tabiiro.jp https://plus.tabiiro.jp/articles/view/414050
+tabitter.net http://tabitter.net/stop-omane-vr/
+taiyaki-oyako.com http://www.taiyaki-oyako.com/entry/2016/06/29/015421
 targma.jp http://www.targma.jp/yasuda/2016/06/04/post119/
+techacademy.jp http://techacademy.jp/magazine/8549
 techcrunch.com http://jp.techcrunch.com/2016/05/31/20160528what-ux-designers-can-learn-from-1990s-japanese-video-games/
 tedium-life.com http://www.tedium-life.com/entry/2016/06/05/200348
 tenki.jp http://www.tenki.jp/forecaster/diary/keiko_mochizuki/2016/05/31/44761.html
@@ -288,6 +298,7 @@ thebridge.jp http://thebridge.jp/2016/06/amazon-is-just-beginning-to-use-robots-
 tinect.jp http://blog.tinect.jp/?p=26185
 tkengo.github.io http://tkengo.github.io/blog/2016/06/06/yaruo-machine-learning0/
 tm2501.com http://www.tm2501.com/entry/2016/06/11/192000
+todaysbook.link http://todaysbook.link/?p=261
 togetter.com http://togetter.com/li/948786
 tohan.jp http://www.tohan.jp/news/20160601_751.html
 tokyo-np.co.jp http://www.tokyo-np.co.jp/article/economics/list/201606/CK2016060502000129.html
@@ -297,6 +308,7 @@ touchlab.jp http://touchlab.jp/2016/06/google_motion_stills_app/
 toyokeizai.net http://toyokeizai.net/articles/-/119869
 trick-spec.com http://www.trick-spec.com/entry/2016/06/13/073303
 tsubakimoto-neko.com http://www.tsubakimoto-neko.com/entry/2016/06/18/115325
+tsuchimi.net http://tsuchimi.net/yagilog-delete
 tumblr.com http://masmeyoshimoto.tumblr.com/post/146258131532/%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000076666.html
 twitter.com http://twitter.com/finalvent/status/745059869078622208
