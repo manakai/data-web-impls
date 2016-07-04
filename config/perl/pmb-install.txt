@@ -6,12 +6,12 @@ Test::NoWarnings~1.04
 IO::HTML~1.001
 Unicode::Normalize~1.25
 Encode~2.84
-Path::Tiny~0.094
+Path::Tiny~0.096
 URI~1.71
 parent~0.234
 AnyEvent~7.12
 Exporter::Lite~0.08
-Test::Tester~1.302035
+Test::Tester~1.302037
 Canary::Stability~2011
 AnyEvent::HTTP~2.22
 HTTP::Date~6.02
