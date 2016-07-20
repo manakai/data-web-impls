@@ -61,6 +61,7 @@ engadget.com http://japanese.engadget.com/2016/06/30/android-n-nougat/
 exblog.jp http://geopoli.exblog.jp/26021504/
 facebook.com https://www.facebook.com/notes/%E5%92%8C%E7%94%B0-%E6%B4%8B%E4%B8%80/%E3%81%9D%E3%82%8D%E3%81%9D%E3%82%8D%E8%AA%9E%E3%82%8D%E3%81%86%E3%81%8B%E5%85%B6%E3%81%AE%E5%A3%B1/1078206192234133
 fc2.com http://teamanger.web.fc2.com/anger_summary1.html
+fem.jp http://editor.fem.jp/blog/?p=2516
 fesoku.net http://fesoku.net/archives/8519790.html
 forbesjapan.com http://forbesjapan.com/articles/detail/12794/1/1/1
 freiheit.co http://www.freiheit.co/entry/2016/07/10/%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E5%A4%A7%E8%83%B8%E7%AD%8B%E3%82%92%E9%8D%9B%E3%81%88%E3%81%A6%E5%88%86%E5%8E%9A%E3%81%84%E8%83%B8%E6%9D%BF%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86
@@ -97,6 +98,7 @@ honz.jp http://honz.jp/articles/-/43011
 horiemon.com http://weblog.horiemon.com/100blog/40288/
 hotpepper.jp http://www.hotpepper.jp/mesitsu/entry/20160714/1468447200
 html5experts.jp https://html5experts.jp/furoshiki/19276/
+httpoxy.org https://httpoxy.org/
 huffingtonpost.jp http://www.huffingtonpost.jp/2016/07/02/i-am-japanese_n_10790532.html
 hyperterm.org https://hyperterm.org/
 imalive7799.com http://blog.imalive7799.com/entry/daiyoukaiten-2016
@@ -116,13 +118,16 @@ jimin.jp https://ssl.jimin.jp/m/school_education_survey2016
 jimpei.net http://www.jimpei.net/entry/20160628171052
 kaerucloud.com http://blog.kaerucloud.com/entry/apple-magic-trackpad
 kai-you.net http://kai-you.net/article/30337
+kanasoku.info http://kanasoku.info/articles/86059.html
 kando1.net http://kando1.net/8942
 kaoriya.net http://mattn.kaoriya.net/software/lang/go/20160706165757.htm
 kiji.is http://this.kiji.is/124136850419631609
 kuchi-lab.com http://kuchi-lab.com/13toothpastes-chosen-for-boyfriends-2896
+kyanny.me http://blog.kyanny.me/entry/2016/07/18/184125
 levtech.jp https://freelance.levtech.jp/guide/detail/45/
 life-d.net http://www.life-d.net/entry/2016/07/02/170200
 lifehacker.jp http://www.lifehacker.jp/2016/07/160705fake_it_till.html
+lineblog.me http://lineblog.me/yamamotoichiro/archives/8449000.html
 lite-ra.com http://lite-ra.com/2016/07/post-2416.html
 livedoor.biz http://smoothfoxxx.livedoor.biz/archives/52225662.html
 livedoor.com http://news.livedoor.com/article/detail/11707599/
@@ -163,6 +168,7 @@ nubatamanon.com http://www.nubatamanon.com/entry/2016/07/12/010356
 nvidia.co.jp https://blogs.nvidia.co.jp/2016/07/13/deep-learning-cats-lawn/
 officerico.co.jp http://officerico.co.jp/blog/?p=4068
 official.jp http://39miyu-chan.official.jp/
+omocoro.jp http://omocoro.jp/kiji/86220/
 ossan-games.net http://ossan-games.net/?p=515
 otaden.jp http://hirorin.otaden.jp/e435897.html
 otokitashun.com http://otokitashun.com/blog/senkyo/12048/
@@ -175,6 +181,7 @@ pojihiguma.com http://www.pojihiguma.com/entry/pro-blogger
 politas.jp http://politas.jp/features/10/article/492
 postd.cc http://postd.cc/async-and-await/
 president.jp http://president.jp/articles/-/18373
+proof0309.com http://www.proof0309.com/entry/2no0zyou
 ptkabe.net http://www.ptkabe.net/entry/crosscub
 publickey1.jp http://www.publickey1.jp/blog/16/amazonidecloud9awssaas.html
 qiita.com http://qiita.com/Kei-Kamikawa/items/d0a500ac387d39a34401
@@ -209,6 +216,7 @@ sugyan.com http://memo.sugyan.com/entry/2016/07/10/005512
 sushi.money http://blog.sushi.money/entry/yapc8oji
 suumo.jp http://suumo.jp/town/entry/kyoto-pha/
 ta2o.net http://hatebu.ta2o.net/gojo/
+takagi-hiromitsu.jp http://takagi-hiromitsu.jp/diary/20160716.html
 tdoc.info http://tdoc.info/blog/2016/07/08/ansible_to_docker.html
 techacademy.jp http://techacademy.jp/magazine/8763
 techcrunch.com http://jp.techcrunch.com/2016/07/14/20160713unity-announces-181-million-monster-round-led-by-dfj-growth/
@@ -227,7 +235,7 @@ twitter.com http://twitter.com/Bulldog_noh8/status/752292409631842304
 udemy.com https://www.udemy.com/python-jp/
 univ-journal.jp http://univ-journal.jp/8498/
 urutike.com http://urutike.com/amazon-90off-word-2449
-uxmilk.jp http://uxmilk.jp/43386
+uxmilk.jp http://uxmilk.jp/38929
 varis.jp http://www.varis.jp/entry/2016/06/30/173000
 visionseichou.com http://www.visionseichou.com/entry/tukaeru-nou-kitaekata
 wantedly.com https://www.wantedly.com/companies/wantedly/post_articles/30026
