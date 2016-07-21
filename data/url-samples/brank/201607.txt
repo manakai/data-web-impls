@@ -2,10 +2,12 @@
 2chblog.jp http://rabitsokuhou.2chblog.jp/archives/68559343.html
 4gamer.net http://www.4gamer.net/games/285/G028533/20160715054/
 7samurai.tokyo http://7samurai.tokyo/night-pool-2016
+abroader.asia http://abroader.asia/2016/07/18/english1/
 afpbb.com http://www.afpbb.com/articles/-/3093318
 ameblo.jp http://ameblo.jp/nonami-takizawa/entry-12176336249.html
 anabuki-style.com http://journal.anabuki-style.com/kitchen-storage
 animeanime.jp http://animeanime.jp/article/2016/07/09/29406.html
+appmarketinglabo.net http://appmarketinglabo.net/arithmatic/
 archive.fo http://archive.fo/FysFM
 archive.is http://archive.is/FysFM
 asahi.com http://www.asahi.com/articles/ASJ6872SJJ68UHBI030.html
@@ -15,6 +17,7 @@ astahblog.com https://ja.astahblog.com/2015/07/16/git_model/
 automaton.am http://jp.automaton.am/articles/impressionjp/how-to-play-pokemon-go/
 b-chan.jp http://www.b-chan.jp/entry/essay/40-failures
 baitalk.jp https://baitalk.jp/media/article/185/
+bayashi.net https://bayashi.net/diary/2016/0719
 bazubu.com http://bazubu.com/case/berlitz-japan
 bengo4.com https://www.bengo4.com/internet/n_4829/
 berlitz-blog.com http://www.berlitz-blog.com/biztrip
@@ -79,8 +82,8 @@ goope.jp http://blog.goope.jp/?eid=469
 gotch.info http://gotch.info/post/146921620687/
 h-navi.jp https://h-navi.jp/column/article/35025573
 hamusoku.com http://hamusoku.com/archives/9293608.html
-hateblo.jp http://rutty.hateblo.jp/entry/sakura
-hatelabo.jp http://anond.hatelabo.jp/20160630221614
+hateblo.jp http://vergil.hateblo.jp/entry/2016/07/19/215422
+hatelabo.jp http://anond.hatelabo.jp/20160528145102
 hatena.ne.jp http://d.hatena.ne.jp/NOV1975/20160707/p1
 hatenablog.com http://yutoma233.hatenablog.com/entry/2016/07/11/072727
 hatenablog.jp http://yanoshi.hatenablog.jp/entry/2016/07/05/013907
@@ -101,11 +104,14 @@ html5experts.jp https://html5experts.jp/furoshiki/19276/
 httpoxy.org https://httpoxy.org/
 huffingtonpost.jp http://www.huffingtonpost.jp/2016/07/02/i-am-japanese_n_10790532.html
 hyperterm.org https://hyperterm.org/
+ichikaway.com http://blog.ichikaway.com/entry/2016/07/19/123423
+ikeay.net http://learning.ikeay.net/entry/2016/07/19/140930
 imalive7799.com http://blog.imalive7799.com/entry/daiyoukaiten-2016
 impress.co.jp http://k-tai.watch.impress.co.jp/docs/interview/1010228.html
 in-activism.com http://www.in-activism.com/entry/make_much_money
 infoq.com https://www.infoq.com/jp/articles/no-more-mvc-frameworks
 irasutoya.com http://www.irasutoya.com/2016/07/blog-post_760.html
+ironna.jp http://ironna.jp/article/3682
 irorio.jp http://irorio.jp/takumiurushidate/20160702/326803/
 ishidanohanashi.com http://www.ishidanohanashi.com/entry/2016/07/04/115146
 ismedia.jp http://gendai.ismedia.jp/articles/-/49028
@@ -138,6 +144,7 @@ masterlow.net http://masterlow.net/?p=2565
 matsumoto-r.jp http://hb.matsumoto-r.jp/entry/2016/07/11/014430
 medium.com https://medium.com/@tumada/6a3d855f187f
 mercari.com http://tech.mercari.com/entry/2016/06/30/181442
+merumo.ne.jp http://news.merumo.ne.jp/article/genre/4796838
 mikinote.com http://www.mikinote.com/entry/tamanegi-d-buta
 milkwalkee.net http://www.blog.milkwalkee.net/entry/2016/07/07/215737
 miyahaya.com http://www.miyahaya.com/entry/2016/07/10/163817
@@ -152,6 +159,7 @@ naver.jp http://matome.naver.jp/odai/2146743632011337301
 nekotool.com http://books.nekotool.com/entry/love-affair-disorder
 nelog.jp http://nelog.jp/serposcope
 netafull.net http://netafull.net/video-funny/053360.html
+netgeek.biz http://netgeek.biz/archives/78809
 news-postseven.com http://www.news-postseven.com/archives/20160716_428401.html
 newsln.jp http://business.newsln.jp/news/201607020635390000.html
 newspicks.com https://newspicks.com/news/1663515/
@@ -159,7 +167,7 @@ newsweekjapan.jp http://www.newsweekjapan.jp/stories/world/2016/07/post-5417.php
 nhk.or.jp http://www3.nhk.or.jp/news/html/20160630/k10010578361000.html
 nifty.com http://portal.nifty.com/kiji/160703196906_1.htm
 nikkan-gendai.com http://www.nikkan-gendai.com/articles/view/newsx/184790?pc=true
-nikkansports.com http://www.nikkansports.com/soccer/japan/news/1673383.html
+nikkansports.com http://www.nikkansports.com/entertainment/news/1680983.html
 nikkei.com http://www.nikkei.com/article/DGXLASDG03H5L_T00C16A7000000/
 nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/nng/article/news/14/2220/
 nme-jp.com http://nme-jp.com/blogs/23051/
@@ -187,6 +195,7 @@ publickey1.jp http://www.publickey1.jp/blog/16/amazonidecloud9awssaas.html
 qiita.com http://qiita.com/Kei-Kamikawa/items/d0a500ac387d39a34401
 recomtank.com http://www.recomtank.com/entry/study-comic
 reliphone.jp http://reliphone.jp/first-half-of-2016-result/
+response.jp http://response.jp/article/2016/07/19/278696.html
 rikunabi.com http://next.rikunabi.com/journal/entry/20160624_1
 ringobiyori.com http://www.ringobiyori.com/entry/2016/07/14/183000
 rnyday.com http://rnyday.com/?p=112
@@ -204,8 +213,9 @@ shinma.tokyo http://blog.shinma.tokyo/entry/2016/07/14/180000
 shueisha.co.jp http://wpb.shueisha.co.jp/2016/07/06/67558/
 skky.jp http://blog.skky.jp/entry/2016/07/07/224325
 slideshare.net https://www.slideshare.net/takaumada/startup-paradox-thinking
+soumu.go.jp http://www.soumu.go.jp/menu_syokai/saiyou/detail/02ryutsu02_03000259.html
 soumushou.com http://www.soumushou.com/entry/2016/07/01/065829
-speakerdeck.com https://speakerdeck.com/fujiwara3/awsfalseotosukerutonakayokufu-kihe-u
+speakerdeck.com https://speakerdeck.com/fadis/xiao-sailinuxhuan-jing-falsezuo-rifang
 spotnote.jp http://spotnote.jp/amazon_prime_good_movie/
 sputniknews.com http://jp.sputniknews.com/science/20160703/2415156.html
 stores.jp https://kastoripub.stores.jp/items/5774b706100315e3160000c8
@@ -237,6 +247,7 @@ univ-journal.jp http://univ-journal.jp/8498/
 urutike.com http://urutike.com/amazon-90off-word-2449
 uxmilk.jp http://uxmilk.jp/38929
 varis.jp http://www.varis.jp/entry/2016/06/30/173000
+vice.com http://jp.vice.com/music/history-of-dancehall
 visionseichou.com http://www.visionseichou.com/entry/tukaeru-nou-kitaekata
 wantedly.com https://www.wantedly.com/companies/wantedly/post_articles/30026
 warorince.com http://www.warorince.com/entry/blog-12months-pv
@@ -246,6 +257,7 @@ webry.info http://21432839.at.webry.info/201601/article_2.html
 whitestyle00.com http://www.whitestyle00.com/boku1sen/
 wired.jp http://wired.jp/2016/06/30/memory-drug/
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160714-00173833-newsweek-int
+yamakamu.com http://yamakamu.com/archives/4657794.html
 yonosuke00.com http://www.yonosuke00.com/entry/2016/07/17/200000
 youtube.com http://www.youtube.com/watch?v=k48Z7YkVxLo
 yusuke.be http://blog.yusuke.be/entry/2012/05/07/112346
