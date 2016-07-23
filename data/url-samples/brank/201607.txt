@@ -64,6 +64,7 @@ dropbox.jp https://navi.dropbox.jp/dropbox-itunes/
 eng-entrance.com http://eng-entrance.com/linux-security-basic
 engadget.com http://japanese.engadget.com/2016/06/30/android-n-nougat/
 exblog.jp http://geopoli.exblog.jp/26021504/
+fa-works.com https://fa-works.com/blog/how-twitter-handles-3000-images-per-second
 facebook.com https://www.facebook.com/notes/%E5%92%8C%E7%94%B0-%E6%B4%8B%E4%B8%80/%E3%81%9D%E3%82%8D%E3%81%9D%E3%82%8D%E8%AA%9E%E3%82%8D%E3%81%86%E3%81%8B%E5%85%B6%E3%81%AE%E5%A3%B1/1078206192234133
 fc2.com http://teamanger.web.fc2.com/anger_summary1.html
 fem.jp http://editor.fem.jp/blog/?p=2516
@@ -103,6 +104,7 @@ hochi.co.jp http://www.hochi.co.jp/topics/20160715-OHT1T50052.html
 honz.jp http://honz.jp/articles/-/43011
 horiemon.com http://weblog.horiemon.com/100blog/40288/
 hotpepper.jp http://www.hotpepper.jp/mesitsu/entry/20160714/1468447200
+hrnabi.com http://hrnabi.com/2016/07/21/11423/
 html5experts.jp https://html5experts.jp/furoshiki/19276/
 httpoxy.org https://httpoxy.org/
 huffingtonpost.jp http://www.huffingtonpost.jp/2016/07/02/i-am-japanese_n_10790532.html
@@ -123,6 +125,8 @@ ituore.com http://www.ituore.com/entry/student-skill
 iwata09.com http://www.iwata09.com/entry/iwatafree
 j-cast.com http://www.j-cast.com/2016/07/04271552.html
 jagmo.jp http://jagmo.jp/legend
+jarna.jp http://www.jarna.jp/entry/life/dentsu
+ji-sedai.jp http://ji-sedai.jp/series/research/061.html
 jimin.jp https://ssl.jimin.jp/m/school_education_survey2016
 jimpei.net http://www.jimpei.net/entry/20160628171052
 jinsei-bungaku.jp http://www.jinsei-bungaku.jp/
@@ -132,6 +136,7 @@ kanasoku.info http://kanasoku.info/articles/86059.html
 kando1.net http://kando1.net/8942
 kaoriya.net http://mattn.kaoriya.net/software/lang/go/20160706165757.htm
 kiji.is http://this.kiji.is/124136850419631609
+krasimirtsonev.com http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
 kuchi-lab.com http://kuchi-lab.com/13toothpastes-chosen-for-boyfriends-2896
 kyanny.me http://blog.kyanny.me/entry/2016/07/18/184125
 levtech.jp https://freelance.levtech.jp/guide/detail/45/
@@ -149,12 +154,13 @@ matsumoto-r.jp http://hb.matsumoto-r.jp/entry/2016/07/11/014430
 medium.com https://medium.com/@tumada/6a3d855f187f
 mercari.com http://tech.mercari.com/entry/2016/06/30/181442
 merumo.ne.jp http://news.merumo.ne.jp/article/genre/4796838
-mikinote.com http://www.mikinote.com/entry/tamanegi-d-buta
+mikinote.com http://www.mikinote.com/entry/muneniku-puripuri
 milkwalkee.net http://www.blog.milkwalkee.net/entry/2016/07/07/215737
 miyahaya.com http://www.miyahaya.com/entry/2016/07/10/163817
 monoshirin.com http://blog.monoshirin.com/entry/2016/07/03/201955
 monstersproshop.com http://www.monstersproshop.com/thailand-giant-centipedo/
 moo.jp http://pineplanter.moo.jp/non-it-salaryman/2016/01/16/texteditor-programming/
+moriawase.net http://moriawase.net/car-chihou
 murasakai.net http://www.murasakai.net/entry/2016/07/04/211829
 mynavi.jp http://wedding.mynavi.jp/kekoon/entry/2016/06/30/120000
 natalie.mu http://natalie.mu/comic/pp/berserk02
@@ -191,6 +197,7 @@ petit.cc http://ocnis.petit.cc/lime/2592769
 photo4life.net http://www.photo4life.net/entry/photo-camera-website
 pixiv.net http://inside.pixiv.net/entry/2016/07/05/194025
 pojihiguma.com http://www.pojihiguma.com/entry/pro-blogger
+pokestop.link http://pokestop.link/
 politas.jp http://politas.jp/features/10/article/492
 postd.cc http://postd.cc/async-and-await/
 president.jp http://president.jp/articles/-/18373
@@ -245,6 +252,7 @@ tinect.jp http://blog.tinect.jp/?p=26804
 tofufu.me https://tofufu.me/yamamotofusaiinterview/
 togech.jp http://togech.jp/2016/07/14/37526
 togetter.com http://togetter.com/li/1000159
+tokyo-sports.co.jp http://www.tokyo-sports.co.jp/nonsec/social/568767/
 toreta.in http://tech.toreta.in/entry/excel-to-markdown-github-circleci
 toyokeizai.net http://toyokeizai.net/articles/-/125142
 tumblr.com http://youkoseki.tumblr.com/post/147045911315/kobe
@@ -268,6 +276,7 @@ yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160714-00173833-newsweek-
 yamakamu.com http://yamakamu.com/archives/4657794.html
 yonosuke00.com http://www.yonosuke00.com/entry/2016/07/17/200000
 youtube.com http://www.youtube.com/watch?v=k48Z7YkVxLo
+yugioh-hack.com http://yugioh-hack.com/ingress-sight-pokemon-go/
 yusuke.be http://blog.yusuke.be/entry/2012/05/07/112346
 yutokatagami.com http://blog.yutokatagami.com/entry/Hygiene_hypothesis
 yutorism.jp http://www.yutorism.jp/entry/PokemonGo
