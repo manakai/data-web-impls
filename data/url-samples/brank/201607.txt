@@ -3,6 +3,7 @@
 4gamer.net http://www.4gamer.net/games/285/G028533/20160715054/
 7samurai.tokyo http://7samurai.tokyo/night-pool-2016
 abroader.asia http://abroader.asia/2016/07/18/english1/
+adhd-tsukiko.com http://www.adhd-tsukiko.com/entry/characteristic-of-ADHD-conversation
 afpbb.com http://www.afpbb.com/articles/-/3093318
 ameblo.jp http://ameblo.jp/nonami-takizawa/entry-12176336249.html
 anabuki-style.com http://journal.anabuki-style.com/kitchen-storage
@@ -77,6 +78,7 @@ fukuyuki.net http://fukuyuki.net/post-946/
 fut573.com http://hatena.fut573.com/entry/20160710/1468123462
 future-architect.github.io http://future-architect.github.io/articles/20160721/
 gamespark.jp http://www.gamespark.jp/article/2016/07/10/67201.html
+geinou1.net http://geinou1.net/archives/1059582471.html
 gendaishokan.co.jp http://www.gendaishokan.co.jp/article/W00101.htm
 geocities.jp http://sky.geocities.jp/bunryu1011/5kanlog.html
 getnews.jp http://getnews.jp/archives/1494987
@@ -85,7 +87,7 @@ github.com https://github.com/naoya/codeiq-agenda/blob/master/201607.md
 gizmodo.jp http://www.gizmodo.jp/2016/07/6fictionplot.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/bhb/3209
 goo.ne.jp http://blog.goo.ne.jp/kimito39/e/cf7221168d0ba43252b8ecebe346ebb9
-goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/eating_manners
+goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/PokemonGO_sales
 goope.jp http://blog.goope.jp/?eid=469
 gori.me http://gori.me/music/music-news/88176
 gotch.info http://gotch.info/post/146921620687/
@@ -108,6 +110,7 @@ hitoriblog.com http://hitoriblog.com/?p=42145
 hochi.co.jp http://www.hochi.co.jp/topics/20160715-OHT1T50052.html
 honz.jp http://honz.jp/articles/-/43011
 horiemon.com http://weblog.horiemon.com/100blog/40288/
+hosyusokuhou.jp http://hosyusokuhou.jp/archives/48077778.html
 hotpepper.jp http://www.hotpepper.jp/mesitsu/entry/20160714/1468447200
 hrnabi.com http://hrnabi.com/2016/07/21/11423/
 html5experts.jp https://html5experts.jp/furoshiki/19276/
@@ -122,6 +125,7 @@ impress.co.jp http://k-tai.watch.impress.co.jp/docs/interview/1010228.html
 in-activism.com http://www.in-activism.com/entry/make_much_money
 infoq.com https://www.infoq.com/jp/articles/no-more-mvc-frameworks
 inside-games.jp http://www.inside-games.jp/article/2016/07/22/100535.html
+ipa-mania.com http://ipa-mania.com/pokemon/
 irasutoya.com http://www.irasutoya.com/2016/07/blog-post_529.html
 ironna.jp http://ironna.jp/article/3682
 irorio.jp http://irorio.jp/takumiurushidate/20160702/326803/
@@ -143,10 +147,13 @@ kanasoku.info http://kanasoku.info/articles/86059.html
 kando1.net http://kando1.net/8942
 kansou-blog.jp http://www.kansou-blog.jp/entry/2016/07/22/122712
 kaoriya.net http://mattn.kaoriya.net/software/lang/go/20160706165757.htm
+keio.ac.jp http://user.keio.ac.jp/~matsuoka/englishemail.htm
 kiji.is http://this.kiji.is/124136850419631609
+kobonemi.com http://www.kobonemi.com/entry/Pokemon-GO_Rare_and_Egg
 krasimirtsonev.com http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
 kuchi-lab.com http://kuchi-lab.com/13toothpastes-chosen-for-boyfriends-2896
 kyanny.me http://blog.kyanny.me/entry/2016/07/18/184125
+kyoko-np.net http://kyoko-np.net/2016072301.html
 levtech.jp https://freelance.levtech.jp/guide/detail/45/
 life-and-mind.com http://life-and-mind.com/love-psychology-1087
 life-d.net http://www.life-d.net/entry/2016/07/02/170200
@@ -155,7 +162,7 @@ lineblog.me http://lineblog.me/yamamotoichiro/archives/8449000.html
 lite-ra.com http://lite-ra.com/2016/07/post-2416.html
 livedoor.biz http://smoothfoxxx.livedoor.biz/archives/52225662.html
 livedoor.com http://news.livedoor.com/article/detail/11707599/
-livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1887518.html
+livedoor.jp http://blog.livedoor.jp/businesslaw/archives/52465834.html
 mainichi.jp http://mainichi.jp/articles/20160702/k00/00e/040/185000c
 marswee.com http://blog.marswee.com/entry/dean-kamen
 masterlow.net http://masterlow.net/?p=2565
@@ -167,6 +174,7 @@ mess-y.com http://mess-y.com/archives/32935
 mikinote.com http://www.mikinote.com/entry/muneniku-puripuri
 milkwalkee.net http://www.blog.milkwalkee.net/entry/2016/07/07/215737
 miyahaya.com http://www.miyahaya.com/entry/2016/07/10/163817
+mofman.net http://mofman.net/pokemon-go-matome/
 monoblog.net http://monoblog.net/pokemon-go-is-not-go
 monoshirin.com http://blog.monoshirin.com/entry/2016/07/03/201955
 monstersproshop.com http://www.monstersproshop.com/thailand-giant-centipedo/
@@ -211,6 +219,7 @@ photo4life.net http://www.photo4life.net/entry/photo-camera-website
 pixiv.net http://inside.pixiv.net/entry/2016/07/05/194025
 pojihiguma.com http://www.pojihiguma.com/entry/pro-blogger
 pokestop.link http://pokestop.link/
+pokevision.com https://pokevision.com/
 politas.jp http://politas.jp/features/10/article/492
 postd.cc http://postd.cc/async-and-await/
 president.jp http://president.jp/articles/-/18373
@@ -248,6 +257,7 @@ soumushou.com http://www.soumushou.com/entry/2016/07/01/065829
 speakerdeck.com https://speakerdeck.com/fadis/xiao-sailinuxhuan-jing-falsezuo-rifang
 spotnote.jp http://spotnote.jp/amazon_prime_good_movie/
 sputniknews.com http://jp.sputniknews.com/science/20160703/2415156.html
+staff-blog.com http://staff-blog.com/post-2450/
 stores.jp https://kastoripub.stores.jp/items/5774b706100315e3160000c8
 studysapuri.jp https://studysapuri.jp/course/junior/parents/kyoiku/article-8.html
 sugano.ne.jp http://www.sugano.ne.jp/2016/07/01/post-187/
@@ -258,6 +268,7 @@ suumo.jp http://suumo.jp/town/entry/kyoto-pha/
 szk.cc http://blog.szk.cc/2016/07/22/some-sociological-hints-of-analysing-pokemon-go/
 ta2o.net http://hatebu.ta2o.net/gojo/
 takagi-hiromitsu.jp http://takagi-hiromitsu.jp/diary/20160716.html
+tarappism.com http://www.tarappism.com/entry/pokemon-go-cp-2000-over-size-xl
 tdoc.info http://tdoc.info/blog/2016/07/08/ansible_to_docker.html
 techacademy.jp http://techacademy.jp/magazine/8763
 techcrunch.com http://jp.techcrunch.com/2016/07/14/20160713unity-announces-181-million-monster-round-led-by-dfj-growth/
@@ -270,6 +281,7 @@ togech.jp http://togech.jp/2016/07/14/37526
 togetter.com http://togetter.com/li/1000159
 tokyo-sports.co.jp http://www.tokyo-sports.co.jp/nonsec/social/568767/
 toreta.in http://tech.toreta.in/entry/excel-to-markdown-github-circleci
+touchlab.jp http://touchlab.jp/2016/07/pokevision_pokemon_go/
 toyokeizai.net http://toyokeizai.net/articles/-/125142
 tumblr.com http://youkoseki.tumblr.com/post/147045911315/kobe
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000078566.html
