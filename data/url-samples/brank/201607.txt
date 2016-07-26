@@ -8,6 +8,7 @@ afpbb.com http://www.afpbb.com/articles/-/3093318
 ameblo.jp http://ameblo.jp/nonami-takizawa/entry-12176336249.html
 anabuki-style.com http://journal.anabuki-style.com/kitchen-storage
 animeanime.jp http://animeanime.jp/article/2016/07/09/29406.html
+animereview.jp https://blog.animereview.jp/pokemon-go-to-slack/
 aoshimabooks.com http://aoshimabooks.com/archives/3149
 appmarketinglabo.net http://appmarketinglabo.net/arithmatic/
 archive.fo http://archive.fo/FysFM
@@ -95,7 +96,7 @@ h-navi.jp https://h-navi.jp/column/article/35025573
 hamusoku.com http://hamusoku.com/archives/9293608.html
 hateblo.jp http://vergil.hateblo.jp/entry/2016/07/19/215422
 hatelabo.jp http://anond.hatelabo.jp/20160528145102
-hatena.ne.jp http://d.hatena.ne.jp/NOV1975/20160707/p1
+hatena.ne.jp http://d.hatena.ne.jp/NATROM/20160724#p1
 hatenablog.com http://yutoma233.hatenablog.com/entry/2016/07/11/072727
 hatenablog.jp http://yanoshi.hatenablog.jp/entry/2016/07/05/013907
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20160705/1467723112
@@ -133,7 +134,7 @@ ishidanohanashi.com http://www.ishidanohanashi.com/entry/2016/07/04/115146
 ismedia.jp http://gendai.ismedia.jp/articles/-/49028
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1607/20/news101.html
 ituore.com http://www.ituore.com/entry/student-skill
-iwata09.com http://www.iwata09.com/entry/iwatafree
+iwata09.com http://www.iwata09.com/entry/2016/07/24/233818
 j-cast.com http://www.j-cast.com/2016/07/04271552.html
 jagmo.jp http://jagmo.jp/legend
 jarna.jp http://www.jarna.jp/entry/life/dentsu
@@ -185,6 +186,7 @@ mynavi.jp http://wedding.mynavi.jp/kekoon/entry/2016/06/30/120000
 natalie.mu http://natalie.mu/comic/pp/berserk02
 nationalreview.com http://www.nationalreview.com/article/437950/japans-new-fascism
 naver.jp http://matome.naver.jp/odai/2146743632011337301
+navikuru-car.com https://navikuru-car.com/healing-manga-4075
 nekotool.com http://books.nekotool.com/entry/love-affair-disorder
 nelog.jp http://nelog.jp/serposcope
 netafull.net http://netafull.net/video-funny/053360.html
@@ -201,6 +203,7 @@ nikkansports.com http://www.nikkansports.com/entertainment/news/1680983.html
 nikkei.com http://www.nikkei.com/article/DGXLASDG03H5L_T00C16A7000000/
 nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/nng/article/news/14/2220/
 nme-jp.com http://nme-jp.com/blogs/23051/
+nmi.jp http://nmi.jp/2016-07-23-stock-strategy-for-early-startup-employee
 note.mu https://note.mu/kensuu/n/n7a2f75aba313
 nubatamanon.com http://www.nubatamanon.com/entry/2016/07/12/010356
 nvidia.co.jp https://blogs.nvidia.co.jp/2016/07/13/deep-learning-cats-lawn/
@@ -216,6 +219,7 @@ pdmagazine.jp http://pdmagazine.jp/background/morrison-sensei3/
 pero.li http://tech.pero.li/entry/2016/07/22/141228
 petit.cc http://ocnis.petit.cc/lime/2592769
 photo4life.net http://www.photo4life.net/entry/photo-camera-website
+photoshopvip.net http://photoshopvip.net/92281
 pixiv.net http://inside.pixiv.net/entry/2016/07/05/194025
 pojihiguma.com http://www.pojihiguma.com/entry/pro-blogger
 pokestop.link http://pokestop.link/
@@ -257,6 +261,7 @@ soumushou.com http://www.soumushou.com/entry/2016/07/01/065829
 speakerdeck.com https://speakerdeck.com/fadis/xiao-sailinuxhuan-jing-falsezuo-rifang
 spotnote.jp http://spotnote.jp/amazon_prime_good_movie/
 sputniknews.com http://jp.sputniknews.com/science/20160703/2415156.html
+srad.jp http://srad.jp/story/11/09/30/040224/
 staff-blog.com http://staff-blog.com/post-2450/
 stores.jp https://kastoripub.stores.jp/items/5774b706100315e3160000c8
 studysapuri.jp https://studysapuri.jp/course/junior/parents/kyoiku/article-8.html
@@ -303,7 +308,7 @@ wired.jp http://wired.jp/2016/06/30/memory-drug/
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160714-00173833-newsweek-int
 yamakamu.com http://yamakamu.com/archives/4657794.html
 yonosuke00.com http://www.yonosuke00.com/entry/2016/07/17/200000
-youtube.com http://www.youtube.com/watch?v=k48Z7YkVxLo
+youtube.com http://www.youtube.com/watch?v=f2YPf0dA834
 yugioh-hack.com http://yugioh-hack.com/ingress-sight-pokemon-go/
 yusuke.be http://blog.yusuke.be/entry/2012/05/07/112346
 yutokatagami.com http://blog.yutokatagami.com/entry/Hygiene_hypothesis
