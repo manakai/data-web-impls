@@ -55,6 +55,7 @@ codeiq.jp https://codeiq.jp/magazine/2016/06/42239/
 coliss.com http://coliss.com/articles/build-websites/operation/css/css-components-without-javascript.html
 comiket.co.jp http://www.comiket.co.jp/info-c/C91/C91genre.html
 commte.net http://commte.net/blog/archives/5882
+connehito.com http://tech.connehito.com/entry/2016/07/28/170858
 cookpad.com http://techlife.cookpad.com/entry/2016/07/06/094332
 cpplover.blogspot.com https://cpplover.blogspot.com/2016/07/41.html
 cybozu.co.jp http://cybozushiki.cybozu.co.jp/articles/m001147.html
@@ -80,13 +81,14 @@ facebook.com https://www.facebook.com/notes/%E5%92%8C%E7%94%B0-%E6%B4%8B%E4%B8%8
 fashionsnap.com http://www.fashionsnap.com/the-posts/2016-07-26/first1000/
 fc2.com http://teamanger.web.fc2.com/anger_summary1.html
 fem.jp http://editor.fem.jp/blog/?p=2516
-ferret-plus.com https://ferret-plus.com/4680
+ferret-plus.com https://ferret-plus.com/4667
 fesoku.net http://fesoku.net/archives/8519790.html
 forbesjapan.com http://forbesjapan.com/articles/detail/12794/1/1/1
 freiheit.co http://www.freiheit.co/entry/2016/07/10/%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E5%A4%A7%E8%83%B8%E7%AD%8B%E3%82%92%E9%8D%9B%E3%81%88%E3%81%A6%E5%88%86%E5%8E%9A%E3%81%84%E8%83%B8%E6%9D%BF%E3%82%92%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86
 fukuyuki.net http://fukuyuki.net/post-946/
 fut573.com http://hatena.fut573.com/entry/20160710/1468123462
 future-architect.github.io http://future-architect.github.io/articles/20160721/
+gaiax-socialmedialab.jp http://gaiax-socialmedialab.jp/post-40749/
 gamebiz.jp http://gamebiz.jp/?p=165935
 gamecast-blog.com http://www.gamecast-blog.com/archives/65870138.html
 gamespark.jp http://www.gamespark.jp/article/2016/07/10/67201.html
@@ -110,6 +112,7 @@ hatelabo.jp http://anond.hatelabo.jp/20150730144927
 hatena.ne.jp http://d.hatena.ne.jp/NATROM/20160724#p1
 hatenablog.com http://yutoma233.hatenablog.com/entry/2016/07/11/072727
 hatenablog.jp http://yanoshi.hatenablog.jp/entry/2016/07/05/013907
+hatenacorp.jp http://hatenacorp.jp/press/release/entry/2016/07/28/173000
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20160705/1467723112
 hatenadiary.jp http://orangestar.hatenadiary.jp/entry/2016/07/13/173000
 hatenastaff.com http://pr.hatenastaff.com/entry/hatenatshirts2016campaign
@@ -184,12 +187,14 @@ marswee.com http://blog.marswee.com/entry/dean-kamen
 masterlow.net http://masterlow.net/?p=2565
 matsumoto-r.jp http://hb.matsumoto-r.jp/entry/2016/07/11/014430
 medium.com https://medium.com/@tumada/6a3d855f187f
+meet-i.com http://i.meet-i.com/?p=173951
 mercari.com http://tech.mercari.com/entry/2016/06/30/181442
 merumo.ne.jp http://news.merumo.ne.jp/article/genre/4796838
 mess-y.com http://mess-y.com/archives/32935
 mikinote.com http://www.mikinote.com/entry/aron-a-kizu
 milkwalkee.net http://www.blog.milkwalkee.net/entry/2016/07/07/215737
 minnano-finance.com http://minnano-finance.com/otoqoo/1408.html
+minnanokaigo.com http://www.minnanokaigo.com/news/N65033621/
 miyahaya.com http://www.miyahaya.com/entry/2016/07/10/163817
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/38826
 mofman.net http://mofman.net/pokemon-go-matome/
@@ -218,7 +223,7 @@ nifty.com http://portal.nifty.com/kiji/160703196906_1.htm
 nikkan-gendai.com http://www.nikkan-gendai.com/articles/view/life/185952?pc=true
 nikkansports.com http://www.nikkansports.com/entertainment/news/1680983.html
 nikkei.com http://www.nikkei.com/article/DGXLASDG03H5L_T00C16A7000000/
-nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/nng/article/news/14/2220/
+nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/16/072800280/
 nme-jp.com http://nme-jp.com/blogs/23051/
 nmi.jp http://nmi.jp/2016-07-23-stock-strategy-for-early-startup-employee
 note.mu https://note.mu/kensuu/n/n7a2f75aba313
@@ -234,6 +239,7 @@ otaden.jp http://hirorin.otaden.jp/e435897.html
 otokitashun.com http://otokitashun.com/blog/daily/12136/
 ouchi-iroha.jp http://ouchi-iroha.jp/buy-3307
 outward-matrix.com http://www.outward-matrix.com/entry/2016/07/25/163000
+patlabor-reboot.jp http://www.patlabor-reboot.jp/
 pdmagazine.jp http://pdmagazine.jp/background/morrison-sensei3/
 pero.li http://tech.pero.li/entry/2016/07/22/141228
 petit.cc http://ocnis.petit.cc/lime/2592769
@@ -249,7 +255,9 @@ president.jp http://president.jp/articles/-/18373
 proof0309.com http://www.proof0309.com/entry/2no0zyou
 ptkabe.net http://www.ptkabe.net/entry/crosscub
 publickey1.jp http://www.publickey1.jp/blog/16/amazonidecloud9awssaas.html
+publog.jp http://deniirotwitter.publog.jp/archives/1059706187.html
 qiita.com http://qiita.com/Kei-Kamikawa/items/d0a500ac387d39a34401
+rakuten.jp http://srdk.rakuten.jp/entry/2016/07/28/110000
 rdy.jp http://golang.rdy.jp/2016/07/27/concurrency/
 realsound.jp http://realsound.jp/2016/07/post-8456.html
 recomtank.com http://www.recomtank.com/entry/pokestop
@@ -272,10 +280,11 @@ seleck.cc https://seleck.cc/note/seleck_howto/article/65
 senseicode.club http://senseicode.club/2-cs-vs-programming
 shinji.asia http://blog.shinji.asia/english-engineer/
 shinma.tokyo http://blog.shinma.tokyo/entry/2016/07/14/180000
+shiroyagi.co.jp http://aial.shiroyagi.co.jp/2016/07/golang-api-server-developing/
 shueisha.co.jp http://wpb.shueisha.co.jp/2016/07/06/67558/
 shuntorigoe.com http://shuntorigoe.com/archives/22
 skky.jp http://blog.skky.jp/entry/2016/07/07/224325
-slideshare.net https://www.slideshare.net/takaumada/startup-paradox-thinking
+slideshare.net https://www.slideshare.net/kumagi/ss-64459138
 sonicgarden.jp http://kuranuki.sonicgarden.jp/2016/07/task-break.html
 soumu.go.jp http://www.soumu.go.jp/menu_syokai/saiyou/detail/02ryutsu02_03000259.html
 soumushou.com http://www.soumushou.com/entry/2016/07/01/065829
@@ -313,6 +322,7 @@ toyokeizai.net http://toyokeizai.net/articles/-/125142
 tumblr.com http://youkoseki.tumblr.com/post/147045911315/kobe
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000078566.html
 twitter.com http://twitter.com/Bulldog_noh8/status/752292409631842304
+type.jp http://type.jp/et/feature/1498
 udemy.com https://www.udemy.com/python-jp/
 uedakeita.net http://diary.uedakeita.net/entry/2016/07/28/001904
 univ-journal.jp http://univ-journal.jp/8498/
