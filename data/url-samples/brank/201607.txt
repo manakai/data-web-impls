@@ -19,6 +19,7 @@ asahi.com http://www.asahi.com/articles/ASJ6872SJJ68UHBI030.html
 ascii.jp http://ascii.jp/elem/000/001/189/1189536/
 ashita-office.com http://ashita-office.com/nomad-cafe-3966
 astahblog.com https://ja.astahblog.com/2015/07/16/git_model/
+astroarts.co.jp http://www.astroarts.co.jp/news/2016/07/29grs/index-j.shtml
 automaton.am http://jp.automaton.am/articles/impressionjp/how-to-play-pokemon-go/
 ayumusato.com https://havelog.ayumusato.com/misc/e713-remote_work.html
 b-chan.jp http://www.b-chan.jp/entry/essay/40-failures
@@ -43,6 +44,7 @@ buzzfeed.com https://www.buzzfeed.com/daisukefuruta/revision-of-the-constitution
 buzzmag.jp http://buzzmag.jp/archives/70033
 careerconnection.jp https://news.careerconnection.jp/?p=25488
 careersupli.jp http://careersupli.jp/featured/businessshoes/
+cgiboy.com http://n.cgiboy.com/info/5765/
 chester-souzoku.com http://chester-souzoku.com/inheritance-tax-perfect-guide-1329
 cho-gouriteki.com http://www.cho-gouriteki.com/entry/EDM-instrumental_best
 cinematoday.jp http://www.cinematoday.jp/page/N0084699
@@ -59,6 +61,7 @@ connehito.com http://tech.connehito.com/entry/2016/07/28/170858
 cookpad.com http://techlife.cookpad.com/entry/2016/07/06/094332
 cpplover.blogspot.com https://cpplover.blogspot.com/2016/07/41.html
 cybozu.co.jp http://cybozushiki.cybozu.co.jp/articles/m001147.html
+daily.co.jp http://www.daily.co.jp/gossip/2016/07/29/0009331879.shtml
 dangouwasa.com http://www.dangouwasa.com/entry/gyakunan
 ddnavi.com http://ddnavi.com/news/310934/a/
 deafkaikeishi.com http://deafkaikeishi.com/discrimination/discriminationjp.html
@@ -71,6 +74,7 @@ domesoccer.jp http://blog.domesoccer.jp/archives/60053982.html
 doorblog.jp http://kabumatome.doorblog.jp/archives/65852886.html
 doorkeeper.jp https://www.doorkeeper.jp/news/2016/7/25/why-charge-organisers
 dropbox.jp https://navi.dropbox.jp/dropbox-itunes/
+dtmstation.com http://www.dtmstation.com/archives/51981245.html
 eiga.com http://eiga.com/news/20160726/9/
 eng-entrance.com http://eng-entrance.com/linux-security-basic
 engadget.com http://japanese.engadget.com/2016/06/30/android-n-nougat/
@@ -123,10 +127,12 @@ hiroki.jp https://hiroki.jp/leap-second-20170101
 hitode-festival.com http://www.hitode-festival.com/entry/2016/07/05/204431
 hitoriblog.com http://hitoriblog.com/?p=42145
 hochi.co.jp http://www.hochi.co.jp/topics/20160715-OHT1T50052.html
+hokudai.ac.jp http://www.hokudai.ac.jp/news/2016/07/pokemon-go.html
 honz.jp http://honz.jp/articles/-/43011
 horiemon.com http://weblog.horiemon.com/100blog/40288/
 hosyusokuhou.jp http://hosyusokuhou.jp/archives/48077778.html
 hotpepper.jp http://www.hotpepper.jp/mesitsu/entry/20160714/1468447200
+hpci-office.jp https://www.hpci-office.jp/output/hp140230/outcome.pdf
 hrnabi.com http://hrnabi.com/2016/07/21/11423/
 hsbt.org https://www.hsbt.org/diary/20160726.html#p01
 html5experts.jp https://html5experts.jp/furoshiki/19276/
@@ -181,6 +187,7 @@ livedoor.biz http://smoothfoxxx.livedoor.biz/archives/52225662.html
 livedoor.com http://news.livedoor.com/article/detail/11707599/
 livedoor.jp http://blog.livedoor.jp/businesslaw/archives/52465834.html
 logmi.jp http://logmi.jp/153738
+maeda-y.com http://movie.maeda-y.com/movie/02100.htm
 mainichi.jp http://mainichi.jp/articles/20160702/k00/00e/040/185000c
 markethack.net http://markethack.net/archives/52016554.html
 marswee.com http://blog.marswee.com/entry/dean-kamen
@@ -216,7 +223,7 @@ netgeek.biz http://netgeek.biz/archives/78809
 news-postseven.com http://www.news-postseven.com/archives/20160716_428401.html
 newsln.jp http://business.newsln.jp/news/201607020635390000.html
 newspicks.com https://newspicks.com/news/1663515/
-newsweekjapan.jp http://www.newsweekjapan.jp/stories/world/2016/07/post-5417.php
+newsweekjapan.jp http://www.newsweekjapan.jp/obata/2016/07/post-9.php
 nhk.or.jp http://www9.nhk.or.jp/gatten/articles/20090708/index.html
 nicovideo.jp http://niconare.nicovideo.jp/watch/kn1624
 nifty.com http://portal.nifty.com/kiji/160703196906_1.htm
@@ -278,6 +285,7 @@ sealdspost.com http://sealdspost.com/archives/3704
 seesaa.net http://osusumegeorge.seesaa.net/article/439663409.html
 seleck.cc https://seleck.cc/note/seleck_howto/article/65
 senseicode.club http://senseicode.club/2-cs-vs-programming
+setagaya.lg.jp http://www.city.setagaya.lg.jp/kurashi/106/157/692/d00147775.html
 shinji.asia http://blog.shinji.asia/english-engineer/
 shinma.tokyo http://blog.shinma.tokyo/entry/2016/07/14/180000
 shiroyagi.co.jp http://aial.shiroyagi.co.jp/2016/07/golang-api-server-developing/
@@ -285,6 +293,7 @@ shueisha.co.jp http://wpb.shueisha.co.jp/2016/07/06/67558/
 shuntorigoe.com http://shuntorigoe.com/archives/22
 skky.jp http://blog.skky.jp/entry/2016/07/07/224325
 slideshare.net https://www.slideshare.net/kumagi/ss-64459138
+softantenna.com http://www.softantenna.com/wp/software/docker-for-mac-windows-official-release/
 sonicgarden.jp http://kuranuki.sonicgarden.jp/2016/07/task-break.html
 soumu.go.jp http://www.soumu.go.jp/menu_syokai/saiyou/detail/02ryutsu02_03000259.html
 soumushou.com http://www.soumushou.com/entry/2016/07/01/065829
@@ -293,6 +302,7 @@ spotnote.jp http://spotnote.jp/amazon_prime_good_movie/
 sputniknews.com http://jp.sputniknews.com/science/20160703/2415156.html
 srad.jp http://srad.jp/story/11/09/30/040224/
 staff-blog.com http://staff-blog.com/post-2450/
+stanaka.org http://blog.stanaka.org/entry/2016/07/29/155408
 stores.jp https://kastoripub.stores.jp/items/5774b706100315e3160000c8
 studysapuri.jp https://studysapuri.jp/course/junior/parents/kyoiku/article-8.html
 sugano.ne.jp http://www.sugano.ne.jp/2016/07/01/post-187/
@@ -317,6 +327,7 @@ togech.jp http://togech.jp/2016/07/14/37526
 togetter.com http://togetter.com/li/1000159
 tokyo-sports.co.jp http://www.tokyo-sports.co.jp/nonsec/social/568767/
 toreta.in http://tech.toreta.in/entry/excel-to-markdown-github-circleci
+tottori.lg.jp http://www.pref.tottori.lg.jp/tottorigo/
 touchlab.jp http://touchlab.jp/2016/07/pokevision_pokemon_go/
 toyokeizai.net http://toyokeizai.net/articles/-/125142
 tumblr.com http://youkoseki.tumblr.com/post/147045911315/kobe
@@ -335,6 +346,7 @@ wantedly.com https://www.wantedly.com/companies/wantedly/post_articles/30026
 warorince.com http://www.warorince.com/entry/blog-12months-pv
 webchikuma.jp http://www.webchikuma.jp/articles/-/219
 webcreatorbox.com http://www.webcreatorbox.com/tech/animation-libraries/
+weboo-returns.com http://weboo-returns.com/blog/sshrc-for-custom-bashrc-tmuxconf-vimrc/
 webry.info http://21432839.at.webry.info/201601/article_2.html
 whitestyle00.com http://www.whitestyle00.com/boku1sen/
 wired.jp http://wired.jp/2016/06/30/memory-drug/
