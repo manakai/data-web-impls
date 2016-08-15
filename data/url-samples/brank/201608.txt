@@ -7,6 +7,7 @@ amazon.co.jp https://www.amazon.co.jp/gp/aw/kindle/ku/about?ie=UTF8&*Version*=1&
 amazon.com https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/
 ameblo.jp http://ameblo.jp/akky-0829/entry-12188216276.html
 animatetimes.com http://www.animatetimes.com/news/details.php?id=1470733917
+anizm.xyz http://www.anizm.xyz/entry/2016/08/13/075737
 anlyznews.com http://www.anlyznews.com/2016/07/blog-post_31.html
 arcgis.com http://stanford.maps.arcgis.com/apps/SimpleViewer/index.html?appid=733446cc5a314ddf85c59ecc10321b41
 archive.org http://web.archive.org/web/20060516065259/http://www11.ocn.ne.jp/~zaru/zaru/backnumber/nyuumon/index.html
@@ -15,7 +16,7 @@ asahi.com http://www.asahi.com/and_w/interest/SDI2016081043561.html
 ascii.jp http://ascii.jp/elem/000/001/173/1173185/
 asimino.com http://blog.asimino.com/entry/Overtime-hateful
 aviationwire.jp http://www.aviationwire.jp/archives/96469
-bengo4.com https://www.bengo4.com/internet/1070/n_4959/
+bengo4.com https://www.bengo4.com/c_5/c_1234/c_1723/n_4993/
 bhb.co.jp http://bhb.co.jp/karadameate/
 bipblog.com http://bipblog.com/archives/5256843.html
 bita.jp https://bita.jp/dml/firedrop-ai
@@ -36,6 +37,7 @@ cnet.com http://japan.cnet.com/news/society/35086541/
 coliss.com http://coliss.com/articles/build-websites/operation/design/select-and-mask-in-photoshop-cc.html
 cookpad.com http://techlife.cookpad.com/entry/2016/08/08/103906
 courrier.jp http://courrier.jp/news/archives/58567/
+cyzowoman.com http://www.cyzowoman.com/2016/08/post_21342.html
 daikin.co.jp http://www.daikin.co.jp/press/2016/160812_2/index.html
 daily.co.jp http://www.daily.co.jp/baseball/2016/08/02/0009347179.shtml
 denfaminicogamer.jp http://news.denfaminicogamer.jp/horror2016/biohazard-contribute
@@ -94,8 +96,10 @@ itutado.com http://www.itutado.com/entry/2016/08/06/%E3%80%90%E8%AA%AD%E3%81%BF%
 jalan.net http://www.jalan.net/news/article/100005/
 japaaan.com http://mag.japaaan.com/archives/42087
 jcp.or.jp http://www.jcp.or.jp/akahata/aik16/2016-08-01/2016080101_01_1.html
+jiburi.com http://jiburi.com/masai-1day/
 jma.go.jp http://www.data.jma.go.jp/svd/eew/data/nc/fc_hist/2016/08/20160801170904/index.html
 jnito.com http://blog.jnito.com/entry/2016/08/08/095634
+johnnys-net.jp http://www.johnnys-net.jp/page?id=text&dataId=1110
 kaerucloud.com http://blog.kaerucloud.com/entry/ahiru-guchi
 kai-you.net http://kai-you.net/article/31156
 kaimin-times.com http://kaimin-times.com/how-to-sleep-soundly-3308
