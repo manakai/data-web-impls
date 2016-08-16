@@ -54,6 +54,7 @@ fair-skinned-monster.com http://www.fair-skinned-monster.com/entry/2016/08/02/21
 famitsu.com http://www.famitsu.com/news/201608/05112698.html
 fc2.com http://readingmonkey.blog45.fc2.com/blog-entry-775.html
 fnn-news.com http://www.fnn-news.com/news/headlines/articles/CONN00332744.html
+fontfree.me http://fontfree.me/blog/104
 full-count.jp http://full-count.jp/2016/08/11/post41989/
 gachapin-sensei.com http://blog.gachapin-sensei.com/archives/5174099.html
 gaiax-socialmedialab.jp http://gaiax-socialmedialab.jp/post-41045/
@@ -90,7 +91,7 @@ impress.co.jp http://internet.watch.impress.co.jp/docs/news/1013412.html
 impressrd.jp http://web-tan.forum.impressrd.jp/e/2016/08/08/23475
 infonzplus.net http://infonzplus.net/?p=893
 iphone-mania.jp http://iphone-mania.jp/news-127919/
-ismedia.jp http://gendai.ismedia.jp/articles/-/49324
+ismedia.jp http://jbpress.ismedia.jp/articles/-/47609
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1608/09/news019.html
 itutado.com http://www.itutado.com/entry/2016/08/06/%E3%80%90%E8%AA%AD%E3%81%BF%E6%94%BE%E9%A1%8C%E3%80%91Kindle_Unlimited%E3%81%A7%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%80%81%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E6%BC%AB
 jalan.net http://www.jalan.net/news/article/100005/
@@ -109,6 +110,7 @@ kansou-blog.jp http://www.kansou-blog.jp/entry/2016/08/09/124700
 kaoriya.net http://mattn.kaoriya.net/software/lang/go/20160805190022.htm
 katsushin.com http://www.katsushin.com/entry/mery-welq
 kiji.is http://this.kiji.is/134499176145831417
+kindou.info https://kindou.info/72631.html
 konkatu-report.net http://konkatu-report.net/5648.html
 kousyou.cc http://kousyou.cc/archives/15708
 kunaicho.go.jp http://www.kunaicho.go.jp/page/okotoba/detail/12
@@ -139,7 +141,7 @@ natalie.mu http://natalie.mu/comic/pp/dungeonmeshi
 naver.jp http://matome.naver.jp/odai/2147088252282771501
 navikuru-car.com https://navikuru-car.com/how-to-cook-steak-4379
 nhk.or.jp http://www3.nhk.or.jp/news/html/20160731/k10010615711000.html
-nicovideo.jp http://blog.nicovideo.jp/niconews/ni062609.html
+nicovideo.jp http://ch.nicovideo.jp/cayenne3030/blomaga/ar1085733
 nifty.com http://portal.nifty.com/kiji/160801197089_1.htm
 nikkan-spa.jp http://nikkan-spa.jp/1172511
 nikkansports.com http://www.nikkansports.com/battle/sumo/news/1687442.html
@@ -175,6 +177,7 @@ sheage.jp https://sheage.jp/article/5236
 shibayu36.org http://blog.shibayu36.org/entry/2016/08/04/220840
 shin-godzilla.jp http://www.shin-godzilla.jp/news/news_160808_1.html
 shinma.tokyo http://blog.shinma.tokyo/entry/2016/08/11/190000
+shinsaku-takasugi.com http://www.shinsaku-takasugi.com/entry/2016/08/14/%E3%80%90%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%84%9F%E8%A6%9A%E3%81%AF%E6%AD%A3%E3%81%97%E3%81%84%E3%80%91%E3%80%8C%E6%9C%AC%E6%B0%97%E3%81%A7%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84
 skky.jp http://blog.skky.jp/entry/2016/07/31/201905
 slideshare.net https://www.slideshare.net/mosa_siru/ss-64839846
 speakerdeck.com https://speakerdeck.com/dtan4/number-abejameetup
@@ -219,7 +222,7 @@ wired.jp http://wired.jp/2016/08/01/yahoo-online-abuse-algorithm/
 withnews.jp http://withnews.jp/article/f0160806003qq000000000000000W00b10101qq000013789A
 world-fusigi.net http://world-fusigi.net/archives/8532381.html
 xn--eck7a6c577upzt.net http://xn--eck7a6c577upzt.net/column.php?archive_id=54
-yahoo.co.jp http://rio.yahoo.co.jp/column/detail/201608110002-spnavi
+yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160814-00105425-hbolz-soci
 yoshitokamizato.com http://utina.yoshitokamizato.com/entry/2016/08/08/202639
 youtube.com http://www.youtube.com/watch?v=66SAVZ4JxY8
 yunabe.jp http://www.yunabe.jp/docs/golang_pitfall.html
