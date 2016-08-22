@@ -1,4 +1,5 @@
 2chblog.jp http://rabitsokuhou.2chblog.jp/archives/68567425.html
+4gamer.net http://www.4gamer.net/games/999/G999905/20160820019/
 aafocusblog.blogspot.com http://aafocusblog.blogspot.com/2012/08/1968_4.html
 afpbb.com http://www.afpbb.com/articles/-/3096114
 agora-web.jp http://agora-web.jp/archives/2020932.html
@@ -22,6 +23,7 @@ asahi.com http://www.asahi.com/and_w/interest/SDI2016081043561.html
 ascii.jp http://ascii.jp/elem/000/001/173/1173185/
 asimino.com http://blog.asimino.com/entry/Overtime-hateful
 aviationwire.jp http://www.aviationwire.jp/archives/96469
+bazubu.com http://bazubu.com/case/guthy-renker-japan
 bengo4.com https://www.bengo4.com/c_5/c_1234/c_1723/n_4993/
 bhb.co.jp http://bhb.co.jp/karadameate/
 bipblog.com http://bipblog.com/archives/5256843.html
@@ -33,6 +35,7 @@ blogos.com http://blogos.com/article/186206/
 bunshun.jp http://shukan.bunshun.jp/articles/-/6452
 buy-buy.net https://buy-buy.net/archives/1839/
 buzzfeed.com https://www.buzzfeed.com/daisukefuruta/utsunomiya-talk-about-tochijisen
+cakes.mu https://cakes.mu/posts/13751
 cardloan-reporters.com http://cardloan-reporters.com/review/virtual-office-card-loan/
 careersupli.jp http://careersupli.jp/lifehack/manga-3/
 careertrek.com https://www.careertrek.com/daily/shukan-horii-last/
@@ -56,7 +59,7 @@ damonge.com https://damonge.com/p=15173
 denfaminicogamer.jp http://news.denfaminicogamer.jp/horror2016/biohazard-contribute
 diamond.jp http://diamond.jp/articles/-/98421
 dmm.co.jp http://news.dmm.co.jp/article/990233/
-doorblog.jp http://kabumatome.doorblog.jp/archives/65870697.html
+doorblog.jp http://kabumatome.doorblog.jp/archives/65863023.html
 doujinshi-print.com http://www.doujinshi-print.com/
 e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/galaxy015
 eng-entrance.com http://eng-entrance.com/linux-regular-expression
@@ -107,6 +110,7 @@ huffingtonpost.jp http://www.huffingtonpost.jp/2016/07/31/ikegami-vs-yuriko_n_11
 iij.ad.jp http://eng-blog.iij.ad.jp/archives/85
 iizinsei.com http://www.iizinsei.com/ramen-rouran
 imalive7799.com http://blog.imalive7799.com/entry/Dali-2016
+imishin.jp http://www.imishin.jp/peter-norman/
 impress.co.jp http://pc.watch.impress.co.jp/docs/news/1015443.html
 impressrd.jp http://web-tan.forum.impressrd.jp/e/2016/08/08/23475
 infonzplus.net http://infonzplus.net/?p=893
@@ -115,6 +119,7 @@ ishikihikui-kei.com http://www.ishikihikui-kei.com/entry/2016/08/04/233043
 ismedia.jp http://jbpress.ismedia.jp/articles/-/47609
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1608/09/news019.html
 itutado.com http://www.itutado.com/entry/2016/08/06/%E3%80%90%E8%AA%AD%E3%81%BF%E6%94%BE%E9%A1%8C%E3%80%91Kindle_Unlimited%E3%81%A7%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%80%81%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E6%BC%AB
+iwako-light.com http://www.iwako-light.com/entry/_anime-ranking
 j-cast.com http://www.j-cast.com/2016/08/18275579.html
 jalan.net http://www.jalan.net/news/article/100005/
 japaaan.com http://mag.japaaan.com/archives/42087
@@ -185,11 +190,13 @@ nurse-diaries.com http://www.nurse-diaries.com/entry/belly-diet
 nuwton.com http://nuwton.com/feature/2095/
 okinawatimes.co.jp http://www.okinawatimes.co.jp/articles/-/55298
 omocoro.jp http://omocoro.jp/kiji/87205/
+opt.ne.jp http://tech-magazine.opt.ne.jp/entry/2016/08/19/183640
 oricon.co.jp http://www.oricon.co.jp/news/2076870/full/
 otokitashun.com http://otokitashun.com/blog/daily/12268/
 outward-matrix.com http://www.outward-matrix.com/entry/2016/08/02/163000
 picsim-blog.com http://www.picsim-blog.com/entry/slavery_2016-08-08
 placehub.co http://placehub.co/lists/112227
+pojihiguma.com http://www.pojihiguma.com/entry/hatenablog-SEO
 pokemon.co.jp http://www.pokemon.co.jp/ex/sun_moon/pokemon/160801_07.html
 pokemongolive.com http://pokemongolive.com/ja/post/update-080416/
 postd.cc http://postd.cc/a-beginners-guide-to-sql/
@@ -248,6 +255,7 @@ togech.jp http://togech.jp/2016/08/15/38436
 togetter.com http://togetter.com/li/1006334
 tokyo-np.co.jp http://www.tokyo-np.co.jp/s/article/2016081290070313.html
 tomoyukiarasuna.com http://tomoyukiarasuna.com/smartphone_website_ui/
+toodledotips.jp http://blog.toodledotips.jp/?p=4159
 touchlab.jp http://touchlab.jp/2016/08/how_to_track_pokemon_using_sighings/
 toyokeizai.net http://toyokeizai.net/articles/-/129543
 tumblr.com http://torus.tumblr.com/post/148542170738/german-work
