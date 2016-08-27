@@ -1,6 +1,6 @@
 2chblog.jp http://rabitsokuhou.2chblog.jp/archives/68567425.html
 2chopo.com http://www.2chopo.com/article/detail?id=1963
-4gamer.net http://www.4gamer.net/games/999/G999905/20160820019/
+4gamer.net http://www.4gamer.net/games/266/G026651/20160825099/
 aafocusblog.blogspot.com http://aafocusblog.blogspot.com/2012/08/1968_4.html
 afpbb.com http://www.afpbb.com/articles/-/3096114
 agora-web.jp http://agora-web.jp/archives/2020932.html
@@ -36,6 +36,7 @@ biz-journal.jp http://biz-journal.jp/2016/08/post_16167.html
 blog.jp http://tanteimatome.blog.jp/archives/64711623.html
 bloglifer.net http://www.bloglifer.net/entry/affiliate-site-strategy
 blogos.com http://blogos.com/article/186206/
+buildinsider.net http://www.buildinsider.net/column/hanai-shisei/03
 bunshun.jp http://shukan.bunshun.jp/articles/-/6452
 buy-buy.net https://buy-buy.net/archives/1839/
 buzzfeed.com https://www.buzzfeed.com/daisukefuruta/utsunomiya-talk-about-tochijisen
@@ -50,6 +51,7 @@ chunichi.co.jp http://www.chunichi.co.jp/article/shiga/20160803/CK20160803020000
 cinematoday.jp http://www.cinematoday.jp/page/N0084925
 classmethod.jp http://dev.classmethod.jp/cloud/aws/alb-application-load-balancer/
 cnet.com http://japan.cnet.com/news/service/35087488/
+cnn.co.jp http://www.cnn.co.jp/world/35088024.html
 cocoro-quest.net http://www.cocoro-quest.net/entry/couple-love0821
 codeiq.jp https://codeiq.jp/magazine/2016/08/43256/
 coliss.com http://coliss.com/articles/build-websites/operation/design/fantasy-map-generator.html
@@ -68,6 +70,7 @@ dmm.co.jp http://news.dmm.co.jp/article/990233/
 doorblog.jp http://kabumatome.doorblog.jp/archives/65863023.html
 doujinshi-print.com http://www.doujinshi-print.com/
 e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/galaxy015
+efight.jp http://efight.jp/news-20160825_245248
 eng-entrance.com http://eng-entrance.com/linux-regular-expression
 engadget.com http://japanese.engadget.com/2016/08/12/pocky/
 exblog.jp http://wivern.exblog.jp/26087950/
@@ -117,7 +120,7 @@ hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/sobattodan/16-00066
 hrnabi.com http://hrnabi.com/2016/08/19/11748/
 huffingtonpost.jp http://www.huffingtonpost.jp/2016/07/31/ikegami-vs-yuriko_n_11284602.html
 ics.media https://ics.media/entry/13117
-iij.ad.jp http://eng-blog.iij.ad.jp/archives/85
+iij.ad.jp http://techlog.iij.ad.jp/archives/1978
 iizinsei.com http://www.iizinsei.com/ramen-rouran
 imalive7799.com http://blog.imalive7799.com/entry/Dali-2016
 imishin.jp http://www.imishin.jp/peter-norman/
@@ -152,9 +155,11 @@ kaoriya.net http://mattn.kaoriya.net/software/bow/20160824234928.htm
 katsushin.com http://www.katsushin.com/entry/mery-welq
 kiji.is http://this.kiji.is/134499176145831417
 kindou.info https://kindou.info/72631.html
+kinoblo.com http://www.kinoblo.com/entry/takahata.hotel
 konkatu-report.net http://konkatu-report.net/5648.html
 kousyou.cc http://kousyou.cc/archives/15708
 kunaicho.go.jp http://www.kunaicho.go.jp/page/okotoba/detail/12
+kura-corpo.co.jp http://www.kura-corpo.co.jp/recruit/
 kurashinista.jp http://kurashinista.jp/articles/detail/23042
 kyoto-seika.ac.jp http://www.kyoto-seika.ac.jp/info/topic/interview02_oshii/
 kzo.me http://kzo.me/a_favor/
@@ -188,7 +193,7 @@ moguragames.com http://www.moguragames.com/entry/vestariasaga-srpg-freegame/
 momijimom.net http://www.momijimom.net/entry/2016/08/08/000000
 moneyforward.com https://moneyforward.com/engineers_blog/2016/08/03/bigqueryandembulk/
 murasakai.net http://www.murasakai.net/entry/2016/08/11/120300
-mynavi.jp http://news.mynavi.jp/news/2016/08/12/305/
+mynavi.jp https://book.mynavi.jp/manatee/detail/id=59393
 naenote.net http://www.naenote.net/entry/over-worked
 nagibrno.com http://www.nagibrno.com/entry/books-for-students
 nakatsuma.jp http://nakatsuma.jp/2016/08/3176/
@@ -199,6 +204,7 @@ navikuru-car.com https://navikuru-car.com/how-to-cook-steak-4379
 netgeek.biz http://netgeek.biz/archives/81583
 netlogch.com http://netlogch.com/archives/639
 news24.jp http://www.news24.jp/articles/2016/08/22/04338719.html
+newswitch.jp http://newswitch.jp/p/5855
 nhk.or.jp http://www3.nhk.or.jp/news/business_tokushu/2016_0816.html
 nicovideo.jp http://www.nicovideo.jp/watch/sm29435180
 nifty.com http://portal.nifty.com/kiji/160801197089_1.htm
@@ -207,11 +213,13 @@ nikkan-spa.jp http://nikkan-spa.jp/1172511
 nikkansports.com http://www.nikkansports.com/battle/sumo/news/1687442.html
 nikkei.com http://www.nikkei.com/article/DGXKZO05615580T00C16A8X12000/
 nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080800601/
+nishinippon.co.jp http://www.nishinippon.co.jp/flash/f_kyushu/article/269772
 note.mu https://note.mu/hiziki3/n/ned1fbeaefb9b
 nubatamanon.com http://www.nubatamanon.com/entry/2016/08/03/014330
 nurse-diaries.com http://www.nurse-diaries.com/entry/belly-diet
 nuwton.com http://nuwton.com/feature/2095/
 okinawatimes.co.jp http://www.okinawatimes.co.jp/articles/-/55298
+omg-ox.org http://www.omg-ox.org/entry/sense
 omocoro.jp http://omocoro.jp/kiji/87205/
 opt.ne.jp http://tech-magazine.opt.ne.jp/entry/2016/08/19/183640
 orekabu.jp http://orekabu.jp/bakakabu/
@@ -233,9 +241,10 @@ publickey1.jp http://www.publickey1.jp/blog/16/dockerswarmdocker_112.html
 qiita.com http://qiita.com/Dronetube/items/ac02a23eafe7d09f3b57
 rakuten.co.jp http://gateway.rakuten.co.jp/journal/workout/
 rdy.jp http://golang.rdy.jp/2016/07/26/antiptn/
-realestate-sale.link http://realestate-sale.link/management-20books/
+realestate-sale.link http://realestate-sale.link/competent/
 realsound.jp http://realsound.jp/movie/2016/08/post-2491.html
 recruit-lifestyle.co.jp http://gathery.recruit-lifestyle.co.jp/article/1145863205520199201
+recruitjobs.net https://techblog.recruitjobs.net/development/docker-registry-on-ec2_and_docker-for-aws
 response.jp http://response.jp/article/2016/08/05/279700.html
 reuters.com http://jp.reuters.com/article/idJPKCN10F14J
 rinsimpl.com http://www.rinsimpl.com/entry/2016/08/23/071052
@@ -243,6 +252,7 @@ rnyday.com http://rnyday.com/?p=241
 sankei.com http://www.sankei.com/entertainments/news/160805/ent1608050016-n1.html
 sanspo.com http://www.sanspo.com/geino/news/20160804/geo16080405000001-n1.html
 satouwataru.com http://www.satouwataru.com/entry/money-story
+sblo.jp http://asupenatsuma.sblo.jp/article/176616397.html
 sealdspost.com http://sealdspost.com/tobe/
 seesaa.net http://nagayasu-shinya.seesaa.net/article/441016351.html
 seleck.cc https://seleck.cc/610
@@ -306,12 +316,13 @@ windyty.com https://www.windyty.com/?35.685,139.751,6
 wired.jp http://wired.jp/2011/05/11/%E8%91%89%E3%82%92%E6%92%AE%E5%BD%B1%E3%81%99%E3%82%8B%E3%81%A8%E6%9C%A8%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8Biphone%E3%82%A2%E3%83%97%E3%83%AA/
 wirelesswire.jp https://wirelesswire.jp/2016/08/55823/
 withnews.jp http://withnews.jp/article/f0160806003qq000000000000000W00b10101qq000013789A
+womaninsight.jp http://www.womaninsight.jp/archives/224875
 world-fusigi.net http://world-fusigi.net/archives/8532381.html
 wsj.com http://jp.wsj.com/articles/SB10191232058230093692804582254253646088474
 xn--eck7a6c577upzt.net http://xn--eck7a6c577upzt.net/column.php?archive_id=54
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160814-00105425-hbolz-soci
 yamato-hd.co.jp http://www.yamato-hd.co.jp/news/h28/h28_52_01news.html
-yomiuri.co.jp http://komachi.yomiuri.co.jp/t/2016/0812/773407.htm
+yomiuri.co.jp http://www.yomiuri.co.jp/olympic/2016/topic/20160825-OYT1T50108.html
 yoshitokamizato.com http://utina.yoshitokamizato.com/entry/2016/08/08/202639
 youtube.com http://www.youtube.com/watch?v=66SAVZ4JxY8
 yunabe.jp http://www.yunabe.jp/docs/golang_pitfall.html
