@@ -86,6 +86,7 @@ full-count.jp http://full-count.jp/2016/08/11/post41989/
 futaya28.jp http://futaya28.jp/2121/
 gachapin-sensei.com http://blog.gachapin-sensei.com/archives/5174099.html
 gaiax-socialmedialab.jp http://gaiax-socialmedialab.jp/post-41045/
+gamebiz.jp http://gamebiz.jp/?p=167929
 gamer.ne.jp http://www.gamer.ne.jp/news/201608120049/
 gibe-on.info http://www.gibe-on.info/entry/time-slip/
 gigazine.net http://gigazine.net/news/20160801-hoover-dam-water-flows-upward/
@@ -148,14 +149,16 @@ kai-you.net http://kai-you.net/article/31156
 kaigosupporters.com http://kaigosupporters.com/dementia/kind/
 kaimin-times.com http://kaimin-times.com/how-to-sleep-soundly-3308
 kakaku.com https://mag.kakaku.com/seikatsu-kaden/?id=4378
-kango-oshigoto.jp http://kango-oshigoto.jp/media/article/887/
+kango-oshigoto.jp https://kango-oshigoto.jp/media/article/944/
 kansou-blog.jp http://www.kansou-blog.jp/entry/2016/08/09/124700
 kantan-shikaku.com http://kantan-shikaku.com/ks/penji-practice/
 kaoriya.net http://mattn.kaoriya.net/software/bow/20160824234928.htm
 katsushin.com http://www.katsushin.com/entry/mery-welq
+kenwa.or.jp http://yanagihara.kenwa.or.jp/statement.html
 kiji.is http://this.kiji.is/134499176145831417
 kindou.info https://kindou.info/72631.html
 kinoblo.com http://www.kinoblo.com/entry/takahata.hotel
+kiracare.jp https://job.kiracare.jp/note/article/1853/
 konkatu-report.net http://konkatu-report.net/5648.html
 kousyou.cc http://kousyou.cc/archives/15708
 kunaicho.go.jp http://www.kunaicho.go.jp/page/okotoba/detail/12
@@ -182,7 +185,7 @@ m-forest.net http://www.m-forest.net/entry/one-more-word
 mainichi.jp http://mainichi.jp/articles/20160804/k00/00m/040/012000c
 mantan-web.jp http://mantan-web.jp/2016/08/02/20160802dog00m200002000c.html
 markethack.net http://markethack.net/archives/52019208.html
-medium.com https://medium.com/jenio-inc-blog/338820e40786
+medium.com https://medium.com/@timakin/6bfacff36d46
 mercari.com http://tech.mercari.com/entry/2016/08/17/170114
 mewpro.cc https://mewpro.cc/2016/07/31/pokemon-go-nearby-jp/
 microsoft.com https://blogs.msdn.microsoft.com/visualstudio_jpn/2016/08/24/visualstudiosmostusefulandunderusedtips/
@@ -197,6 +200,7 @@ mynavi.jp https://book.mynavi.jp/manatee/detail/id=59393
 naenote.net http://www.naenote.net/entry/over-worked
 nagibrno.com http://www.nagibrno.com/entry/books-for-students
 nakatsuma.jp http://nakatsuma.jp/2016/08/3176/
+narinari.com http://www.narinari.com/Nd/20160839404.html
 naruhodo-cardloan.com https://naruhodo-cardloan.com/cheap-stay/
 natalie.mu http://natalie.mu/comic/news/198452
 naver.jp http://matome.naver.jp/odai/2147088252282771501
@@ -216,6 +220,7 @@ nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080800601/
 nishinippon.co.jp http://www.nishinippon.co.jp/flash/f_kyushu/article/269772
 note.mu https://note.mu/hiziki3/n/ned1fbeaefb9b
 nubatamanon.com http://www.nubatamanon.com/entry/2016/08/03/014330
+nulab-inc.com https://nulab-inc.com/ja/blog/cacoo/postgresql-from-9-3-to-9-5/
 nurse-diaries.com http://www.nurse-diaries.com/entry/belly-diet
 nuwton.com http://nuwton.com/feature/2095/
 okinawatimes.co.jp http://www.okinawatimes.co.jp/articles/-/55298
@@ -225,9 +230,10 @@ opt.ne.jp http://tech-magazine.opt.ne.jp/entry/2016/08/19/183640
 orekabu.jp http://orekabu.jp/bakakabu/
 org-rabo.com http://org-rabo.com/webdesign_kanngaekata_kawaru_kiji/
 oricon.co.jp http://www.oricon.co.jp/news/2076870/full/
-originalnews.nico http://originalnews.nico/97
+originalnews.nico http://originalnews.nico/138
 otokitashun.com http://otokitashun.com/blog/daily/12268/
 outward-matrix.com http://www.outward-matrix.com/entry/2016/08/02/163000
+partner-web.jp https://partner-web.jp/article/sp.php?id=1027
 photo-yatra.tokyo https://www.photo-yatra.tokyo/blog/archives/9118
 picsim-blog.com http://www.picsim-blog.com/entry/slavery_2016-08-08
 placehub.co http://placehub.co/lists/112227
@@ -281,6 +287,7 @@ tabi-labo.com http://tabi-labo.com/274679/sleep-positions-for-health/
 taiyaki-oyako.com http://www.taiyaki-oyako.com/entry/2016/08/03/142648
 taroyamada.jp http://taroyamada.jp/?p=9220
 tatsu-zine.com http://tatsu-zine.com/books/tensorflow-hajimemashita
+tawashix.com http://www.tawashix.com/entry/AudioBook
 tbs.co.jp http://www.tbs.co.jp/star-meikan/
 tbsradio.jp http://www.tbsradio.jp/64600
 techcrunch.com http://jp.techcrunch.com/2016/08/11/20160810former-facebook-engineers-launch-fabric-an-automated-personal-journal-of-your-life/
@@ -321,8 +328,9 @@ world-fusigi.net http://world-fusigi.net/archives/8532381.html
 wsj.com http://jp.wsj.com/articles/SB10191232058230093692804582254253646088474
 xn--eck7a6c577upzt.net http://xn--eck7a6c577upzt.net/column.php?archive_id=54
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160814-00105425-hbolz-soci
+yamakamu.com http://yamakamu.com/archives/4674977.html
 yamato-hd.co.jp http://www.yamato-hd.co.jp/news/h28/h28_52_01news.html
-yomiuri.co.jp http://www.yomiuri.co.jp/olympic/2016/topic/20160825-OYT1T50108.html
+yomiuri.co.jp http://www.yomiuri.co.jp/matome/20160826-OYT8T50028.html
 yoshitokamizato.com http://utina.yoshitokamizato.com/entry/2016/08/08/202639
 youtube.com http://www.youtube.com/watch?v=66SAVZ4JxY8
 yunabe.jp http://www.yunabe.jp/docs/golang_pitfall.html
