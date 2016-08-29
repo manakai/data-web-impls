@@ -28,6 +28,7 @@ aviationwire.jp http://www.aviationwire.jp/archives/96469
 baitalk.jp https://baitalk.jp/media/article/237/
 bazubu.com http://bazubu.com/case/guthy-renker-japan
 bbc.com http://www.bbc.com/japanese/37162391
+beginning-ai.com http://blog.beginning-ai.com/entry/open-data-index
 bengo4.com https://www.bengo4.com/c_5/c_1234/c_1723/n_4993/
 bhb.co.jp http://bhb.co.jp/karadameate/
 bipblog.com http://bipblog.com/archives/5256843.html
@@ -47,9 +48,11 @@ careersupli.jp http://careersupli.jp/lifehack/manga-3/
 careertrek.com https://www.careertrek.com/daily/shukan-horii-last/
 catkiyo.com http://www.catkiyo.com/entry/jyani
 change-makers.jp https://www.change-makers.jp/news/11232
+chikawatanabe.com https://chikawatanabe.com/2016/08/26/english_study/
 chunichi.co.jp http://www.chunichi.co.jp/article/shiga/20160803/CK2016080302000027.html
 cinematoday.jp http://www.cinematoday.jp/page/N0084925
 classmethod.jp http://dev.classmethod.jp/cloud/aws/alb-application-load-balancer/
+cna.com.tw http://japan.cna.com.tw/news/apol/201608270001.aspx
 cnet.com http://japan.cnet.com/news/service/35087488/
 cnn.co.jp http://www.cnn.co.jp/world/35088024.html
 cocoro-quest.net http://www.cocoro-quest.net/entry/couple-love0821
@@ -66,6 +69,7 @@ dailynewsonline.jp http://dailynewsonline.jp/article/1181316/
 damonge.com https://damonge.com/p=15173
 denfaminicogamer.jp http://news.denfaminicogamer.jp/horror2016/biohazard-contribute
 diamond.jp http://diamond.jp/articles/-/98421
+dion.ne.jp http://www.h5.dion.ne.jp/~chosyu/matomonahunetukurenumitubisijukou.html
 dmm.co.jp http://news.dmm.co.jp/article/990233/
 doorblog.jp http://kabumatome.doorblog.jp/archives/65863023.html
 doujinshi-print.com http://www.doujinshi-print.com/
@@ -190,6 +194,7 @@ mercari.com http://tech.mercari.com/entry/2016/08/17/170114
 mewpro.cc https://mewpro.cc/2016/07/31/pokemon-go-nearby-jp/
 microsoft.com https://blogs.msdn.microsoft.com/visualstudio_jpn/2016/08/24/visualstudiosmostusefulandunderusedtips/
 mikinote.com http://www.mikinote.com/entry/dsai-iken-takusan
+mildch.com http://mildch.com/archives/48312804.html
 mineo.jp https://king.mineo.jp/magazines/special/387
 minnanokaigo.com http://www.minnanokaigo.com/news/yamamoto/lesson7/
 moguragames.com http://www.moguragames.com/entry/vestariasaga-srpg-freegame/
@@ -228,18 +233,20 @@ omg-ox.org http://www.omg-ox.org/entry/sense
 omocoro.jp http://omocoro.jp/kiji/87205/
 opt.ne.jp http://tech-magazine.opt.ne.jp/entry/2016/08/19/183640
 orekabu.jp http://orekabu.jp/bakakabu/
-org-rabo.com http://org-rabo.com/webdesign_kanngaekata_kawaru_kiji/
+org-rabo.com http://org-rabo.com/programing-ryousyo/
 oricon.co.jp http://www.oricon.co.jp/news/2076870/full/
 originalnews.nico http://originalnews.nico/138
 otokitashun.com http://otokitashun.com/blog/daily/12268/
 outward-matrix.com http://www.outward-matrix.com/entry/2016/08/02/163000
 partner-web.jp https://partner-web.jp/article/sp.php?id=1027
+pcdepot.co.jp http://www.pcdepot.co.jp/info/160827.html
 photo-yatra.tokyo https://www.photo-yatra.tokyo/blog/archives/9118
 picsim-blog.com http://www.picsim-blog.com/entry/slavery_2016-08-08
 placehub.co http://placehub.co/lists/112227
 pojihiguma.com http://www.pojihiguma.com/entry/hatenablog-SEO
 pokemon.co.jp http://www.pokemon.co.jp/ex/sun_moon/pokemon/160801_07.html
 pokemongolive.com http://pokemongolive.com/ja/post/update-080416/
+ponparemall.com http://www.ponparemall.com/yomimono/entry/i000050
 postd.cc http://postd.cc/a-beginners-guide-to-sql/
 president.jp http://president.jp/articles/-/18574
 proof0309.com http://www.proof0309.com/entry/obachan-arigatou
@@ -270,6 +277,7 @@ shinma.tokyo http://blog.shinma.tokyo/entry/2016/08/11/190000
 shinsaku-takasugi.com http://www.shinsaku-takasugi.com/entry/2016/08/14/%E3%80%90%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%84%9F%E8%A6%9A%E3%81%AF%E6%AD%A3%E3%81%97%E3%81%84%E3%80%91%E3%80%8C%E6%9C%AC%E6%B0%97%E3%81%A7%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84
 skky.jp http://blog.skky.jp/entry/2016/07/31/201905
 slideshare.net https://www.slideshare.net/mosa_siru/ss-64839846
+softantenna.com http://www.softantenna.com/wp/review/bash-oo-framework/
 speakerdeck.com https://speakerdeck.com/dtan4/number-abejameetup
 sponichi.co.jp http://www.sponichi.co.jp/society/news/2016/08/02/kiji/K20160802013080410.html
 spoon-tamago.com http://www.spoon-tamago.com/2016/07/27/what-would-cities-look-like-if-they-were-tokyo-ized/
@@ -317,6 +325,7 @@ utsunomiyakenji.com http://utsunomiyakenji.com/1040
 waka-macha.com http://www.waka-macha.com/entry/2016/08/04/185850
 wantedly.com https://www.wantedly.com/companies/wantedly/post_articles/32977
 weathernews.jp http://weathernews.jp/s/topics/201608/010145/
+webprofessional.jp https://www.webprofessional.jp/2016/08/1695/
 weekly-g.jp https://weekly-g.jp/c05roman/s01horoniga/ho139/
 wildhawkfield.com http://www.wildhawkfield.com/2016/08/Kindle-Unlimited-magazine.html
 windyty.com https://www.windyty.com/?35.685,139.751,6
@@ -332,6 +341,7 @@ yamakamu.com http://yamakamu.com/archives/4674977.html
 yamato-hd.co.jp http://www.yamato-hd.co.jp/news/h28/h28_52_01news.html
 yomiuri.co.jp http://www.yomiuri.co.jp/matome/20160826-OYT8T50028.html
 yoshitokamizato.com http://utina.yoshitokamizato.com/entry/2016/08/08/202639
+youjo-labo.com http://youjo-labo.com/radioactivity-measures-in-em3-4623.html
 youtube.com http://www.youtube.com/watch?v=66SAVZ4JxY8
 yunabe.jp http://www.yunabe.jp/docs/golang_pitfall.html
 yutorigoto.com http://blog.yutorigoto.com/entry/Chromebook_ChromeOS

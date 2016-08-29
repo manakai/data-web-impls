@@ -1,5 +1,5 @@
 AnyEvent~7.12
-AnyEvent::HTTP~2.22
+AnyEvent::HTTP~2.23
 Canary::Stability~2011
 Carp~1.38
 Encode~2.86
