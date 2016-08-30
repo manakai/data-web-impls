@@ -5,6 +5,7 @@ aafocusblog.blogspot.com http://aafocusblog.blogspot.com/2012/08/1968_4.html
 afpbb.com http://www.afpbb.com/articles/-/3096114
 agora-web.jp http://agora-web.jp/archives/2020932.html
 airdays.net http://www.airdays.net/diary/2016/08/05/166/
+aitabata.com http://www.aitabata.com/entry/title
 akisane.com http://www.akisane.com/entry/We-never-allow-PC-Depo
 all-nationz.com http://www.all-nationz.com/archives/1059842808.html
 amass.jp http://amass.jp/76454/
@@ -37,8 +38,10 @@ biz-journal.jp http://biz-journal.jp/2016/08/post_16167.html
 blog.jp http://tanteimatome.blog.jp/archives/64711623.html
 bloglifer.net http://www.bloglifer.net/entry/affiliate-site-strategy
 blogos.com http://blogos.com/article/186206/
+blogs.com http://satoshi.blogs.com/life/2016/08/time2.html
 buildinsider.net http://www.buildinsider.net/column/hanai-shisei/03
 bunshun.jp http://shukan.bunshun.jp/articles/-/6452
+buntadayo.com http://www.buntadayo.com/entry/2016/08/28/111755
 buy-buy.net https://buy-buy.net/archives/1839/
 buzzfeed.com https://www.buzzfeed.com/daisukefuruta/utsunomiya-talk-about-tochijisen
 cakes.mu https://cakes.mu/posts/13751
@@ -68,13 +71,16 @@ daily.co.jp http://www.daily.co.jp/baseball/2016/08/02/0009347179.shtml
 dailynewsonline.jp http://dailynewsonline.jp/article/1181316/
 damonge.com https://damonge.com/p=15173
 denfaminicogamer.jp http://news.denfaminicogamer.jp/horror2016/biohazard-contribute
+dengekionline.com http://dengekionline.com/elem/000/001/349/1349798/
 diamond.jp http://diamond.jp/articles/-/98421
 dion.ne.jp http://www.h5.dion.ne.jp/~chosyu/matomonahunetukurenumitubisijukou.html
 dmm.co.jp http://news.dmm.co.jp/article/990233/
 doorblog.jp http://kabumatome.doorblog.jp/archives/65863023.html
 doujinshi-print.com http://www.doujinshi-print.com/
+dropbox.jp https://navi.dropbox.jp/gantt-chart-free/
 e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/galaxy015
 efight.jp http://efight.jp/news-20160825_245248
+eiga.com http://eiga.com/news/20160828/8/
 eng-entrance.com http://eng-entrance.com/linux-regular-expression
 engadget.com http://japanese.engadget.com/2016/08/12/pocky/
 exblog.jp http://wivern.exblog.jp/26087950/
@@ -84,6 +90,7 @@ famitsu.com http://www.famitsu.com/news/201608/05112698.html
 fashionpost.jp http://fashionpost.jp/portraits/75894
 fashionsnap.com http://www.fashionsnap.com/the-posts/2016-08-21/post-809/
 fc2.com http://yamanashirei.blog86.fc2.com/blog-entry-2152.html
+fesoku.net http://fesoku.net/archives/8561652.html
 fnn-news.com http://www.fnn-news.com/news/headlines/articles/CONN00332744.html
 fontfree.me http://fontfree.me/blog/104
 full-count.jp http://full-count.jp/2016/08/11/post41989/
@@ -133,6 +140,7 @@ impress.co.jp http://pc.watch.impress.co.jp/docs/news/1015443.html
 impressrd.jp http://web-tan.forum.impressrd.jp/e/2016/08/08/23475
 infonzplus.net http://infonzplus.net/?p=893
 iphone-mania.jp http://iphone-mania.jp/news-127919/
+irasutoya.com http://www.irasutoya.com/2016/08/it.html
 ishikihikui-kei.com http://www.ishikihikui-kei.com/entry/2016/08/04/233043
 islog.jp http://www.islog.jp/entry/moss-terrarium/
 ismedia.jp http://jbpress.ismedia.jp/articles/-/47609
@@ -343,6 +351,7 @@ yomiuri.co.jp http://www.yomiuri.co.jp/matome/20160826-OYT8T50028.html
 yoshitokamizato.com http://utina.yoshitokamizato.com/entry/2016/08/08/202639
 youjo-labo.com http://youjo-labo.com/radioactivity-measures-in-em3-4623.html
 youtube.com http://www.youtube.com/watch?v=66SAVZ4JxY8
+yuku-t.com http://blog.yuku-t.com/entry/2016/08/28/165930
 yunabe.jp http://www.yunabe.jp/docs/golang_pitfall.html
 yutorigoto.com http://blog.yutorigoto.com/entry/Chromebook_ChromeOS
 yutorism.jp http://www.yutorism.jp/entry/HistoryComics2016
