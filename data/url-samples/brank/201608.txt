@@ -70,6 +70,7 @@ daikin.co.jp http://www.daikin.co.jp/press/2016/160812_2/index.html
 daily.co.jp http://www.daily.co.jp/baseball/2016/08/02/0009347179.shtml
 dailynewsonline.jp http://dailynewsonline.jp/article/1181316/
 damonge.com https://damonge.com/p=15173
+ddnavi.com http://ddnavi.com/news/318047/a/
 denfaminicogamer.jp http://news.denfaminicogamer.jp/horror2016/biohazard-contribute
 dengekionline.com http://dengekionline.com/elem/000/001/349/1349798/
 diamond.jp http://diamond.jp/articles/-/98421
@@ -99,6 +100,7 @@ gachapin-sensei.com http://blog.gachapin-sensei.com/archives/5174099.html
 gaiax-socialmedialab.jp http://gaiax-socialmedialab.jp/post-41045/
 gamebiz.jp http://gamebiz.jp/?p=167929
 gamer.ne.jp http://www.gamer.ne.jp/news/201608120049/
+gekisaka.jp http://web.gekisaka.jp/news/detail/?197462-197462-fl
 gibe-on.info http://www.gibe-on.info/entry/time-slip/
 gigazine.net http://gigazine.net/news/20160801-hoover-dam-water-flows-upward/
 github.com https://github.com/blog/2224-change-the-base-branch-of-a-pull-request
@@ -115,13 +117,14 @@ hamusoku.com http://hamusoku.com/archives/9317812.html
 hanauta18.com http://blog.hanauta18.com/entry/kintoregensoku
 hatarakitakunai.tokyo http://www.hatarakitakunai.tokyo/entry/2016/08/07/221844
 hateblo.jp http://suzukidesu23.hateblo.jp/entry/stealth-marketing
-hatelabo.jp http://anond.hatelabo.jp/20160330190532
+hatelabo.jp http://anond.hatelabo.jp/20160225212344
 hatena.ne.jp http://d.hatena.ne.jp/TomoMachi/20160731
 hatenablog.com http://yutoma233.hatenablog.com/entry/2016/08/13/001909
 hatenablog.jp http://toyozumikouichi.hatenablog.jp/entry/2016/08/05/225033
 hatenacorp.jp http://hatenacorp.jp/press/release/entry/2016/08/01/172000
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20160807/1470535200
 hatenadiary.jp http://zuisho.hatenadiary.jp/entry/2016/08/19/181210
+hatenastaff.com http://bookmark.hatenastaff.com/entry/2016/08/29/150000
 hesocha.com http://www.hesocha.com/entry/nobuteru
 hmv.co.jp http://www.hmv.co.jp/newsdetail/article/1607271028/
 hochi.co.jp http://www.hochi.co.jp/entertainment/20160801-OHT1T50090.html
@@ -205,6 +208,7 @@ mikinote.com http://www.mikinote.com/entry/dsai-iken-takusan
 mildch.com http://mildch.com/archives/48312804.html
 mineo.jp https://king.mineo.jp/magazines/special/387
 minnanokaigo.com http://www.minnanokaigo.com/news/yamamoto/lesson7/
+miyearnzzlabo.com http://miyearnzzlabo.com/archives/39321
 moguragames.com http://www.moguragames.com/entry/vestariasaga-srpg-freegame/
 momijimom.net http://www.momijimom.net/entry/2016/08/08/000000
 moneyforward.com https://moneyforward.com/engineers_blog/2016/08/03/bigqueryandembulk/
@@ -232,6 +236,7 @@ nikkei.com http://www.nikkei.com/article/DGXKZO05615580T00C16A8X12000/
 nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/14/346926/080800601/
 nishinippon.co.jp http://www.nishinippon.co.jp/flash/f_kyushu/article/269772
 note.mu https://note.mu/hiziki3/n/ned1fbeaefb9b
+npo-iasia.org http://npo-iasia.org/archive/2016/08/uemura/
 nubatamanon.com http://www.nubatamanon.com/entry/2016/08/03/014330
 nulab-inc.com https://nulab-inc.com/ja/blog/cacoo/postgresql-from-9-3-to-9-5/
 nurse-diaries.com http://www.nurse-diaries.com/entry/belly-diet
@@ -306,6 +311,7 @@ tatsu-zine.com http://tatsu-zine.com/books/tensorflow-hajimemashita
 tawashix.com http://www.tawashix.com/entry/AudioBook
 tbs.co.jp http://www.tbs.co.jp/star-meikan/
 tbsradio.jp http://www.tbsradio.jp/64600
+tech-clips.com https://tech-clips.com/article/135815
 techcrunch.com http://jp.techcrunch.com/2016/08/11/20160810former-facebook-engineers-launch-fabric-an-automated-personal-journal-of-your-life/
 techvan.co.jp http://www.techvan.co.jp/media/quality/civil-code
 tenro-in.com http://tenro-in.com/tsushin/23973
@@ -330,11 +336,13 @@ uedakeita.net http://diary.uedakeita.net/entry/2016/08/18/203246
 uni45.com http://www.uni45.com/entry/2016/08/19/161649
 unko48.com http://unko48.com/
 utsunomiyakenji.com http://utsunomiyakenji.com/1040
+uxmilk.jp http://uxmilk.jp/48364
 waka-macha.com http://www.waka-macha.com/entry/2016/08/04/185850
-wantedly.com https://www.wantedly.com/companies/wantedly/post_articles/32977
+wantedly.com https://www.wantedly.com/companies/umeebe/post_articles/34599
 weathernews.jp http://weathernews.jp/s/topics/201608/010145/
 webprofessional.jp https://www.webprofessional.jp/2016/08/1695/
 weekly-g.jp https://weekly-g.jp/c05roman/s01horoniga/ho139/
+wikipedia.org https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A
 wildhawkfield.com http://www.wildhawkfield.com/2016/08/Kindle-Unlimited-magazine.html
 windyty.com https://www.windyty.com/?35.685,139.751,6
 wired.jp http://wired.jp/2011/05/11/%E8%91%89%E3%82%92%E6%92%AE%E5%BD%B1%E3%81%99%E3%82%8B%E3%81%A8%E6%9C%A8%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8Biphone%E3%82%A2%E3%83%97%E3%83%AA/
