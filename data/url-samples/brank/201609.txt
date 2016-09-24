@@ -38,6 +38,7 @@ buzzfeed.com https://www.buzzfeed.com/harunayamazaki/fuchico-ol
 buzzmag.jp http://buzzmag.jp/archives/81523
 cardloan-girls.jp http://cardloan-girls.jp/publicsupport/
 christiantoday.co.jp http://www.christiantoday.co.jp/articles/22098/20160920/kiminona.htm
+chuplus.jp http://chuplus.jp/paper/article/detail.php?comment_id=399264&comment_sub_id=0&category_id=113
 cinematoday.jp http://www.cinematoday.jp/page/N0085763
 clear-code.com http://www.clear-code.com/blog/2016/9/8.html
 clubberia.com http://www.clubberia.com/ja/news/6035/
@@ -55,6 +56,7 @@ cybozu.io http://blog.cybozu.io/entry/2016/09/15/100000
 daily.co.jp http://www.daily.co.jp/gossip/2016/09/04/0009456822.shtml
 dailynewsagency.com http://dailynewsagency.com/2016/09/18/aviation-martijn-kort-bn9/
 dangouwasa.com http://www.dangouwasa.com/entry/menhera-onna
+danshihack.com http://www.danshihack.com/2016/09/23/junp/iphone-initialization.html
 deepage.net https://deepage.net/bigdata/machine_learning/2016/08/28/fast_text_facebook.html
 denfaminicogamer.jp http://news.denfaminicogamer.jp/kikakuthetower/nagai-sensei
 diamond.jp http://diamond.jp/articles/-/100666
@@ -87,7 +89,7 @@ github.com https://github.com/blog/2256-a-whole-new-github-universe-announcing-n
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/fcf/3343
 gohongi-beauty.jp http://www.gohongi-beauty.jp/blog/?p=19108
 goo.ne.jp http://blog.goo.ne.jp/ikunya/e/fbd7459b38f6ee1bf0d4b71e064a9010
-goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/tabelog
+goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/Tanaka-Kakuei
 goope.jp http://blog.goope.jp/?eid=474
 graphic.jp http://info02.graphic.jp/incident/release01.php
 gunosy.com https://gunosy.com/articles/aq85a
@@ -147,6 +149,7 @@ kesa-pasa.com http://www.kesa-pasa.com/entry/3b_blogger
 ketudan.jp http://www.ketudan.jp/entry/2016/09/06/155105
 kiji.is http://this.kiji.is/144051981084164097
 kijineco.com http://www.kijineco.com/entry/2016/09/01/202138
+kiyoichi-t.com http://www.kiyoichi-t.com/entry/writing.book
 kokoro-fire.com http://www.kokoro-fire.com/entry/sf-manga
 konayuki358.com http://www.konayuki358.com/entry/2016/09/03/190000
 kosodateiruka.com http://www.kosodateiruka.com/entry/2016/09/03/%E3%80%90Amazon%E3%82%A2%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%A4%E3%83%88%E3%80%91%E4%B8%80%E3%83%B6%E6%9C%88%E3%81%A71000%E4%B8%87%E5%A3%B2%E3%82%8A%E4%B8%8A%E3%81%92%E3%81%9F%E3%83%86%E3%82%AF%E3%83%8B
@@ -162,7 +165,7 @@ linecorp.com http://developers.linecorp.com/blog/ja/?p=3771
 lite-ra.com http://lite-ra.com/2016/09/post-2536.html
 livedoor.biz http://karapaia.livedoor.biz/archives/52224048.html
 livedoor.com http://news.livedoor.com/article/detail/11975927/
-livedoor.jp http://blog.livedoor.jp/chihhylove/archives/9355381.html
+livedoor.jp http://blog.livedoor.jp/chiblits/archives/52093596.html
 mainichi.jp http://mainichi.jp/articles/20160902/k00/00m/040/069000c
 mantan-web.jp http://mantan-web.jp/2016/09/03/20160903dog00m200014000c.html
 manuke.jp https://manuke.jp/japanese-movies/
@@ -198,6 +201,7 @@ niitsu-gumi.co.jp http://www.niitsu-gumi.co.jp/news/post-23/
 nikkansports.com http://www.nikkansports.com/battle/column/sumo/news/1711245.html
 nikkei.com http://www.nikkei.com/article/DGXLASDG03H1D_T00C16A9CR0000/
 nikkeibp.co.jp http://www.nikkeibp.co.jp/atcl/column/16/rougohasan/090100004/
+nippondanji.blogspot.com http://nippondanji.blogspot.com/2016/09/mysql-800-development-milestone-release.html
 nissin.com https://www.nissin.com/jp/news/5479
 note.mu https://note.mu/etomiho/n/na7f002631506
 nubatamanon.com http://www.nubatamanon.com/entry/2016/09/17/223951
@@ -235,6 +239,7 @@ sankei.com http://www.sankei.com/politics/news/160919/plt1609190021-n1.html
 sanspo.com http://www.sanspo.com/geino/news/20160909/tro16090923370014-n1.html
 sayulog.com http://www.sayulog.com/entry/lonely
 seesaa.net http://vitaminw.seesaa.net/article/442106444.html
+sekkachi.com http://www.sekkachi.com/entry/income600_3chilldren_loan3000
 serverworks.co.jp http://blog.serverworks.co.jp/tech/2016/09/07/serverless-framework-1-beta-1/
 shibayu36.org http://blog.shibayu36.org/entry/2016/09/05/110000
 shijo-street-weekend.com http://www.shijo-street-weekend.com/entry/2016/09/07/191000
@@ -245,6 +250,7 @@ speakerdeck.com https://speakerdeck.com/amacbee/pythondezuo-ruwebkuroraru-men
 sponichi.co.jp http://www.sponichi.co.jp/entertainment/news/2016/09/01/kiji/K20160901013272540.html
 spot-app.jp https://travel.spot-app.jp/ueno_ryo-suke/
 spotlight-media.jp http://spotlight-media.jp/article/322891773653330964
+sputniknews.com http://jp.sputniknews.com/science/20160922/2802655.html
 ssig33.com http://ssig33.com/text/%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF%E3%80%82%E3%81%9D%E3%81%97%E3%81%A6%E9%8A%80%E6%B2%B3%E5%B8%9D%E5%9B%BD%E3%81%A8%E3%81%9D%E3%81%AE%E6%99%82%E4%BB%A3
 stay-minimal.com http://www.stay-minimal.com/entry/aboutmoneybooks
 storialaw.jp http://storialaw.jp/blog/2081
@@ -289,9 +295,10 @@ wixsite.com http://qqc74qed.wixsite.com/sakuraitomo/single-post/2016/09/01/%E3%8
 wsj.com http://jp.wsj.com/articles/SB10131342344550994625404582294492983235410
 xn--pckwb0c8766ajkwa.com http://xn--pckwb0c8766ajkwa.com/recomend-young-book20/
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20160903-00003016-besttimes-ent
+yamakamu.net http://yamakamu.net/kaguyasama
 yamasha.net http://yamasha.net/photo/item/nik-collection
 yokoiki.jp http://www.yokoiki.jp/entry/2016/09/03/214436
-yomiuri.co.jp http://www.yomiuri.co.jp/politics/20160907-OYT1T50004.html
+yomiuri.co.jp http://www.yomiuri.co.jp/national/20160921-OYT1T50106.html
 youtube.com http://www.youtube.com/watch?v=78Nhl85_wIY
 yutorigoto.com http://blog.yutorigoto.com/entry/koe_no_katachi
 yutorism.jp http://www.yutorism.jp/entry/Criteo
