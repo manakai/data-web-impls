@@ -6,9 +6,9 @@ amass.jp http://amass.jp/79074/
 anizm.xyz http://www.anizm.xyz/entry/2016/10/08/152223
 anofelus-log.blogspot.com http://anofelus-log.blogspot.com/2016/09/blog-post.html
 anomaly3-movie.com http://www.anomaly3-movie.com/entry/Ranking_masterpiece_2000
-asahi.com http://www.asahi.com/articles/ASJ980BXSJ97UTIL054.html
+asahi.com https://dot.asahi.com/wa/2016100700072.html
 ask.fm http://ask.fm/polytope/answers/128350881197
-automaton.am http://jp.automaton.am/articles/newsjp/one-youtuber-discovered-new-easter-egg-in-wind-waker-after-releasing-14years/
+automaton.am http://jp.automaton.am/articles/newsjp/amy-hennig-interview-crunch/
 basement-times.com http://basement-times.com/utada-hikaru-fantome/
 bazubu.com http://bazubu.com/case/okazaki-dental-clinic
 bita.jp https://bita.jp/dml/goptimize_beta
@@ -44,7 +44,7 @@ gamebiz.jp http://gamebiz.jp/?p=170660
 geekpage.jp http://www.geekpage.jp/blog/?id=2016/10/7/1
 getnavi.jp http://getnavi.jp/entertainment/72856/
 gigazine.net http://gigazine.net/news/20160930-truth-chinese-takeout-box/
-gnavi.co.jp http://r.gnavi.co.jp/sp/g-mag/entry/013077
+gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/bhb/3587
 google.com https://store.google.com/product/pixel_phone
 hail2u.net https://hail2u.net/blog/do-not-control-scroll.html
 hanabiagaru.net http://www.hanabiagaru.net/entry/2016/10/07/201209
@@ -126,6 +126,7 @@ note.mu https://note.mu/etomiho/n/n54df1b69a561
 omg-ox.org http://www.omg-ox.org/entry/punk
 omocoro.jp http://omocoro.jp/kiji/91711/
 orekabu.jp http://orekabu.jp/
+osappiro.com http://www.osappiro.com/entry/2016/10/11/214324
 otaden.jp http://hirorin.otaden.jp/e437747.html
 outward-matrix.com http://www.outward-matrix.com/entry/2016/10/04/163000
 pdmagazine.jp http://pdmagazine.jp/people/oinori-mail/
@@ -167,10 +168,12 @@ tm2501.com http://www.tm2501.com/entry/My_favorite-anime_Rankng
 togech.jp http://togech.jp/2016/09/30/40395
 togetter.com http://togetter.com/li/1030756
 toyokeizai.net http://toyokeizai.net/articles/-/138446
+trident-qa.com http://blog.trident-qa.com/2016/10/introduce_magic_pot/
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000085095.html
 twitter.com http://twitter.com/bmyoshida/status/781559822604902400
 uedakeita.net http://diary.uedakeita.net/entry/2016/10/04/102424
 ui-router.github.io https://ui-router.github.io/
+uxmilk.jp http://uxmilk.jp/46167
 wikipedia.org https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%BB%E3%83%86%E3%83%AC%E3%82%B5%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%89%B9%E5%88%A4
 withnews.jp http://withnews.jp/article/f0161003001qq000000000000000W03110501qq000014085A
 xn--n8jvce0l6c.com http://www.xn--n8jvce0l6c.com/entry/2016/10/01/%E7%A7%81%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0%E8%A8%98%E4%BA%8B%E3%82%92%E3%83%91%E3%82%AF%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%80%81%E9%95%B7%E8%B0%B7%E5%B7%9D%E8%B1%8A%E6%B0%8F%E3%81%8B%E3%82%89
@@ -179,6 +182,7 @@ yabe.jp http://yabe.jp/gadgets/edgerouter-x/
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20161007-00139231-toyo-bus_all
 yakst.com https://yakst.com/ja/posts/4236
 yappo.jp http://blog.yappo.jp/yappo/archives/000851.html
+yarnpkg.com https://yarnpkg.com/
 ygoto3.com http://ygoto3.com/posts/streaming-technology-basics-for-frontend-engineers/
 yokoiki.jp http://www.yokoiki.jp/entry/2016/10/06/184327
 yomiuri.co.jp http://www.yomiuri.co.jp/culture/20161008-OYT1T50124.html
