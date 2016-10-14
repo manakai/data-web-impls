@@ -7,6 +7,7 @@ anizm.xyz http://www.anizm.xyz/entry/2016/10/08/152223
 anofelus-log.blogspot.com http://anofelus-log.blogspot.com/2016/09/blog-post.html
 anomaly3-movie.com http://www.anomaly3-movie.com/entry/Ranking_masterpiece_2000
 asahi.com https://dot.asahi.com/wa/2016100700072.html
+ascii.jp http://ascii.jp/elem/000/001/248/1248847/
 ask.fm http://ask.fm/polytope/answers/128350881197
 automaton.am http://jp.automaton.am/articles/newsjp/amy-hennig-interview-crunch/
 basement-times.com http://basement-times.com/utada-hikaru-fantome/
@@ -15,7 +16,7 @@ bita.jp https://bita.jp/dml/goptimize_beta
 block.fm http://block.fm/news/Spotify_AppleMusic_Unofficialremixes.html
 blog.jp http://jnakagawa.blog.jp/archives/1061586847.html
 bloglifer.net http://www.bloglifer.net/entry/ishida-yuki-entrepreneur-hope
-buzzfeed.com https://www.buzzfeed.com/keigoisashi/shin-godzilla-false-rumor
+buzzfeed.com https://www.buzzfeed.com/harunayamazaki/russia-cafe
 buzznews.jp http://www.buzznews.jp/?p=2103006
 cakes.mu https://cakes.mu/posts/14197
 careerconnection.jp https://news.careerconnection.jp/?p=27926
@@ -31,6 +32,7 @@ doda.jp https://mirai.doda.jp/theme/lo/3-approaches/
 doorblog.jp http://kabumatome.doorblog.jp/archives/65873898.html
 dragoner-jp.blogspot.com http://dragoner-jp.blogspot.com/2016/10/blog-post.html
 e-aidem.com http://www.e-aidem.com/ch/listen/entry/2016/10/05/110000
+eigo-koryaku.com https://eigo-koryaku.com/?p=409
 engadget.com http://japanese.engadget.com/2016/09/30/12-60-km/
 esm.co.jp http://blog.agile.esm.co.jp/entry/2016/10/03/150625
 eternal-tears.com http://baby.eternal-tears.com/blog/20161010-3320
@@ -123,6 +125,7 @@ nimonoism.com http://www.nimonoism.com/entry/2016/10/10/%E3%83%AD%E3%83%90%E3%83
 nintendo.co.jp https://topics.nintendo.co.jp/c/article/d2923b54-8552-11e6-9b38-063b7ac45a6d.html
 nippondanji.blogspot.com http://nippondanji.blogspot.com/2016/10/blog-post.html
 note.mu https://note.mu/etomiho/n/n54df1b69a561
+ohanashi-no-naka.net http://www.ohanashi-no-naka.net/entry/2016/08/08/220214
 omg-ox.org http://www.omg-ox.org/entry/punk
 omocoro.jp http://omocoro.jp/kiji/91711/
 orekabu.jp http://orekabu.jp/
@@ -139,18 +142,21 @@ qiita.com http://qiita.com/cocuh/items/e7c305ccffb6841d109c#sshd%E9%96%A2%E9%80%
 rakuten.co.jp http://beauty.rakuten.co.jp/magazine/20160930_010/
 rakuten.jp http://srdk.rakuten.jp/entry/2016/10/04/110000
 rbbtoday.com http://www.rbbtoday.com/article/2016/10/07/145895.html
+realsound.jp http://realsound.jp/2016/10/post-9677.html
 response.jp http://response.jp/article/2016/10/03/282892.html
 rinna.jp http://blog.rinna.jp/
 ryusoku.com http://ryusoku.com/archives/4691665.html
 sankei.com http://www.sankei.com/affairs/news/160930/afr1609300031-n1.html
-satoueisaku.com http://www.satoueisaku.com/entry/gx9900
+satoei.com http://www.satoei.com/entry/gx9900
 sekkachi.com http://www.sekkachi.com/entry/Reasonable_income_Japan
 shellbys.com http://www.shellbys.com/entry/buildy-makes-app
 shinji92.com http://www.shinji92.com/entry/2016/10/01/030302
+shogi.or.jp http://www.shogi.or.jp/news/2016/10/29_13.html
 slideshare.net http://www.slideshare.net/DoomKobayashi/ver1-png
 speakerdeck.com https://speakerdeck.com/aereal/microservices-and-scala-at-hatena
 sponichi.co.jp http://www.sponichi.co.jp/entertainment/news/2016/10/05/kiji/K20161005013481610.html
 spotlight-media.jp http://spotlight-media.jp/article/332136371516457023
+staff-blog.com http://staff-blog.com/post-3364/
 storialaw.jp http://storialaw.jp/blog/2140
 sugyan.com http://memo.sugyan.com/entry/2016/10/06/194933
 sukesuke-mile-kojiki.net http://www.sukesuke-mile-kojiki.net/entry/selfmedication
@@ -165,6 +171,7 @@ tedium-life.com http://www.tedium-life.com/entry/2016/10/09/192000
 thefirstpenguin.jp https://thefirstpenguin.jp/2919b386458e
 timesteps.net http://timesteps.net/archives/manganomori.html
 tm2501.com http://www.tm2501.com/entry/My_favorite-anime_Rankng
+tofufu.me https://tofufu.me/topisyu_7/
 togech.jp http://togech.jp/2016/09/30/40395
 togetter.com http://togetter.com/li/1030756
 toyokeizai.net http://toyokeizai.net/articles/-/138446
