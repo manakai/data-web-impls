@@ -5,6 +5,8 @@ afpbb.com http://www.afpbb.com/articles/-/3102636
 airdo.jp http://www.airdo.jp/blog/garanattsu/index.html
 akb48matomemory.com http://www.akb48matomemory.com/archives/1061671719.html
 amass.jp http://amass.jp/79074/
+amazon.co.jp https://www.amazon.co.jp/review/R3CGP7FH2VTLZM/ref=cm_cr_rdp_perm?ie=UTF8&ASIN=4822262596
+ameblo.jp http://ameblo.jp/arikawahiro0609/entry-12209864828.html
 anizm.xyz http://www.anizm.xyz/entry/2016/10/08/152223
 anofelus-log.blogspot.com http://anofelus-log.blogspot.com/2016/09/blog-post.html
 anomaly3-movie.com http://www.anomaly3-movie.com/entry/Ranking_masterpiece_2000
@@ -19,6 +21,7 @@ bita.jp https://bita.jp/dml/goptimize_beta
 block.fm http://block.fm/news/Spotify_AppleMusic_Unofficialremixes.html
 blog.jp http://ringobiyori.blog.jp/archives/11506844.html
 bloglifer.net http://www.bloglifer.net/entry/ishida-yuki-entrepreneur-hope
+blogos.com http://blogos.com/article/194157/
 bpsinc.jp https://techracho.bpsinc.jp/hachi8833/2016_10_13/26969
 buzzfeed.com https://www.buzzfeed.com/eimiyamamitsu/walk-with-tim-cook
 buzznews.jp http://www.buzznews.jp/?p=2103006
@@ -30,6 +33,7 @@ cnet.com http://japan.cnet.com/sp/tgs2016/35089469/
 codeiq.jp https://codeiq.jp/magazine/2016/09/45457/
 cookpad.com http://techlife.cookpad.com/entry/2016/10/06/000000
 cpplover.blogspot.com https://cpplover.blogspot.com/2016/10/blog-post.html
+cycomi.com https://cycomi.com/title.php?title_id=46
 dailycult.blogspot.com http://dailycult.blogspot.com/2016/10/npoposse.html
 datsublogger.com http://datsublogger.com/?p=42
 denfaminicogamer.jp http://news.denfaminicogamer.jp/projectbook/zero-siren
@@ -42,10 +46,13 @@ engadget.com http://japanese.engadget.com/2016/09/30/12-60-km/
 esm.co.jp http://blog.agile.esm.co.jp/entry/2016/10/03/150625
 eternal-tears.com http://baby.eternal-tears.com/blog/20161010-3320
 eternalcollegest.com http://www.eternalcollegest.com/entry/SE_NE
+exblog.jp http://geopoli.exblog.jp/26278038/
+excite.co.jp http://www.excite.co.jp/News/it_g/20161015/Buzzap_39338.html
 facebook.com https://www.facebook.com/hideo.hasegawa.5/posts/1345008832197083
 fc2.com http://workingnews.blog117.fc2.com/blog-entry-9804.html
 fesoku.net http://fesoku.net/archives/8596917.html
 flo-shot.com http://www.flo-shot.com/entry/2016/10/05/001612
+fukugyo-shindanshi.com http://fukugyo-shindanshi.com/ikeda-homeopathy/
 fukuyuki.net http://fukuyuki.net/post-1072/
 gamebiz.jp http://gamebiz.jp/?p=170660
 geekpage.jp http://www.geekpage.jp/blog/?id=2016/10/7/1
@@ -104,9 +111,10 @@ lineblog.me http://lineblog.me/yamamotoichiro/archives/11676085.html
 linecorp.com http://developers.linecorp.com/blog/ja/?p=3784
 lite-ra.com http://lite-ra.com/2016/10/post-2606.html
 livedoor.biz http://lifehack2ch.livedoor.biz/archives/51639806.html
-livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1898405.html
+livedoor.jp http://blog.livedoor.jp/diet2channel/archives/49771964.html
 logmi.jp http://logmi.jp/162175
 lose.jp http://www.lose.jp/official/kuma
+love-wd-yuka.com http://www.love-wd-yuka.com/entry/world-music_1
 maid-cafe.work http://www.maid-cafe.work/2016/246
 mainichi.jp http://mainichi.jp/articles/20161008/k00/00m/010/068000c
 mako0625.net http://niko.mako0625.net/entry/2016/10/04/043151
@@ -133,6 +141,7 @@ nibb.ac.jp http://www.nibb.ac.jp/pressroom/news/2016/10/07.html
 nicovideo.jp http://niconare.nicovideo.jp/watch/kn1874
 nifty.com https://news.nifty.com/article/item/neta/12111-27821/
 nii.ac.jp http://ci.nii.ac.jp/naid/110007185436
+nikkan-gendai.com http://www.nikkan-gendai.com/articles/view/geinox/191829?pc=true
 nikkansports.com http://www.nikkansports.com/general/nikkan/news/1723921.html
 nikkei.com http://www.nikkei.com/article/DGKKZO07900280S6A001C1CK8000/
 nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/14/463805/100600108/
@@ -156,7 +165,7 @@ postd.cc http://postd.cc/a-bite-of-python/
 publickey1.jp http://www.publickey1.jp/blog/16/50pokemon_gogoogle_cloud.html
 qiita.com http://qiita.com/cocuh/items/e7c305ccffb6841d109c#sshd%E9%96%A2%E9%80%A3
 rakuten.co.jp http://beauty.rakuten.co.jp/magazine/20160930_010/
-rakuten.jp http://srdk.rakuten.jp/entry/2016/10/04/110000
+rakuten.jp http://srdk.rakuten.jp/entry/2015/04/16/153134
 rbbtoday.com http://www.rbbtoday.com/article/2016/10/07/145895.html
 realsound.jp http://realsound.jp/2016/10/post-9677.html
 response.jp http://response.jp/article/2016/10/03/282892.html
@@ -169,7 +178,9 @@ seesaa.net http://openblog.seesaa.net/article/442779582.html
 sekkachi.com http://www.sekkachi.com/entry/Reasonable_income_Japan
 shellbys.com http://www.shellbys.com/entry/buildy-makes-app
 shinji92.com http://www.shinji92.com/entry/2016/10/01/030302
+shinma.tokyo http://blog.shinma.tokyo/entry/2016/10/15/190000
 shogi.or.jp http://www.shogi.or.jp/news/2016/10/29_13.html
+shogi1.com http://shogi1.com/miurahiroyuki-soft-ryuousen/
 sixapart.jp https://blog.sixapart.jp/2016-10/ownedmedia-workshop-report-24.html
 slideshare.net http://www.slideshare.net/DoomKobayashi/ver1-png
 sonymusic.co.jp http://www.sonymusic.co.jp/artist/aoieir/info/473915
@@ -203,6 +214,7 @@ twitter.com http://twitter.com/bmyoshida/status/781559822604902400
 uedakeita.net http://diary.uedakeita.net/entry/2016/10/04/102424
 ui-router.github.io https://ui-router.github.io/
 uxmilk.jp http://uxmilk.jp/46167
+web-planners.net http://www.web-planners.net/blog/archives/000210.html
 webprofessional.jp https://www.webprofessional.jp/quick-tip-game-loop-in-javascript/
 wikipedia.org https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B6%E3%83%BC%E3%83%BB%E3%83%86%E3%83%AC%E3%82%B5%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%89%B9%E5%88%A4
 withnews.jp http://withnews.jp/article/f0161003001qq000000000000000W03110501qq000014085A
@@ -219,5 +231,5 @@ yokoiki.jp http://www.yokoiki.jp/entry/2016/10/06/184327
 yomiuri.co.jp http://www.yomiuri.co.jp/culture/20161008-OYT1T50124.html
 youtube.com http://www.youtube.com/watch?v=mtEEB_PPt0M
 yururimaaruku.com http://www.yururimaaruku.com/entry/Excel-20years
-yutorism.jp http://www.yutorism.jp/entry/pension
+yutorism.jp http://www.yutorism.jp/entry/blog
 zenmashiniki.com http://www.zenmashiniki.com/entry/%E9%8D%8B%E4%BA%8C%E9%83%8E
