@@ -10,6 +10,7 @@ allabout.co.jp https://allabout.co.jp/gm/gc/466033/
 amass.jp http://amass.jp/79074/
 amazon.co.jp https://www.amazon.co.jp/review/R3CGP7FH2VTLZM/ref=cm_cr_rdp_perm?ie=UTF8&ASIN=4822262596
 ameblo.jp http://ameblo.jp/arikawahiro0609/entry-12209864828.html
+anime-longriders.com http://anime-longriders.com/news/index00500000.html
 anizm.xyz http://www.anizm.xyz/entry/2016/10/08/152223
 anofelus-log.blogspot.com http://anofelus-log.blogspot.com/2016/09/blog-post.html
 anomaly3-movie.com http://www.anomaly3-movie.com/entry/Ranking_masterpiece_2000
@@ -43,6 +44,7 @@ codeiq.jp https://codeiq.jp/magazine/2016/09/45457/
 coliss.com http://coliss.com/articles/build-websites/operation/work/responsive-menu.html
 coocan.jp http://abehiroshi.la.coocan.jp/
 cookpad.com http://techlife.cookpad.com/entry/2016/10/06/000000
+corobuzz.com http://corobuzz.com/archives/80652
 cpplover.blogspot.com https://cpplover.blogspot.com/2016/10/blog-post.html
 cycomi.com https://cycomi.com/title.php?title_id=46
 dailycult.blogspot.com http://dailycult.blogspot.com/2016/10/npoposse.html
@@ -52,7 +54,7 @@ doda.jp https://mirai.doda.jp/theme/lo/3-approaches/
 doorblog.jp http://kabumatome.doorblog.jp/archives/65873898.html
 dragoner-jp.blogspot.com http://dragoner-jp.blogspot.com/2016/10/blog-post.html
 dwango.github.io https://dwango.github.io/
-e-aidem.com http://www.e-aidem.com/ch/listen/entry/2016/10/05/110000
+e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/ciotan02
 e-algorithm.xyz https://e-algorithm.xyz/vulnerability/
 eigo-koryaku.com https://eigo-koryaku.com/?p=409
 en-japan.com http://careerhack.en-japan.com/report/detail/724
@@ -63,6 +65,7 @@ eternalcollegest.com http://www.eternalcollegest.com/entry/SE_NE
 exblog.jp http://geopoli.exblog.jp/26278038/
 excite.co.jp http://www.excite.co.jp/News/it_g/20161015/Buzzap_39338.html
 facebook.com https://www.facebook.com/hideo.hasegawa.5/posts/1345008832197083
+famitsu.com http://www.famitsu.com/news/201610/21118771.html
 fc2.com http://workingnews.blog117.fc2.com/blog-entry-9804.html
 fesoku.net http://fesoku.net/archives/8596917.html
 flo-shot.com http://www.flo-shot.com/entry/2016/10/05/001612
@@ -70,6 +73,7 @@ fukugyo-shindanshi.com http://fukugyo-shindanshi.com/ikeda-homeopathy/
 fukuyuki.net http://fukuyuki.net/post-1072/
 gamebiz.jp http://gamebiz.jp/?p=170660
 geekpage.jp http://www.geekpage.jp/blog/?id=2016/10/7/1
+geinou1.net http://geinou1.net/archives/1061880190.html
 gentosha.jp http://www.gentosha.jp/articles/-/6473
 getnavi.jp http://getnavi.jp/entertainment/72856/
 gigazine.net http://gigazine.net/news/20160930-truth-chinese-takeout-box/
@@ -78,6 +82,7 @@ google.com https://store.google.com/product/pixel_phone
 googlecloudplatform-japan.blogspot.com http://googlecloudplatform-japan.blogspot.com/2016/10/google-cre.html
 googledevjp.blogspot.com https://googledevjp.blogspot.com/2016/10/budou.html
 googlefonts.github.io https://googlefonts.github.io/japanese/
+goope.jp http://blog.goope.jp/?eid=476
 gyakushu.net http://blog.gyakushu.net/entry/cat
 hail2u.net https://hail2u.net/blog/do-not-control-scroll.html
 hanabiagaru.net http://www.hanabiagaru.net/entry/2016/10/07/201209
@@ -123,6 +128,7 @@ jugem.jp http://movatwitter.jugem.jp/?eid=475
 kaden-iroha.com http://kaden-iroha.com/2016-10-13-154853
 kaerucloud.com http://blog.kaerucloud.com/entry/boukan-taisaku
 kai-you.net http://kai-you.net/article/34425
+ketudan.jp http://www.ketudan.jp/entry/2016/10/21/164720
 kiji.is http://this.kiji.is/154441412968318456
 kimu3.net http://kimu3.net/20160916/5152
 kingjim.co.jp http://www.kingjim.co.jp/pomera/dm200/
@@ -218,6 +224,7 @@ response.jp http://response.jp/article/2016/10/03/282892.html
 ringobiyori.com http://www.ringobiyori.com/entry/2016/10/14/233000
 rinna.jp http://blog.rinna.jp/
 rinsimpl.com http://www.rinsimpl.com/entry/2016/10/18/070929
+riripom.net http://riripom.net/stop.html
 rocketnews24.com http://rocketnews24.com/2016/10/17/813193/
 ryukyushimpo.jp http://ryukyushimpo.jp/news/entry-378521.html
 ryusoku.com http://ryusoku.com/archives/4691665.html
@@ -261,6 +268,7 @@ tm2501.com http://www.tm2501.com/entry/2016/10/19/174103
 tofufu.me https://tofufu.me/topisyu_7/
 togech.jp http://togech.jp/2016/09/30/40395
 togetter.com http://togetter.com/li/1030756
+tokyo-sports.co.jp http://www.tokyo-sports.co.jp/nonsec/social/607682/
 toyokeizai.net http://toyokeizai.net/articles/-/138446
 trafficnews.jp http://trafficnews.jp/post/58387/
 trident-qa.com http://blog.trident-qa.com/2016/10/introduce_magic_pot/
@@ -285,6 +293,7 @@ yarnpkg.com https://yarnpkg.com/
 ygoto3.com http://ygoto3.com/posts/streaming-technology-basics-for-frontend-engineers/
 yokoiki.jp http://www.yokoiki.jp/entry/2016/10/06/184327
 yomiuri.co.jp http://www.yomiuri.co.jp/culture/20161008-OYT1T50124.html
+youbride.jp https://party.youbride.jp/lp/event/itboy
 youtube.com http://www.youtube.com/watch?v=fzQ6gRAEoy0
 yururimaaruku.com http://www.yururimaaruku.com/entry/Excel-20years
 yutorism.jp http://www.yutorism.jp/entry/CostRate
