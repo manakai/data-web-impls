@@ -18,6 +18,7 @@ anomaly3-movie.com http://www.anomaly3-movie.com/entry/Ranking_masterpiece_2000
 appmarketinglabo.net http://appmarketinglabo.net/mobile-screenshot/
 asahi.com https://dot.asahi.com/wa/2016100700072.html
 ascii.jp http://ascii.jp/elem/000/001/248/1248847/
+ashita-office.com http://ashita-office.com/refreshroom-5449
 ask.fm http://ask.fm/polytope/answers/128350881197
 asunarolife.net http://www.asunarolife.net/entry/2016/10/21/161925
 aucfan.com http://aucfan.com/article/kabutoborg-24223/
@@ -27,6 +28,7 @@ basement-times.com http://basement-times.com/utada-hikaru-fantome/
 bazubu.com http://bazubu.com/case/okazaki-dental-clinic
 bbc.com http://www.bbc.com/japanese/features-and-analysis-37700366
 bee-excited.com http://www.bee-excited.com/entry/tsukarenikuitaikantraining
+bikomi.jp http://bikomi.jp/kaigaidrama-eigo/
 bita.jp https://bita.jp/dml/goptimize_beta
 block.fm http://block.fm/news/Spotify_AppleMusic_Unofficialremixes.html
 blog.jp http://takota.blog.jp/archives/1061813589.html
@@ -42,6 +44,7 @@ careerconnection.jp https://news.careerconnection.jp/?p=27926
 catlani.com http://www.catlani.com/entry/2016/10/24/185109
 change-makers.jp https://www.change-makers.jp/business/11356
 chuden.co.jp https://www.chuden.co.jp/corporate/publicity/pub_oshirase/topics/3261578_21498.html
+chuo-u.ac.jp http://www.chuo-u.ac.jp/usr/jhs_activity/award/winentries/9th_result/result04/
 cinematoday.jp http://www.cinematoday.jp/page/N0086806
 classmethod.jp http://dev.classmethod.jp/tool/python-pyenv-vscode/
 cnet.com http://japan.cnet.com/interview/35090609/
@@ -71,6 +74,7 @@ engadget.com http://japanese.engadget.com/2016/09/30/12-60-km/
 esm.co.jp http://blog.agile.esm.co.jp/entry/2016/10/03/150625
 eternal-tears.com http://baby.eternal-tears.com/blog/20161010-3320
 eternalcollegest.com http://www.eternalcollegest.com/entry/SE_NE
+eure.jp https://developers.eure.jp/tech/mysql_tips2/
 exblog.jp http://geopoli.exblog.jp/26278038/
 excite.co.jp http://www.excite.co.jp/News/bit/E1477220600629.html
 facebook.com https://www.facebook.com/hideo.hasegawa.5/posts/1345008832197083
@@ -149,6 +153,7 @@ jugem.jp http://movatwitter.jugem.jp/?eid=475
 jxck.io https://blog.jxck.io/entries/2016-10-27/whatwg-url.html
 kaden-iroha.com http://kaden-iroha.com/2016-10-13-154853
 kaerucloud.com http://blog.kaerucloud.com/entry/boukan-taisaku
+kage-sogo.com http://kage-sogo.com/it/1498/
 kai-you.net http://kai-you.net/article/34425
 ketudan.jp http://www.ketudan.jp/entry/2016/10/21/164720
 kiji.is http://this.kiji.is/154441412968318456
@@ -195,6 +200,7 @@ miyahaya.com http://www.miyahaya.com/entry/2016/10/06/190000
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/40200
 mofnokikotori.net http://www.mofnokikotori.net/entry/Ed_Emberley-nandemo
 moneyforward.com https://moneyforward.com/media/career/25590/
+mortfega.org http://www.mortfega.org/archives/118
 mshimfujin.net http://blog.mshimfujin.net/entry/2016/10/11/060000
 munesada.com http://munesada.com/2016/10/10/blog-7955
 mynavi.jp http://wedding.mynavi.jp/kekoon/entry/2016/10/06/180000/
@@ -221,6 +227,7 @@ nimonoism.com http://www.nimonoism.com/entry/2016/10/10/%E3%83%AD%E3%83%90%E3%83
 nintendo.co.jp https://www.nintendo.co.jp/3ds/akqj/index.html
 nippondanji.blogspot.com http://nippondanji.blogspot.com/2016/10/blog-post.html
 nishinippon.co.jp http://www.nishinippon.co.jp/nnp/national/article/282191
+nmi.jp http://nmi.jp/2016-10-27-Customizing-for-B2B
 note.mu https://note.mu/akkoinkolove/n/nb21c47500fde
 ntv.co.jp http://www.ntv.co.jp/document/info/archive/20161016.html
 nubatamanon.com http://www.nubatamanon.com/entry/2016/10/19/220443
@@ -233,6 +240,7 @@ omg-ox.org http://www.omg-ox.org/entry/punk
 omocoro.jp http://omocoro.jp/kiji/91711/
 onew-web.net http://onew-web.net/3442.html
 orekabu.jp http://orekabu.jp/
+oricon.co.jp http://www.oricon.co.jp/special/49471/
 originalnews.nico http://originalnews.nico/1342
 osappiro.com http://www.osappiro.com/entry/2016/10/11/214324
 otaden.jp http://hirorin.otaden.jp/e437747.html
@@ -248,7 +256,7 @@ pokemongo.jp http://www.pokemongo.jp/topics/25/
 postd.cc http://postd.cc/a-bite-of-python/
 president.jp http://president.jp/articles/-/20334
 publickey1.jp http://www.publickey1.jp/blog/16/31.html
-qiita.com http://qiita.com/advent-calendar/2016/no-girlfriend
+qiita.com http://qiita.com/MasahitoShinoda/items/40cd312fabc6db604b39
 rakuten.co.jp http://beauty.rakuten.co.jp/magazine/20160930_010/
 rakuten.jp http://srdk.rakuten.jp/entry/2015/04/16/153134
 rarejob.com https://www.rarejob.com/englishlab/column/20161022/
@@ -304,6 +312,7 @@ thepage.jp https://thepage.jp/detail/20161026-00000008-wordleaf
 timesteps.net http://timesteps.net/archives/manganomori.html
 tinect.jp http://blog.tinect.jp/?p=31836
 tm2501.com http://www.tm2501.com/entry/2016/10/19/174103
+todesking.com http://www.todesking.com/blog/2016-10-28-handmade-separate-keyboard/
 tofufu.me https://tofufu.me/topisyu_7/
 togech.jp http://togech.jp/2016/09/30/40395
 togetter.com http://togetter.com/li/1030756
@@ -338,7 +347,7 @@ yohey-hey.com http://www.yohey-hey.com/entry/Cannabis-sativa2
 yokoiki.jp http://www.yokoiki.jp/entry/2016/10/06/184327
 yomiuri.co.jp http://www.yomiuri.co.jp/culture/20161008-OYT1T50124.html
 youbride.jp https://party.youbride.jp/lp/event/itboy
-youtube.com http://www.youtube.com/watch?v=a2GujJZfXpg
+youtube.com http://www.youtube.com/watch?v=HFlgNoUsr4k
 yururimaaruku.com http://www.yururimaaruku.com/entry/Excel-20years
 yutorism.jp http://www.yutorism.jp/entry/CostRate
 zenmashiniki.com http://www.zenmashiniki.com/entry/%E8%BB%A2%E5%A3%B2%E5%B1%8B%E3%81%AF%E6%BB%85%E3%81%B9
