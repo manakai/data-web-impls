@@ -119,6 +119,12 @@
             "OUvvVscW0/NltofkmV9qmg==" : 1
          }
       },
+      "MEcxCzAJBgNVBAYTAkhLMRYwFAYDVQQKEw1Ib25na29uZyBQb3N0MSAwHgYDVQQDExdIb25na29uZyBQb3N0IFJvb3QgQ0EgMQ==" : {
+         "serial_numbers" : {
+            "BGU=" : 1,
+            "BHk=" : 1
+         }
+      },
       "MEgxCzAJBgNVBAYTAlVTMSAwHgYDVQQKExdTZWN1cmVUcnVzdCBDb3Jwb3JhdGlvbjEXMBUGA1UEAxMOU2VjdXJlVHJ1c3QgQ0E=" : {
          "serial_numbers" : {
             "ANygrItIJ2rcKlyS3Lue07U=" : 1,
@@ -182,6 +188,11 @@
       "MFgxCzAJBgNVBAYTAk5MMR4wHAYDVQQKDBVTdGFhdCBkZXIgTmVkZXJsYW5kZW4xKTAnBgNVBAMMIFN0YWF0IGRlciBOZWRlcmxhbmRlbiBFViBSb290IENB" : {
          "serial_numbers" : {
             "AJiWmg==" : 1
+         }
+      },
+      "MFgxCzAJBgNVBAYTAkpQMSswKQYDVQQKEyJKYXBhbiBDZXJ0aWZpY2F0aW9uIFNlcnZpY2VzLCBJbmMuMRwwGgYDVQQDExNTZWN1cmVTaWduIFJvb3RDQTEx" : {
+         "serial_numbers" : {
+            "Aw==" : 1
          }
       },
       "MFgxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMTEwLwYDVQQDEyhHZW9UcnVzdCBQcmltYXJ5IENlcnRpZmljYXRpb24gQXV0aG9yaXR5" : {
