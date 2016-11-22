@@ -3,6 +3,7 @@
 30cm.xyz http://30cm.xyz/anime-robot/
 40-game-life.com http://www.40-game-life.com/entry/2016/11/15/070000
 50otoko.com http://50otoko.com/thinning-hair-haircut/
+a-know.me http://blog.a-know.me/entry/2016/11/20/215005
 afpbb.com http://www.afpbb.com/articles/-/3106513
 air-nifty.com http://smatsu.air-nifty.com/lbyd/2016/11/post-0d2d.html
 akane1033.com http://www.akane1033.com/entry/2016/11/17/%E6%AD%A3%E7%9B%B4%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B%E3%81%AE%E3%81%AF%E5%A4%A7%E5%88%87%E3%81%AA%E3%81%93%E3%81%A8%E3%81%A0%E3%81%91%E3%81%A9%E3%80%81%E6%80%9D%E3%81%84%E3%82%84%E3%82%8A%E3%81%AE%E5%BF%83
@@ -30,6 +31,7 @@ catlani.com http://www.catlani.com/entry/2016/11/02/165610
 cbc-net.com http://www.cbc-net.com/blog/qanta/2016/11/04/fox/
 cheng.guru http://cheng.guru/blog/2016/11/13/evolution-of-electron-japanese.html
 chiikunote.com http://www.chiikunote.com/entry/indian
+cinematoday.jp http://www.cinematoday.jp/page/N0087595
 classmethod.jp http://dev.classmethod.jp/server-side/angular2-lambda-scala/
 clock-up.jp http://blog.clock-up.jp/entry/2016/11/03/http-headers-malware
 cloudsalon.net http://www.cloudsalon.net/entry/backache20161103
@@ -108,6 +110,7 @@ ign.com http://jp.ign.com/konosekainokatashumini/8875/interview/
 iinee-news.com http://iinee-news.com/post-12497/
 impress.co.jp http://pc.watch.impress.co.jp/docs/news/1027495.html
 in-activism.com http://www.in-activism.com/entry/try_mensfashion
+infonzplus.net http://english-grammar-in-use.infonzplus.net/billingirl-english-grammar-in-use/
 inkyodanshi21.com http://inkyodanshi21.com/lifestyle/9952/
 inte.co.jp https://haken.inte.co.jp/i-engineer/interesting/honeoyaji
 ipa.go.jp http://www.ipa.go.jp/files/000055177.pdf
@@ -123,8 +126,10 @@ j-cast.com http://www.j-cast.com/2016/10/31282261.html
 jiji.com http://www.jiji.com/jc/article?k=2016111600509&g=use
 joker1007.github.io http://joker1007.github.io/slides/cto_night_2016/slides/#/
 jpn.org http://nakameguro.jpn.org/jtec/riss-penalty/
+jugem.jp http://nihonbashi.jugem.jp/?eid=618
 k-kangaeru.com http://k-kangaeru.com/mece-3051
 k11i.biz http://k11i.biz/blog/2016/11/05/approximate-gaussian-rng/
+kaigai-matome.net http://kaigai-matome.net/archives/35573168.html
 kaimin-times.com http://kaimin-times.com/pillows-for-straight-neck-3756
 kanaloco.jp http://www.kanaloco.jp/article/212652
 kango-oshigoto.jp https://kango-oshigoto.jp/media/article/1104/
@@ -132,6 +137,7 @@ kansou-blog.jp http://www.kansou-blog.jp/entry/2016/11/12/081700
 kappatosamurai.com http://www.kappatosamurai.com/entry/oekakikouza1109
 kayac.com https://www.kayac.com/news/2016/11/yanasawa_blog_vol18
 kengo-toda.jp http://blog.kengo-toda.jp/entry/2016/11/14/235642
+kentei.ne.jp https://www.kentei.ne.jp/bookkeeping/revision/message144/
 kiji.is http://this.kiji.is/170804734732420597
 klab.com http://klabgames.tech.blog.jp.klab.com/archives/1062120304.html
 klabentertainment.com http://www.klabentertainment.com/news.html#n01
@@ -140,6 +146,7 @@ kokoro-fire.com http://www.kokoro-fire.com/entry/minor-comic
 kotaro269.com http://www.kotaro269.com/articles/49124.html
 kuroihikari.net http://blog.kuroihikari.net/entry/20161101/1477942670
 kyoko-np.net http://kyoko-np.net/2016103101.html
+kyu7.com http://www.kyu7.com/entry/2016/11/20/210300
 labaq.com http://labaq.com/archives/51876915.html
 lets-member.jp http://www.lets-member.jp/evamatisse/
 levtech.jp https://freelance.levtech.jp/guide/detail/74/
@@ -230,7 +237,7 @@ shijo-street-weekend.com http://www.shijo-street-weekend.com/entry/2016/11/19/19
 shimirubon.jp https://shimirubon.jp/columns/1675517
 situation.jp http://situation.jp/toyama/%E6%B4%BB%E5%8B%95%E6%97%A5%E8%AA%8C/292/
 skillup-plus.com http://skillup-plus.com/pen-spinning/
-skky.jp http://blog.skky.jp/entry/wedcamp
+skky.jp http://blog.skky.jp/entry/smartphonegame
 slideshare.net http://www.slideshare.net/TakuyaIwatsuka/spring-5
 sozai.site https://sozai.site/archives/193
 speakerdeck.com https://speakerdeck.com/cygames/cygameswozhi-eruphpto-sofalsegao-su-hua-falsequ-rizu-mi
@@ -241,7 +248,7 @@ synodos.jp http://synodos.jp/society/18385
 syuheiuda.com http://www.syuheiuda.com/?p=3630
 takagi-hiromitsu.jp http://takagi-hiromitsu.jp/diary/20161105.html
 taro.org http://www.taro.org/2016/11/%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E7%A0%94%E7%A9%B6%E8%80%85%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%B8.php
-tawashix.com http://www.tawashix.com/entry/kensakuDeka
+tawashix.com http://www.tawashix.com/entry/PaulWeiss
 tbs.co.jp http://news.tbs.co.jp/newseye/tbs_newseye2913245.htm
 tdb.co.jp http://www.tdb.co.jp/tosan/syosai/4220.html
 techcrunch.com http://jp.techcrunch.com/2016/11/09/20161109with-trumps-likely-win-silicon-valley-investors-start-losing-their-damn-minds/
@@ -265,6 +272,7 @@ umenon.com http://umenon.com/2016/11/13/iostools/
 urandom-ctf.github.io http://urandom-ctf.github.io/post/my-linux-kernel-on-nesclassic/
 vipper-trendy.net https://vipper-trendy.net/sansuu-huseikai/
 vision-context.jp http://www.vision-context.jp/entry/mediamakers
+wanabe.net http://www.wanabe.net/entry/white-to-black
 wantedly.com https://www.wantedly.com/companies/wantedly/post_articles/42207
 warorince.com http://www.warorince.com/entry/amazon-good-ranking
 webnewtype.com https://webnewtype.com/report/article/92131/
