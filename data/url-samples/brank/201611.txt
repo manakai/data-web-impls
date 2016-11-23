@@ -18,6 +18,7 @@ atmarkit.co.jp http://www.atmarkit.co.jp/ait/articles/1611/08/news028.html
 automaton.am http://jp.automaton.am/articles/newsjp/owlboy-is-now-on-sale-and-already-has-good-reputation/
 baitalk.jp https://baitalk.jp/media/article/297/
 bengo4.com https://www.bengo4.com/c_5/n_5357/
+birumendesu.com http://www.birumendesu.com/entry/blog-copy
 bita.jp https://bita.jp/dml/ga_datastudio
 biz-journal.jp http://biz-journal.jp/2016/11/post_17123.html
 biztikara.com http://www.biztikara.com/entry/haisha-dokushojyutu
@@ -58,6 +59,7 @@ doorblog.jp http://kabumatome.doorblog.jp/archives/65878714.html
 dtmstation.com http://www.dtmstation.com/archives/51986665.html
 e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/makino06
 econ101.jp http://econ101.jp/%E3%83%8E%E3%82%A2%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9%E3%80%8C%E6%95%B0%E5%AD%A6%E3%81%AE%E5%A4%A9%E6%89%8D%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%80%A7%E5%88%A5%E6%A0%BC%E5%B7%AE%E3%81%AE%E5%B4%A9/
+eigo-koryaku.com https://eigo-koryaku.com/?p=477
 ekrits.jp http://ekrits.jp/2016/11/2170/
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2016/11/17/110000
 encounter-pa.jp https://encounter-pa.jp/archives/164
@@ -89,7 +91,7 @@ grapee.jp http://grapee.jp/257541
 guts-kaneko.com http://blog.guts-kaneko.com/archives/38
 gyakushu.net http://blog.gyakushu.net/entry/30death
 hahalife0.com http://www.hahalife0.com/entry/2016/11/16/070200
-hateblo.jp http://shiba710.hateblo.jp/entry/2016/11/10/145014
+hateblo.jp http://xavier.hateblo.jp/entry/2016/11/21/091626
 hatebu.me http://hatebu.me/entry/2016/11/08/122753
 hatelabo.jp http://anond.hatelabo.jp/20160820021911
 hatena.ne.jp http://d.hatena.ne.jp/Gaius_Petronius/20161112/p2
@@ -130,6 +132,7 @@ jugem.jp http://nihonbashi.jugem.jp/?eid=618
 k-kangaeru.com http://k-kangaeru.com/mece-3051
 k11i.biz http://k11i.biz/blog/2016/11/05/approximate-gaussian-rng/
 kaigai-matome.net http://kaigai-matome.net/archives/35573168.html
+kaigolab.com http://kaigolab.com/column/17948
 kaimin-times.com http://kaimin-times.com/pillows-for-straight-neck-3756
 kanaloco.jp http://www.kanaloco.jp/article/212652
 kango-oshigoto.jp https://kango-oshigoto.jp/media/article/1104/
@@ -168,6 +171,7 @@ masamunet.com http://masamunet.com/2016/11/09/web%E5%B1%8B%E3%81%AE%E8%87%AA%E5%
 mashilog.com http://www.mashilog.com/entry/knot-watch-recommend
 matomame.jp http://matomame.jp/user/mixmio/7c4572b71a741a9a57e7
 matsumoto-r.jp http://hb.matsumoto-r.jp/entry/2016/11/08/001002
+medium.com https://medium.com/japan/a9462b96648e
 medley.life https://medley.life/news/item/5808ad9b13e3742c008b458f
 menhera.jp http://menhera.jp/1294
 mieko.jp http://www.mieko.jp/blog/2016/11/18/1678.html
@@ -186,7 +190,7 @@ net-li.com http://blog.net-li.com/entry/2016/11/08/%E5%A6%99%E3%81%AB%E8%BA%AB%E
 news24.jp http://www.news24.jp/articles/2016/11/11/07346249.html
 newsln.jp http://business.newsln.jp/news/201611150136530000.html
 newsweekjapan.jp http://www.newsweekjapan.jp/watanabe/2016/11/post-26.php
-nhk.or.jp http://www6.nhk.or.jp/anime/topics/detail.html?i=4291
+nhk.or.jp https://www.nhk.or.jp/gendai/articles/3892/1.html
 niantic.jp http://www.niantic.jp/entry/2016/11/03/222630
 nicovideo.jp http://ch.nicovideo.jp/akiba-cyberspacecowboys/blomaga/ar1134006
 nifty.com http://portal.nifty.com/kiji/161031197945_1.htm
@@ -257,7 +261,7 @@ tenki.jp http://www.tenki.jp/forecaster/diary/aihara_eriko/2016/11/13/58561.html
 thinkfeel.net http://illustration.thinkfeel.net/339
 thisischinablog.com http://thisischinablog.com/?p=1087
 tinect.jp http://blog.tinect.jp/?p=32719
-tm2501.com http://www.tm2501.com/entry/tights-banzai-2016
+tm2501.com http://www.tm2501.com/entry/Character_of_Outlaw-man
 togech.jp http://togech.jp/2016/10/31/41913
 togetter.com http://togetter.com/li/1041171
 tomotoharu.com http://www.tomotoharu.com/entry/2016/11/04/214858
@@ -278,8 +282,10 @@ warorince.com http://www.warorince.com/entry/amazon-good-ranking
 webnewtype.com https://webnewtype.com/report/article/92131/
 wikiwiki.jp http://wikiwiki.jp/udama-chan/?%C5%F0%BA%EE
 wired.jp http://wired.jp/2016/11/08/death-performance/
+wirelesswire.jp https://wirelesswire.jp/2016/11/57683/
 wktk.co.jp http://blog.wktk.co.jp/ja/entry/2016/11/12/political-correctness
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20161103-00143342-toyo-bus_all
+yasuhisay.info http://www.yasuhisay.info/entry/2016/11/21/083000
 yetyou.jp http://www.yetyou.jp/?p=9466
 yomiuri.co.jp https://yomidr.yomiuri.co.jp/article/20161116-OYTET50005/
 youshofanclub.com https://youshofanclub.com/2016/10/31/hillbilly-elegy/
@@ -289,5 +295,6 @@ yutorism.jp http://www.yutorism.jp/entry/AccountingTerms
 zakkiworkdiary.com http://www.zakkiworkdiary.com/entry/2016/11/02/233608
 zazamushi.net http://zazamushi.net/mamusigusa/
 zdnet.com http://japan.zdnet.com/article/35091954/
+zeiri4.com https://www.zeiri4.com/c_1032/c_1018/n_263/
 zen-essay.com http://www.zen-essay.com/entry/hannyashingyou
 zenmashiniki.com http://www.zenmashiniki.com/entry/%E3%82%AF%E3%82%BD%E4%B8%8A%E5%8F%B8%E3%81%AF%E9%9D%9E%E3%83%AA%E3%82%A2%E5%85%85
