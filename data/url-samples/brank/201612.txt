@@ -4,6 +4,7 @@
 academist-cf.com https://academist-cf.com/journal/?p=2510
 afpbb.com http://www.afpbb.com/articles/-/3110403
 airdo.jp http://yorimichi.airdo.jp/seicomart_saeri
+amazon.co.jp http://www.amazon.co.jp/exec/obidos/ASIN/B01MXMW0CZ/hatena-b-22/ref=nosim
 amazon.com https://www.amazon.com/b?node=16008589011
 ameblo.jp http://ameblo.jp/thegreatsasuke/entry-12227701346.html
 anizm.xyz http://www.anizm.xyz/entry/2016/12/03/153256
@@ -30,6 +31,7 @@ dena.com http://dena.com/jp/press/2016/12/01/1/
 diamond.jp http://diamond.jp/articles/-/109622
 donbei.jp http://www.donbei.jp/onikakiage/
 doorblog.jp http://kabumatome.doorblog.jp/archives/65880425.html
+e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/ueda09_1
 eiga.com http://eiga.com/news/20161208/1/
 engadget.com http://japanese.engadget.com/2016/12/08/seem/
 eternalcollegest.com http://www.eternalcollegest.com/entry/imouto_kareshi
@@ -39,6 +41,7 @@ fc2.com http://workingnews.blog117.fc2.com/blog-entry-10008.html
 from-estonia-with-love.net http://www.from-estonia-with-love.net/entry/copyright
 gamecast-blog.com http://www.gamecast-blog.com/archives/65880609.html
 gigazine.net http://gigazine.net/news/20161130-chernobyl-arch/
+github.com https://github.com/blog/2293-resolve-simple-merge-conflicts-on-github
 globis.jp http://globis.jp/article/4967
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/fcf/3697
 goo.ne.jp http://ima.goo.ne.jp/column/article/4102.html
@@ -46,6 +49,7 @@ goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/hospital
 google.com https://developers.google.com/time/
 h13i32maru.jp http://blog.h13i32maru.jp/entry/2016/12/11/184433
 hahalife0.com http://www.hahalife0.com/entry/2016/12/08/070200
+hamusoku.com http://hamusoku.com/archives/9435629.html
 hateblo.jp http://shiba710.hateblo.jp/entry/2016/12/01/144225
 hatelabo.jp http://anond.hatelabo.jp/20161127121939
 hatena.ne.jp http://d.hatena.ne.jp/hajime_shoji/20161210/1481375637
@@ -53,6 +57,7 @@ hatenablog.com http://yosuke-furukawa.hatenablog.com/entry/2016/12/01/175446
 hatenablog.jp http://yoshiko.hatenablog.jp/entry/es2017
 hatenadiary.com http://horikawad.hatenadiary.com/entry/2016/12/05/204059
 hatenadiary.jp http://loglog.hatenadiary.jp/entry/2016manga
+hatenanews.com http://hatenanews.com/articles/201612/24092
 hatenastaff.com http://labo.hatenastaff.com/entry/2016/12/01/115210
 hesocha.com http://www.hesocha.com/entry/english-study
 hikakujoho.com https://hikakujoho.com/manekai/entry/20161208
@@ -115,6 +120,7 @@ newsln.jp http://business.newsln.jp/news/201612030201240000.html
 nhk.or.jp http://www3.nhk.or.jp/news/html/20161130/k10010789861000.html
 niantic.jp http://www.niantic.jp/entry/2016/12/06/223714
 nicovideo.jp http://ch.nicovideo.jp/karesihosii/blomaga/ar1148760
+nifty.com http://portal.nifty.com/kiji/161212198284_1.htm
 nikkansports.com http://www.nikkansports.com/entertainment/news/1746280.html
 nikkei.com http://www.nikkei.com/article/DGXLAS0040006_R11C16A2000000/
 nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/16/112500274/113000003/
@@ -126,11 +132,13 @@ omg-ox.org http://www.omg-ox.org/entry/simplehuman
 oricon.co.jp http://www.oricon.co.jp/news/2082817/full/
 originalnews.nico http://originalnews.nico/4787
 oriver.style https://oriver.style/cinema/tcc2016-cb/
+oyatsu.co.jp https://www.oyatsu.co.jp/intai/
 papanda-life.com http://www.papanda-life.com/entry/2016/12/04/014856
 photo-yatra.tokyo https://www.photo-yatra.tokyo/blog/archives/11079
 photoshopvip.net http://photoshopvip.net/96863
 pixiv.net http://www.pixiv.net/member_illust.php?mode=medium&illust_id=60202913
 pojihiguma.com http://www.pojihiguma.com/entry/Salaryman-Free
+pokemongolive.com http://pokemongolive.com/ja/post/johto-holiday/
 postd.cc http://postd.cc/dont-need-no-stinking-api-web-scraping-2016-beyond/
 prtimes.jp http://prtimes.jp/main/html/rd/p/000001651.000002581.html
 publickey1.jp http://www.publickey1.jp/blog/16/100pbaws_snowmobileaws_reinvent_2016.html
@@ -139,6 +147,8 @@ rakuten.jp http://srdk.rakuten.jp/entry/2016/11/04/110000
 re1life.net http://www.re1life.net/entry/2016/12/10/210453
 rikunabi.com http://next.rikunabi.com/journal/entry/20161206_M1
 rinsimpl.com http://www.rinsimpl.com/entry/2016/12/08/070233
+ryukyushimpo.jp http://ryukyushimpo.jp/news/entry-410346.html
+s-arcana.co.jp http://www.s-arcana.co.jp/blog/2016/12/12/3438
 saiusaruzzz.com http://www.saiusaruzzz.com/entry/2016/12/09/173000
 sakanouenosisyamo.xyz http://www.sakanouenosisyamo.xyz/entry/trumptanka
 sankei.com http://www.sankei.com/west/news/161206/wst1612060061-n1.html
@@ -163,15 +173,18 @@ tinect.jp http://blog.tinect.jp/?p=34070
 togetter.com http://togetter.com/li/1054402
 toyokeizai.net http://toyokeizai.net/articles/-/147339
 travelife100.com http://www.travelife100.com/entry/2016/12/03/104023
-twitter.com http://twitter.com/betsui/status/807099572820422660
+twitter.com http://twitter.com/askaboutmathp/status/807577646888415232
+ueda.asia https://blog.ueda.asia/?p=9029
+uedakeita.net http://diary.uedakeita.net/entry/2016/12/13/051753
 uinyan.com http://uinyan.com/best_buy_guide_2016/
+unext.jp https://inside.unext.jp/2016/12/designconcept/
 wakeupgirls3.jp http://wakeupgirls3.jp/
 wanabe.net http://www.wanabe.net/entry/angel-bank-meigen
 wantedly.com https://www.wantedly.com/companies/medley/post_articles/45236
 wired.jp http://wired.jp/special/2016/barack-obama/
 withnews.jp http://withnews.jp/article/f0161209003qq000000000000000W00h10301qq000014399A
 xn--r8jg4dyd3e.com http://www.xn--r8jg4dyd3e.com/entry/2016/12/04/%E8%8B%B1%E8%AA%9E%E3%82%92%E8%A9%B1%E3%81%9B%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%80%81%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E3%82%92%E3%82%A2%E3%83%A1
-yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20161202-00010000-friday-ent
+yahoo.co.jp https://techblog.yahoo.co.jp/advent-calendar-2016/css_pointer_events/
 youtube.com http://www.youtube.com/watch?v=dWATDaqFgl8
 yutorism.jp http://www.yutorism.jp/entry/kaizen
 zenmashiniki.com http://www.zenmashiniki.com/entry/%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E3%81%A8%E3%82%8A%E3%81%AE%E6%97%A5%E3%83%91%E3%83%83%E3%82%AF
