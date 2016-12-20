@@ -21,6 +21,7 @@ baigie.me https://baigie.me/sogitani/2016/12/color-basic/
 bbc.com http://www.bbc.com/japanese/features-and-analysis-38218512
 beagle-voyage.com http://beagle-voyage.com/movie-last-tango-paris-rape-butter-marlon-brando-2016.html
 bengo4.com https://www.bengo4.com/c_5/n_5416/
+best-times.jp http://best-times.jp/articles/-/4056
 bunshun.jp http://shukan.bunshun.jp/articles/-/6837
 buzz-plus.com http://buzz-plus.com/article/2016/12/08/chomado/
 buzzfeed.com https://www.buzzfeed.com/akikokobayashi/maigo-himo
@@ -28,6 +29,7 @@ buzznews.jp http://www.buzznews.jp/?p=2104428
 cakes.mu https://cakes.mu/posts/14824
 card-professor.jp http://card-professor.jp/furusato-tax-payment/
 careersupli.jp http://careersupli.jp/featured/ballpoint_pen/
+cinematoday.jp http://www.cinematoday.jp/page/N0088354
 cinra.net http://www.cinra.net/interview/201612-toddle
 clock-up.jp http://blog.clock-up.jp/entry/2016/12/15/crack-rsa-key
 cnet.com http://japan.cnet.com/entertainment/35093164/
@@ -36,6 +38,7 @@ coconoodollblog.net http://www.coconoodollblog.net/entry/2016/12/17/%E3%80%8C%E8
 coliss.com http://coliss.com/articles/freebies/best-of-free-japanese-fonts-for-2017.html
 corobuzz.com http://corobuzz.com/archives/84891
 cpplover.blogspot.com https://cpplover.blogspot.com/2016/12/freee.html
+crazybody.jp http://crazybody.jp/muscle-training-2816
 data-max.co.jp http://www.data-max.co.jp/281215_dm1772_2/
 dena.com http://dena.com/jp/press/2016/12/01/1/
 diamond.jp http://diamond.jp/articles/-/109622
@@ -50,11 +53,13 @@ eternalcollegest.com http://www.eternalcollegest.com/entry/imouto_kareshi
 exblog.jp http://wivern.exblog.jp/26422703/
 famitsu.com http://www.famitsu.com/matome/ff15/2016_12_07_01.html
 fc2.com http://workingnews.blog117.fc2.com/blog-entry-10008.html
+fcart.jp https://akasugu.fcart.jp/taikenki/entry/2016/12/02/special0692
 from-estonia-with-love.net http://www.from-estonia-with-love.net/entry/copyright
 gamecast-blog.com http://www.gamecast-blog.com/archives/65880609.html
 gamehuntblog.com http://www.gamehuntblog.com/entry/about-b-league
 gamesindustry.biz http://jp.gamesindustry.biz/article/1612/16121403/
 gamespark.jp http://www.gamespark.jp/article/2016/12/14/70569.html
+gatsby.website http://www.gatsby.website/entry/2016/12/19/064406
 gigazine.net http://gigazine.net/news/20161130-chernobyl-arch/
 github.com https://github.com/blog/2293-resolve-simple-merge-conflicts-on-github
 globis.jp http://globis.jp/article/4967
@@ -116,8 +121,11 @@ kishikorofreee.com http://www.kishikorofreee.com/entry/2016/12/09/172211
 kitamocchi.com https://kitamocchi.com/2016/12/06/20878/
 konkatsusakurako.com http://konkatsusakurako.com/?p=30
 konomanga.jp http://konomanga.jp/special/86741-2
+koto1.com http://koto1.com/archives/2092
 kurashinokyoukasyo.com http://kurashinokyoukasyo.com/?p=183
 kurokaminootome.com http://kurokaminootome.com/
+labaq.com http://labaq.com/archives/51878156.html
+landerblue.co.jp https://www.landerblue.co.jp/blog/?p=30632
 life-and-mind.com http://life-and-mind.com/nlp-setting-goal-outcome-8steps-2230
 lifehacker.jp http://www.lifehacker.jp/2016/12/161204_harvard_clever.html
 lineblog.me http://lineblog.me/nishino/archives/9248080.html
@@ -135,7 +143,7 @@ mamoru-kun.com http://www.mamoru-kun.com/tips/kayak-internal-systems/
 manabite-omou.com http://manabite-omou.com/?p=601
 matsumoto-r.jp http://hb.matsumoto-r.jp/entry/2016/12/03/120013
 mediologic.com http://www.mediologic.com/entry/2016/12/08/121204
-medium.com https://medium.com/japan/b969f5767d7c
+medium.com https://medium.com/@tokoroten/5773b09a92be
 mikinote.com http://www.mikinote.com/entry/youtube-pakuri
 minnano-finance.com http://minnano-finance.com/otoqoo/1895.html
 mitok.info http://mitok.info/?p=70824
@@ -144,6 +152,7 @@ mshimfujin.net http://blog.mshimfujin.net/entry/2016/12/15/060000
 mynavi.jp http://news.mynavi.jp/news/2016/12/07/120/
 mynewsjapan.com http://www.mynewsjapan.com/reports/2294
 n-styles.com http://n-styles.com/main/archives/2016/12/09-053000.php
+naenote.net http://www.naenote.net/entry/zettaini-okuruna
 nanapi.jp https://nanapi.jp/info/20161215
 naruhodo-cardloan.com https://naruhodo-cardloan.com/cardloan-literacy/
 natalie.mu http://natalie.mu/comic/news/211229
@@ -168,6 +177,7 @@ nubatamanon.com http://www.nubatamanon.com/entry/2016/12/02/222229
 ohitorisama.life http://ohitorisama.life/hitorimeshi/256
 omg-ox.org http://www.omg-ox.org/entry/book
 omocoro.jp http://omocoro.jp/kiji/97676/
+orekabu.jp http://orekabu.jp/bakakabu/
 oricon.co.jp http://www.oricon.co.jp/news/2082817/full/
 originalnews.nico http://originalnews.nico/4787
 oriver.style https://oriver.style/cinema/tcc2016-cb/
@@ -219,6 +229,7 @@ techcrunch.com http://jp.techcrunch.com/2016/12/01/dena-moriyashu/
 teradrive.jp http://teradrive.jp/2016/12/16/20161216_01/
 thebridge.jp http://thebridge.jp/2016/12/gatebox-launch
 tinect.jp http://blog.tinect.jp/?p=34070
+tm2501.com http://www.tm2501.com/entry/dokkairyoku-tte-nani
 togetter.com http://togetter.com/li/1054402
 tomochinchin.com http://www.tomochinchin.com/entry/2016/12/17/151721
 toyokeizai.net http://toyokeizai.net/articles/-/147339
@@ -236,6 +247,7 @@ wired.jp http://wired.jp/special/2016/barack-obama/
 withnews.jp http://withnews.jp/article/f0161209003qq000000000000000W00h10301qq000014399A
 xn--r8jg4dyd3e.com http://www.xn--r8jg4dyd3e.com/entry/2016/12/04/%E8%8B%B1%E8%AA%9E%E3%82%92%E8%A9%B1%E3%81%9B%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%80%81%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E3%82%92%E3%82%A2%E3%83%A1
 yahoo.co.jp https://techblog.yahoo.co.jp/advent-calendar-2016/css_pointer_events/
+yoshitokamizato.com http://utina.yoshitokamizato.com/entry/2016/12/18/202001
 youtube.com http://www.youtube.com/watch?v=dWATDaqFgl8
 yutorism.jp http://www.yutorism.jp/entry/DriverLicense
 zenmashiniki.com http://www.zenmashiniki.com/entry/%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC%E3%81%A8%E3%82%8A%E3%81%AE%E6%97%A5%E3%83%91%E3%83%83%E3%82%AF
