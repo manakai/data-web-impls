@@ -4,13 +4,16 @@ affiliate-zenya.com https://affiliate-zenya.com/post-60
 afpbb.com http://www.afpbb.com/articles/-/3113008
 age-cox.com http://www.age-cox.com/single-post/2017/01/09/seijinshiki
 airdays.net http://www.airdays.net/diary/2017/01/14/502/
+aldoni-hr.com https://www.aldoni-hr.com/ge-and-adobe
 all-nationz.com http://www.all-nationz.com/archives/1063595313.html
 allbsd.org https://www.allbsd.org/~hrs/blog/2017-01-01-shellscripting.html
 amass.jp http://amass.jp/83263/
 ameblo.jp http://ameblo.jp/kaneyann-blog33/entry-12235930845.html
 americakabu.com http://www.americakabu.com/entry/%E3%81%AA%E3%81%9C%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AE%E5%80%8B%E4%BA%BA%E6%8A%95%E8%B3%87%E5%AE%B6%E3%81%8C%E8%B2%A0%E3%81%91%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%8B
+animationbusiness.info http://animationbusiness.info/archives/1913
 anlyznews.com http://www.anlyznews.com/2017/01/blog-post_8.html
 aoshimabooks.com http://aoshimabooks.com/archives/6356
+apa.co.jp https://www.apa.co.jp/newsrelease/8325
 app.tokyo http://app.tokyo/2017/01/11/11494/
 appgiga.jp http://plus.appgiga.jp/masatolan/2017/01/11/57484/
 asahi.com http://www.asahi.com/articles/ASJD63QDTJD6UTIL01J.html
@@ -42,8 +45,9 @@ codeiq.jp https://codeiq.jp/magazine/2017/01/46932/
 cognitom.github.io https://cognitom.github.io/keiyaku-css/
 coliss.com http://coliss.com/articles/build-websites/operation/css/modular-web-design-learning-from-lego.html
 courrier.jp http://courrier.jp/news/archives/70902/
-cybozu.co.jp https://cybozushiki.cybozu.co.jp/articles/m001223.html
+cybozu.co.jp https://topics.cybozu.co.jp/news/2017/01/17-1601.html
 denfaminicogamer.jp http://news.denfaminicogamer.jp/nicolive/sakaguchi_ff3
+dengekionline.com http://dengekionline.com/elem/000/001/451/1451008/
 diamond.jp http://diamond.jp/articles/-/112765
 dmm.academy https://dmm.academy/
 doorblog.jp http://kabumatome.doorblog.jp/archives/65864794.html
@@ -56,6 +60,7 @@ facebook.com https://www.facebook.com/yos.ibt/posts/1077945862314450
 fc2.com http://workingnews.blog117.fc2.com/blog-entry-10083.html
 flo-shot.com http://www.flo-shot.com/entry/interesting-comic
 fnshr.info http://id.fnshr.info/2017/01/09/tidy-data-intro/
+fujii-yuji.net http://fujii-yuji.net/2016/12/theartofwar.html
 gamecast-blog.com http://www.gamecast-blog.com/archives/65883452.html
 gamespark.jp http://www.gamespark.jp/article/2017/01/01/70823.html
 gigazine.net http://gigazine.net/news/20170104-brand-new-human-organ/
@@ -72,7 +77,7 @@ hatena.ne.jp http://d.hatena.ne.jp/Baatarism/20170108/1483889386
 hatenablog.com http://zaikabou.hatenablog.com/entry/20170111/1484121995
 hatenablog.jp http://takuya-1st.hatenablog.jp/entry/2016/12/01/000000
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20170115/1484440590
-hatenadiary.jp http://vaaaaaanquish.hatenadiary.jp/entry/2017/01/02/195833
+hatenadiary.jp http://zuisho.hatenadiary.jp/entry/2017/01/18/020848
 hatenanews.com http://hatenanews.com/articles/201701/24111
 hatenastaff.com http://bookmark.hatenastaff.com/entry/2016_otoshidama
 hesocha.com http://www.hesocha.com/entry/2017gantan
@@ -135,6 +140,7 @@ meridia.tech http://meridia.tech/science-breakthrough-of-the-year-2016/
 minimum-minimum.com http://www.minimum-minimum.com/entry/2017/01/14/073000
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/41639
 moae.jp http://morning.moae.jp/news/3432
+monstersproshop.com http://www.monstersproshop.com/eat-an-electriceel/
 mshimfujin.net http://blog.mshimfujin.net/entry/2017/01/06/060000
 muroktu.com http://www.muroktu.com/entry/hakoneekiden2017_jindai
 mysqlserverteam.com http://mysqlserverteam.com/sushi-beer-an-introduction-of-utf8-support-in-mysql-8-0/
@@ -160,7 +166,7 @@ note.mu https://note.mu/editoryokota/n/nc4302b9bb0d2
 nubatamanon.com http://www.nubatamanon.com/entry/2017/01/07/210433
 nxworld.net http://www.nxworld.net/tips/stikcy-or-change-header-and-navigation-when-scrolling-using-jquery.html
 okinawatimes.co.jp http://www.okinawatimes.co.jp/articles/-/79890
-omocoro.jp http://omocoro.jp/kiji/96797/
+omocoro.jp http://omocoro.jp/kiji/100541/
 oricon.co.jp http://www.oricon.co.jp/news/2084556/full/
 originalnews.nico http://originalnews.nico/7162
 osaka.lg.jp http://www.city.osaka.lg.jp/kyoiku/page/0000386948.html
@@ -187,7 +193,7 @@ ryuzee.com http://www.ryuzee.com/contents/blog/7104
 saiusaruzzz.com http://www.saiusaruzzz.com/entry/2017/01/08/130635
 sakagami3.com http://www.sakagami3.com/entry/2017/01/09/102432
 saki-imamura.com http://www.saki-imamura.com/entry/why_the_Japanese_market_sucks
-sakura.ne.jp http://tikyuutabi.sakura.ne.jp/japanzekkei/
+sakura.ne.jp http://tojikomorin.sakura.ne.jp/blog/2016/08/09/%E6%8A%80%E9%81%A9/
 salary-man.net http://www.salary-man.net/entry/2017/01/14/%E3%82%84%E3%81%A3%E3%81%A8%E5%BC%95%E3%81%8D%E7%B6%99%E3%81%8E%E4%BD%9C%E6%A5%AD%E3%81%8C%E7%B5%82%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%88%E6%AE%8B%E3%81%99%E3%81%AF%E3%83%97%E3%83%AD
 sankei.com http://www.sankei.com/economy/news/170104/ecn1701040033-n1.html
 seesaa.net http://runsinjirun.seesaa.net/article/445474770.html
@@ -202,7 +208,7 @@ shinshu-u.ac.jp http://www-comm.cs.shinshu-u.ac.jp/david/papers/stories/japanese
 shonanboy.net http://www.shonanboy.net/entry/asus-vivobook_E200HA-8350
 shop-pro.jp http://isumi.rail.shop-pro.jp/?eid=2368
 shotahorii.com http://shotahorii.com/diary/whycreatedfreemarketapp/
-slideshare.net http://www.slideshare.net/haradaatsea4/web-66507955
+slideshare.net http://www.slideshare.net/NVIDIAJapan/ss-71043984
 softantenna.com http://www.softantenna.com/wp/software/switch-from-macos/
 soramichi.jp http://soramichi.jp/pdf/C91.pdf
 speakerdeck.com https://speakerdeck.com/ayakasumida/huriransudezainairasutoretafalse-watasifalseshi-shi-falsetukurifang
@@ -226,12 +232,14 @@ tukinasikotonoha.com http://www.tukinasikotonoha.com/entry/blogger-affiliater-se
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_economy/articles/000091787.html
 twitter.com http://twitter.com/Denpatounokai/status/818586525776498690
 u-tokyo.ac.jp https://www.s.u-tokyo.ac.jp/ja/story/newsletter/english/
+usa2016.info http://www.usa2016.info/entry/2017/01/17/190000
 venezuelainjapanese.com https://venezuelainjapanese.com/2016/12/31/kodani/
 vice.com http://jp.vice.com/others/inaba-the-worst-police-in-japan
 webprofessional.jp https://www.webprofessional.jp/cross-platform-desktop-app-nw-js/
 wikipedia.org https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%88%E3%83%AD%E3%83%8B%E3%83%A0%E4%B8%80%E8%A6%A7
 wired.jp http://wired.jp/2017/01/03/needs-dont-matter/
 withnews.jp http://withnews.jp/article/f0170108001qq000000000000000G00110601qq000014526A
+wsj.com http://jp.wsj.com/articles/SB10504433381807684657504582563823855682822
 xn--nyqy26a13k.jp http://xn--nyqy26a13k.jp/archives/25808
 xn--r8jg4dyd3e.com http://www.xn--r8jg4dyd3e.com/entry/2017/01/04/%E5%8D%98%E8%BA%AB%E8%B5%B4%E4%BB%BB%E6%AD%B412%E5%B9%B4%E3%81%AE%E5%8F%8B%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9%E3%80%81%E3%81%9D%E3%81%84%E3%81%A4%E3%81%AE%E5%A5%B3
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20170113-00114029-diamond-soci
