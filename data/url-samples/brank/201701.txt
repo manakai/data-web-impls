@@ -35,9 +35,11 @@ buntadayo.com http://www.buntadayo.com/entry/akeomekotoyoro
 buzzfeed.com https://www.buzzfeed.com/bfjapannews/meryl-streeps-speech
 cakes.mu https://cakes.mu/posts/14910
 catincat.jp http://catincat.jp/information/100nin1sh.html
+catkiyo.com http://www.catkiyo.com/entry/%EF%BD%89%EF%BD%93%EF%BD%99%EF%BD%81%EF%BD%94%EF%BD%8F%EF%BD%8B%EF%BD%85%EF%BD%8E%EF%BD%8B%EF%BD%81
 catlani.com http://www.catlani.com/entry/2017/01/13/203129
 chosunonline.com http://www.chosunonline.com/site/data/html_dir/2017/01/07/2017010700469.html
 clock-up.jp http://blog.clock-up.jp/entry/2017/01/09/bitcoin-matome
+cnet.com http://japan.cnet.com/news/business/35095194/
 cnn.co.jp http://www.cnn.co.jp/business/35094497.html
 cocolog-nifty.com http://finalvent.cocolog-nifty.com/fareastblog/2017/01/post-4e2f.html
 codecamp.jp https://blog.codecamp.jp/interview_nonengineer_1_naruta
@@ -58,6 +60,7 @@ exblog.jp http://complexcat.exblog.jp/26525704/
 fabcross.jp https://fabcross.jp/category/make/teraoka/20170111_koala_no_march.html
 facebook.com https://www.facebook.com/yos.ibt/posts/1077945862314450
 fc2.com http://workingnews.blog117.fc2.com/blog-entry-10083.html
+fire-emblem-heroes.com https://fire-emblem-heroes.com/ja/
 flo-shot.com http://www.flo-shot.com/entry/interesting-comic
 fnshr.info http://id.fnshr.info/2017/01/09/tidy-data-intro/
 fujii-yuji.net http://fujii-yuji.net/2016/12/theartofwar.html
@@ -79,7 +82,7 @@ hatenablog.jp http://takuya-1st.hatenablog.jp/entry/2016/12/01/000000
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20170115/1484440590
 hatenadiary.jp http://zuisho.hatenadiary.jp/entry/2017/01/18/020848
 hatenanews.com http://hatenanews.com/articles/201701/24111
-hatenastaff.com http://bookmark.hatenastaff.com/entry/2016_otoshidama
+hatenastaff.com http://editor.hatenastaff.com/entry/2017/01/18/140000
 hesocha.com http://www.hesocha.com/entry/2017gantan
 highriskrevolution.com http://www.highriskrevolution.com/gamelife/index.php?e=463
 hitode-festival.com http://www.hitode-festival.com/entry/2017/01/03/182139
@@ -92,11 +95,12 @@ ibarakinews.jp http://ibarakinews.jp/news/newsdetail.php?f_jun=14839728930718
 ikigaisagashi.com http://www.ikigaisagashi.com/entry/nanndemoii
 impress.co.jp http://pc.watch.impress.co.jp/docs/column/config/1037805.html
 in-activism.com http://www.in-activism.com/entry/FRESHNESS_BURGER
+inabatsuyoshi.net http://inabatsuyoshi.net/2017/01/18/2629
 incomlab.jp http://incomlab.jp/asset-management-blog-5823
 infoseek.co.jp http://news.infoseek.co.jp/article/mag2news_233784/
 instagram.com https://www.instagram.com/yoshiaki_sakito/
 ismedia.jp http://wedge.ismedia.jp/articles/-/8650
-itmedia.co.jp http://www.itmedia.co.jp/news/articles/1701/05/news101.html
+itmedia.co.jp http://www.itmedia.co.jp/business/articles/1701/18/news056.html
 itutado.com http://www.itutado.com/entry/2017/01/08/%E3%80%902017%E5%B9%B4%E7%89%88%E3%80%91%E3%81%93%E3%81%AE%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%8C%E3%81%99%E3%81%94%E3%81%84%EF%BC%81%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E6%BC%AB%E7%94%BB%E3%83%99
 j-cast.com http://www.j-cast.com/2017/01/05287436.html
 jalan.net http://www.jalan.net/news/article/131617/
@@ -195,7 +199,7 @@ sakagami3.com http://www.sakagami3.com/entry/2017/01/09/102432
 saki-imamura.com http://www.saki-imamura.com/entry/why_the_Japanese_market_sucks
 sakura.ne.jp http://tojikomorin.sakura.ne.jp/blog/2016/08/09/%E6%8A%80%E9%81%A9/
 salary-man.net http://www.salary-man.net/entry/2017/01/14/%E3%82%84%E3%81%A3%E3%81%A8%E5%BC%95%E3%81%8D%E7%B6%99%E3%81%8E%E4%BD%9C%E6%A5%AD%E3%81%8C%E7%B5%82%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%88%E6%AE%8B%E3%81%99%E3%81%AF%E3%83%97%E3%83%AD
-sankei.com http://www.sankei.com/economy/news/170104/ecn1701040033-n1.html
+sankei.com http://www.sankei.com/affairs/news/170119/afr1701190001-n1.html
 seesaa.net http://runsinjirun.seesaa.net/article/445474770.html
 sekkachi.com http://www.sekkachi.com/entry/mathematics_0_appeal
 shellcheck.net https://www.shellcheck.net/
@@ -228,6 +232,7 @@ tm2501.com http://www.tm2501.com/entry/2017/01/03/235950
 togetter.com https://togetter.com/li/1065115
 toyokeizai.net http://toyokeizai.net/articles/-/151440
 trello.com http://blog.trello.com/trello-atlassian
+trt.net.tr http://www.trt.net.tr/japanese/shi-jie/2017/01/16/zieimiorivuagamakudonarudonisheng-tuta-rou-nozheng-ti-gaming-rakani-652286
 tukinasikotonoha.com http://www.tukinasikotonoha.com/entry/blogger-affiliater-senmongakkou
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_economy/articles/000091787.html
 twitter.com http://twitter.com/Denpatounokai/status/818586525776498690
