@@ -1,4 +1,5 @@
 2chblog.jp http://rabitsokuhou.2chblog.jp/archives/68615265.html
+4gamer.net http://www.4gamer.net/games/999/G999903/20170118137/
 academist-cf.com https://academist-cf.com/journal/?p=3129
 affiliate-zenya.com https://affiliate-zenya.com/post-60
 afpbb.com http://www.afpbb.com/articles/-/3113008
@@ -46,6 +47,7 @@ codecamp.jp https://blog.codecamp.jp/interview_nonengineer_1_naruta
 codeiq.jp https://codeiq.jp/magazine/2017/01/46932/
 cognitom.github.io https://cognitom.github.io/keiyaku-css/
 coliss.com http://coliss.com/articles/build-websites/operation/css/modular-web-design-learning-from-lego.html
+continue-is-power.com http://www.continue-is-power.com/entry/2017/01/19/223653
 courrier.jp http://courrier.jp/news/archives/70902/
 cybozu.co.jp https://topics.cybozu.co.jp/news/2017/01/17-1601.html
 denfaminicogamer.jp http://news.denfaminicogamer.jp/nicolive/sakaguchi_ff3
@@ -87,6 +89,7 @@ hesocha.com http://www.hesocha.com/entry/2017gantan
 highriskrevolution.com http://www.highriskrevolution.com/gamelife/index.php?e=463
 hitode-festival.com http://www.hitode-festival.com/entry/2017/01/03/182139
 hitoriblog.com http://hitoriblog.com/?p=48158
+hobiwo.com http://www.hobiwo.com/entry/hobby
 honz.jp http://honz.jp/articles/-/43680
 hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/kaori-masuyama/16-00418
 houmu-bu.com http://houmu-bu.com/outsourcing-agreement-370
@@ -141,6 +144,7 @@ mausu.net https://mausu.net/topics/2017/01/post_7.html
 mayonez.jp https://mayonez.jp/818
 medium.com https://medium.com/@kuranuki/570302a5c243
 meridia.tech http://meridia.tech/science-breakthrough-of-the-year-2016/
+mikiki.tokyo.jp http://mikiki.tokyo.jp/articles/-/13163
 minimum-minimum.com http://www.minimum-minimum.com/entry/2017/01/14/073000
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/41639
 moae.jp http://morning.moae.jp/news/3432
@@ -159,7 +163,8 @@ newsweekjapan.jp http://www.newsweekjapan.jp/pakkun/2017/01/post-20.php
 nhk.or.jp https://www3.nhk.or.jp/news/web_tokushu/2016_1231.html
 nicovideo.jp https://enquete.nicovideo.jp/result/68
 nifty.com https://news.nifty.com/article/entame/showbizd/12104-73126/
-nikkei.com http://www.nikkei.com/article/DGXLASDG16HF8_W7A110C1000000/
+nikkansports.com http://www.nikkansports.com/entertainment/news/1767404.html
+nikkei.com http://www.nikkei.com/article/DGKKZO11854640Y7A110C1TJC000/
 nikkeibp.co.jp http://business.nikkeibp.co.jp/atcl/interview/16/010600013/010600001/
 nintendo.co.jp https://www.nintendo.co.jp/software/switch/splatoon2/index.html
 nishikatsu.net http://nishikatsu.net/meaning-of-life/
@@ -184,10 +189,12 @@ publickey1.jp http://www.publickey1.jp/blog/17/140.html
 qiita.com http://qiita.com/HMMNRST/items/18a206d56a3425e7717b
 qooq.jp http://qooq.jp/2017/01/04/2016%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0200%E5%86%8A%E3%81%AE%E6%9C%AC%E3%81%AE%E4%B8%AD%E3%81%A7%E3%82%82%E3%81%AE%E3%81%99%E3%81%94%E3%81%8F%E9%9D%A2%E7%99%BD%E3%81%8B%E3%81%A3%E3%81%9F/
 rakuten.jp http://srdk.rakuten.jp/entry/2016/01/05/110000
+realm.io https://realm.io/jp/news/tryswift-ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagram-feed/
 realsound.jp http://realsound.jp/2017/01/post-10959.html
 reco-photo.com http://reco-photo.com/everyday-life-in-tokyo
 recomtank.com http://www.recomtank.com/entry/childplay
 reuters.com http://jp.reuters.com/article/idJP2017010701000739
+riken.jp http://www.riken.jp/pr/press/2017/20170119_1/
 rikunabi.com http://next.rikunabi.com/journal/entry/20170104_M
 roboteer-tokyo.com https://roboteer-tokyo.com/archives/7270
 rocketnews24.com http://rocketnews24.com/2017/01/07/846765/
@@ -218,6 +225,7 @@ soramichi.jp http://soramichi.jp/pdf/C91.pdf
 speakerdeck.com https://speakerdeck.com/ayakasumida/huriransudezainairasutoretafalse-watasifalseshi-shi-falsetukurifang
 sponichi.co.jp http://www.sponichi.co.jp/entertainment/news/2017/01/01/kiji/20161231s00041000243000c.html
 spot-app.jp https://travel.spot-app.jp/baby_tokyo_nagahashiryo/
+spotlight-media.jp http://spotlight-media.jp/article/370505056378315909
 stay-minimal.com http://www.stay-minimal.com/entry/goodforenglishlistening
 suumo.jp https://suumo.jp/ikkodate/tokyo/sc_bunkyo/nc_87351032/
 syosetu.com http://ncode.syosetu.com/n2432bk/31/
@@ -226,6 +234,7 @@ taiyaki-oyako.com http://www.taiyaki-oyako.com/entry/2017/01/11/000538
 taro.org http://www.taro.org/2017/01/%E3%82%82%E3%81%86%E4%B8%80%E5%BA%A6%E7%A0%94%E7%A9%B6%E8%80%85%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%B8.php
 tawashix.com http://www.tawashix.com/entry/brainVat
 tbsradio.jp http://www.tbsradio.jp/109867
+techacademy.jp https://techacademy.jp/magazine/11592
 techcrunch.com http://jp.techcrunch.com/2017/01/03/20170101wtf-is-a-vpn/
 tinect.jp http://blog.tinect.jp/?p=35125
 tm2501.com http://www.tm2501.com/entry/2017/01/03/235950
@@ -234,6 +243,7 @@ toyokeizai.net http://toyokeizai.net/articles/-/151440
 trello.com http://blog.trello.com/trello-atlassian
 trt.net.tr http://www.trt.net.tr/japanese/shi-jie/2017/01/16/zieimiorivuagamakudonarudonisheng-tuta-rou-nozheng-ti-gaming-rakani-652286
 tukinasikotonoha.com http://www.tukinasikotonoha.com/entry/blogger-affiliater-senmongakkou
+tulip-life.com http://www.tulip-life.com/entry/2017/01/19/202945
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_economy/articles/000091787.html
 twitter.com http://twitter.com/Denpatounokai/status/818586525776498690
 u-tokyo.ac.jp https://www.s.u-tokyo.ac.jp/ja/story/newsletter/english/
@@ -249,6 +259,7 @@ xn--nyqy26a13k.jp http://xn--nyqy26a13k.jp/archives/25808
 xn--r8jg4dyd3e.com http://www.xn--r8jg4dyd3e.com/entry/2017/01/04/%E5%8D%98%E8%BA%AB%E8%B5%B4%E4%BB%BB%E6%AD%B412%E5%B9%B4%E3%81%AE%E5%8F%8B%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9%E3%80%81%E3%81%9D%E3%81%84%E3%81%A4%E3%81%AE%E5%A5%B3
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20170113-00114029-diamond-soci
 yaplog.jp http://yaplog.jp/rinyannyan/archive/1367
+yat-net.com https://wp.yat-net.com/?p=5052
 yawaspi.com http://yawaspi.com/gomennegohan/comic/001_001.html
 yhara.jp http://yhara.jp/2017/01/06/ppap-lang
 yokai-punipuni.jp http://cp.yokai-punipuni.jp/jigokunomisawa/
