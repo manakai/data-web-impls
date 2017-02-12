@@ -9,9 +9,11 @@ ameblo.jp http://ameblo.jp/kyoto-purpure/entry-12245054584.html
 americakabu.com http://www.americakabu.com/entry/%E7%A2%BA%E5%AE%9A%E6%8B%A0%E5%87%BA%E5%B9%B4%E9%87%91%E3%81%AE%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88
 anomaly3-movie.com http://www.anomaly3-movie.com/entry/True_Love_Story
 appmarketinglabo.net http://appmarketinglabo.net/staba-sns/
-asahi.com http://www.asahi.com/articles/ASK105JDTK10UHBI021.html
+asahi.com http://www.asahi.com/and_w/articles/SDI2017021087931.html
 ascii.jp http://ascii.jp/elem/000/001/427/1427502/
 automaton.am http://jp.automaton.am/articles/iotw/20170207-39927/
+awe-some.net https://awe-some.net/2017/02/web-design-matome/
+bbc.com http://www.bbc.com/news/business-38894819
 bengo4.com https://www.bengo4.com/c_5/c_1627/n_5689/
 biz-journal.jp http://biz-journal.jp/2017/02/post_17925.html
 bloglifer.net http://www.bloglifer.net/entry/before-ikedahayato-falling
@@ -21,6 +23,7 @@ btrax.com http://blog.btrax.com/jp/2017/02/05/car-ownership/
 bunshun.jp http://number.bunshun.jp/articles/-/827372
 buzzfeed.com https://www.buzzfeed.com/bfjapannews/japanese-starbucks-man-goes-viral
 careersupli.jp http://careersupli.jp/lifehack/eiga/
+catlani.com http://www.catlani.com/entry/2017/02/10/192011
 cinra.net http://www.cinra.net/interview/gyoukairetsuden/vol3-ohyamatakuya
 classmethod.jp http://dev.classmethod.jp/cloud/aws/filesgateway-on-ec2/
 cobalog.com http://www.cobalog.com/entry/graduationceremonyclothes
@@ -38,7 +41,9 @@ fc2.com http://1010meguri.blog.fc2.com/blog-entry-301.html
 ferret-plus.com https://ferret-plus.com/6035
 flahertylog.com http://www.flahertylog.com/entry/20170209/1486608460
 fnshr.info http://id.fnshr.info/2017/02/04/tsukuba-kanshi/
+forbesjapan.com http://forbesjapan.com/articles/detail/15165
 fujitsu.com http://pr.fujitsu.com/jp/news/2017/01/31.html
+gamebiz.jp http://gamebiz.jp/?p=178374
 gamecast-blog.com http://www.gamecast-blog.com/archives/65885449.html
 gigazine.net http://gigazine.net/news/20170131-stop-using-antivirus/
 github.com https://gist.github.com/mala/1d30e42e9e99520b7a501e9d2458eb49
@@ -64,12 +69,15 @@ ironna.jp http://ironna.jp/article/5686
 ismedia.jp http://jbpress.ismedia.jp/articles/-/49053
 itmedia.co.jp http://www.itmedia.co.jp/lifestyle/articles/1702/02/news043.html
 j-cast.com http://www.j-cast.com/2017/02/02289564.html
+jalan.net http://www.jalan.net/news/article/139420/
 jiji.com http://www.jiji.com/jc/article?k=2017020201257&g=eco
 kai-you.net http://kai-you.net/article/37959
 karapaia.com http://karapaia.com/archives/52233164.html
+kiji.is https://this.kiji.is/202745199860072456
 kinakoneko.com http://www.kinakoneko.com/entry/Twitter
 kirikuchi.net http://www.kirikuchi.net/entry/2017/02/04/134203
 knagayama.net http://knagayama.net/blog/2017/01/31/trump-executive-order-on-terrorism/
+kottolaw.com http://www.kottolaw.com/column/001379.html
 kure.lg.jp https://www.city.kure.lg.jp/kurechara/index.kureshi.html
 life-and-mind.com http://life-and-mind.com/stress-relief-3544
 lifehacker.jp http://www.lifehacker.jp/2017/02/170205_boostnote.html
@@ -80,9 +88,10 @@ livedoor.com http://news.livedoor.com/article/detail/12609382/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1913105.html
 mainichi.jp http://mainichi.jp/articles/20170201/k00/00m/040/067000c
 makomako108.net http://makomako108.net/2017/01/05/nibunnoichiseijinshiki5/
-medium.com https://medium.com/@kuranuki/f09964395c68
+medium.com https://medium.com/@katzchang/8f8fe76d61d7
 mikinote.com http://www.mikinote.com/entry/wine-speaker
 milkmemo.com http://www.milkmemo.com/entry/domudomu_densetsu_omise
+misoca.jp http://tech.misoca.jp/entry/2017/02/10/113003
 mogaku.com http://mogaku.com/2015/06/23/2420/
 moneyforward.com https://moneyforward.com/media/career/27323/
 moongift.jp http://www.moongift.jp/2017/02/sharedocs-%E7%A4%BE%E5%86%85%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8Bqiita%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3/
@@ -98,6 +107,7 @@ nhk.or.jp http://www3.nhk.or.jp/news/html/20170131/k10010859881000.html
 nicovideo.jp http://www.nicovideo.jp/watch/sm30600722
 nidoneinstitute.com http://nidoneinstitute.com/2017/02/05/popinq/
 nifty.com http://portal.nifty.com/kiji/170206198727_1.htm
+nikkansports.com http://www.nikkansports.com/entertainment/news/1777017.html
 nikkei.com https://vdata.nikkei.com/newsgraphics/visitor2017/
 nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/17/020100036/
 nohana.co.jp http://blog.nohana.co.jp/article/thank-you-and-byebye-parse-com
@@ -115,6 +125,7 @@ publickey1.jp http://www.publickey1.jp/blog/17/awsazureoracle_dbxeon2.html
 qiita.com http://qiita.com/Shuny125/items/7cf932cc86c40626d504
 rakuten.jp http://srdk.rakuten.jp/entry/2017/01/31/110000
 realsound.jp http://realsound.jp/2017/02/post-11186.html
+recomtank.com http://www.recomtank.com/entry/univ-and-life
 rekishiwales.com http://www.rekishiwales.com/entry/bus
 resemom.jp http://resemom.jp/article/2017/02/02/36305.html
 rocketnews24.com http://rocketnews24.com/2017/02/09/860267/
@@ -128,6 +139,7 @@ slideshare.net http://www.slideshare.net/SeiichiUchida/cnn-65229102
 sniper.jp http://sniper.jp/008sniper/008423they_are_drawing_a_pictu/_10_1.html
 softantenna.com http://www.softantenna.com/wp/software/microsoft-gvfs/
 speakerdeck.com https://speakerdeck.com/emuaki/gao-su-nasisutemuwozuo-rufang-fa
+sunday-webry.com https://www.sunday-webry.com/comics/manganarazumichi/ep007/
 sunpro.io https://sunpro.io/techbookfest/hakatashi.html
 tabroom.jp http://tabroom.jp/contents/report/ranking2016/
 takeshobo.co.jp http://mangalifewin.takeshobo.co.jp/rensai/imyme/aimai-126/17000/
@@ -141,6 +153,7 @@ tinect.jp http://blog.tinect.jp/?p=36417
 tocana.jp http://tocana.jp/2017/01/post_12039_entry.html
 togetter.com https://togetter.com/li/1072415
 tokumaru.org http://blog.tokumaru.org/2017/02/wordpress-4.7.1-Privilege-Escalation.html
+tomohisaoda.com http://tomohisaoda.com/posts/2017/ease_management_of_linux_server_administrator.html
 toyokeizai.net http://toyokeizai.net/articles/-/156292
 tsuwari-hanako.com http://www.tsuwari-hanako.com/entry/misomaru
 twitter.com http://twitter.com/gogoichiro/status/828212719983603716
