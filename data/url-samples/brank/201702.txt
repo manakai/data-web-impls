@@ -25,6 +25,7 @@ blog.jp http://sow.blog.jp/archives/1064346779.html
 bloglifer.net http://www.bloglifer.net/entry/before-ikedahayato-falling
 blogos.com http://blogos.com/article/208237/
 bokukoko.info http://www.bokukoko.info/entry/2017/02/09/001144
+bokurano-music.com http://www.bokurano-music.com/entry/hougaku-rock-osusume
 booklog.jp https://hon.booklog.jp/interview/bluebacks-2000-interview-20170214
 btrax.com http://blog.btrax.com/jp/2017/02/05/car-ownership/
 bunshun.jp http://number.bunshun.jp/articles/-/827372
@@ -39,6 +40,7 @@ cinra.net http://www.cinra.net/interview/gyoukairetsuden/vol3-ohyamatakuya
 ckworks.jp http://ckworks.jp/blog/archives/2017/02/kemonofriends_boost_episode4.html
 classmethod.jp http://dev.classmethod.jp/cloud/aws/filesgateway-on-ec2/
 cloudpack.media https://cloudpack.media/28885
+cnn.co.jp http://www.cnn.co.jp/world/35096802.html
 cobalog.com http://www.cobalog.com/entry/graduationceremonyclothes
 coliss.com http://coliss.com/articles/build-websites/operation/css/css-ui-collections.html
 courrier.jp http://courrier.jp/news/archives/75935/
@@ -48,11 +50,13 @@ cyzo.com http://www.cyzo.com/2017/02/post_31367.html
 denfaminicogamer.jp http://news.denfaminicogamer.jp/column03/game-gatari04
 diamond.jp http://diamond.jp/articles/-/116585
 digiday.jp http://digiday.jp/publishers/bloomberg-media-got-sevenfold-increase-vertical-homepage-visits/
+dnki.co.jp http://eeepc.dnki.co.jp/?eid=1106893
 doda.jp https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001550490/
 domesoccer.jp http://blog.domesoccer.jp/archives/60069633.html
 doorblog.jp http://kabumatome.doorblog.jp/archives/65828234.html
+dropbox.jp https://navi.dropbox.jp/mandal-art
 e-aidem.com http://www.e-aidem.com/ch/listen/entry/2017/02/15/110000
-en-japan.com https://employment.en-japan.com/engineerhub/entry/2016/12/27/110000
+en-japan.com https://employment.en-japan.com/engineerhub/entry/2016/11/17/110000
 engadget.com http://japanese.engadget.com/2017/02/14/wiko-sim-tommy/
 exblog.jp http://wivern.exblog.jp/26616343/
 facebook.com https://www.facebook.com/hidekazu.nagai.77/posts/10212662013164330
@@ -66,12 +70,14 @@ forbesjapan.com http://forbesjapan.com/articles/detail/15165
 fujitsu.com http://pr.fujitsu.com/jp/news/2017/01/31.html
 gamebiz.jp http://gamebiz.jp/?p=178374
 gamecast-blog.com http://www.gamecast-blog.com/archives/65885449.html
+gamesindustry.biz http://jp.gamesindustry.biz/article/1702/17021801/
 gentouki.com http://www.gentouki.com/blog/161030/
 gigazine.net http://gigazine.net/news/20170131-stop-using-antivirus/
 github.com https://gist.github.com/mala/1d30e42e9e99520b7a501e9d2458eb49
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/fcf/3805
 goo.ne.jp http://blog.goo.ne.jp/kishi-akira/e/613d963781f87f891352337c6de8ae75
 googleblog.com https://webmaster-ja.googleblog.com/2017/02/for-better-japanese-search-quality.html
+gurinovation.com http://www.gurinovation.com/entry/2017/02/18/221358
 hairs-media.com http://hairs-media.com/baldness-heredity/
 hanauta18.com http://blog.hanauta18.com/entry/holiday
 hateblo.jp http://suzukidesu23.hateblo.jp/entry/purchasing-behavior-process
@@ -103,6 +109,8 @@ jiji.com http://www.jiji.com/jc/article?k=2017020201257&g=eco
 jxck.io https://blog.jxck.io/entries/2017-02-17/polyfill-implementation-guideline.html
 kai-you.net http://kai-you.net/article/37959
 kakuyomu.jp https://kakuyomu.jp/info/entry/kemono_friends_fan_fiction
+kandosaori.com http://www.kandosaori.com/entry/2017/02/18/073000
+kansou-blog.jp http://www.kansou-blog.jp/entry/2017/02/18/163156
 karapaia.com http://karapaia.com/archives/52233164.html
 kiji.is https://this.kiji.is/202745199860072456
 kinakoneko.com http://www.kinakoneko.com/entry/Twitter
@@ -126,6 +134,7 @@ mainichi-kotoba.jp http://www.mainichi-kotoba.jp/2017/02/blog-post_11.html
 mainichi.jp http://mainichi.jp/articles/20170201/k00/00m/040/067000c
 makomako108.net http://makomako108.net/2017/01/05/nibunnoichiseijinshiki5/
 mantan-web.jp http://mantan-web.jp/2017/02/15/20170215dog00m200024000c.html
+masterlow.net http://masterlow.net/?p=2939
 matometanews.com http://matometanews.com/archives/1843389.html
 medium.com https://medium.com/@katzchang/8f8fe76d61d7
 meti.go.jp http://www.meti.go.jp/committee/sankoushin/shin_sangyoukouzou/pdf/013_06_00.pdf
@@ -184,9 +193,11 @@ sandarthokkaido.net http://www.sandarthokkaido.net/entry/yaranaihito-iiwake
 sankei.com http://www.sankei.com/affairs/news/170206/afr1702060017-n1.html
 seesaa.net http://mubou.seesaa.net/article/446576576.html
 sekkachi.com http://www.sekkachi.com/entry/New_income_deviation
+shellbys.com http://www.shellbys.com/entry/mitanorifusa
 shigemk2.com http://www.shigemk2.com/entry/inner_join_/_outer_join
 shirai.as http://aki.shirai.as/2017/02/google-translate-and-spreadsheet-for-international-submission/
 slideshare.net http://www.slideshare.net/SeiichiUchida/cnn-65229102
+smartstyle-blog.net http://www.smartstyle-blog.net/entry/CareerForProgrammer
 sniper.jp http://sniper.jp/008sniper/008423they_are_drawing_a_pictu/_10_1.html
 softantenna.com http://www.softantenna.com/wp/software/microsoft-gvfs/
 speakerdeck.com https://speakerdeck.com/emuaki/gao-su-nasisutemuwozuo-rufang-fa
@@ -225,7 +236,7 @@ wktk.co.jp http://blog.wktk.co.jp/ja/entry/2017/02/14/tombo-platform-is-released
 xera.jp http://www.xera.jp/entry/wifispot
 xn--n8jo5b6c1i.tech http://xn--n8jo5b6c1i.tech/
 yahoo.co.jp http://zasshi.news.yahoo.co.jp/article?a=20170215-00001426-bunshun-soci
-yomiuri.co.jp http://www.yomiuri.co.jp/fukayomi/ichiran/20170210-OYT8T50014.html
+yomiuri.co.jp http://www.yomiuri.co.jp/economy/20170218-OYT1T50050.html
 yossense.com http://yossense.com/tabelog-smoking/
 youtube.com http://www.youtube.com/watch?v=42FPUcC8RjM
 yukihy.com http://www.yukihy.com/entry/manage-data-google-data-studio
