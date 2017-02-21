@@ -9,12 +9,13 @@ amanatusauce.com http://www.amanatusauce.com/entry/2017/01/31/212536
 ameba.jp http://news.ameba.jp/20170217-1002/
 ameblo.jp http://ameblo.jp/kyoto-purpure/entry-12245054584.html
 americakabu.com http://www.americakabu.com/entry/%E7%A2%BA%E5%AE%9A%E6%8B%A0%E5%87%BA%E5%B9%B4%E9%87%91%E3%81%AE%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88
+animatetimes.com http://www.animatetimes.com/news/details.php?id=1487416764
 anomaly3-movie.com http://www.anomaly3-movie.com/entry/True_Love_Story
 appmarketinglabo.net http://appmarketinglabo.net/staba-sns/
 asahi.com http://www.asahi.com/and_w/articles/SDI2017021087931.html
 ascii.jp http://ascii.jp/elem/000/001/427/1427502/
 atmarkjojo.org http://atmarkjojo.org/archives/21703.html
-automaton.am http://jp.automaton.am/articles/iotw/20170207-39927/
+automaton.am http://jp.automaton.am/articles/gamer-pick/20170219-40752/
 awe-some.net https://awe-some.net/2017/02/web-design-matome/
 axlight.com http://basic-react.axlight.com/html/
 bbc.com http://www.bbc.com/japanese/features-and-analysis-38977508
@@ -28,8 +29,10 @@ bokukoko.info http://www.bokukoko.info/entry/2017/02/09/001144
 bokurano-music.com http://www.bokurano-music.com/entry/hougaku-rock-osusume
 booklog.jp https://hon.booklog.jp/interview/bluebacks-2000-interview-20170214
 btrax.com http://blog.btrax.com/jp/2017/02/05/car-ownership/
+bucchinews.com http://bucchinews.com/subcul/6030.html
 bunshun.jp http://number.bunshun.jp/articles/-/827372
 businessinsider.jp https://www.businessinsider.jp/post-853
+buzzap.jp http://buzzap.jp/news/20170219-tv-tokyo-mizuhonokuni-shogakuin-news-delete/
 buzzfeed.com https://www.buzzfeed.com/bfjapannews/fn-g
 cakes.mu https://cakes.mu/posts/15287
 careerhigh.jp http://www.careerhigh.jp/entry/2017/02/10/220000
@@ -82,11 +85,12 @@ hairs-media.com http://hairs-media.com/baldness-heredity/
 hanauta18.com http://blog.hanauta18.com/entry/holiday
 hateblo.jp http://suzukidesu23.hateblo.jp/entry/purchasing-behavior-process
 hatebu.biz http://www.hatebu.biz/entry/2017/02/13/180000
+hatebu.me http://hatebu.me/entry/2017/02/20/041901
 hatelabo.jp http://anond.hatelabo.jp/20160319160526
 hatena.ne.jp http://d.hatena.ne.jp/NATROM/20170207#p1
 hatenablog.com http://yoshitsugumi.hatenablog.com/entry/2017/02/03/110321
 hatenablog.jp http://tantanpy.hatenablog.jp/entry/roboadvisor/theo/investment-report-2017-02
-hatenadiary.com http://pastak-diary.hatenadiary.com/entry/2017/02/01/012934
+hatenadiary.com http://tofu.hatenadiary.com/entry/2017/02/19/suumo-scraping
 hatenadiary.jp http://vaaaaaanquish.hatenadiary.jp/entry/2017/02/13/200729
 hatenastaff.com http://developer.hatenastaff.com/entry/2017/02/07/145247
 hbol.jp https://hbol.jp/128229
@@ -112,6 +116,7 @@ kakuyomu.jp https://kakuyomu.jp/info/entry/kemono_friends_fan_fiction
 kandosaori.com http://www.kandosaori.com/entry/2017/02/18/073000
 kansou-blog.jp http://www.kansou-blog.jp/entry/2017/02/18/163156
 karapaia.com http://karapaia.com/archives/52233164.html
+kazulog.com http://www.kazulog.com/entry/book20170219
 kiji.is https://this.kiji.is/202745199860072456
 kinakoneko.com http://www.kinakoneko.com/entry/Twitter
 kirikuchi.net http://www.kirikuchi.net/entry/2017/02/04/134203
@@ -121,6 +126,7 @@ kottolaw.com http://www.kottolaw.com/column/001379.html
 kure.lg.jp https://www.city.kure.lg.jp/kurechara/index.kureshi.html
 lalamiamor.net http://blog.lalamiamor.net/entry/2017/02/12/171602
 lastoneclick.net http://lastoneclick.net/?p=135
+ldblog.jp http://nijigenkisei.ldblog.jp/archives/49513741.html
 life-and-mind.com http://life-and-mind.com/stress-relief-3544
 lifehacker.jp http://www.lifehacker.jp/2017/02/170205_boostnote.html
 lifehacking.jp http://lifehacking.jp/2017/02/billion-yen-question/
@@ -130,6 +136,7 @@ lite-ra.com http://lite-ra.com/2017/02/post-2897.html
 livedoor.com http://news.livedoor.com/article/detail/12609382/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1913105.html
 lopan.jp http://lopan.jp/layout/
+madopro.net http://www.madopro.net/entry/MachineLearningForTrading
 mainichi-kotoba.jp http://www.mainichi-kotoba.jp/2017/02/blog-post_11.html
 mainichi.jp http://mainichi.jp/articles/20170201/k00/00m/040/067000c
 makomako108.net http://makomako108.net/2017/01/05/nibunnoichiseijinshiki5/
@@ -138,6 +145,7 @@ masterlow.net http://masterlow.net/?p=2939
 matometanews.com http://matometanews.com/archives/1843389.html
 medium.com https://medium.com/@katzchang/8f8fe76d61d7
 meti.go.jp http://www.meti.go.jp/committee/sankoushin/shin_sangyoukouzou/pdf/013_06_00.pdf
+microsoft.com https://docs.microsoft.com/ja-jp/azure/documentdb/documentdb-nosql-vs-sql
 mikinote.com http://www.mikinote.com/entry/wine-speaker
 milkmemo.com http://www.milkmemo.com/entry/domudomu_densetsu_omise
 misoca.jp http://tech.misoca.jp/entry/2017/02/10/113003
@@ -181,6 +189,7 @@ president.jp http://president.jp/articles/-/21196
 procrasist.com http://www.procrasist.com/entry/python-xkcd
 publickey1.jp http://www.publickey1.jp/blog/17/awsamazon_chime11.html
 qiita.com http://qiita.com/7968/items/61a1deff80721f412096
+r25.jp https://r25.jp/entertainment/00055670/
 rakuten.jp http://srdk.rakuten.jp/entry/2017/01/31/110000
 realsound.jp http://realsound.jp/2017/02/post-11186.html
 recomtank.com http://www.recomtank.com/entry/univ-and-life
