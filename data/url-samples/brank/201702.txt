@@ -1,5 +1,7 @@
 2chblog.jp http://rabitsokuhou.2chblog.jp/archives/68622996.html
-4gamer.net http://www.4gamer.net/games/353/G035361/20170217067/
+48n.jp http://48n.jp/blog/2015/12/01/mathematics-of-advent-calendar/
+4gamer.net http://www.4gamer.net/games/300/G030061/20170222155/
+64p.org http://blog.64p.org/entry/2017/02/22/072920
 7716wedding.com https://7716wedding.com/mag/recommend-movie-marriage/
 a-know.me http://blog.a-know.me/entry/2017/02/02/215641
 affinelayer.com http://affinelayer.com/pixsrv/index.html
@@ -42,6 +44,7 @@ careerhigh.jp http://www.careerhigh.jp/entry/2017/02/10/220000
 careersupli.jp http://careersupli.jp/lifehack/eiga/
 catlani.com http://www.catlani.com/entry/2017/02/10/192011
 chaos2ch.com http://chaos2ch.com/archives/4747529.html
+chibicode.com http://chibicode.com/the-prize/
 cinra.net http://www.cinra.net/interview/201702-hanazawakana
 ckworks.jp http://ckworks.jp/blog/archives/2017/02/kemonofriends_boost_episode4.html
 classmethod.jp http://dev.classmethod.jp/cloud/aws/filesgateway-on-ec2/
@@ -59,6 +62,7 @@ digiday.jp http://digiday.jp/publishers/bloomberg-media-got-sevenfold-increase-v
 dmmlabs.com http://tsuchinoko.dmmlabs.com/?p=5061
 dnki.co.jp http://eeepc.dnki.co.jp/?eid=1106893
 doda.jp https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001550490/
+dodgson.org https://bellflower.dodgson.org/eeb5f81f8a58
 domesoccer.jp http://blog.domesoccer.jp/archives/60069633.html
 doorblog.jp http://kabumatome.doorblog.jp/archives/65828234.html
 dropbox.jp https://navi.dropbox.jp/mandal-art
@@ -72,6 +76,7 @@ famitsu.com https://www.famitsu.com/news/201702/09126409.html
 fashionsnap.com http://www.fashionsnap.com/news/2017-02-03/fruits-stop/
 fc2.com http://safarina.blog.fc2.com/blog-entry-5328.html
 ferret-plus.com https://ferret-plus.com/6035
+filmarchives.jp http://animation.filmarchives.jp/index.html
 flahertylog.com http://www.flahertylog.com/entry/20170209/1486608460
 fnshr.info http://id.fnshr.info/2017/02/04/tsukuba-kanshi/
 forbesjapan.com http://forbesjapan.com/articles/detail/15165
@@ -83,7 +88,7 @@ gentouki.com http://www.gentouki.com/blog/161030/
 gigazine.net http://gigazine.net/news/20170131-stop-using-antivirus/
 github.com https://gist.github.com/mala/1d30e42e9e99520b7a501e9d2458eb49
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/fcf/3805
-goo.ne.jp http://blog.goo.ne.jp/kishi-akira/e/613d963781f87f891352337c6de8ae75
+goo.ne.jp http://blog.goo.ne.jp/ikunya/e/37e5a52e10ab26fcbd4f7ff867e9eace
 googleblog.com https://webmaster-ja.googleblog.com/2017/02/for-better-japanese-search-quality.html
 gurinovation.com http://www.gurinovation.com/entry/2017/02/18/221358
 hairs-media.com http://hairs-media.com/baldness-heredity/
@@ -98,9 +103,11 @@ hatenablog.com http://yoshitsugumi.hatenablog.com/entry/2017/02/03/110321
 hatenablog.jp http://tantanpy.hatenablog.jp/entry/roboadvisor/theo/investment-report-2017-02
 hatenadiary.com http://tofu.hatenadiary.com/entry/2017/02/19/suumo-scraping
 hatenadiary.jp http://vaaaaaanquish.hatenadiary.jp/entry/2017/02/13/200729
+hatenanews.com http://hatenanews.com/articles/2017/02/22/163120
 hatenastaff.com http://developer.hatenastaff.com/entry/2017/02/07/145247
 hbol.jp https://hbol.jp/128229
 hikakujoho.com https://hikakujoho.com/manekai/entry/20170216
+honz.jp http://honz.jp/articles/-/43790
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/02/03/trump_n_14588828.html
 idolmaster-anime.jp http://side-m.idolmaster-anime.jp/
 iitxs.com http://www.iitxs.com/entry/2017/02/04/233000
@@ -223,8 +230,8 @@ slideshare.net http://www.slideshare.net/SeiichiUchida/cnn-65229102
 smartstyle-blog.net http://www.smartstyle-blog.net/entry/CareerForProgrammer
 sniper.jp http://sniper.jp/008sniper/008423they_are_drawing_a_pictu/_10_1.html
 softantenna.com http://www.softantenna.com/wp/software/microsoft-gvfs/
-speakerdeck.com https://speakerdeck.com/cygames/shou-keru-retesutofalsezi-dong-hua-opencvfalse-yan-dezhuo-e-pythonfalse-noy-gasi-kao-si-appiumfalse-zhi-dedong-kasu
-sponichi.co.jp http://www.sponichi.co.jp/entertainment/news/2017/02/20/kiji/20170221s00041000084000c.html
+speakerdeck.com https://speakerdeck.com/anatoo/virtual-rendering-introduction
+sponichi.co.jp http://www.sponichi.co.jp/baseball/news/2017/02/22/kiji/20170222s00001007482000c.html
 suffrage-centennial.org http://suffrage-centennial.org/?p=87
 sunday-webry.com https://www.sunday-webry.com/comics/manganarazumichi/ep007/
 sunpro.io https://sunpro.io/techbookfest/hakatashi.html
