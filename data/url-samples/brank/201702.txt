@@ -61,7 +61,7 @@ diamond.jp http://diamond.jp/articles/-/116585
 digiday.jp http://digiday.jp/publishers/bloomberg-media-got-sevenfold-increase-vertical-homepage-visits/
 dmmlabs.com http://tsuchinoko.dmmlabs.com/?p=5061
 dnki.co.jp http://eeepc.dnki.co.jp/?eid=1106893
-doda.jp https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001550490/
+doda.jp https://mirai.doda.jp/series/interview/masashi-omuro-2/
 dodgson.org https://bellflower.dodgson.org/eeb5f81f8a58
 domesoccer.jp http://blog.domesoccer.jp/archives/60069633.html
 doorblog.jp http://kabumatome.doorblog.jp/archives/65828234.html
@@ -126,6 +126,7 @@ jalan.net http://www.jalan.net/news/article/139420/
 jiji.com http://www.jiji.com/jc/article?k=2017020201257&g=eco
 jxck.io https://blog.jxck.io/entries/2017-02-17/polyfill-implementation-guideline.html
 kai-you.net http://kai-you.net/article/37959
+kakuyasu-sumahogakuen.com http://kakuyasu-sumahogakuen.com/battler/
 kakuyomu.jp https://kakuyomu.jp/info/entry/kemono_friends_fan_fiction
 kandosaori.com http://www.kandosaori.com/entry/2017/02/18/073000
 kansou-blog.jp http://www.kansou-blog.jp/entry/2017/02/18/163156
@@ -159,6 +160,7 @@ mantan-web.jp http://mantan-web.jp/2017/02/15/20170215dog00m200024000c.html
 masterlow.net http://masterlow.net/?p=2939
 matometanews.com http://matometanews.com/archives/1843389.html
 medium.com https://medium.com/@katzchang/8f8fe76d61d7
+mess-y.com http://mess-y.com/archives/42253
 meti.go.jp http://www.meti.go.jp/committee/sankoushin/shin_sangyoukouzou/pdf/013_06_00.pdf
 microsoft.com https://docs.microsoft.com/ja-jp/azure/documentdb/documentdb-nosql-vs-sql
 mikinote.com http://www.mikinote.com/entry/wine-speaker
@@ -192,6 +194,7 @@ nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/17/020100036/
 nohana.co.jp http://blog.nohana.co.jp/article/thank-you-and-byebye-parse-com
 note.mu https://note.mu/chiffon_06/n/nfd817765d640
 nuwton.com http://nuwton.com/feature/8404/
+okinawatimes.co.jp http://www.okinawatimes.co.jp/articles/-/85479?_utm_source=1-2-2
 omg-ox.org http://www.omg-ox.org/entry/logodesign
 omocoro.jp http://omocoro.jp/kiji/101103/
 opensource.guide https://opensource.guide/
@@ -223,6 +226,7 @@ sankei.com http://www.sankei.com/affairs/news/170206/afr1702060017-n1.html
 scotthelme.co.uk https://scotthelme.co.uk/csrf-is-dead/
 seesaa.net http://mubou.seesaa.net/article/446576576.html
 sekkachi.com http://www.sekkachi.com/entry/New_income_deviation
+shattered.it https://shattered.it/
 shellbys.com http://www.shellbys.com/entry/mitanorifusa
 shigemk2.com http://www.shigemk2.com/entry/inner_join_/_outer_join
 shirai.as http://aki.shirai.as/2017/02/google-translate-and-spreadsheet-for-international-submission/
@@ -240,6 +244,7 @@ svs100.com http://svs100.com/kushida2/
 synodos.jp http://synodos.jp/politics/19136
 tabi-labo.com http://tabi-labo.com/280195/on-a-plate
 tabroom.jp http://tabroom.jp/contents/report/ranking2016/
+tai2.net http://blog.tai2.net/real-world-redux.html
 takeshobo.co.jp http://mangalifewin.takeshobo.co.jp/rensai/imyme/aimai-126/17000/
 tbsradio.jp http://www.tbsradio.jp/120844
 techcrunch.com http://jp.techcrunch.com/2017/02/03/20170202this-app-uses-spectral-analysis-to-analyze-objects-and-their-makeup/
@@ -260,6 +265,7 @@ tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000094362.html
 tv-tokyo.co.jp http://www.tv-tokyo.co.jp/mv/you/news/post_127029/
 twitter.com http://twitter.com/Doronpa01/status/831075654238035969
 type.jp http://woman.type.jp/wt/feature/6262
+usa2016.info http://www.usa2016.info/entry/2017/02/23/190000
 utokyo-ea.com https://utokyo-ea.com/
 voyagegroup.com http://techlog.voyagegroup.com/entry/2017/02/20/140412
 wan.or.jp https://wan.or.jp/article/show/7070
@@ -281,4 +287,5 @@ yossense.com http://yossense.com/tabelog-smoking/
 youtube.com http://www.youtube.com/watch?v=42FPUcC8RjM
 yukihy.com http://www.yukihy.com/entry/manage-data-google-data-studio
 yukisako.xyz http://www.yukisako.xyz/entry/sigma
+yurudie.com http://yurudie.com/time/nelson004
 yutorism.jp http://www.yutorism.jp/entry/2017/02/05/001337
