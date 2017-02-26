@@ -6,6 +6,7 @@
 a-know.me http://blog.a-know.me/entry/2017/02/02/215641
 affinelayer.com http://affinelayer.com/pixsrv/index.html
 afpbb.com http://www.afpbb.com/articles/-/3116022
+agrinews.co.jp https://www.agrinews.co.jp/p40223.html
 ainow.ai http://ainow.ai/labmap/
 airbnb.design http://airbnb.design/lottie/
 alfalfalfa.com http://alfalfalfa.com/articles/174986.html
@@ -30,6 +31,7 @@ biz-journal.jp http://biz-journal.jp/2017/02/post_17925.html
 blog.jp http://sow.blog.jp/archives/1064346779.html
 bloglifer.net http://www.bloglifer.net/entry/before-ikedahayato-falling
 blogos.com http://blogos.com/article/208237/
+blue-puddle.com http://web-media.blue-puddle.com/degradation/
 bokukoko.info http://www.bokukoko.info/entry/2017/02/09/001144
 bokurano-music.com http://www.bokurano-music.com/entry/hougaku-rock-osusume
 booklog.jp https://hon.booklog.jp/interview/bluebacks-2000-interview-20170214
@@ -52,6 +54,7 @@ cloudpack.media https://cloudpack.media/28885
 cnn.co.jp http://www.cnn.co.jp/world/35096802.html
 cobalog.com http://www.cobalog.com/entry/graduationceremonyclothes
 coliss.com http://coliss.com/articles/build-websites/operation/css/css-ui-collections.html
+colowide.co.jp http://www.colowide.co.jp/datafile_new/pr_news_pdf_file_148793383651.pdf
 courrier.jp http://courrier.jp/news/archives/75935/
 creativecommons.org https://ccsearch.creativecommons.org/
 curazy.com https://curazy.com/archives/166468
@@ -108,6 +111,7 @@ hatenastaff.com http://developer.hatenastaff.com/entry/2017/02/07/145247
 hbol.jp https://hbol.jp/128229
 hikakujoho.com https://hikakujoho.com/manekai/entry/20170216
 honz.jp http://honz.jp/articles/-/43790
+hrnabi.com http://hrnabi.com/2017/02/24/13750/
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/02/03/trump_n_14588828.html
 idolmaster-anime.jp http://side-m.idolmaster-anime.jp/
 iitxs.com http://www.iitxs.com/entry/2017/02/04/233000
@@ -119,7 +123,7 @@ innovator.jp.net http://tech.innovator.jp.net/entry/2017/02/13/154751
 ipa.go.jp http://www.ipa.go.jp/security/ciadr/vul/20170206-wordpress.html
 ironna.jp http://ironna.jp/article/5686
 ismedia.jp http://jbpress.ismedia.jp/articles/-/49053
-itmedia.co.jp http://www.itmedia.co.jp/lifestyle/articles/1702/02/news043.html
+itmedia.co.jp http://www.itmedia.co.jp/enterprise/articles/1702/24/news067.html
 iwako-light.com http://www.iwako-light.com/entry/jump-best100
 j-cast.com http://www.j-cast.com/2017/02/02289564.html
 jalan.net http://www.jalan.net/news/article/139420/
@@ -160,6 +164,7 @@ mantan-web.jp http://mantan-web.jp/2017/02/15/20170215dog00m200024000c.html
 masterlow.net http://masterlow.net/?p=2939
 matometanews.com http://matometanews.com/archives/1843389.html
 medium.com https://medium.com/@katzchang/8f8fe76d61d7
+megane-shufu.com http://www.megane-shufu.com/entry/otto
 mess-y.com http://mess-y.com/archives/42253
 meti.go.jp http://www.meti.go.jp/committee/sankoushin/shin_sangyoukouzou/pdf/013_06_00.pdf
 microsoft.com https://docs.microsoft.com/ja-jp/azure/documentdb/documentdb-nosql-vs-sql
@@ -182,7 +187,7 @@ netgeek.biz http://netgeek.biz/archives/91624
 news24.jp http://www.news24.jp/articles/2017/02/05/04353327.html
 newsln.jp http://newsln.jp/news/201702100743590000.html
 newsweekjapan.jp http://www.newsweekjapan.jp/m_tanaka/2017/02/post-1.php
-nhk.or.jp http://www3.nhk.or.jp/news/html/20170131/k10010859881000.html
+nhk.or.jp http://www3.nhk.or.jp/kansai-news/20170224/4211231.html
 nicovideo.jp http://www.nicovideo.jp/watch/sm30600722
 nidoneinstitute.com http://nidoneinstitute.com/2017/02/05/popinq/
 nifty.com http://portal.nifty.com/kiji/170206198727_1.htm
@@ -191,6 +196,7 @@ nikkan-spa.jp https://nikkan-spa.jp/1286700
 nikkansports.com http://www.nikkansports.com/entertainment/news/1777017.html
 nikkei.com https://vdata.nikkei.com/newsgraphics/visitor2017/
 nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/17/020100036/
+nintendo.co.jp https://www.nintendo.co.jp/corporate/release/2017/170224.html
 nohana.co.jp http://blog.nohana.co.jp/article/thank-you-and-byebye-parse-com
 note.mu https://note.mu/chiffon_06/n/nfd817765d640
 nuwton.com http://nuwton.com/feature/8404/
@@ -220,6 +226,7 @@ resemom.jp http://resemom.jp/article/2017/02/02/36305.html
 rocketnews24.com http://rocketnews24.com/2017/02/09/860267/
 roll8.xyz http://www.roll8.xyz/entry/kemonofriends
 s8a.jp https://s8a.jp/font-fira-code
+saiusaruzzz.com http://www.saiusaruzzz.com/entry/2017/02/24/070000
 sakura-sasakura.com http://sakura-sasakura.com/2017/02/21/others-50/
 sandarthokkaido.net http://www.sandarthokkaido.net/entry/yaranaihito-iiwake
 sankei.com http://www.sankei.com/affairs/news/170206/afr1702060017-n1.html
@@ -236,6 +243,7 @@ sniper.jp http://sniper.jp/008sniper/008423they_are_drawing_a_pictu/_10_1.html
 softantenna.com http://www.softantenna.com/wp/software/microsoft-gvfs/
 speakerdeck.com https://speakerdeck.com/anatoo/virtual-rendering-introduction
 sponichi.co.jp http://www.sponichi.co.jp/baseball/news/2017/02/22/kiji/20170222s00001007482000c.html
+spot-app.jp https://travel.spot-app.jp/kure_yoppy/
 suffrage-centennial.org http://suffrage-centennial.org/?p=87
 sunday-webry.com https://www.sunday-webry.com/comics/manganarazumichi/ep007/
 sunpro.io https://sunpro.io/techbookfest/hakatashi.html
@@ -251,13 +259,16 @@ techcrunch.com http://jp.techcrunch.com/2017/02/03/20170202this-app-uses-spectra
 technologyreview.jp https://www.technologyreview.jp/s/24542/as-goldman-embraces-automation-even-the-masters-of-the-universe-are-threatened/
 tedium-life.com http://www.tedium-life.com/entry/2017/02/05/213048
 ten-navi.com http://ten-navi.com/hacks/resume-2-2734
+theguardian.com https://www.theguardian.com/world/2017/feb/24/shinzo-abe-wife-akie-under-pressure-ties-ultra-nationalist-school-japan
 timesteps.net http://timesteps.net/archives/messe-sanoh.html
 timing-web.com http://timing-web.com/estimate/
 tinect.jp http://blog.tinect.jp/?p=36417
 tocana.jp http://tocana.jp/2017/01/post_12039_entry.html
 togetter.com https://togetter.com/li/1072415
 tokumaru.org http://blog.tokumaru.org/2017/02/wordpress-4.7.1-Privilege-Escalation.html
+tokyo-np.co.jp http://www.tokyo-np.co.jp/s/article/2017022490135406.html
 tomohisaoda.com http://tomohisaoda.com/posts/2017/ease_management_of_linux_server_administrator.html
+toreta.in http://tech.toreta.in/entry/2017/02/24/210755
 toto-dream.com http://www.toto-dream.com/press/20170220.html
 toyokeizai.net http://toyokeizai.net/articles/-/156292
 tsuwari-hanako.com http://www.tsuwari-hanako.com/entry/misomaru
