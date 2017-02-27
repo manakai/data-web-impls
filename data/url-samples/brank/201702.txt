@@ -38,10 +38,11 @@ booklog.jp https://hon.booklog.jp/interview/bluebacks-2000-interview-20170214
 btrax.com http://blog.btrax.com/jp/2017/02/05/car-ownership/
 bucchinews.com http://bucchinews.com/subcul/6030.html
 bunshun.jp http://number.bunshun.jp/articles/-/827372
-businessinsider.jp https://www.businessinsider.jp/post-853
+businessinsider.jp https://www.businessinsider.jp/post-1040
 buzzap.jp http://buzzap.jp/news/20170219-tv-tokyo-mizuhonokuni-shogakuin-news-delete/
 buzzfeed.com https://www.buzzfeed.com/bfjapannews/fn-g
 cakes.mu https://cakes.mu/posts/15287
+camp-fire.jp https://camp-fire.jp/projects/view/11715
 careerhigh.jp http://www.careerhigh.jp/entry/2017/02/10/220000
 careersupli.jp http://careersupli.jp/lifehack/eiga/
 catlani.com http://www.catlani.com/entry/2017/02/10/192011
@@ -86,6 +87,7 @@ forbesjapan.com http://forbesjapan.com/articles/detail/15165
 fujitsu.com http://pr.fujitsu.com/jp/news/2017/01/31.html
 gamebiz.jp http://gamebiz.jp/?p=178374
 gamecast-blog.com http://www.gamecast-blog.com/archives/65885449.html
+gamepres.org https://www.gamepres.org/2016/02/26/pcengine/
 gamesindustry.biz http://jp.gamesindustry.biz/article/1702/17021801/
 gentouki.com http://www.gentouki.com/blog/161030/
 gigazine.net http://gigazine.net/news/20170131-stop-using-antivirus/
@@ -110,6 +112,7 @@ hatenanews.com http://hatenanews.com/articles/2017/02/22/163120
 hatenastaff.com http://developer.hatenastaff.com/entry/2017/02/07/145247
 hbol.jp https://hbol.jp/128229
 hikakujoho.com https://hikakujoho.com/manekai/entry/20170216
+hitokoto.website https://hitokoto.website/%E3%80%90%E9%80%9F%E5%A0%B1%E3%80%91%E7%94%A3%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%8C%E5%A4%A7%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%97-%E6%98%AD%E6%81%B5%E5%90%8D%E8%AA%89%E6%A0%A1%E9%95%B7%E5%B0%B1%E4%BB%BB/
 honz.jp http://honz.jp/articles/-/43790
 hrnabi.com http://hrnabi.com/2017/02/24/13750/
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/02/03/trump_n_14588828.html
@@ -132,6 +135,7 @@ jxck.io https://blog.jxck.io/entries/2017-02-17/polyfill-implementation-guidelin
 kai-you.net http://kai-you.net/article/37959
 kakuyasu-sumahogakuen.com http://kakuyasu-sumahogakuen.com/battler/
 kakuyomu.jp https://kakuyomu.jp/info/entry/kemono_friends_fan_fiction
+kana-ri.com http://www.kana-ri.com/entry/2017/02/25/113000
 kandosaori.com http://www.kandosaori.com/entry/2017/02/18/073000
 kansou-blog.jp http://www.kansou-blog.jp/entry/2017/02/18/163156
 karapaia.com http://karapaia.com/archives/52233164.html
@@ -210,6 +214,7 @@ persol-tech-s.co.jp https://persol-tech-s.co.jp/i-engineer/human/chanchacolin
 photo-studio9.com http://photo-studio9.com/photo-illegal-use/
 photoshopvip.net http://photoshopvip.net/98490
 picsim-blog.com http://www.picsim-blog.com/entry/zero_2017-02-02
+pipipipipi5volts.com http://www.pipipipipi5volts.com/entry/2017/02/02/194917
 pokemongolive.com http://pokemongolive.com/ja/post/johto-pokemon/
 postd.cc http://postd.cc/awesome-bits/
 preferred.jp https://research.preferred.jp/2017/02/chainerrl/
@@ -226,18 +231,21 @@ resemom.jp http://resemom.jp/article/2017/02/02/36305.html
 rocketnews24.com http://rocketnews24.com/2017/02/09/860267/
 roll8.xyz http://www.roll8.xyz/entry/kemonofriends
 s8a.jp https://s8a.jp/font-fira-code
+saigaijyouhou.com http://saigaijyouhou.com/blog-entry-15639.html
 saiusaruzzz.com http://www.saiusaruzzz.com/entry/2017/02/24/070000
 sakura-sasakura.com http://sakura-sasakura.com/2017/02/21/others-50/
 sandarthokkaido.net http://www.sandarthokkaido.net/entry/yaranaihito-iiwake
 sankei.com http://www.sankei.com/affairs/news/170206/afr1702060017-n1.html
+saruwakakun.com http://saruwakakun.com/webmedia
 scotthelme.co.uk https://scotthelme.co.uk/csrf-is-dead/
 seesaa.net http://mubou.seesaa.net/article/446576576.html
 sekkachi.com http://www.sekkachi.com/entry/New_income_deviation
 shattered.it https://shattered.it/
 shellbys.com http://www.shellbys.com/entry/mitanorifusa
 shigemk2.com http://www.shigemk2.com/entry/inner_join_/_outer_join
+shining-man.com http://www.shining-man.com/entry/2017/02/25/113305
 shirai.as http://aki.shirai.as/2017/02/google-translate-and-spreadsheet-for-international-submission/
-slideshare.net http://www.slideshare.net/SeiichiUchida/cnn-65229102
+slideshare.net https://www.slideshare.net/herumi/googlesha1
 smartstyle-blog.net http://www.smartstyle-blog.net/entry/CareerForProgrammer
 sniper.jp http://sniper.jp/008sniper/008423they_are_drawing_a_pictu/_10_1.html
 softantenna.com http://www.softantenna.com/wp/software/microsoft-gvfs/
@@ -272,6 +280,7 @@ toreta.in http://tech.toreta.in/entry/2017/02/24/210755
 toto-dream.com http://www.toto-dream.com/press/20170220.html
 toyokeizai.net http://toyokeizai.net/articles/-/156292
 tsuwari-hanako.com http://www.tsuwari-hanako.com/entry/misomaru
+tukinasikotonoha.com http://www.tukinasikotonoha.com/entry/sinsotu-nyuusya-zisatu
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000094362.html
 tv-tokyo.co.jp http://www.tv-tokyo.co.jp/mv/you/news/post_127029/
 twitter.com http://twitter.com/Doronpa01/status/831075654238035969
@@ -292,7 +301,8 @@ wordpress.com https://youchienblog.wordpress.com/2017/02/21/tbs%E3%83%A9%E3%82%B
 x768.com http://x768.com/w/twha.ja
 xera.jp http://www.xera.jp/entry/wifispot
 xn--n8jo5b6c1i.tech http://xn--n8jo5b6c1i.tech/
-yahoo.co.jp https://news.yahoo.co.jp/byline/watanabeteruhito/20170220-00067887/
+xn--t8j4aa4nzgsa8ftdvh3rbbb4102sfk9d.com http://xn--t8j4aa4nzgsa8ftdvh3rbbb4102sfk9d.com/?p=355
+yahoo.co.jp https://news.yahoo.co.jp/byline/tvnosukima/20170225-00068070/
 yomiuri.co.jp http://www.yomiuri.co.jp/economy/20170218-OYT1T50050.html
 yossense.com http://yossense.com/tabelog-smoking/
 youtube.com http://www.youtube.com/watch?v=42FPUcC8RjM
