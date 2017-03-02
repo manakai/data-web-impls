@@ -25,6 +25,10 @@ name/value pairs:
 Revocations of certificates, extracted from Firefox's |blocklist.xml|
 <https://github.com/mozilla/gecko-dev/blob/master/browser/app/blocklist.xml>.
 
+* data/geckodriver-latest.txt
+
+The version string of the latest release of geckodriver.
+
 * data/url-samples/brank/YYYYMM.txt
 
 Lists of top Japanese Web site of month YYYY-MM, extracted from the
@@ -42,6 +46,8 @@ URL.  The order of the lines in the files is not significant.
 <https://archive.mozilla.org/pub/firefox/releases/>.
 
 <https://github.com/mozilla/gecko-dev/blob/master/browser/app/blocklist.xml>.
+
+<https://github.com/mozilla/geckodriver/releases>.
 
 <https://b.hatena.ne.jp/ranking/daily>.
 

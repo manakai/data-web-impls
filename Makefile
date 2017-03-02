@@ -42,7 +42,8 @@ SAVE = $(WGET) -O
 build: data
 
 data: data/firefox-versions.json data/firefox-locales.json \
-    data/firefox-latest.txt data/firefox-blocklisted-certs.json
+    data/firefox-latest.txt data/firefox-blocklisted-certs.json \
+	data/geckodriver-latest.txt
 
 build-clean:
 	rm -fr local/*.html
@@ -55,6 +56,9 @@ data/firefox-locales.json: bin/firefox-locales.pl \
 	$(PERL) $< > $@
 data/firefox-latest.txt: data/firefox-versions.json local/bin/jq
 	local/bin/jq '.latest' -r data/firefox-versions.json > $@
+data/geckodriver-latest.txt: bin/geckodriver-latest.pl \
+    local/geckodriver-latest.html
+	$(PERL) $< > $@
 
 local/firefox-releases.html:
 	$(SAVE) $@ https://archive.mozilla.org/pub/firefox/releases/
@@ -62,6 +66,8 @@ local/firefox-locales.html: data/firefox-latest.txt
 	$(SAVE) $@ https://archive.mozilla.org/pub/firefox/releases/`cat data/firefox-latest.txt`/linux-x86_64/
 local/firefox-blocklist.xml:
 	$(SAVE) $@ https://raw.githubusercontent.com/mozilla/gecko-dev/master/browser/app/blocklist.xml
+local/geckodriver-latest.html:
+	$(SAVE) $@ https://github.com/mozilla/geckodriver/releases/latest
 
 local/bin/jq:
 	mkdir -p local/bin
