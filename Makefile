@@ -43,7 +43,7 @@ build: data
 
 data: data/firefox-versions.json data/firefox-locales.json \
     data/firefox-latest.txt data/firefox-blocklisted-certs.json \
-	data/geckodriver-latest.txt
+    data/geckodriver-latest.txt
 
 build-clean:
 	rm -fr local/*.html
