@@ -1,6 +1,7 @@
 4gamer.net http://www.4gamer.net/games/075/G007535/20170306032/
 afpbb.com http://www.afpbb.com/articles/-/2877818
 airdays.net http://www.airdays.net/blogron/2017/03/06/674/
+aloerina01.github.io https://aloerina01.github.io/javascript/vue/2017/03/08/1.html
 amamiyashion.com http://www.amamiyashion.com/entry/yutousei
 amazon.com https://aws.amazon.com/message/41926/
 animatetimes.com http://www.animatetimes.com/news/details.php?id=1488452395
@@ -32,6 +33,7 @@ dannadesu.com http://www.dannadesu.com/entry/2017/03/04/%E6%97%A6%E9%82%A3%E3%81
 denfaminicogamer.jp http://news.denfaminicogamer.jp/projectbook/zelda
 diamond.jp http://diamond.jp/articles/-/119938
 doorblog.jp http://kabumatome.doorblog.jp/archives/65883743.html
+edtech-media.com http://edtech-media.com/2017/03/08/benesse-data/
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/02/24/110000
 engadget.com http://japanese.engadget.com/2017/03/01/youtube-youtube-tv-35/
 exblog.jp http://brevis.exblog.jp/25540003/
@@ -44,13 +46,15 @@ fooltoneet.com http://www.fooltoneet.com/entry/2017/03/07/%E3%83%A9%E3%83%BB%E3%
 freee.co.jp http://developers.freee.co.jp/entry/3-reasons-machine-learning-for-application-engineers
 frontline.fm http://frontline.fm/2016/01/14/whyganttchartdoesntwork/
 ga-m.com http://ga-m.com/n/nintendo-switch-bethesda-sannyuu/
+gamespark.jp http://www.gamespark.jp/article/2017/03/08/72065.html
 gentosha.jp http://www.gentosha.jp/articles/-/7124
 gigazine.net http://gigazine.net/news/20170301-no-red-strawberries/
 github.com https://gist.github.com/manabuyasuda/c96b2dbc093f5b6fd0e4afcc0f29177e
 gizmodo.jp http://www.gizmodo.jp/2017/03/datarefuge-what-it-is-and-why-its-happening.html
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/kuronekoyamato
-hateblo.jp http://cards.hateblo.jp/entry/niconico-genkin-cardpointfutan/
-hatelabo.jp http://anond.hatelabo.jp/20170220160402
+gurinovation.com http://www.gurinovation.com/entry/yamato
+hateblo.jp http://motcho.hateblo.jp/entry/2017/03/08/215443
+hatelabo.jp http://anond.hatelabo.jp/20160802050446
 hatena.ne.jp http://d.hatena.ne.jp/NATROM/20170307#p1
 hatenablog.com http://yappy727.hatenablog.com/entry/2017/03/04/151645
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20170306/1488783600
@@ -65,8 +69,10 @@ impress.co.jp http://pc.watch.impress.co.jp/docs/news/1046743.html
 ipa.go.jp http://isec-csm.ipa.go.jp/download/sao-security-handbook.pdf
 ismedia.jp http://gendai.ismedia.jp/articles/-/51045
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1703/01/news126.html
+jazzguitarspot.com http://jazzguitarspot.com/blog/2017/03/15353/
 junichi-manga.com https://junichi-manga.com/select-keywords-by-search-console/
 jxck.io https://blog.jxck.io/entries/2017-03-02/unicode-in-javascript.html
+kahoku.co.jp http://www.kahoku.co.jp/tohokunews/201703/20170308_13022.html
 kai-you.net http://kai-you.net/article/38795
 karapaia.com http://karapaia.com/archives/52234948.html
 kazuhooku.com http://blog.kazuhooku.com/2017/03/peco.html
@@ -84,9 +90,10 @@ livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1916751.html
 machikado-creative.jp http://www.machikado-creative.jp/planning/48580/
 mainichi.jp http://mainichi.jp/articles/20170303/dyo/00m/200/004000c
 mangaloo.jp http://mangaloo.jp/
+mantan-web.jp http://mantan-web.jp/2017/03/08/20170308dog00m200044000c.html
 markethack.net http://markethack.net/archives/52037943.html
 medium.com https://medium.com/@YusukeIwaki/3a512605568
-megamouth.info http://www.megamouth.info/entry/2017/03/07/035535
+megamouth.info http://www.megamouth.info/entry/2016/10/08/011446
 menhera.jp http://menhera.jp/2108
 mess-y.com http://mess-y.com/archives/42524
 miyahaya.com http://www.miyahaya.com/entry/2017/03/03/190012
@@ -97,6 +104,7 @@ mynavi.jp http://news.mynavi.jp/column/svalley/697/
 naginyagi.com http://www.naginyagi.com/entry/Engineer_TechnicalBook
 nara-u.ac.jp http://www.nara-u.ac.jp/faculty/let/cultural/news/2017/166
 natalie.mu http://natalie.mu/comic/news/222705
+nectarjs.com http://nectarjs.com/
 netgeek.biz http://netgeek.biz/archives/93174
 nhk.or.jp http://www3.nhk.or.jp/news/html/20170228/k10010893821000.html
 nifty.com http://portal.nifty.com/kiji/170303198938_1.htm
@@ -105,6 +113,7 @@ nikkei.com http://www.nikkei.com/article/DGXLASDG01H73_R00C17A3CR8000/
 nikkeibp.co.jp http://business.nikkeibp.co.jp/atcl/report/15/110879/022800591/
 note.mu https://note.mu/shinobun/n/n9fd13ca6cabe
 ogura.blog http://www.ogura.blog/entry/2017/02/28/190245
+originalnews.nico http://originalnews.nico/14426
 osdn.jp https://mag.osdn.jp/17/03/06/153000
 otaden.jp http://hirorin.otaden.jp/e439923.html
 persol-tech-s.co.jp https://persol-tech-s.co.jp/i-engineer/interesting/karakuri
@@ -126,11 +135,13 @@ saruwakakun.com http://saruwakakun.com/html-css/reference/h-design
 seesaa.net http://mubou.seesaa.net/article/447685234.html
 seikatsu-hyakka.com https://seikatsu-hyakka.com/archives/1205
 sekkachi.com http://www.sekkachi.com/entry/statistics_35year_old
+shibayu36.org http://blog.shibayu36.org/entry/2017/03/08/212739
 shimirubon.jp https://shimirubon.jp/columns/1678052
 shin1x1.com http://blog.shin1x1.com/entry/php-genba-podcast
 shogi1.com http://shogi1.com/hashimototakanori-gomennasai/
 slideshare.net https://www.slideshare.net/zembutsu/docker-expectations-and-reality
-speakerdeck.com https://speakerdeck.com/ietaka/dezainaga3keyue-jian-mei-ri-sok-keteirumian-qiang-fa-togan-ziteirubian-hua
+smartnews.com http://developer.smartnews.com/blog/2017/03/neural-network-quantization/
+speakerdeck.com https://speakerdeck.com/adarapata/wu-li-sinairails
 sugyan.com http://blog.sugyan.com/entry/2017/03/04/230002
 swimixxx.com http://www.swimixxx.com/entry/nintendo-suitti-gyouretsu-2017/03/05
 synodos.jp http://synodos.jp/intro/19075
@@ -143,6 +154,7 @@ togech.jp https://togech.jp/2017/03/07/45630
 togetter.com https://togetter.com/li/1076084
 topics.or.jp http://www.topics.or.jp/localNews/news/2017/02/2017_14882573150769.html
 toyokeizai.net http://toyokeizai.net/articles/-/160142
+tumblr.com http://potcla.tumblr.com/post/158144377673/%E3%81%95%E3%81%8F%E3%82%89%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%B4%84%E6%AC%BE%E6%94%B9%E5%AE%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%8C%E8
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_politics/articles/000095507.html
 twitter.com http://twitter.com/InsideCHIKIRIN/status/647679050656448512
 uedakeita.net http://diary.uedakeita.net/entry/2017/03/05/064340
@@ -154,6 +166,6 @@ wired.jp http://wired.jp/2017/03/05/coffee-renaissance/
 withnews.jp http://withnews.jp/article/f0170301002qq000000000000000W03610701qq000014784A
 xera.jp http://www.xera.jp/entry/kaigainet
 xn--y8jt19lprde53a.com http://www.xn--y8jt19lprde53a.com/entry/2017/03/02/065558
-yahoo.co.jp https://news.yahoo.co.jp/byline/sendayuki/20170306-00068399/
+yahoo.co.jp https://news.yahoo.co.jp/byline/kojimakeiko/20170308-00068469/
 youtube.com http://www.youtube.com/watch?v=N2yInhkzvns
 yutorism.jp http://www.yutorism.jp/entry/CausalInference
