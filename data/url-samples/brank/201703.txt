@@ -15,12 +15,14 @@ asahi.com https://dot.asahi.com/wa/2017031000056.html
 ascii.jp http://ascii.jp/elem/000/001/436/1436928/
 automaton.am http://jp.automaton.am/articles/newsjp/20170309-42268/
 bbc.com http://www.bbc.com/japanese/39150071
+bengo4.com https://www.bengo4.com/internet/n_5852/
 blog.jp http://nikibi-atto.blog.jp/toeic-up
 blogos.com http://blogos.com/article/212239/
 bunshun.jp http://bunshun.jp/articles/-/1553
 businessinsider.jp https://www.businessinsider.jp/post-1135
 buzzap.jp http://buzzap.jp/news/20170310-dqnplus-hamusoku-esuteru-jin115-mizuhonokuni-shogakuin2/
 buzzfeed.com https://www.buzzfeed.com/bfjapannews/cf-hps
+cakes.mu https://cakes.mu/posts/15624
 cao.go.jp http://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2017/0314/shiryo_01-2.pdf
 careerhigh.jp http://www.careerhigh.jp/entry/2017/03/12/213000
 careersupli.jp http://careersupli.jp/lifehack/abccookingmens1/
@@ -156,12 +158,14 @@ nimuu.com http://www.nimuu.com/entry/blog-image
 nitto.com http://www.nitto.com/jp/ja/tapemuseum/special/vol8/
 note.mu https://note.mu/shinobun/n/n9fd13ca6cabe
 ogura.blog http://www.ogura.blog/entry/2017/02/28/190245
+omocoro.jp http://omocoro.jp/kiji/104565/
 originalnews.nico http://originalnews.nico/14426
 osdn.jp https://mag.osdn.jp/17/03/06/153000
 otaden.jp http://hirorin.otaden.jp/e439923.html
 persol-tech-s.co.jp https://persol-tech-s.co.jp/i-engineer/interesting/karakuri
 pineapple.cc http://blog.pineapple.cc/post/111018875020/preparing-presentation
-pipipipipi5volts.com http://www.pipipipipi5volts.com/entry/hatebu-change-flames-blogger
+pipipipipi5volts.com http://www.pipipipipi5volts.com/entry/girl-woman-uwaki-face-lovely
+plala.jp https://reisato.plala.jp/rsato/weblog/2016/07/19/0215.html
 postd.cc http://postd.cc/git-and-some-back-story/
 projectdesign.jp https://www.projectdesign.jp/201601/chance-in-mature-industry/002618.php
 publickey1.jp http://www.publickey1.jp/blog/17/amazon_s3aws_1.html
@@ -174,6 +178,7 @@ rikunabi.com http://next.rikunabi.com/journal/entry/20170310_M
 rinsimpl.com http://www.rinsimpl.com/entry/2017/03/06/071230
 rubykaigi.org http://rubykaigi.org/2017
 runtl.com https://runtl.com/this-is-the-police-review/
+ryoanna.com http://www.ryoanna.com/entry/2017/03/16/210157
 saiusaruzzz.com http://www.saiusaruzzz.com/entry/2017/03/15/180000
 sakura.ne.jp http://tikyuutabi.sakura.ne.jp/tiba-zekkei/
 sankei.com http://www.sankei.com/affairs/news/170309/afr1703090043-n1.html
@@ -226,6 +231,7 @@ withnews.jp http://withnews.jp/article/f0170301002qq000000000000000W03610701qq00
 wsj.com http://jp.wsj.com/articles/SB10990999303708163871104583023743177935434
 xera.jp http://www.xera.jp/entry/kaigainet
 yahoo.co.jp https://news.yahoo.co.jp/byline/kojimakeiko/20170308-00068469/
+yogurtgeek.com http://www.yogurtgeek.com/entry/bioengineering
 youtube.com http://www.youtube.com/watch?v=N2yInhkzvns
 yurudie.com http://yurudie.com/web/kumano001
 yutorism.jp http://www.yutorism.jp/entry/BookeepingSchedule2017
