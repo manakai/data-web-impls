@@ -16,8 +16,10 @@ ascii.jp http://ascii.jp/elem/000/001/436/1436928/
 automaton.am http://jp.automaton.am/articles/newsjp/20170309-42268/
 bbc.com http://www.bbc.com/japanese/39150071
 bengo4.com https://www.bengo4.com/internet/n_5852/
-blog.jp http://nikibi-atto.blog.jp/toeic-up
+bita.jp https://bita.jp/dml/qnamaker
+blog.jp http://pentel.blog.jp/archives/69759967.html
 blogos.com http://blogos.com/article/212239/
+bucchinews.com http://bucchinews.com/subcul/6050.html
 bunshun.jp http://bunshun.jp/articles/-/1553
 businessinsider.jp https://www.businessinsider.jp/post-1135
 buzzap.jp http://buzzap.jp/news/20170310-dqnplus-hamusoku-esuteru-jin115-mizuhonokuni-shogakuin2/
@@ -48,6 +50,7 @@ dengekionline.com http://dengekionline.com/elem/000/001/481/1481426/
 diamond.jp http://diamond.jp/articles/-/119938
 dogatch.jp http://dogatch.jp/news/ex/43735
 doorblog.jp http://kabumatome.doorblog.jp/archives/65883743.html
+dropbox.jp https://navi.dropbox.jp/mindfullness
 e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/syaryou08
 edtech-media.com http://edtech-media.com/2017/03/08/benesse-data/
 eir-parts.net http://v4.eir-parts.net/DocumentTemp/20170313_032922958_gpocsg555tw2al451gt3nh55_0.pdf
@@ -76,6 +79,7 @@ gizmodo.jp http://www.gizmodo.jp/2017/03/datarefuge-what-it-is-and-why-its-happe
 goo.ne.jp http://blog.goo.ne.jp/yu_miri/e/8050b9b13197972ddbbb08a4b53d2454
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/kuronekoyamato
 gurinovation.com http://www.gurinovation.com/entry/2017/03/11/110000
+hama1-cl.jp http://media.hama1-cl.jp/mote-technic/clever-time-woman/
 hanamoc.net http://www.hanamoc.net/archives/19290071.html
 hateblo.jp http://umihiro.hateblo.jp/entry/20170310/1489150221
 hatelabo.jp http://anond.hatelabo.jp/20160802050446
@@ -128,11 +132,13 @@ lite-ra.com http://lite-ra.com/2017/03/post-2957.html
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1916751.html
 machikado-creative.jp http://www.machikado-creative.jp/planning/48580/
 mainichi.jp http://mainichi.jp/articles/20170303/dyo/00m/200/004000c
+makomako108.net http://makomako108.net/2017/03/17/toss-riyu/
 mangaloo.jp http://mangaloo.jp/
 mantan-web.jp http://mantan-web.jp/2017/03/08/20170308dog00m200044000c.html
 markethack.net http://markethack.net/archives/52037943.html
 medium.com https://medium.com/@YusukeIwaki/3a512605568
 megamouth.info http://www.megamouth.info/entry/2016/10/08/011446
+mein-pompan.com http://www.mein-pompan.com/entry/blog-1manyen
 menhera.jp http://menhera.jp/2108
 mess-y.com http://mess-y.com/archives/42524
 misoca.jp http://tech.misoca.jp/entry/2017/03/13/132014
@@ -186,7 +192,7 @@ saruwakakun.com http://saruwakakun.com/design/gallery/palette
 scala-lang.org https://www.scala-lang.org/blog/2017/03/14/scala-native-0.1-is-here.html
 seesaa.net http://ryouchi.seesaa.net/article/447886507.html
 seikatsu-hyakka.com https://seikatsu-hyakka.com/archives/1205
-sekkachi.com http://www.sekkachi.com/entry/statistics_35year_old
+sekkachi.com http://www.sekkachi.com/entry/cause_result_Economy
 shibayu36.org http://blog.shibayu36.org/entry/2017/03/08/212739
 shimamura.co.jp http://www.shimamura.co.jp/gakkilove/guitar/interview/hatena.html
 shimirubon.jp https://shimirubon.jp/columns/1678052
@@ -218,10 +224,13 @@ topics.or.jp http://www.topics.or.jp/localNews/news/2017/02/2017_14882573150769.
 toyokeizai.net http://toyokeizai.net/articles/-/160142
 tumblr.com http://potcla.tumblr.com/post/158144377673/%E3%81%95%E3%81%8F%E3%82%89%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%B4%84%E6%AC%BE%E6%94%B9%E5%AE%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%8C%E8
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_politics/articles/000095507.html
+tv-tokyo.co.jp http://www.tv-tokyo.co.jp/mv/you/feature/post_128576/
 twitter.com http://twitter.com/InsideCHIKIRIN/status/647679050656448512
 uedakeita.net http://diary.uedakeita.net/entry/2017/03/05/064340
 usa2016.info http://www.usa2016.info/entry/2017/03/04/190000
 valueagent.co.jp https://valueagent.co.jp/blog/6543
+vice.com http://jp.vice.com/music/how-i-fell-in-love-with-a-band-considered-by-many-to-be-the-worst-of-all-time
+wacom.com http://bamboo.wacom.com/ja/mindful-productivity/digital-notetaking-for-business/
 wantedly.com https://www.wantedly.com/companies/newpeace/post_articles/54124
 watto.nagoya http://www.watto.nagoya/entry/2017/02/28/223000
 webcreatorbox.com http://www.webcreatorbox.com/tech/object-fit/
@@ -231,7 +240,8 @@ withnews.jp http://withnews.jp/article/f0170301002qq000000000000000W03610701qq00
 wsj.com http://jp.wsj.com/articles/SB10990999303708163871104583023743177935434
 xera.jp http://www.xera.jp/entry/kaigainet
 yahoo.co.jp https://news.yahoo.co.jp/byline/kojimakeiko/20170308-00068469/
+yamato-hd.co.jp http://www.yamato-hd.co.jp/news/h28/h28_123_01news.html
 yogurtgeek.com http://www.yogurtgeek.com/entry/bioengineering
-youtube.com http://www.youtube.com/watch?v=N2yInhkzvns
+youtube.com http://www.youtube.com/watch?v=8YZlQXBoevo
 yurudie.com http://yurudie.com/web/kumano001
 yutorism.jp http://www.yutorism.jp/entry/BookeepingSchedule2017
