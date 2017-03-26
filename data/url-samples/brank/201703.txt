@@ -3,11 +3,13 @@
 8020japanese.com https://8020japanese.com/japanese-sentence-structure/
 afpbb.com http://www.afpbb.com/articles/-/2877818
 airdays.net http://www.airdays.net/blogron/2017/03/06/674/
+akie-leaks.com https://akie-leaks.com/
 aloerina01.github.io https://aloerina01.github.io/javascript/vue/2017/03/08/1.html
 amamiyashion.com http://www.amamiyashion.com/entry/yutousei
 amanatusauce.com http://www.amanatusauce.com/entry/down-jacket
 amass.jp http://amass.jp/86346/
 amazon.com https://aws.amazon.com/message/41926/
+ameblo.jp http://ameblo.jp/jyusimatu105/entry-12258804271.html
 americakabu.com http://www.americakabu.com/entry/%E7%B1%B3%E5%9B%BD%E6%A0%AA%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9A%B4%E8%90%BD%E3%81%AE%E4%BA%88%E6%B8%AC
 animatetimes.com http://www.animatetimes.com/news/details.php?id=1488452395
 anomaly3-movie.com http://www.anomaly3-movie.com/entry/Human_horror_
@@ -15,9 +17,10 @@ aojiruchan.com http://aojiruchan.com/page-7016
 appdamacy.com http://www.appdamacy.com/entry/html-css-reference
 apple.com http://www.apple.com/jp/ipad-9.7/
 appmarketinglabo.net http://appmarketinglabo.net/snsgirls-wars/
-asahi.com https://dot.asahi.com/wa/2017031000056.html
+asahi.com https://dot.asahi.com/aera/2017032200058.html?viewmode=pc
 ascii.jp http://ascii.jp/elem/000/001/436/1436928/
 automaton.am http://jp.automaton.am/articles/newsjp/20170309-42268/
+barzamkun.club http://www.barzamkun.club/entry/2017/03/24/123821
 bbc.com http://www.bbc.com/japanese/39150071
 bengo4.com https://www.bengo4.com/internet/n_5852/
 biglobe.ne.jp https://news.biglobe.ne.jp/economy/0320/r25_170320_2085475088.html
@@ -73,12 +76,14 @@ exblog.jp http://brevis.exblog.jp/25540003/
 excite.co.jp http://www.excite.co.jp/News/reviewmov/20170318/E1489774956508.html
 facebook.com https://www.facebook.com/akieabe/posts/10155122586026779?pnref=story
 famitsu.com https://www.famitsu.com/news/201703/02128100.html
+fc-mado.com http://media.fc-mado.com/entry/learn_business_english
 fc2.com http://sensouhantai.blog25.fc2.com/blog-entry-1595.html
 firi.jp http://tdnetdownload.firi.jp/download/140120170312417969.pdf
 fnn-news.com http://www.fnn-news.com/news/headlines/articles/CONN00351247.html
 fool.jp http://friedrice.fool.jp/?p=954
 fooltoneet.com http://www.fooltoneet.com/entry/2017/03/07/%E3%83%A9%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E9%85%B7%E8%A9%95%E3%81%99%E3%82%8B%E4%BA%BA%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B%E3%81%8B%E3%82%89%E5%85%A8%E5%8A%9B
 foxism.jp http://www.foxism.jp/entry/2017/03/11/164430
+frau.tokyo http://frau.tokyo/_ct/17052752
 free-essence.com https://free-essence.com/affiliate-osusume-book
 freee.co.jp http://developers.freee.co.jp/entry/3-reasons-machine-learning-for-application-engineers
 frontline.fm http://frontline.fm/2016/01/14/whyganttchartdoesntwork/
@@ -121,7 +126,7 @@ id774.net http://blog.id774.net/post/2017/03/13/966/
 ign.com http://jp.ign.com/game-fable/12037/opinion/
 ikigaisagashi.com http://www.ikigaisagashi.com/entry/hinin
 impress.co.jp http://pc.watch.impress.co.jp/docs/news/1046743.html
-inte.co.jp http://workswitch-ibs.inte.co.jp/yamamoto_001/
+inte.co.jp http://workswitch-ibs.inte.co.jp/tanaka_003/
 ipa.go.jp http://isec-csm.ipa.go.jp/download/sao-security-handbook.pdf
 ismedia.jp http://gendai.ismedia.jp/articles/-/51045
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1703/01/news126.html
@@ -135,6 +140,7 @@ junichi-manga.com https://junichi-manga.com/select-keywords-by-search-console/
 jxck.io https://blog.jxck.io/entries/2017-03-02/unicode-in-javascript.html
 kahoku.co.jp http://www.kahoku.co.jp/tohokunews/201703/20170308_13022.html
 kai-you.net http://kai-you.net/article/38795
+kansou-blog.jp http://www.kansou-blog.jp/entry/2017/03/24/114601
 kaoriya.net http://mattn.kaoriya.net/software/lang/go/20170309201506.htm
 karapaia.com http://karapaia.com/archives/52234948.html
 kazuhooku.com http://blog.kazuhooku.com/2017/03/peco.html
@@ -191,7 +197,7 @@ nifty.com http://portal.nifty.com/kiji/170303198938_1.htm
 nikkan-spa.jp https://nikkan-spa.jp/1298945
 nikkansports.com http://www.nikkansports.com/entertainment/news/1786370.html
 nikkei.com http://www.nikkei.com/article/DGKKASDZ17IM6_Q7A320C1TJC000/
-nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/17/022700049/030700008/
+nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/17/032400110/
 nimuu.com http://www.nimuu.com/entry/blog-image
 nishinippon.co.jp http://www.nishinippon.co.jp/nnp/teiron/article/315815
 nitto.com http://www.nitto.com/jp/ja/tapemuseum/special/vol8/
@@ -222,6 +228,7 @@ rakuten.jp http://srdk.rakuten.jp/entry/2017/02/28/110000
 rarejob.com https://www.rarejob.com/englishlab/column/20170321/
 readthedocs.io http://python-guideja.readthedocs.io/ja/latest/
 realsound.jp http://realsound.jp/movie/2017/03/post-4278.html
+reuters.com http://jp.reuters.com/article/idJPKBN16V0GV
 rikunabi.com http://next.rikunabi.com/journal/entry/20170310_M
 rinsimpl.com http://www.rinsimpl.com/entry/2017/03/06/071230
 rubykaigi.org http://rubykaigi.org/2017
@@ -278,6 +285,7 @@ tumblr.com http://potcla.tumblr.com/post/158144377673/%E3%81%95%E3%81%8F%E3%82%8
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_politics/articles/000095507.html
 tv-tokyo.co.jp http://www.tv-tokyo.co.jp/mv/you/feature/post_128576/
 twitter.com http://twitter.com/CatNewsAgency/status/843667650999799808
+type.jp http://type.jp/et/feature/2406
 uedakeita.net http://diary.uedakeita.net/entry/2017/03/05/064340
 usa2016.info http://www.usa2016.info/entry/2017/03/04/190000
 utali.io http://www.utali.io/entry/2017/02/24/170000
