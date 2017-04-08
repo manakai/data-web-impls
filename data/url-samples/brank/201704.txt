@@ -55,7 +55,7 @@ gurinovation.com http://www.gurinovation.com/entry/2017/04/02/221839
 hateblo.jp http://razokulover.hateblo.jp/entry/2017/04/03/125053
 hatelabo.jp http://anond.hatelabo.jp/20170329074829
 hatena.ne.jp http://d.hatena.ne.jp/KenAkamatsu/20170404/p1
-hatenablog.com http://works-movie.hatenablog.com/entry/2017/04/05/200000
+hatenablog.com http://web-app.hatenablog.com/entry/2017/04/01/120944
 hatenadiary.jp http://davitrice.hatenadiary.jp/entry/2017/03/31/120638
 hayato.io https://hayato.io/2017/faq/
 hoshiiro.jp http://hoshiiro.jp/
@@ -132,6 +132,7 @@ typekit.com https://source.typekit.com/source-han-serif/jp/
 umebosi.jp http://umebosi.jp/2017/03/23/20170331/
 webcreatorbox.com http://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet/
 wired.jp http://wired.jp/2017/04/01/turing-cathedral/
+worksmovie.com http://www.worksmovie.com/entry/2017/04/05/200000
 wsj.com http://jp.wsj.com/articles/SB11885338817628184768404583055403489061948
 xera.jp http://www.xera.jp/entry/mss
 yahoo.co.jp https://news.yahoo.co.jp/byline/fuwaraizo/20170406-00069593/
