@@ -12,7 +12,7 @@ animatetimes.com http://www.animatetimes.com/news/details.php?id=1491810973
 animeanime.jp https://animeanime.jp/article/2017/04/08/33387.html
 animeeffects.org http://animeeffects.org/ja/
 appmarketinglabo.net http://appmarketinglabo.net/why-jd-ryousan/
-asahi.com https://dot.asahi.com/dot/2017040700023.html
+asahi.com https://dot.asahi.com/aera/2017041200037.html?viewmode=pc
 ascii.jp http://ascii.jp/elem/000/001/465/1465842/
 autodraw.com https://www.autodraw.com/
 automaton.am http://jp.automaton.am/articles/gamer-pick/20170409-44388/
@@ -41,12 +41,13 @@ cookforyou.jp http://cookforyou.jp/home-curry
 cookpad.com http://techlife.cookpad.com/entry/2017/04/04/180000
 courrier.jp http://courrier.jp/news/archives/82356/
 cpplover.blogspot.com https://cpplover.blogspot.com/2017/04/blog-post.html
+creativevillage.ne.jp http://www.creativevillage.ne.jp/21257
 crowdworks.jp http://engineer.crowdworks.jp/entry/2017/04/04/202719
 cucumberking.com http://www.cucumberking.com/entry/right_hand_explain
 danshihack.com http://www.danshihack.com/2017/04/05/junp/twitter-description.html
 decinormal.com http://decinormal.com/2017/04/06/my_uncle/
 dekokun.info http://dekotech.dekokun.info/entry/2017/04/04/225621
-denfaminicogamer.jp http://news.denfaminicogamer.jp/interview/morioka-usj
+denfaminicogamer.jp http://news.denfaminicogamer.jp/interview/global-games-market
 diamond.jp http://diamond.jp/articles/-/124195
 doorblog.jp http://piyonews.doorblog.jp/archives/1395073.html
 dtmstation.com http://www.dtmstation.com/archives/51993989.html
@@ -55,10 +56,12 @@ en-japan.com https://employment.en-japan.com/engineerhub/entry/2016/12/27/110000
 engadget.com http://japanese.engadget.com/2017/04/04/google-adobe-noto-serif-cjk-48/
 ex-career.org http://ex-career.org/startupceo0405/
 excite.co.jp http://www.excite.co.jp/News/society_g/20170405/Cyzo_201704_post_21621.html
+expedia.co.jp https://welove.expedia.co.jp/destination/23807/
 facebook.com https://www.facebook.com/satoshuho/posts/917277304982132
 fate-go.jp http://www.fate-go.jp/fgogo/
 fnn-news.com http://www.fnn-news.com/news/headlines/articles/CONN00354064.html
 fnshr.info http://id.fnshr.info/2017/04/06/stat201704/
+foocom.net http://www.foocom.net/column/editor/15801/
 freee.co.jp https://www.freee.co.jp/special/hifumin/
 friends-shogi.com http://friends-shogi.com/
 from-estonia-with-love.net http://www.from-estonia-with-love.net/entry/higheducation
@@ -93,6 +96,7 @@ hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/kinniku/17-00057
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/03/31/sri-lanka_n_15718492.html
 ign.com http://jp.ign.com/the-legend-of-zelda-hd/12494/opinion/
 impress.co.jp http://pc.watch.impress.co.jp/docs/column/kaigai/1054618.html
+isid.ai https://isid.ai/diary/2017/04/14/1179/
 ismedia.jp http://gendai.ismedia.jp/articles/-/51349
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1704/13/news087.html
 jalan.net http://www.jalan.net/news/article/156066/
@@ -101,6 +105,7 @@ kakitaroo.com http://www.kakitaroo.com/entry/Udemy
 kana-ri.com http://www.kana-ri.com/entry/2017/04/08/113000
 kaoriya.net http://mattn.kaoriya.net/software/lang/go/20170406003909.htm
 katagirigirito-ku.net http://www.katagirigirito-ku.net/entry/arigatou
+katsuolog.com http://www.katsuolog.com/entry/Excel-kourituka
 keikubi.com http://www.keikubi.com/entry/2017/04/03/070000
 kiji.is https://this.kiji.is/222277022510614012
 kmc.gr.jp https://www.kmc.gr.jp/2017-april/
@@ -120,6 +125,7 @@ maywadenki.com http://www.maywadenki.com/blog/2017/04/06/%E4%B8%AD%E5%9B%BD%E3%8
 medium.com https://medium.com/@d_date/bd5ddd06fb21
 mens-cool.com http://www.mens-cool.com/entry/2017/04/03/205838
 mercari.com http://tech.mercari.com/entry/2017/04/06/171430
+mindhack2ch.com http://mindhack2ch.com/articles/95390.html
 mineo.jp https://king.mineo.jp/magazines/special/557
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/21443
 monostudio.jp https://monostudio.jp/web-design-10site
@@ -135,6 +141,8 @@ netgeek.biz http://netgeek.biz/archives/94928
 nhk.or.jp http://www3.nhk.or.jp/news/html/20170331/k10010932391000.html
 nicovideo.jp http://www.nicovideo.jp/watch/sm30937828
 nifty.com http://portal.nifty.com/kiji/170404199228_1.htm
+nikkan-gendai.com https://www.nikkan-gendai.com/articles/view/news/203543?pc=true
+nikkansports.com http://www.nikkansports.com/entertainment/news/1807830.html
 nikkei.com http://www.nikkei.com/article/DGKKASDC04H2H_U7A400C1MM8000/
 nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/16/b/040700074/
 nimaime.com http://magazine.nimaime.com/thirdplace-learning/
@@ -146,6 +154,7 @@ oniten-yomu-book.com http://www.oniten-yomu-book.com/entry/nihyakunennmae
 oremaru.com http://www.oremaru.com/entry/chrome-Extensions
 oricon.co.jp http://www.oricon.co.jp/news/2088806/full/
 originalnews.nico http://originalnews.nico/17371
+pawoo.net https://pawoo.net/about
 pepabo.com https://pepabo.com/services/ssl_comic/
 pipipipipi5volts.com http://www.pipipipipi5volts.com/entry/bus-fare-change-money
 pixiv.net https://www.pixiv.net/member_illust.php?mode=medium&illust_id=62252019
@@ -165,10 +174,12 @@ riken.jp http://www.riken.jp/pr/press/2017/20170407_1/
 rocketnews24.com http://rocketnews24.com/2017/04/03/882027/
 salesforce.com https://www.salesforce.com/jp/blog/2016/03/microservices.html
 sankei.com http://www.sankei.com/affairs/news/170331/afr1703310028-n1.html
+sanspo.com http://cyclist.sanspo.com/328063
 saruwakakun.com https://saruwakakun.com/html-css/material
 sbfl.net https://sbfl.net/blog/2017/04/07/vr-1st-anniversary-impressions/
 seesaa.net http://mubou.seesaa.net/article/448957984.html
 sekkachi.com http://www.sekkachi.com/entry/Heikin_HyoujunHensa_Flow
+shigeo-ohta.com http://shigeo-ohta.com/topics147/
 shonenjump.com https://sp.shonenjump.com/p/sp/1704/01/
 shonenjumpplus.com https://shonenjumpplus.com/article/entry/yattemita_01
 slideshare.net https://www.slideshare.net/takoratta/pm-74504795
@@ -176,6 +187,7 @@ speakerdeck.com https://speakerdeck.com/mururu/elixirkariarutaimuwebniqiang-i-to
 spot-app.jp https://travel.spot-app.jp/times_yoppy/
 st-komuten.jp https://st-komuten.jp/recruit/40engineers/
 stay-minimal.com http://www.stay-minimal.com/entry/2017/04/09/170000
+sunrise-inc.co.jp http://www.sunrise-inc.co.jp/works/news/okuyami20170414.php
 syakohon.com http://syakohon.com/20170407slideshare/
 symphonic-net.com http://shimaguni.symphonic-net.com/mstdn/
 synodos.jp http://synodos.jp/economy/19437
@@ -184,6 +196,7 @@ tabi-labo.com http://tabi-labo.com/280737/how-to-polish-shoes
 tamesue.jp http://tamesue.jp/blog/archives/think/aprilfool
 tanken.com http://www.tanken.com/danmen.html
 tawashix.com http://www.tawashix.com/entry/anotherEden
+tbs.co.jp http://news.tbs.co.jp/newseye/tbs_newseye3028557.htm
 techcrunch.com http://jp.techcrunch.com/2017/03/31/banks-mfcloud-api/
 teratail.com https://teratail.com/questions/71592
 togech.jp https://togech.jp/2017/04/05/46020
@@ -200,12 +213,13 @@ waka-macha.com http://www.waka-macha.com/entry/2017/04/11/213654
 wanlovegamer.com http://www.wanlovegamer.com/entry/movie/space/eiga/uchu/osusume/youga
 webcreatorbox.com http://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet/
 wired.jp http://wired.jp/2017/04/01/turing-cathedral/
+withnews.jp http://withnews.jp/article/f0170413003qq000000000000000W01110101qq000015025A
 worksmovie.com http://www.worksmovie.com/entry/2017/04/05/200000
 world-fusigi.net http://world-fusigi.net/archives/8809436.html
 wotopi.jp http://wotopi.jp/archives/53980
 wsj.com http://jp.wsj.com/articles/SB11885338817628184768404583055403489061948
 xera.jp http://www.xera.jp/entry/iot
-yahoo.co.jp https://news.yahoo.co.jp/byline/fuwaraizo/20170406-00069593/
+yahoo.co.jp https://news.yahoo.co.jp/byline/dragoner/20170414-00069911/
 yoga-lava.com http://www.yoga-lava.com/special/dhalsim/
 yomiuri.co.jp http://www.yomiuri.co.jp/economy/20170331-OYT1T50196.html
 youtube.com http://www.youtube.com/watch?v=dP4TcP95rf8
