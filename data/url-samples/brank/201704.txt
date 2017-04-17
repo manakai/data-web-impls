@@ -5,6 +5,7 @@ agora-web.jp http://agora-web.jp/archives/2025424.html
 akirachiku.com http://akirachiku.com/2017/04/01/go-net-http-api-server-1.html
 amanatusauce.com http://www.amanatusauce.com/entry/lemon-squash
 amass.jp http://amass.jp/86847/
+amazon.co.jp https://www.amazon.co.jp/review/R2LTXN55BS485H/ref=cm_cr_rdp_perm?ie=UTF8&ASIN=4785954833
 ameblo.jp http://ameblo.jp/kiryu-in/entry-12261379918.html
 amedama.jp http://blog.amedama.jp/entry/2017/04/08/181728
 americakabu.com http://www.americakabu.com/entry/%E8%A4%87%E5%88%A9%E9%81%8B%E7%94%A8%E3%81%A8%E3%81%AF%E4%BA%BA%E7%94%9F%E3%82%92%E5%8A%87%E7%9A%84%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8B%E5%87%A6%E6%96%B9%E7%AE%8B
@@ -25,7 +26,7 @@ bucchinews.com http://bucchinews.com/subcul/6061.html
 bunshun.jp http://number.bunshun.jp/articles/-/827802
 businessinsider.jp https://www.businessinsider.jp/post-1440
 buzzap.jp http://buzzap.jp/news/20170404-moritomo-minutes-lost/
-buzzfeed.com https://www.buzzfeed.com/harunayamazaki/akb48-costume-02
+buzzfeed.com https://www.buzzfeed.com/daisukefuruta/interview-with-ikegamiakira
 cardina1.red https://blog.cardina1.red/2017/04/13/federated-social-web/
 cardloan-sophia.com http://cardloan-sophia.com/funeral-expenses/
 careerhigh.jp http://www.careerhigh.jp/entry/2017/04/04/220003
@@ -52,11 +53,14 @@ diamond.jp http://diamond.jp/articles/-/124195
 doorblog.jp http://piyonews.doorblog.jp/archives/1395073.html
 dtmstation.com http://www.dtmstation.com/archives/51993989.html
 e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/ishigaki01
+eikou.com http://kokoro.eikou.com/archives/845
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2016/12/27/110000
 engadget.com http://japanese.engadget.com/2017/04/04/google-adobe-noto-serif-cjk-48/
 ex-career.org http://ex-career.org/startupceo0405/
 excite.co.jp http://www.excite.co.jp/News/society_g/20170405/Cyzo_201704_post_21621.html
 expedia.co.jp https://welove.expedia.co.jp/destination/23807/
+explainshell.com https://explainshell.com/
+f-shin.net https://f-shin.net/fsgarage/5658
 facebook.com https://www.facebook.com/satoshuho/posts/917277304982132
 fate-go.jp http://www.fate-go.jp/fgogo/
 fnn-news.com http://www.fnn-news.com/news/headlines/articles/CONN00354064.html
@@ -106,12 +110,15 @@ kana-ri.com http://www.kana-ri.com/entry/2017/04/08/113000
 kaoriya.net http://mattn.kaoriya.net/software/lang/go/20170406003909.htm
 katagirigirito-ku.net http://www.katagirigirito-ku.net/entry/arigatou
 katsuolog.com http://www.katsuolog.com/entry/Excel-kourituka
+kawahanashobo.com http://www.kawahanashobo.com/entry/%E8%A1%97%E3%81%AE%E6%9C%AC%E5%B1%8B%E3%81%95%E3%82%93%E3%81%8C%E3%83%89%E3%83%B3%E3%83%89%E3%83%B3%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99_!_%E3%82%A2%E3%83%9E%E3%82%BE
 keikubi.com http://www.keikubi.com/entry/2017/04/03/070000
 kiji.is https://this.kiji.is/222277022510614012
 kmc.gr.jp https://www.kmc.gr.jp/2017-april/
+kura-corpo.co.jp http://www.kura-corpo.co.jp/release/170414.html
 kymmt.com http://blog.kymmt.com/entry/take-my-money
 kyoko-np.net http://kyoko-np.net/owabi_170406.html
 lindalindapanda.com http://www.lindalindapanda.com/entry/honyataisyo
+lineblog.me http://lineblog.me/atshikonakata/archives/363747.html
 lite-ra.com http://lite-ra.com/2017/04/post-3059.html
 livedoor.jp http://blog.livedoor.jp/blackwingcat/archives/1947324.html
 locafra.com http://locafra.com/2017/04/03/%E3%83%87%E3%83%9E%E3%81%AB%E6%83%91%E3%82%8F%E3%81%95%E3%82%8C%E3%82%8B%E3%81%AA%EF%BC%81%E8%89%B2%E3%80%85%E3%81%A8%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%80%8C%E3%83%AC%E3%82%B4%E3%83%A9%E3%83%B3%E3%83%89/
@@ -132,6 +139,7 @@ monostudio.jp https://monostudio.jp/web-design-10site
 mos.jp http://mos.jp/cp/april1_2017/
 mtrl.tokyo http://blog.mtrl.tokyo/17047
 n-styles.com http://n-styles.com/main/archives/2017/04/14-054444.php
+namtyu.com http://www.namtyu.com/entry/toeic900
 naver.jp https://matome.naver.jp/odai/2149145661127983501
 nay3.net http://blog.nay3.net/entry/2017/04/education-not-to-use-anger
 ncaq.net https://www.ncaq.net/2017/04/12/
@@ -149,6 +157,7 @@ nimaime.com http://magazine.nimaime.com/thirdplace-learning/
 nimonoism.com http://www.nimonoism.com/entry/dangan
 nintendo.co.jp https://www.nintendo.co.jp/3ds/ajjj/0401/index.html
 note.mu https://note.mu/r45shachou/n/ncf1bbd2422a1
+okane-hosoku.com http://okane-hosoku.com/foreign-exchange-mechanism/
 omocoro.jp http://omocoro.jp/kiji/106658/
 oniten-yomu-book.com http://www.oniten-yomu-book.com/entry/nihyakunennmae
 oremaru.com http://www.oremaru.com/entry/chrome-Extensions
@@ -179,6 +188,7 @@ saruwakakun.com https://saruwakakun.com/html-css/material
 sbfl.net https://sbfl.net/blog/2017/04/07/vr-1st-anniversary-impressions/
 seesaa.net http://mubou.seesaa.net/article/448957984.html
 sekkachi.com http://www.sekkachi.com/entry/Heikin_HyoujunHensa_Flow
+shibayu36.org http://blog.shibayu36.org/entry/2017/04/15/222451
 shigeo-ohta.com http://shigeo-ohta.com/topics147/
 shonenjump.com https://sp.shonenjump.com/p/sp/1704/01/
 shonenjumpplus.com https://shonenjumpplus.com/article/entry/yattemita_01
@@ -222,6 +232,7 @@ xera.jp http://www.xera.jp/entry/iot
 yahoo.co.jp https://news.yahoo.co.jp/byline/dragoner/20170414-00069911/
 yoga-lava.com http://www.yoga-lava.com/special/dhalsim/
 yomiuri.co.jp http://www.yomiuri.co.jp/economy/20170331-OYT1T50196.html
+yomu-kokkai.com http://www.yomu-kokkai.com/entry/2017/04/14/194909
 youtube.com http://www.youtube.com/watch?v=dP4TcP95rf8
 yukisako.xyz http://www.yukisako.xyz/entry/howtoprogramming
 yutty.jp http://yutty.jp/archives/kemofure-kerorin-1/
