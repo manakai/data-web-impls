@@ -1,6 +1,7 @@
 360-degrees.jp https://kyodai.360-degrees.jp/articles/35
 8deeds.com http://www.8deeds.com/englishhukushu.htm
 afpbb.com http://www.afpbb.com/articles/-/3126949
+akiyan.com https://www.akiyan.com/blog/archives/2007/02/post_81.html
 amanatusauce.com http://www.amanatusauce.com/entry/sanrio
 amazon.com https://aws.amazon.com/jp/solutions/case-studies/nintendo-dena/
 animatetimes.com http://www.animatetimes.com/news/details.php?id=1493694301
@@ -26,7 +27,7 @@ chishikiyoku.com http://www.chishikiyoku.com/entry/x-kai
 chroju.github.io https://chroju.github.io/blog/2015/10/04/individual-github-flow/
 classmethod.jp http://dev.classmethod.jp/tool/dbeaver-is-free-universal-sql-client-tool/
 cocolog-nifty.com http://finalvent.cocolog-nifty.com/fareastblog/2017/05/post-4dad.html
-codeiq.jp https://codeiq.jp/magazine/2017/05/51112/
+codeiq.jp https://codeiq.jp/magazine/2017/05/50869/
 colombiacolom.net http://www.colombiacolom.net/entry/english-21
 connehito.com http://tech.connehito.com/entry/2017/05/02/152238
 cpplover.blogspot.com https://cpplover.blogspot.com/2017/05/2017.html
@@ -42,25 +43,29 @@ dtmstation.com http://www.dtmstation.com/archives/51995450.html
 e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/dango06
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/04/21/110000
 engadget.com http://japanese.engadget.com/2017/04/29/dmm-4-2380/
+etf-gateway.jp https://www.etf-gateway.jp/beginner-course-01/
 fc2.com http://yamanashirei.blog86.fc2.com/blog-entry-2266.html
+fcart.jp https://akasugu.fcart.jp/taikenki/entry/2017/04/24/special0995
 feely.jp https://feely.jp/66434/
 gamesindustry.biz http://jp.gamesindustry.biz/article/1705/17050902/
 gentosha.jp http://www.gentosha.jp/articles/-/7599
 gigazine.net http://gigazine.net/news/20170505-ssh-port-number-22/
 github.com https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
 gizmodo.jp http://www.gizmodo.jp/2017/05/10-banned-censored-and-controversial-movies.html
+gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/football/3992
 goboiano.com http://goboiano.com/japan-puts-anime-in-zoo-and-penguin-adopts-a-waifu/
 goo.ne.jp http://blog.goo.ne.jp/yukks453145/e/86e642b42fc7b4ce82fd82e2bc2e74a0
 google.com https://developers.google.com/web/updates/2017/04/headless-chrome
 gu-none.com http://www.gu-none.com/entry/rohnin
+gurinovation.com http://www.gurinovation.com/entry/sapporolove
 gurum.biz http://www.gurum.biz/archives/68642459.html
 hamusoku.com http://hamusoku.com/archives/9549554.html
 hand-and-foot.com https://www.hand-and-foot.com/178
 hateblo.jp http://xavier.hateblo.jp/entry/2017/05/08/071834
 hatebu.me http://hatebu.me/entry/2017/04/30/200117
-hatelabo.jp http://anond.hatelabo.jp/20170429110724
+hatelabo.jp http://anond.hatelabo.jp/20170404162320
 hatena.ne.jp http://d.hatena.ne.jp/himaginary/20170507/Vanishing_Middle_Class
-hatenablog.com http://topisyu.hatenablog.com/entry/learning_custom
+hatenablog.com http://yuheiy.hatenablog.com/entry/2017/05/08/221206
 hatenablog.jp http://toulezure.hatenablog.jp/entry/2017/05/09/211615
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20170507/1494144000
 hatenadiary.jp http://toshikoro.hatenadiary.jp/entry/%E3%82%A2%E3%83%8B%E3%83%A1-%E7%88%86%E6%AD%BB%E3%81%99%E3%82%8B%E3%82%AE%E3%83%A3%E3%82%B0%E3%82%A2%E3%83%8B%E3%83%A1
@@ -73,6 +78,7 @@ houdoukyoku.jp https://www.houdoukyoku.jp/posts/11027
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/05/01/library_n_16376498.html
 hulu-japan.jp http://hulu-japan.jp/newhulu/info.html
 huuuu.jp http://blog.huuuu.jp/entry/makura
+iij.ad.jp http://techlog.iij.ad.jp/archives/2219
 impress.co.jp http://pc.watch.impress.co.jp/docs/news/1058153.html
 inte.co.jp http://workswitch-ibs.inte.co.jp/yamamoto_002/
 irorio.jp https://irorio.jp/takumiurushidate/20170503/397831/
@@ -92,6 +98,7 @@ lite-ra.com http://lite-ra.com/2017/05/post-3135.html
 livedoor.biz http://lifehack2ch.livedoor.biz/archives/51655664.html
 livedoor.com http://news.livedoor.com/article/detail/13004667/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1923567.html
+livejapan.com https://livejapan.com/ja/article/a0001157/
 maeharakazuhiro.com http://maeharakazuhiro.com/packing-bag/
 mainichi.jp https://mainichi.jp/articles/20170501/k00/00m/010/109000c
 mana-cat.com http://www.mana-cat.com/entry/2017/05/06/115111
@@ -119,6 +126,7 @@ nikkei.com http://www.nikkei.com/article/DGXLASFB01H73_R00C17A5000000/
 nikkeibp.co.jp http://trendy.nikkeibp.co.jp/atcl/pickup/15/1003590/042700904/
 note.mu https://note.mu/etomiho/n/n3e42445b8bb5
 nubatamanon.com http://www.nubatamanon.com/entry/2017/04/30/175556
+nuwton.com http://nuwton.com/feature/13464/
 ogura.blog http://www.ogura.blog/entry/2017/05/10/200559
 omocoro.jp http://omocoro.jp/kiji/108918/
 ongakunojouhou.com http://www.ongakunojouhou.com/entry/2017/05/09/222002
@@ -126,7 +134,7 @@ orefolder.net http://www.orefolder.net/blog/2017/05/google-map-photo-upload/
 oricon.co.jp http://www.oricon.co.jp/news/2090179/full/
 originalnews.nico http://originalnews.nico/19387
 photoshopvip.net http://photoshopvip.net/100957
-publickey1.jp http://www.publickey1.jp/blog/17/gitsourcetree_for_windows_20uigit_virtual_file_system.html
+publickey1.jp http://www.publickey1.jp/blog/17/bash_on_windowsubuntufedoraopensusewindows_storebuild_2017.html
 qiita.com http://qiita.com/FL4TLiN3/items/07f1654f997acee6a16c
 quercuswell.com http://www.quercuswell.com/entry/baddrummer170502
 rakuten.jp http://srdk.rakuten.jp/entry/2017/03/17/110000
@@ -146,6 +154,7 @@ shonenjumpplus.com https://shonenjumpplus.com/episode/13932016480028878408
 soccer-king.jp https://www.soccer-king.jp/news/japan/jl/20170504/583840.html
 speakerdeck.com https://speakerdeck.com/naotobt/sorosorowebpacktozhen-jian-nixiang-kihe-tutemiru
 spot-app.jp https://travel.spot-app.jp/shibuya_matsuzawa/
+ssig33.com http://diary.app.ssig33.com/237
 stormcat.io http://blog.stormcat.io/entry/reactive-data-transfer
 studyhacker.net http://studyhacker.net/columns/okr-kangaekata
 sugatareiji.com http://www.sugatareiji.com/entry/osusowake
@@ -162,6 +171,7 @@ torausaencho.com http://www.torausaencho.com/entry/hatenabookmark
 toushi-kyokasho.com http://toushi-kyokasho.com/how-i-succeed-in-fxs/
 toyokeizai.net http://toyokeizai.net/articles/-/169906
 tukishiro01.com http://www.tukishiro01.com/entry/seikan_kokoranaikotoba
+tv-asahi.co.jp http://news.tv-asahi.co.jp/news_politics/articles/000100508.html
 twitter.com http://twitter.com/hatakenjiro/status/859389832807591938
 umablo.net http://www.umablo.net/entry/Easily_soften_chicken_breast_meat
 vice.com http://jp.vice.com/music/from-charity-shops-to-garbage-dumps-how-one-guy-made-a-career-out-of-hunting-old-vinyl
@@ -174,7 +184,7 @@ wotopi.jp http://wotopi.jp/archives/34729
 yahoo.co.jp https://news.yahoo.co.jp/byline/shinodahiroyuki/20170508-00070752/
 yakult-swallows.co.jp http://www.yakult-swallows.co.jp/pages/fanclub/honorary_member/murakami#a05
 yomu-kokkai.com http://www.yomu-kokkai.com/entry/read-yomiuri
-youtube.com http://www.youtube.com/watch?v=D_v1WyDROh4
+youtube.com http://www.youtube.com/watch?v=3yoJY0IqiV0
 yuasayo1013.com http://www.yuasayo1013.com/entry/2017/05/09/%E8%AD%A6%E5%AF%9F%E5%AE%98%E3%81%AE%E5%8F%8B%E3%81%A0%E3%81%A1%E3%81%AE%E7%B5%90%E5%A9%9A%E5%BC%8F%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E3%80%8C%E3%81%93%E3%81%AE%E5%9B%BD%E3%81%AF%E3%82%82
 yukisako.xyz http://www.yukisako.xyz/entry/average
 yurudie.com http://yurudie.com/foodexpenses/kanou004
