@@ -50,6 +50,7 @@ corobuzz.com http://corobuzz.com/archives/96568
 cpplover.blogspot.com https://cpplover.blogspot.com/2017/05/2017.html
 creativememomemo.com http://creativememomemo.com/fontsize_vmin/
 crosslab.xyz https://blog.crosslab.xyz/2017/05/02/%E3%80%8C%E3%83%95%E3%83%AA%E3%83%BC%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9%E3%80%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E8%B8%8F%E3%81%BF%E8%BE%BC%E3%82%93%E3%81%A7/
+cybozu.co.jp https://cybozushiki.cybozu.co.jp/articles/m001284.html
 dailyshincho.jp https://www.dailyshincho.jp/article/2016/02280515/?all=1
 danran-family.com http://danran-family.com/get-smartbody-6points-2784
 danshihack.com http://www.danshihack.com/2017/05/14/junp/rpg-music.html
@@ -77,6 +78,7 @@ famitsu.com https://www.famitsu.com/news/201705/17132636.html
 fc2.com http://yoicomic.blog24.fc2.com/blog-entry-488.html
 fcart.jp https://akasugu.fcart.jp/taikenki/entry/2017/04/24/special0995
 feely.jp https://feely.jp/66434/
+flopdesign.com http://www.flopdesign.com/blog/font/5228/
 fudousan-kyokasho.com http://fudousan-kyokasho.com/1-million-yen-operation-8255
 gakkimania.jp http://gakkimania.jp/freak/109
 gamesindustry.biz http://jp.gamesindustry.biz/article/1705/17050902/
@@ -140,6 +142,7 @@ karapaia.com http://karapaia.com/archives/52238753.html
 keens.github.io http://keens.github.io/blog/2017/04/30/memoritosutakkutohi_puto/
 kiji.is https://this.kiji.is/232156120851988483
 kinbricksnow.com http://kinbricksnow.com/archives/51995651.html
+kireinokyoushitu.com https://kireinokyoushitu.com/diet-exercise-time
 kk3marketer.com http://www.kk3marketer.com/entry/blog-kanjyou-marketing
 kobelalpedhuez.blogspot.com http://kobelalpedhuez.blogspot.com/2017/03/blog-post_29.html
 koka-opencampus.com https://www.koka-opencampus.com/
@@ -150,6 +153,7 @@ kyouikushigakkai.jp http://kyouikushigakkai.jp/info/2017/0508115621
 laundrygirl.jp http://laundrygirl.jp/articles-089
 lawson.co.jp http://www.lhe.lawson.co.jp/news/d4fe78478a2486792775c7d2a79d4873.pdf
 ldblog.jp http://nijigenkisei.ldblog.jp/archives/49980980.html
+lifehacker.jp https://www.lifehacker.jp/2017/05/170523_bad_habits.html
 lite-ra.com http://lite-ra.com/2017/05/post-3135.html
 livedoor.biz http://lifehack2ch.livedoor.biz/archives/51655664.html
 livedoor.com http://news.livedoor.com/article/detail/11354281/
@@ -225,6 +229,7 @@ ryo-prog.com http://ryo-prog.com/sitecreator/responsive2template/
 ryoanna.com http://www.ryoanna.com/entry/2017/05/01/070000
 ryuzee.com http://www.ryuzee.com/contents/blog/7110
 s-kimamaniotalife.jp http://www.s-kimamaniotalife.jp/entry/2017/05/06/235233
+sakagami3.com http://www.sakagami3.com/entry/2017/05/23/115049
 sakura.ad.jp http://knowledge.sakura.ad.jp/other/8752/
 sakura.ne.jp http://torabel-torara.sakura.ne.jp/the-world/?p=7665
 sankei.com http://www.sankei.com/economy/news/170516/ecn1705160013-n1.html
@@ -237,12 +242,14 @@ sekkachi.com http://www.sekkachi.com/entry/what_is_bibun
 shina-sadame.com https://shina-sadame.com/square-enix-backstory/
 shiropen.com http://shiropen.com/2017/05/14/24914
 shonenjumpplus.com https://shonenjumpplus.com/episode/13932016480028878408
+slideshare.net https://www.slideshare.net/takafumionaka/ss-67295489
 smhn.info https://smhn.info/201705-hulu-kaiyaku-matome
 soccer-king.jp https://www.soccer-king.jp/news/japan/jl/20170504/583840.html
 speakerdeck.com https://speakerdeck.com/chiiia12/xin-zu-2nian-mu-gaduan-eraretakodorebiyudao-chang-number-jjug-ccc-number-ccc-l3
 spot-app.jp https://travel.spot-app.jp/shibuya_matsuzawa/
 srad.jp https://yro.srad.jp/story/17/05/22/0751229/
 ssig33.com http://diary.app.ssig33.com/237
+stackoverflow.blog https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/
 stormcat.io http://blog.stormcat.io/entry/reactive-data-transfer
 studyhacker.net http://studyhacker.net/columns/okr-kangaekata
 sugatareiji.com http://www.sugatareiji.com/entry/osusowake
