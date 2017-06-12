@@ -1,4 +1,5 @@
 4gamer.net http://www.4gamer.net/games/360/G036024/20170605065/
+a-listers.jp https://tech.a-listers.jp/2012/07/25/new-programming-jargon/
 afpbb.com http://www.afpbb.com/articles/-/3130305
 alfalfalfa.com http://alfalfalfa.com/articles/187988.html
 all-nationz.com http://www.all-nationz.com/archives/1066199807.html
@@ -13,6 +14,7 @@ avexnet.or.jp https://ssl.avexnet.or.jp/tm/getwild/
 axia.co.jp http://axia.co.jp/2017-06-08
 bbc.com http://www.bbc.com/japanese/40116193
 bunshun.jp http://bunshun.jp/articles/-/2694
+businessinsider.jp https://www.businessinsider.jp/post-34264
 buzzap.jp http://buzzap.jp/news/20170603-angels-egg/
 buzzfeed.com https://www.buzzfeed.com/jp/bfjapannews/cf-stl
 cardmics.com http://news.cardmics.com/entry/famima-tpoint-dattaishisa/
@@ -26,6 +28,7 @@ cnn.co.jp https://www.cnn.co.jp/fringe/35102205.html
 cocolog-nifty.com http://dpz.cocolog-nifty.com/q/2017/06/post-6b34.html
 coliss.com http://coliss.com/articles/browser/chrome/1click-all-apps-and-services-of-google.html
 cookpad.com http://techlife.cookpad.com/entry/timeseries-database-001
+courrier.jp https://courrier.jp/news/archives/87852/
 datsumo-collection.com http://www.datsumo-collection.com/talk-to-myself/100-kin/
 denfaminicogamer.jp http://news.denfaminicogamer.jp/kikakuthetower/a_5th_of_bitsummit
 designer-draft.jp https://designer-draft.jp/articles/10
@@ -43,18 +46,21 @@ fc2.com http://yamanashirei.blog86.fc2.com/blog-entry-2276.html
 fladdict.net http://fladdict.net/blog/2017/06/qr.html
 front-row.jp http://front-row.jp/_ct/17085557
 fudousansatei-field.net http://www.fudousansatei-field.net/%E4%B8%8D%E5%8B%95%E7%94%A3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%B3%E3%83%A9%E3%83%A0/%E5%AE%B6%E3%82%92%E5%A3%B2%E3%82%8B%E3%81%AA%E3%82%892018%E5%B9%B4%E3%82%88%E3%82%8A%E5%89%8D%E3%80%81%E5%AE%B6%E3%82%92%E8%B2
+fujitv.co.jp http://www.fujitv.co.jp/thenonfx/
 getnews.jp http://getnews.jp/archives/1772612
 gigazine.net http://gigazine.net/news/20170531-australian-ship-arrived-japan-1830/
-gizmodo.jp http://www.gizmodo.jp/2017/06/apple-refreshes-the-entire-macbook-line-up.html
+gizmodo.jp http://www.gizmodo.jp/2017/06/apple-deathnote-2017.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/football/4041
 gogotsu.com http://gogotsu.com/archives/29884
 goo.ne.jp http://blog.goo.ne.jp/keisai-dousureba/e/4ca105e6d4acd45c30a9e3460393fac1
 goodpatch.com http://goodpatch.com/blog/dialog-design/
+grapee.jp http://grapee.jp/342929
+gyakushu.net http://blog.gyakushu.net/entry/pakuri
 hateblo.jp http://naruse.hateblo.jp/entry/2017/06/02/203441
 hatelabo.jp http://anond.hatelabo.jp/20161028235137
 hatena.ne.jp http://d.hatena.ne.jp/Yashio/20170531/1496239426
 hatenablog.com http://yoppymodel.hatenablog.com/entry/2017/06/06/224921
-hatenablog.jp http://miyalog.hatenablog.jp/entry/2016/06/01/105515
+hatenablog.jp http://okayasu.hatenablog.jp/entry/2017/06/10/123535
 hatenadiary.com http://yabamichan.hatenadiary.com/entry/2017/06/02/103739
 hatenadiary.jp http://yutaszk23.hatenadiary.jp/entry/2017/06/02/234505
 hatenanews.com http://hatenanews.com/articles/2017/06/06/120000
@@ -73,6 +79,7 @@ itmedia.co.jp http://www.itmedia.co.jp/business/articles/1706/08/news136.html
 j-cast.com https://www.j-cast.com/2017/05/31299341.html
 jftc.go.jp http://www.jftc.go.jp/cprc/conference/index.files/170331data02.pdf
 jiji.com http://www.jiji.com/jc/article?k=2017060101319&g=pol
+kadokawa-pictures.jp http://www.kadokawa-pictures.jp/official/hyouka/
 kaoriya.net http://mattn.kaoriya.net/software/lang/go/20170602113221.htm
 karapaia.com http://karapaia.com/archives/52240085.html
 kayac.com http://techblog.kayac.com/webcamera-preview-for-ios11
@@ -80,6 +87,7 @@ kiji.is https://this.kiji.is/242931870788108294
 kk3marketer.com http://www.kk3marketer.com/entry/Writing-Skill-up
 kosodateiruka.com http://www.kosodateiruka.com/entry/discipline
 kouritsu30.com http://www.kouritsu30.com/entry/2017/05/31/190000
+labaq.com http://labaq.com/archives/51884802.html
 lite-ra.com http://lite-ra.com/2017/06/post-3207.html
 livedoor.biz http://lifehack2ch.livedoor.biz/archives/51642213.html
 livedoor.com http://news.livedoor.com/article/detail/13174441/
@@ -96,6 +104,7 @@ mynavi.jp http://news.mynavi.jp/news/2017/06/02/249/
 netank.net http://diary.netank.net/entry/2017/06/07/202630
 netgeek.biz http://netgeek.biz/archives/97467
 nhk.or.jp http://www3.nhk.or.jp/news/html/20170531/k10011002041000.html
+nicovideo.jp http://news.nicovideo.jp/watch/nw2823774
 nifty.com http://portal.nifty.com/kiji/170531199757_1.htm
 nikkansports.com http://www.nikkansports.com/general/nikkan/news/1832407.html
 nikkei.com http://www.nikkei.com/article/DGKKZO17212120S7A600C1EA1000/
@@ -114,10 +123,13 @@ qnyp.com http://blog.qnyp.com/2017/06/08/graphql-resources/
 rakuten.jp http://srdk.rakuten.jp/entry/2017/05/30/110000
 recomtank.com http://www.recomtank.com/entry/categorization
 recruit-tech.co.jp https://recruit-tech.co.jp/blog/2017/06/07/bootcamp2017/
+rsk26.com http://www.rsk26.com/entry/midorisushi
 sankei.com http://www.sankei.com/politics/news/170608/plt1706080021-n1.html
 sanspo.com http://www.sanspo.com/soccer/news/20170531/sci17053123050006-n1.html
+saruwakakun.com https://saruwakakun.com/it/web/chrome-extensions
 seesaa.net http://nofrills.seesaa.net/article/uk-general-election-maidenhead-elmo-buckethead.html
 sekkachi.com http://www.sekkachi.com/entry/what_is_HoujunHensa
+shibuya-biyou.com http://shibuya-biyou.com/topics/column
 shinoegg.com http://blog.shinoegg.com/entry/2017/06/02/112058
 sirabee.com https://sirabee.com/2017/06/07/20161147876/
 sitefactory.info http://riron.sitefactory.info/
@@ -125,6 +137,7 @@ slideshare.net https://www.slideshare.net/ockeghem/uxvssec20170609
 smartnews.com https://developer.smartnews.com/blog/2017/06/sparse-neural-network/
 soumu.go.jp http://www.soumu.go.jp/menu_news/kaiken/01koho01_02000594.html
 speakerdeck.com https://speakerdeck.com/garbagetown/oauth-2-dot-0-wokamikudaku
+sponichi.co.jp http://www.sponichi.co.jp/entertainment/news/2017/06/10/kiji/20170610s00041000123000c.html
 spot-app.jp https://travel.spot-app.jp/yamanote_line_miyake/
 srad.jp https://srad.jp/story/17/06/02/0642215/
 sushi.money http://blog.sushi.money/entry/2017/06/02/020802
@@ -147,6 +160,7 @@ yahoo.co.jp https://news.yahoo.co.jp/byline/bradymikako/20170531-00071556/
 yakst.com https://yakst.com/ja/posts/4522
 yomiuri.co.jp http://www.yomiuri.co.jp/economy/20170606-OYT1T50105.html
 youtube.com http://www.youtube.com/watch?v=dajpqaThpO4
+ysklog.net http://ysklog.net/pc/5298.html
 yugablog.com http://www.yugablog.com/entry/stock-management
 yurukuyaru.com http://yurukuyaru.com/archives/71170938.html
 zuuonline.com https://zuuonline.com/archives/153206
