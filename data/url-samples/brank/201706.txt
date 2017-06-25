@@ -7,7 +7,9 @@ aiming-inc.com https://aiming-inc.com/ja/news/2017/0621-%E3%80%8E%E5%89%A3%E3%81
 akira-blog.com http://www.akira-blog.com/entry/2017/06/17/000409
 alfalfalfa.com http://alfalfalfa.com/articles/187988.html
 all-nationz.com http://www.all-nationz.com/archives/1066199807.html
+already-match.com http://www.already-match.com/entry/2017/06/23/160000
 amanatusauce.com http://www.amanatusauce.com/entry/saizeriya
+amazon.co.jp https://www.amazon.co.jp/review/R1LVBYEW5GTI2/
 amazon.com https://aws.amazon.com/jp/summit2017-report/details/
 americakabu.com http://www.americakabu.com/entry/%E3%81%8A%E9%87%91%E3%81%AE%E5%A2%97%E3%82%84%E3%81%97%E6%96%B9_1
 animatetimes.com http://www.animatetimes.com/news/details.php?id=1496382578
@@ -16,6 +18,7 @@ appmarketinglabo.net http://appmarketinglabo.net/mechakari/
 aqua2ch.net http://aqua2ch.net/archives/50205347.html
 asahi.com https://dot.asahi.com/wa/2017060200048.html
 asokata.com http://www.asokata.com/entry/amazon-anime
+asukashinsha.co.jp http://www.asukashinsha.co.jp/news/n20297.html
 automatetheboringstuff.com https://automatetheboringstuff.com/
 automaton.am http://jp.automaton.am/articles/gamer-pick/20170611-48464/
 avexnet.or.jp https://ssl.avexnet.or.jp/tm/getwild/
@@ -27,10 +30,12 @@ bengo4.com https://www.bengo4.com/houmu/17/1263/n_6263/
 beproud.jp http://shacho.beproud.jp/entry/2017/06/15/150726
 biz-journal.jp http://biz-journal.jp/2017/06/post_19468.html
 blogos.com http://blogos.com/article/228312/
+bucchinews.com http://bucchinews.com/subcul/6118.html
 bunshun.jp http://bunshun.jp/articles/-/2694
 businessinsider.jp https://www.businessinsider.jp/post-34264
 buzzap.jp http://buzzap.jp/news/20170603-angels-egg/
 buzzfeed.com https://www.buzzfeed.com/jp/akikokobayashi/ayaka-shiomura
+cakes.mu https://cakes.mu/posts/16620
 cardmics.com http://news.cardmics.com/entry/famima-tpoint-dattaishisa/
 careerconnection.jp https://news.careerconnection.jp/?p=36612
 cheer-up.info http://www.cheer-up.info/entry/2017/06/03/154003
@@ -64,7 +69,7 @@ e-aidem.com http://www.e-aidem.com/ch/jimocoro/entry/kouda003
 econdays.net http://econdays.net/?p=9121
 edoriver.com http://www.edoriver.com/entry/kaorinbustour
 election.ne.jp http://www.election.ne.jp/10840/99642.html
-en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/04/28/110000
+en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/04/21/110000
 engadget.com http://japanese.engadget.com/2017/06/01/dlife-6-17/
 eraitencho.blogspot.com http://eraitencho.blogspot.com/2017/06/blog-post_16.html
 exblog.jp http://wivern.exblog.jp/26930088/
@@ -96,7 +101,7 @@ hateblo.jp http://naruse.hateblo.jp/entry/2017/06/02/203441
 hatebu.me http://hatebu.me/entry/2017/06/11/085241
 hatelabo.jp https://anond.hatelabo.jp/20161028235137
 hatena.ne.jp http://h.hatena.ne.jp/maicou/299855181131497802
-hatenablog.com http://yoppymodel.hatenablog.com/entry/2017/06/06/224921
+hatenablog.com http://yoshidashingo.hatenablog.com/entry/serverlss-usecases-2017
 hatenablog.jp http://womankind.hatenablog.jp/entry/2017/06/17/122314
 hatenadiary.com http://yabamichan.hatenadiary.com/entry/2017/06/02/103739
 hatenadiary.jp http://yutaszk23.hatenadiary.jp/entry/2017/06/02/234505
@@ -121,6 +126,7 @@ ismedia.jp http://jbpress.ismedia.jp/articles/-/50190
 issizzz.com http://www.issizzz.com/entry/2017/06/09/185146
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1706/08/news136.html
 itopan.com http://www.itopan.com/entry/2017/06/16/210726
+iwakifc.com https://iwakifc.com/news/20170623_1.php
 j-cast.com https://www.j-cast.com/2017/05/31299341.html
 jal.co.jp http://press.jal.co.jp/ja/release/201706/004314.html
 jftc.go.jp http://www.jftc.go.jp/cprc/conference/index.files/170331data02.pdf
@@ -162,6 +168,7 @@ mbs.jp http://www.mbs.jp/news/kansai/20170619/00000056.shtml
 mediocrity-blog.com http://www.mediocrity-blog.com/entry/psvita-osusume
 medium.com https://medium.com/@masatadokoro/9b1e144204af
 mercari.com https://www.mercari.com/jp/info/20170622_incident_report/
+merumo.ne.jp http://news.merumo.ne.jp/article/genre/6223288
 milieu.ink http://milieu.ink/interview/takagi_masakatsu
 minako-amamiya.xyz http://www.minako-amamiya.xyz/entry/syonanto
 moae.jp http://www.moae.jp/comic/dokushinol/99
@@ -178,7 +185,7 @@ nifty.com http://portal.nifty.com/kiji/170531199757_1.htm
 nikkan.co.jp https://www.nikkan.co.jp/articles/view/00432807
 nikkansports.com https://www.nikkansports.com/general/nikkan/news/1841445.html
 nikkei.com http://www.nikkei.com/article/DGKKASFS15H1M_V10C17A6EE8000/
-nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/17/061400222/
+nikkeibp.co.jp http://techon.nikkeibp.co.jp/atcl/column/15/032700107/060900010/
 nobuogohara.com https://nobuogohara.com/2017/06/05/%E8%AA%AD%E5%A3%B2%E6%96%B0%E8%81%9E%E3%81%AF%E6%AD%BB%E3%82%93%E3%81%A0%E3%81%AB%E7%AD%89%E3%81%97%E3%81%84/
 nook.blue https://nook.blue/?p=769
 note.mu https://note.mu/hirarisa_lv0/n/nddc41d5ec03a
@@ -254,7 +261,7 @@ toyokeizai.net http://toyokeizai.net/articles/-/174148
 trafficnews.jp https://trafficnews.jp/post/72972/
 tumblr.com http://y-yagi.tumblr.com/post/161406680990/bootsnap%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_international/articles/000102956.html
-twitter.com http://twitter.com/H_KANNA_0203/status/871865582408220672
+twitter.com http://twitter.com/Eriko_imai/status/878072125252182017
 visualstudio.com https://www.visualstudio.com/ja/team-services/git/
 wanabe.net http://www.wanabe.net/entry/majime
 webprofessional.jp https://www.webprofessional.jp/anatomy-of-a-modern-javascript-application/
