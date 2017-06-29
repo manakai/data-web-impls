@@ -12,6 +12,7 @@ already-match.com http://www.already-match.com/entry/2017/06/23/160000
 amanatusauce.com http://www.amanatusauce.com/entry/saizeriya
 amazon.co.jp https://www.amazon.co.jp/review/R1LVBYEW5GTI2/
 amazon.com https://aws.amazon.com/jp/summit2017-report/details/
+ameblo.jp https://ameblo.jp/matsui-kazuyo/entry-12287330137.html
 americakabu.com http://www.americakabu.com/entry/%E3%81%8A%E9%87%91%E3%81%AE%E5%A2%97%E3%82%84%E3%81%97%E6%96%B9_1
 animatetimes.com http://www.animatetimes.com/news/details.php?id=1496382578
 apple.com https://www.apple.com/jp/imac-pro/
@@ -108,6 +109,7 @@ goodpatch.com http://goodpatch.com/blog/dialog-design/
 grapee.jp http://grapee.jp/342929
 gururimichi.com http://blog.gururimichi.com/entry/2017/06/15/194037
 gyakushu.net http://blog.gyakushu.net/entry/pakuri
+hada-club.jp http://hada-club.jp/popular-among-dating
 hateblo.jp http://vector.hateblo.jp/entry/2017/06/24/122724
 hatebu.me http://hatebu.me/entry/2017/06/11/085241
 hatelabo.jp https://anond.hatelabo.jp/20161028235137
@@ -129,6 +131,7 @@ honcierge.jp https://honcierge.jp/articles/interview/1
 honz.jp http://honz.jp/articles/-/44084
 hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/atsushi-hakuo/17-00068
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/06/02/sports-taiiku_n_16928382.html
+ign.com http://jp.ign.com/starfox-2/15139/interview/2
 imishin.jp http://www.imishin.jp/marina-abramovic/
 impress.co.jp http://k-tai.watch.impress.co.jp/docs/column/minna/1066684.html
 impressrd.jp http://web-tan.forum.impressrd.jp/e/2017/06/08/25694
@@ -155,7 +158,10 @@ kayac.com http://techblog.kayac.com/webcamera-preview-for-ios11
 keikubi.com http://www.keikubi.com/entry/2017/06/27/%E6%9C%80%E8%BF%91%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E9%A3%AF%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
 keizokuramoto.blogspot.com http://keizokuramoto.blogspot.com/2017/06/pha.html
 kenkokarate.com http://www.kenkokarate.com/entry/2017/06/27/061054
+keyumino.com http://www.keyumino.com/entry/Renovation
 kiji.is https://this.kiji.is/242931870788108294
+kijikiji.com http://www.kijikiji.com/self/ana.htm
+kinakoneko.com http://www.kinakoneko.com/entry/dokusyokansoubun
 kinokoru.jp http://kinokoru.jp/archives/1425
 kk3marketer.com http://www.kk3marketer.com/entry/Writing-Skill-up
 kodansha.ne.jp http://friday.kodansha.ne.jp/event/33199
@@ -199,7 +205,7 @@ netgeek.biz http://netgeek.biz/archives/97467
 newsweekjapan.jp http://www.newsweekjapan.jp/stories/world/2017/06/post-7815.php
 nhk.or.jp https://www3.nhk.or.jp/news/business_tokushu/2017_0616.html
 nicovideo.jp http://news.nicovideo.jp/watch/nw2823774
-nifty.com http://portal.nifty.com/kiji/170531199757_1.htm
+nifty.com https://comorie.nifty.com/3686.htm
 nikkan.co.jp https://www.nikkan.co.jp/articles/view/00432807
 nikkansports.com https://www.nikkansports.com/general/nikkan/news/1841445.html
 nikkei.com http://www.nikkei.com/article/DGKKASFS15H1M_V10C17A6EE8000/
@@ -225,7 +231,7 @@ pixivision.net https://www.pixivision.net/ja/a/2559
 planet-green.com https://planet-green.com/review-retrip/1120
 pokemongolive.com http://pokemongolive.com/ja/post/raids
 portalshit.net https://portalshit.net/2017/06/17/surrendering-a-career-at-kaizen-platform
-postd.cc http://postd.cc/six-programming-paradigms-that-will/
+postd.cc http://postd.cc/api-paradigms/
 president.jp http://president.jp/articles/-/22299
 procrasist.com http://www.procrasist.com/entry/search-console-analysis
 publickey1.jp http://www.publickey1.jp/blog/17/dockerkubernetesdraft.html
@@ -257,6 +263,7 @@ sitefactory.info http://riron.sitefactory.info/
 slideshare.net https://www.slideshare.net/hirsoshnakagawa3/ai-77195880
 smartnews.com https://developer.smartnews.com/blog/2017/06/sparse-neural-network/
 sokubaikairenrakukai.com http://sokubaikairenrakukai.com/news170620.html
+sonicgarden.jp https://kuranuki.sonicgarden.jp/2017/06/extreme-management.html
 soumu.go.jp http://www.soumu.go.jp/menu_news/kaiken/01koho01_02000594.html
 speakerdeck.com https://speakerdeck.com/garbagetown/oauth-2-dot-0-wokamikudaku
 sponichi.co.jp http://www.sponichi.co.jp/entertainment/news/2017/06/10/kiji/20170610s00041000123000c.html
@@ -280,6 +287,7 @@ techcrunch.com http://jp.techcrunch.com/2017/06/01/valu/
 tellme.tokyo http://www.tellme.tokyo/entry/2017/06/13/233305
 tinect.jp http://blog.tinect.jp/?p=40198
 tocana.jp http://tocana.jp/2017/06/post_13498_entry.html
+toei.co.jp http://www.toei.co.jp/release/public/1209962_1140.html
 togech.jp https://togech.jp/2017/06/09/47208
 togetter.com https://togetter.com/li/1115353
 toshimaru.net https://toshimaru.net/motherfuckingwebsite/
