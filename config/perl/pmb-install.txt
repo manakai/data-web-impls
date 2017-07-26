@@ -14,5 +14,5 @@ Net::SSLeay~1.81
 Path::Class~0.37
 Path::Tiny~0.104
 Scalar::Util~1.48
-URI~1.71
+URI~1.72
 common::sense~3.74
