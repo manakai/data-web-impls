@@ -9,6 +9,8 @@ ameblo.jp https://ameblo.jp/mogatanpe/entry-12299302982.html
 amedama.jp http://blog.amedama.jp/entry/2017/08/09/004706
 animeanime.jp https://animeanime.jp/article/2017/08/10/34937.html
 animereview.jp https://blog.animereview.jp/publish_cloudnativeinc_day1/
+anonymous-post.com http://anonymous-post.com/archives/10930
+app-rox.com http://smsurf.app-rox.com/api/
 appmarketinglabo.net http://appmarketinglabo.net/mercari-cosme/
 asahi.com https://dot.asahi.com/aera/2017080200057.html
 automaton.am http://jp.automaton.am/articles/newsjp/20170803-51860/
@@ -53,6 +55,7 @@ figona-love.com http://figona-love.com/attractive-man-6944
 finalfantasyxi.jp http://www.morbolcafe.finalfantasyxi.jp/
 findy.jp https://findy.jp/15414
 fnn-news.com http://www.fnn-news.com/news/headlines/articles/CONN00366041.html
+forbesjapan.com https://forbesjapan.com/articles/detail/17246
 furano-melon.jp http://furano-melon.jp/official-blog/post-4962/
 gazette365.com http://gazette365.com/2017/07/7056-15/
 getbootstrap.com http://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/
@@ -62,12 +65,12 @@ gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/football/4155
 google.com https://docs.google.com/presentation/d/1LHplQ8nqNJNxaqY7DL4eM329jZKfO-E15XHoadYeLfE/mobilepresent?slide=id.g240ca7fffa_0_14262
 hamaren.com http://www.hamaren.com/entry/20170808/1502200800
 hanzawa-banker.com http://www.hanzawa-banker.com/entry/2017/08/01/060000
-hateblo.jp http://vergil.hateblo.jp/entry/2017/08/06/105035
+hateblo.jp http://ydkk.hateblo.jp/entry/2017/08/12/044838
 hatebu.me http://hatebu.me/entry/2017/08/04/032123
 hatelabo.jp https://anond.hatelabo.jp/20170708121935
 hatena.ne.jp http://d.hatena.ne.jp/hageyahhoo/20170803/1501756652
 hatenablog.com http://yutori-datascience.hatenablog.com/entry/2017/08/03/230047
-hatenablog.jp http://brian.hatenablog.jp/entry/2017/08/01/140747
+hatenablog.jp http://meshigakuitai.hatenablog.jp/entry/2017/08/12/162630
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20170805/1501939800
 hatenadiary.jp http://orangestar.hatenadiary.jp/entry/2017/08/10/002930
 hatenastaff.com http://developer.hatenastaff.com/entry/2017/08/07/170000
@@ -80,6 +83,7 @@ honkaitori.net http://honkaitori.net/?p=176
 hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/chimidoro/17-00181
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/08/02/jacinda-ardern_n_17663744.html
 impress.co.jp http://pc.watch.impress.co.jp/docs/news/1073926.html
+iphone-mania.jp http://iphone-mania.jp/news-177766/
 ismedia.jp http://jbpress.ismedia.jp/articles/-/50754
 it-career-navi.com http://www.it-career-navi.com/entry/it-change-job
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1707/31/news083.html
@@ -94,6 +98,7 @@ kandosaori.com http://www.kandosaori.com/entry/2017/08/05/230000
 karapaia.com http://karapaia.com/archives/52243605.html
 keikubi.com http://www.keikubi.com/entry/2017/08/09/%E5%8F%8B%E6%83%85%E3%82%92%E9%A3%9F%E3%81%84%E7%89%A9%E3%81%AB%E3%81%99%E3%82%8B%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%EF%BC%88%E5%89%8D%E7%B7%A8%EF%BC%89
 kiji.is https://this.kiji.is/265433769627074564
+kodansha.co.jp http://news.kodansha.co.jp/20170812_b02
 kouteisan.com https://kouteisan.com/
 life-and-mind.com http://life-and-mind.com/question-5347
 lite-ra.com http://lite-ra.com/2017/08/post-3364.html
@@ -133,12 +138,15 @@ nintendo.co.jp https://topics.nintendo.co.jp/c/article/73d9531a-6bbe-11e7-8cda-0
 note.mu https://note.mu/fumiken/n/nc63f2a358722
 nuwton.com http://nuwton.com/feature/16341/
 nych87.com http://www.nych87.com/entry/2017/07/31/210000
+okamilernoboyaki.com http://www.okamilernoboyaki.com/entry/2017/08/12/185612
 opt.ne.jp http://tech-magazine.opt.ne.jp/entry/2017/08/08/145141
 originalnews.nico http://originalnews.nico/36176
 oriver.style https://oriver.style/cinema/homecoming-japanese-poster-reaction/
+otokitashun.com http://otokitashun.com/blog/daily/15818/
 oups.ac.jp http://toi.oups.ac.jp/16-2wada.pdf
 pangya.jp http://www.pangya.jp/board_notice_view.aspx?seq=14916&cat=1
 photoshopvip.net http://photoshopvip.net/103543
+pixivision.net https://www.pixivision.net/ja/a/2742
 ponycanyon.co.jp http://ps.ponycanyon.co.jp/kanosisters/c92-firstday/
 postd.cc http://postd.cc/faster-than-fs/
 publickey1.jp http://www.publickey1.jp/blog/17/20172aws342azure113ibmsynergy_research_group.html
@@ -172,6 +180,7 @@ srad.jp https://science.srad.jp/story/17/08/01/0627215/
 structure-and-representation.com http://structure-and-representation.com/works/blackCorporate/
 sunday-webry.com https://www.sunday-webry.com/events/adachimitsuruquiz/
 synodos.jp http://synodos.jp/newbook/20269
+tai-diary.com http://www.tai-diary.com/entry/2017/08/12/162717
 tamashii-yusaburuyo.work http://www.tamashii-yusaburuyo.work/entry/2017/08/03/062937
 tawashix.com http://www.tawashix.com/entry/taisyoku
 techcrunch.com http://jp.techcrunch.com/2017/08/03/ico-platform-comsa/
@@ -181,11 +190,12 @@ tinect.jp http://blog.tinect.jp/?p=42020
 tineye.com https://tineye.com/
 tirakita.com http://blog.tirakita.com/2017/03/%E7%AA%81%E7%84%B6%E9%AB%98%E9%A1%8D%E7%B4%99%E5%B9%A3%E3%81%8C%E4%BD%BF%E3%81%88%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E5%BE%8C%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%89%E3%81%8C%E3%81%A9%E3%81%86.shtml
 togetter.com https://togetter.com/li/1135366
+tokumaru.org http://blog.tokumaru.org/2017/08/hidescript.html
 tokyopoollabo.com http://tokyopoollabo.com/
 tomiemisato.com http://www.tomiemisato.com/entry/2017/08/04/161115
 tomoiku.net http://www.tomoiku.net/entry/2017/08/07/195425
 toyokeizai.net http://toyokeizai.net/articles/-/179316
-twitter.com http://twitter.com/amiga2500/status/894085730447704064
+twitter.com http://twitter.com/SiamCat3/status/896167369868926976
 uxmilk.jp http://uxmilk.jp/66066
 vice.com https://i-d.vice.com/jp/article/what-does-it-mean-to-be-a-woman-in-gaming-culture
 voyagegroup.com http://techlog.voyagegroup.com/entry/2017/07/31/173839
@@ -195,7 +205,7 @@ wired.jp https://wired.jp/2017/08/01/yamagata-joi/
 withnews.jp https://withnews.jp/article/f0170805000qq000000000000000W02h10201qq000015685A
 wsj.com http://jp.wsj.com/articles/SB12199000528276883842504583318883522596550
 xn--e--0g4awc3c1451cnh5a.com http://xn--e--0g4awc3c1451cnh5a.com/arukapa/beauty/609/
-yahoo.co.jp https://news.yahoo.co.jp/byline/shimasakichikara/20170806-00074132/
+yahoo.co.jp https://news.yahoo.co.jp/byline/saruwatariyuki/20170812-00074436/
 yakst.com https://yakst.com/ja/posts/4668
 yamada-denki.jp http://www.yamada-denki.jp/information/170808/
 yomiuri.co.jp http://www.yomiuri.co.jp/national/20170810-OYT1T50046.html
