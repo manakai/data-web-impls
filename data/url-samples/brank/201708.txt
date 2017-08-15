@@ -13,8 +13,10 @@ anonymous-post.com http://anonymous-post.com/archives/10930
 app-rox.com http://smsurf.app-rox.com/api/
 appmarketinglabo.net http://appmarketinglabo.net/mercari-cosme/
 asahi.com https://dot.asahi.com/aera/2017080200057.html
+ascii.jp http://ascii.jp/elem/000/001/515/1515747/
 automaton.am http://jp.automaton.am/articles/newsjp/20170803-51860/
 axia.co.jp http://axia.co.jp/2017-08-01
+bbc.com http://www.bbc.com/japanese/40914856
 beinspiredglobal.com http://beinspiredglobal.com/steeling-culture
 bengo4.com https://www.bengo4.com/c_1009/n_6503/
 beproud.jp http://shacho.beproud.jp/entry/simple-web-site
@@ -25,7 +27,7 @@ blossoms-japan.com http://www.blossoms-japan.com/entry/2017/08/09/230950
 brendangregg.com http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
 btcnews.jp http://btcnews.jp/5y9vqla912010/
 buddha01.ooo http://www.buddha01.ooo/entry/2017/08/11/230010
-bunshun.jp http://bunshun.jp/articles/-/3435
+bunshun.jp http://bunshun.jp/articles/-/234
 buntadayo.com http://www.buntadayo.com/entry/blog-checklist
 businessinsider.jp https://www.businessinsider.jp/post-100550
 buzzap.jp http://buzzap.jp/news/20170811-tokku-consulting/
@@ -39,6 +41,7 @@ cinematoday.jp https://www.cinematoday.jp/news/N0093547
 classmethod.jp http://dev.classmethod.jp/tool/ssh-keygen-tips/
 cnn.co.jp https://www.cnn.co.jp/usa/35105109.html
 cocolog-nifty.com http://eulabourlaw.cocolog-nifty.com/blog/2017/08/post-01e3.html
+cocoro-quest.net http://www.cocoro-quest.net/entry/psychology-book
 crosslab.xyz https://blog.crosslab.xyz/2017/08/02/%E6%BC%AB%E7%94%BB%E9%81%95%E6%B3%95%E9%85%8D%E4%BF%A1%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E6%BC%AB%E7%94%BB%E6%9D%91%E3%80%8D%E3%81%AE%E9%BB%92%E5%B9%95%E3%81%AB%E8%BF%AB%E3%82%8B/
 deepage.net https://deepage.net/machine_learning/2017/08/10/reinforcement-learning.html
 dena.com http://dena.com/jp/press/2017/08/03/dena/
@@ -46,7 +49,7 @@ denfaminicogamer.jp http://news.denfaminicogamer.jp/kikakuthetower/170731
 dmm.com http://www.dmm.com/netgame/official/notice/chaossaga_html/=/ch_navi=none
 doorblog.jp http://kabumatome.doorblog.jp/archives/65895155.html
 eiga.com http://tv.eiga.com/news/20170801/1/
-en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/05/30/110000
+en-japan.com https://employment.en-japan.com/engineerhub/entry/2016/11/17/110000
 engadget.com http://japanese.engadget.com/2017/08/04/mixi-hatena/
 fashionsnap.com https://www.fashionsnap.com/news/2017-08-10/mi-ccc/
 fc2.com http://kultur2.blog.fc2.com/blog-entry-3992.html
@@ -60,6 +63,7 @@ furano-melon.jp http://furano-melon.jp/official-blog/post-4962/
 gazette365.com http://gazette365.com/2017/07/7056-15/
 getbootstrap.com http://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/
 gigazine.net http://gigazine.net/news/20170804-machine-learning-vs-deep-learning/
+girls.moe http://make.girls.moe/#/
 gizmodo.jp http://www.gizmodo.jp/2017/08/psychoanalytic.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/football/4155
 google.com https://docs.google.com/presentation/d/1LHplQ8nqNJNxaqY7DL4eM329jZKfO-E15XHoadYeLfE/mobilepresent?slide=id.g240ca7fffa_0_14262
@@ -79,6 +83,7 @@ hi-ho.ne.jp http://www.cam.hi-ho.ne.jp/munehiro/sciencelib.html
 himasoku.com http://himasoku.com/archives/52008450.html
 hitode-festival.com http://www.hitode-festival.com/entry/2017/08/10/202916
 holstein-ojisan.com http://www.holstein-ojisan.com/entry/gojyo
+homarecipe.com http://www.homarecipe.com/entry/%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%94%E3%82%B9%E5%AF%92%E5%A4%A9%E3%82%BC%E3%83%AA%E3%83%BC%EF%BC%86%E3%82%A2%E3%82%A4%E3%82%B9
 honkaitori.net http://honkaitori.net/?p=176
 hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/chimidoro/17-00181
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/08/02/jacinda-ardern_n_17663744.html
@@ -100,14 +105,18 @@ keikubi.com http://www.keikubi.com/entry/2017/08/09/%E5%8F%8B%E6%83%85%E3%82%92%
 kiji.is https://this.kiji.is/265433769627074564
 kodansha.co.jp http://news.kodansha.co.jp/20170812_b02
 kouteisan.com https://kouteisan.com/
+kurashix.com http://www.kurashix.com/entry/40
 life-and-mind.com http://life-and-mind.com/question-5347
 lite-ra.com http://lite-ra.com/2017/08/post-3364.html
+livedoor.com http://news.livedoor.com/article/detail/13456203/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1934409.html
+locafra.com https://locafra.com/2017/08/13/fuzokujyou1/
 logi-lab.com https://logi-lab.com/daggy-coordinate
 maeda-y.com http://movie.maeda-y.com/movie/02200.htm
 mainichi.jp https://mainichi.jp/articles/20170810/k00/00m/040/142000c
 manba.co.jp https://magazine.manba.co.jp/2017/08/11/special-maeda-dokaben/
 mantan-web.jp https://mantan-web.jp/article/20170803dog00m200019000c.html
+mathcha.io https://www.mathcha.io/
 mayoinu.com http://www.mayoinu.com/entry/2017/08/09/200000
 mazda.com http://blog.mazda.com/archive/20170804_01.html
 mediocrity-blog.com http://www.mediocrity-blog.com/entry/amazon-primevideo-movie
@@ -153,6 +162,7 @@ publickey1.jp http://www.publickey1.jp/blog/17/20172aws342azure113ibmsynergy_res
 qiita.com http://qiita.com/Yatima/items/b9f1962da1a304dc7604
 rakuten.jp https://srdk.rakuten.jp/entry/2017/01/19/110000
 rarejob.com https://www.rarejob.com/englishlab/column/20170725/
+recruit-ms.co.jp https://www.recruit-ms.co.jp/issue/interview/0000000492/
 rehabilimemo.com http://www.rehabilimemo.com/entry/2017/08/06/134948
 response.jp https://response.jp/article/2017/08/05/298338.html
 reuters.com https://jp.reuters.com/article/idJPKBN1AO0FN
@@ -161,12 +171,15 @@ rocketnews24.com http://rocketnews24.com/2017/07/31/934034/
 rokuzeudon.com http://blog.rokuzeudon.com/entry/kouteisan
 ru-put.xyz http://www.ru-put.xyz/entry/2017/08/07/213811
 ryuzee.com http://www.ryuzee.com/contents/blog/7113
+sakura.ad.jp http://knowledge.sakura.ad.jp/other/9108/
 sankei.com http://www.sankei.com/affairs/news/170803/afr1708030024-n1.html
 sankeibiz.jp http://www.sankeibiz.jp/macro/news/170808/mca1708082102012-n1.htm
 scrapbox.io https://scrapbox.io/sushitecture/Vue.js%E3%82%92%E6%95%99%E3%81%88%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E9%81%93%E3%81%AE%E3%82%8A
 seesaa.net http://mubou.seesaa.net/article/452321722.html
 sekkachi.com http://www.sekkachi.com/entry/bibin_consideration
 seleck.cc https://seleck.cc/1063
+shonenjumpplus.com https://shonenjumpplus.com/episode/13932016480028958400
+sios.com https://oss.sios.com/security/git-security-vulnerabiltiy-20170813
 slideshare.net https://www.slideshare.net/knjcode/large-scale-jirou-classification
 smarthr.jp http://tech.smarthr.jp/tech/751
 softantenna.com http://www.softantenna.com/wp/software/death-of-ruby/
