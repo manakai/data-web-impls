@@ -29,6 +29,7 @@ beinspiredglobal.com http://beinspiredglobal.com/steeling-culture
 benesse.co.jp https://udemy.benesse.co.jp/archives/udemy-user-interview07.html
 bengo4.com https://www.bengo4.com/c_1009/n_6503/
 beproud.jp http://shacho.beproud.jp/entry/simple-web-site
+bgpmon.net https://bgpmon.net/bgp-leak-causing-internet-outages-in-japan-and-beyond/
 bgw.co.jp http://www.bgw.co.jp/
 biglobe.ne.jp https://news.biglobe.ne.jp/entertainment/0810/sgk_170810_5329525589.html
 birumendesu.com http://www.birumendesu.com/entry/Washlet-howto
@@ -106,7 +107,9 @@ gizmodo.jp http://www.gizmodo.jp/2017/08/activegear_action_cam.html
 gmork.in http://blog.gmork.in/entry/2017/08/04/173000
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/football/4155
 goo.ne.jp http://blog.goo.ne.jp/krmmk3/e/297520a3f359c974b6e03e3efc1110bc
+goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/baby__harassment
 google.com https://docs.google.com/presentation/d/1LHplQ8nqNJNxaqY7DL4eM329jZKfO-E15XHoadYeLfE/mobilepresent?slide=id.g240ca7fffa_0_14262
+grapee.jp http://grapee.jp/380293
 hachi32.com http://www.hachi32.com/entry/2017/08/17/200000
 hamaren.com http://www.hamaren.com/entry/20170808/1502200800
 hanzawa-banker.com http://www.hanzawa-banker.com/entry/2017/08/01/060000
@@ -165,6 +168,7 @@ kouta-daily.site http://www.kouta-daily.site/entry/2017/08/18/212224
 kouteisan.com https://kouteisan.com/
 kujoyugo.com http://www.kujoyugo.com/entry/2017/08/14/191000
 kurashix.com http://www.kurashix.com/entry/40
+kyoto-u.ac.jp http://www.kyoto-u.ac.jp/ja/education-campus/campus/festa/november/theme.html
 landerblue.co.jp https://www.landerblue.co.jp/blog/?p=34641
 life-and-mind.com http://life-and-mind.com/favorite-one-tip-6277
 lifechangex.com http://www.lifechangex.com/entry/24jikanhasittayo
@@ -218,6 +222,7 @@ nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/17/080100293/
 nikufumi.com http://www.nikufumi.com/entry/ted_20hours
 nintendo.co.jp https://www.nintendo.co.jp/clvs/index.html
 note.mu https://note.mu/eugene_roserie/n/ne22a8f5cf7aa
+nubatamanon.com http://www.nubatamanon.com/entry/2017/08/26/142930
 nuinet.club http://nuinet.club/2017/08/23/%E5%AB%8C%E3%81%84%E3%81%AA%E3%81%93%E3%81%A8%E3%82%84%E9%80%83%E3%81%92%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89%E9%80%86%E7%AE%97%E3%81%97%E3%81%A6%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%93/
 nurs.or.jp http://www.nurs.or.jp/~ogochan/essay/archives/5008
 nuwton.com http://nuwton.com/feature/16341/
@@ -249,6 +254,7 @@ rehabilimemo.com http://www.rehabilimemo.com/entry/2017/08/06/134948
 repfutekigo.com http://www.repfutekigo.com/entry/2017/08/24/174240
 response.jp https://response.jp/article/2017/08/05/298338.html
 reuters.com https://jp.reuters.com/article/idJPKBN1AO0FN
+rikaboo.com http://www.rikaboo.com/entry/2017/08/27/004741
 rikunabi-yakuzaishi.jp https://rikunabi-yakuzaishi.jp/article/ore/time-hack/
 rocketnews24.com http://rocketnews24.com/2017/07/31/934034/
 rokuzeudon.com http://blog.rokuzeudon.com/entry/kouteisan
@@ -284,8 +290,10 @@ sunday-webry.com https://www.sunday-webry.com/events/adachimitsuruquiz/
 synodos.jp http://synodos.jp/newbook/20269
 t-techlab.com http://t-techlab.com/?page_id=1901
 tai-diary.com http://www.tai-diary.com/entry/2017/08/12/162717
+taisyoku-so-dan.com https://taisyoku-so-dan.com/fine-song
 taketakeshi.net http://www.taketakeshi.net/entry/eisaku-kikou
 tamashii-yusaburuyo.work http://www.tamashii-yusaburuyo.work/entry/%E8%87%AA%E7%84%B6%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%83%BB%E7%99%BB%E5%B1%B1%E6%BC%AB%E7%94%BB10%E9%81%B8
+tatsuru.com http://blog.tatsuru.com/2017/08/26_1054.php
 tawashix.com http://www.tawashix.com/entry/taisyoku
 tbs.co.jp http://news.tbs.co.jp/newseye/tbs_newseye3137091.htm
 techcrunch.com http://jp.techcrunch.com/2017/08/03/ico-platform-comsa/
