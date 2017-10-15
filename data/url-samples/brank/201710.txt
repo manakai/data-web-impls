@@ -6,9 +6,11 @@ anomaly3-movie.com http://www.anomaly3-movie.com/entry/David_Fincher
 asahi.com https://dot.asahi.com/prepare/2017100300055.html
 automaton.am http://jp.automaton.am/articles/newsjp/20171010-55733/
 basement-times.com https://basement-times.com/2017-fusaku/
+bbc.com http://www.bbc.com/news/blogs-news-from-elsewhere-41608350
 bengo4.com https://www.bengo4.com/internet/n_6756/
 bestcarweb.jp https://bestcarweb.jp/archives/31497
 biz-journal.jp http://biz-journal.jp/2017/10/post_20909.html
+blogos.com http://blogos.com/article/252253/
 blogx3.com http://www.blogx3.com/entry/2017/10/09/202741
 bunshun.jp http://bunshun.jp/articles/-/4321
 bushiroad.co.jp https://bushiroad.co.jp/information/3
@@ -28,6 +30,8 @@ cocoro-quest.net http://www.cocoro-quest.net/entry/zero-seconds-thinking
 cookpad.com http://techlife.cookpad.com/entry/2017/10/04/181946
 cpplover.blogspot.com https://cpplover.blogspot.com/2017/10/11.html
 daily.co.jp https://www.daily.co.jp/gossip/2017/10/04/0010613995.shtml
+dailycult.blogspot.com http://dailycult.blogspot.com/2017/10/2017300.html
+denfaminicogamer.jp http://news.denfaminicogamer.jp/interview/171013
 diamond.jp http://diamond.jp/articles/-/145002
 doorblog.jp http://kabumatome.doorblog.jp/archives/65899030.html
 dorakujimi.com http://www.dorakujimi.com/entry/2017/10/06/060000
@@ -38,6 +42,7 @@ ellora.biz https://ellora.biz/marriage/
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/08/22/110000
 engadget.com http://japanese.engadget.com/2017/10/04/google-clips/
 exblog.jp http://wivern.exblog.jp/27200926/
+ezoeryou.github.io https://ezoeryou.github.io/cpp17book/index.html
 f1-gate.com https://f1-gate.com/japan_gp/f1_39029.html
 fablic.co.jp http://in.fablic.co.jp/entry/2017/10/05/090000
 fc2.com http://yamanashirei.blog86.fc2.com/blog-entry-2335.html
@@ -63,6 +68,7 @@ hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20171012/1507784437
 hatenadiary.jp http://vaaaaaanquish.hatenadiary.jp/entry/2017/09/30/202953
 hikakujoho.com https://hikakujoho.com/manekai/entry/20171005
 hosyusokuhou.jp http://hosyusokuhou.jp/archives/48802530.html
+html5experts.jp https://html5experts.jp/potato4d/24346/
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/10/03/cdp-kibou-twitter_a_23231462/
 impress.co.jp http://pc.watch.impress.co.jp/docs/column/config/1084700.html
 impressbm.co.jp http://it.impressbm.co.jp/articles/-/15067
@@ -100,7 +106,7 @@ livedoor.com http://news.livedoor.com/article/detail/13688262/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1941815.html
 logi-lab.com https://logi-lab.com/check-shirt-otaku
 logmi.jp http://logmi.jp/238685
-mainichi.jp https://mainichi.jp/senkyo/articles/20171002/k00/00m/010/137000c
+mainichi.jp https://mainichi.jp/articles/20171013/k00/00e/040/165000c
 makocho0828.net http://www.makocho0828.net/entry/by-with-171005
 medium.com https://medium.com/@takeshiamano/7f4fc4f98656
 mikinote.com http://www.mikinote.com/entry/yodan
@@ -129,7 +135,9 @@ originalnews.nico http://originalnews.nico/45811
 otanew.jp http://otanew.jp/archives/8955398.html
 otokitashun.com http://otokitashun.com/blog/daily/16190/
 ototeku.com http://www.ototeku.com/entry/2017/10/02/%E3%82%B3%E3%83%BC%E3%83%89%E3%81%8C%E5%88%86%E3%81%8B%E3%82%8B%E3%81%A8%E4%BD%9C%E6%9B%B2%E3%81%8C%E5%87%BA%E6%9D%A5%E3%82%8B%EF%BC%81%E3%80%8C%E3%83%80%E3%82%A4%E3%82%A2%E3%83%88%E3%83%8B%E3%83%83%E3%82%AF
+phileweb.com https://www.phileweb.com/news/hobby/201710/13/1793.html
 pixiv.net https://www.pixiv.net/howto
+pororoca-egg.com http://www.pororoca-egg.com/entry/13rd_friday
 postd.cc http://postd.cc/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code/
 postgresql.org https://www.postgresql.org/about/news/1786/
 prmrsv.com https://prmrsv.com/contents/special_lp/03.html
@@ -154,14 +162,14 @@ sekkachi.com http://www.sekkachi.com/entry/Report_writing
 shibayu36.org http://blog.shibayu36.org/entry/2017/10/03/193000
 slideshare.net https://www.slideshare.net/GoogleCloudPlatformJP/gaego-80349110
 soldi.jp https://www.soldi.jp/articles/font_select_2017/
-speakerdeck.com https://speakerdeck.com/mukai21/jsniguan-suruqing-bao-shou-ji-wodan-tohua-su
+speakerdeck.com https://speakerdeck.com/kazu0620/yasasikuwakarumvvm
 srad.jp https://idle.srad.jp/story/17/09/30/195246/
 st-sendenbu.com https://www.st-sendenbu.com/fujiwara/fujiwara14.html
 syosetu.com https://ncode.syosetu.com/n4343eh/
 tamashii-yusaburuyo.work http://www.tamashii-yusaburuyo.work/entry/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%E5%88%A5%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E6%BC%AB%E7%94%BB50%E9%81%B8
 tamesue.jp http://tamesue.jp/blog/archives/think/20171005
 tantandaisuki.com http://www.tantandaisuki.com/entry/2017/10/08/193559
-tbs.co.jp http://news.tbs.co.jp/newseye/tbs_newseye3179057.htm
+tbs.co.jp http://www.tbs.co.jp/kaiji2017/
 tenshoku.wiki http://tenshoku.wiki/business-books/
 the360.life http://the360.life/U1301.doit?id=1447
 tm2501.com http://www.tm2501.com/entry/2017/10/09/182105
@@ -170,6 +178,7 @@ tokyo-esca.com http://blog.tokyo-esca.com/entry/2017/10/01/211948
 tokyo-sports.co.jp https://www.tokyo-sports.co.jp/entame/entertainment/790015/
 toma-g.net http://www.toma-g.net/entry/mac_doko_good
 toyokeizai.net http://toyokeizai.net/articles/-/190605
+tumblr.com http://genron-voices.tumblr.com/post/166360411279/changeorg%E3%81%AE%E7%BD%B2%E5%90%8D%E6%B4%BB%E5%8B%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
 twitter.com http://twitter.com/CDP2017/status/916519613562626049
 u-tokyo.ac.jp http://www.u-tokyo.ac.jp/public/public01_200930_j.html
 victorysportsnews.com https://victorysportsnews.com/articles/5535/original
