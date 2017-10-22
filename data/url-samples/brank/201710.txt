@@ -13,6 +13,7 @@ bestcarweb.jp https://bestcarweb.jp/archives/31497
 biz-journal.jp http://biz-journal.jp/2017/10/post_20909.html
 blogos.com http://blogos.com/article/252253/
 blogx3.com http://www.blogx3.com/entry/2017/10/09/202741
+bucchinews.com http://bucchinews.com/subcul/6190.html
 bunshun.jp http://bunshun.jp/articles/-/4321
 bushiroad.co.jp https://bushiroad.co.jp/information/3
 businessinsider.jp https://www.businessinsider.jp/post-105617
@@ -49,7 +50,7 @@ edoriver.com http://www.edoriver.com/entry/kemofure42
 ekitaipapa.com http://www.ekitaipapa.com/entry/2017/10/16/%E5%80%92%E3%82%8C%E3%81%A6%E9%9B%BB%E8%BB%8A%E3%82%92%E6%AD%A2%E3%82%81%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F%EF%BC%81%E5%8A%A9%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E4%BA%BA%E3%81%AE%E4%B8%AD
 ele-king.net http://www.ele-king.net/interviews/005949/
 ellora.biz https://ellora.biz/marriage/
-en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/03/23/110000
+en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/02/24/110000
 engadget.com http://japanese.engadget.com/2017/10/04/google-clips/
 exblog.jp http://wivern.exblog.jp/27200926/
 excite.co.jp http://www.excite.co.jp/News/society_g/20171014/Wezzy_50470.html
@@ -79,6 +80,7 @@ guts-kaneko.com http://blog.guts-kaneko.com/archives/689
 haiji.co http://blog.haiji.co/entry/wedding-background-book
 hakata.ed.jp http://hakata.ed.jp/highschool/_common/pdf/20171002.pdf
 hamaren.com http://www.hamaren.com/entry/20171016/1508141340
+haradesugi.com http://www.haradesugi.com/entry/timelapse
 hassy-blog.com http://www.hassy-blog.com/entry/annual_leaves_in_nz
 hateblo.jp http://nych87.hateblo.jp/entry/2017/10/10/203500
 hatebu.me http://hatebu.me/entry/2017/10/10/233806
@@ -94,6 +96,7 @@ hosyusokuhou.jp http://hosyusokuhou.jp/archives/48802530.html
 hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/another/17-00020
 html5experts.jp https://html5experts.jp/potato4d/24346/
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/10/03/cdp-kibou-twitter_a_23231462/
+ics.media https://ics.media/entry/16643
 impress.co.jp http://pc.watch.impress.co.jp/docs/column/config/1084700.html
 impressbm.co.jp http://it.impressbm.co.jp/articles/-/15067
 infoq.com https://www.infoq.com/jp/news/2017/10/google-firestore
@@ -116,6 +119,7 @@ kadenya.news https://kadenya.news/archives/938
 kandosaori.com http://www.kandosaori.com/entry/2017/10/07/205315
 karapaia.com http://karapaia.com/archives/52246720.html
 kato-hisaaki.com http://www.kato-hisaaki.com/entry/2017/10/06/170000
+kazu8ism.com http://www.kazu8ism.com/entry/%E3%83%97%E3%83%AC%E3%83%9E%E3%83%9E%E3%83%BB%E3%83%97%E3%83%AC%E3%83%91%E3%83%91%E5%BF%85%E8%A6%8B%EF%BC%81%EF%BC%81%E5%AD%90%E8%82%B2%E3%81%A6%E3%81%AB%E6%82%A9%E3%82%93%E3%81%A0%E6%99%82%E3%81%AB%E5%8F%82%E8%80%83
 keens.github.io https://keens.github.io/blog/2017/10/05/rustdekousokunahyoujunshutsuryoku/
 kiji.is https://this.kiji.is/286869390275757153
 kindou.info https://kindou.info/88457.html
@@ -142,7 +146,8 @@ luluepi.com https://luluepi.com/tomie-saladchicken-curry/
 mainichi.jp https://mainichi.jp/articles/20171013/k00/00e/040/165000c
 makocho0828.net http://www.makocho0828.net/entry/by-with-171005
 mantan-web.jp https://mantan-web.jp/article/20171014dog00m200029000c.html
-medium.com https://medium.com/@kazunorikamiya/8d4b2a4d8422
+medium.com https://medium.com/@chezou/cf835ff4c128
+megamouth.info http://www.megamouth.info/entry/2017/10/20/015056
 mikinote.com http://www.mikinote.com/entry/yodan
 miyearnzzlabo.com http://miyearnzzlabo.com/archives/45279
 monoshirin.com http://blog.monoshirin.com/entry/2017/10/12/184218
@@ -162,10 +167,11 @@ nikkansports.com https://www.nikkansports.com/general/nikkan/news/20171014000042
 nikkei.com https://www.nikkei.com/article/DGKKZO22020410W7A001C1EA4000/
 nikkeibp.co.jp http://techon.nikkeibp.co.jp/atcl/feature/15/092800138/00003/
 nikuyake.com http://www.nikuyake.com/
-nintendo.co.jp https://topics.nintendo.co.jp/c/article/e224cca9-9844-11e7-8cda-063b7ac45a6d.html
+nintendo.co.jp https://topics.nintendo.co.jp/c/article/933eb428-b313-11e7-8cda-063b7ac45a6d.html
 nishinippon.co.jp https://www.nishinippon.co.jp/nnp/national/article/366336/
 nmi.jp http://nmi.jp/2017-10-06-Making_a-business_plan
 note.mu https://note.mu/dokuninjin_blue/n/na1a5516195d5
+nurse-arbeit.com https://nurse-arbeit.com/double-work/a-violation-of-the-law/
 one-cut.net http://camera.one-cut.net/entry/cameraman-arrangements
 oricon.co.jp https://mens.oricon.co.jp/news/2098618/full/
 originalnews.nico http://originalnews.nico/45811
@@ -176,13 +182,16 @@ phileweb.com https://www.phileweb.com/news/hobby/201710/13/1793.html
 photoshopvip.net http://photoshopvip.net/105293
 pipipipipi5volts.com http://www.pipipipipi5volts.com/entry/hatena-thankyou
 pixiv.net https://www.pixiv.net/howto
+politas.jp http://politas.jp/features/13/article/595
 pororoca-egg.com http://www.pororoca-egg.com/entry/13rd_friday
 postd.cc http://postd.cc/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code/
 postgresql.org https://www.postgresql.org/about/news/1786/
+president.jp http://president.jp/articles/-/23173
 prmrsv.com https://prmrsv.com/contents/special_lp/03.html
 procrasist.com http://www.procrasist.com/entry/kindle-sale
 publickey1.jp http://www.publickey1.jp/blog/17/azure7.html
 qiita.com https://qiita.com/2dgames_jp/items/6a23207fd0057df92552
+qmo.jp https://qmo.jp/tai-wafupasta/
 queel.me https://queel.me/articles/893
 rakuten.co.jp https://plaza.rakuten.co.jp/chizulove/diary/201410010000/
 rakuten.jp https://srdk.rakuten.jp/entry/2017/09/26/110000
@@ -193,6 +202,7 @@ reuters.com https://jp.reuters.com/article/idJPKBN1CN0W4
 rhodanthe-rsc.jp http://sp.rhodanthe-rsc.jp/information/171006/
 rider-store.jp https://rider-store.jp/bun-ken
 rocketnews24.com https://rocketnews24.com/2017/10/12/967896/
+romanpharmacist.com http://www.romanpharmacist.com/entry/concentration
 ryoanna.com http://www.ryoanna.com/entry/2017/10/19/205322
 ryuji-ando.com http://www.ryuji-ando.com/entry/NPrepSchool
 saitama-np.co.jp http://www.saitama-np.co.jp/news/2017/10/04/03.html
