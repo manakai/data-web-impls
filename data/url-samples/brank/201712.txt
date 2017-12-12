@@ -13,6 +13,7 @@ bunshun.jp http://number.bunshun.jp/articles/-/829418
 businessinsider.jp https://www.businessinsider.jp/post-107928
 buzzap.jp http://buzzap.jp/news/20171205-google-brain-nasnet/
 buzzfeed.com https://www.buzzfeed.com/jp/harunayamazaki/kotooshu-naruto
+cao.go.jp http://www5.cao.go.jp/keizai-shimon/kaigi/special/2030tf/281003/shiryou5.pdf
 cardmics.com http://news.cardmics.com/entry/iphonex-faceid-tsukaenai/
 cheena.net https://blog.cheena.net/2017/12/07/%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%AE%E9%80%81%E4%BF%A1%E5%85%83%E3%82%92%E5%AE%8C%E7%92%A7%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%99%E3%81%BE%E3%81%99%E3%80%8Cmailsploit%E3%80%8D%E3%81%AF%E4%BD%95%E3%81%8C/
 chishikiyoku.com http://www.chishikiyoku.com/entry/onsen-towel
@@ -29,10 +30,11 @@ denfaminicogamer.jp http://news.denfaminicogamer.jp/kikakuthetower/171130b
 dengekionline.com http://dengekionline.com/elem/000/001/643/1643598/
 diamond.jp http://diamond.jp/articles/-/150688
 digihows.com http://www.digihows.com/entry/osusume-eiga-01
+dl4us.com http://dl4us.com/
 dmitryulyanov.github.io https://dmitryulyanov.github.io/deep_image_prior
 doda.jp https://mirai.doda.jp/theme/global/china/
 doorblog.jp http://kabumatome.doorblog.jp/archives/65894374.html
-en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/09/28/110000
+en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/09/05/110000
 entaku-guild.com http://ddd.entaku-guild.com/entry/bad-design-award-2017
 facebook.com https://www.facebook.com/macoto.kikuchi/posts/1787613671263371
 fnn-news.com http://www.fnn-news.com/news/headlines/articles/CONN00378306.html
@@ -44,6 +46,7 @@ geek-out.jp https://geek-out.jp/column/entry/2017/12/01/110000
 geekpage.jp http://www.geekpage.jp/blog/?id=2017-12-1-1
 gigazine.net https://gigazine.net/news/20160112-evernote-5-percent-problem/
 github.com https://gist.github.com/voluntas/85a6a7b5fcacbab72cd342a4056d8cfd
+glay.co.jp http://www.glay.co.jp/news/detail.php?id=2633
 gloomy.jp http://gong.gloomy.jp/blog/2017/11/30/thought_about_anti_nico/
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/tamaoki/4337
 googleblog.com https://webmaster-ja.googleblog.com/2017/12/for-more-reliable-health-search.html
@@ -51,7 +54,7 @@ gori.me https://gori.me/apps/iphone-app-news/101809
 hageatama.org http://www.hageatama.org/20171206/1512492494
 hateblo.jp http://mohritaroh.hateblo.jp/entry/2013/12/08/001426
 hatelabo.jp https://anond.hatelabo.jp/20171025195151
-hatena.ne.jp http://d.hatena.ne.jp/numenunu/20171130/1512067040
+hatena.ne.jp http://d.hatena.ne.jp/NATROM/20171210#p1
 hatenablog.com http://yoppymodel.hatenablog.com/entry/2017/12/06/185613
 hatenablog.jp http://ringoce.hatenablog.jp/entry/2017/12/03/230000
 hatenadiary.jp http://zuisho.hatenadiary.jp/entry/2017/12/05/131657
@@ -70,6 +73,7 @@ itmedia.co.jp http://www.itmedia.co.jp/news/articles/1712/01/news089.html
 j-cast.com https://www.j-cast.com/2017/12/01315473.html
 jiji.com https://www.jiji.com/jc/article?k=2017120201503&g=pol
 jmatsuzaki.com https://jmatsuzaki.com/archives/22006
+jyoshige.com http://jyoshige.com/archives/9019584.html
 kai-you.net http://kai-you.net/article/48284
 karapaia.com http://karapaia.com/archives/52249991.html
 kiji.is https://this.kiji.is/311548272424944737
@@ -129,6 +133,7 @@ slideshare.net https://www.slideshare.net/lestrrat/oss-77295079
 speakerdeck.com https://speakerdeck.com/gfx/marutitenantouebuapurikesiyonfalseshi-jian
 spot-app.jp https://travel.spot-app.jp/evangelion_kumagaimanato/
 srad.jp https://linux.srad.jp/story/10/10/28/0314226/
+taiyaki-oyako.com http://www.taiyaki-oyako.com/entry/cm-gogotea-girl
 takuros.net http://blog.takuros.net/entry/2017/11/30/111342
 tbs.co.jp http://news.tbs.co.jp/newseye/tbs_newseye3227422.htm
 tellme.tokyo https://tellme.tokyo/post/2017/12/01/kubeabc/
@@ -145,6 +150,7 @@ vice.com http://jp.vice.com/lifestyle/i-bullshitted-my-way-to-the-top-of-paris-f
 warnerbros.co.jp http://wwws.warnerbros.co.jp/batman-ninja/
 watto.nagoya http://www.watto.nagoya/entry/2017/12/05/010000
 webdice.jp http://www.webdice.jp/dice/detail/5524/
+wikipedia.org https://ja.wikipedia.org/wiki/%E5%BA%AD%E5%9C%92%E9%9A%A0%E8%80%85
 wired.jp https://wired.jp/2017/12/08/scream-science/
 xera.jp https://xera.jp/entry/alexaskills
 yahoo.co.jp https://news.yahoo.co.jp/byline/ishidamasahiko/20171204-00078878/
