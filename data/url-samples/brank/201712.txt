@@ -40,6 +40,7 @@ doorblog.jp http://kabumatome.doorblog.jp/archives/65894374.html
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/05/19/110000
 entaku-guild.com http://ddd.entaku-guild.com/entry/bad-design-award-2017
 facebook.com https://www.facebook.com/macoto.kikuchi/posts/1787613671263371
+fc2.com http://namekujinagaya.blog31.fc2.com/blog-entry-3135.html
 fnn-news.com http://www.fnn-news.com/news/headlines/articles/CONN00378306.html
 fudousan-kyokasho.com https://fudousan-kyokasho.com/stock-quotations-11898
 fuze.dj https://www.fuze.dj/2017/11/eve-godzzila.html
@@ -52,13 +53,14 @@ gigazine.net https://gigazine.net/news/20160112-evernote-5-percent-problem/
 github.com https://gist.github.com/voluntas/85a6a7b5fcacbab72cd342a4056d8cfd
 glay.co.jp http://www.glay.co.jp/news/detail.php?id=2633
 gloomy.jp http://gong.gloomy.jp/blog/2017/11/30/thought_about_anti_nico/
+gmork.in http://blog.gmork.in/entry/post-internet
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/tamaoki/4337
 google.com https://support.google.com/webmasters/answer/7451184?hl=ja
 googleblog.com https://webmaster-ja.googleblog.com/2017/12/for-more-reliable-health-search.html
 gori.me https://gori.me/apps/iphone-app-news/101809
 hageatama.org http://www.hageatama.org/20171206/1512492494
 hateblo.jp http://mohritaroh.hateblo.jp/entry/2013/12/08/001426
-hatelabo.jp https://anond.hatelabo.jp/20170929233057
+hatelabo.jp https://anond.hatelabo.jp/20131203164435
 hatena.ne.jp http://d.hatena.ne.jp/NATROM/20171210#p1
 hatenablog.com http://yutoma233.hatenablog.com/entry/2017/12/11/212417
 hatenablog.jp http://ringoce.hatenablog.jp/entry/2017/12/03/230000
@@ -82,6 +84,7 @@ jyoshige.com http://jyoshige.com/archives/9019584.html
 kai-you.net http://kai-you.net/article/48284
 karapaia.com http://karapaia.com/archives/52249991.html
 kiji.is https://this.kiji.is/311548272424944737
+kinbricksnow.com http://kinbricksnow.com/archives/52007320.html
 kk3marketer.com http://www.kk3marketer.com/entry/17-service
 ldblog.jp http://royal2627.ldblog.jp/archives/52552846.html
 line.me http://news.line.me/issue/oa-diamondonline/2e9f16f2b35f?share_id=chk12178616474
@@ -91,6 +94,7 @@ lite-ra.com http://lite-ra.com/2017/11/post-3619.html
 livedoor.biz http://news4vip.livedoor.biz/archives/52255344.html
 livedoor.com http://news.livedoor.com/article/detail/13971240/
 livedoor.jp http://blog.livedoor.jp/bluejay01-review/archives/52542350.html
+logmi.jp http://logmi.jp/254868
 machishiru.jp https://nishitokyo.machishiru.jp/2017newleisure
 maff.go.jp http://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/naturaltoxin/loquat_kernels.html
 mainichi.jp https://mainichi.jp/articles/20171209/k00/00m/040/108000c
@@ -117,7 +121,6 @@ nikkei.com https://www.nikkei.com/article/DGXMZO24079690Q7A131C1000000/
 nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/16/c/113000064/
 nil.nu http://blog.nil.nu/entry/2017/12/01/211959
 nintendo.co.jp https://www.nintendo.co.jp/corporate/release/2017/171212.html
-nomolk.net http://www.nomolk.net/entry/2017/12/07/223000
 note.mu https://note.mu/hirohito/n/nc6c7724b218d
 notsobad.jp http://blog.notsobad.jp/entry/2017/09/29/104504
 npomoyai.or.jp http://www.npomoyai.or.jp/20171209/3799
@@ -156,6 +159,7 @@ tocana.jp http://tocana.jp/2017/12/post_15338_entry.html
 togech.jp https://togech.jp/2017/12/08/51527
 togetter.com https://togetter.com/li/1176649
 tokumaru.org https://blog.tokumaru.org/2014/03/z.html
+toushi-kyokasho.com http://toushi-kyokasho.com/400million-method/
 toyokeizai.net http://toyokeizai.net/articles/-/199466
 tumblr.com http://k1ochiai.tumblr.com/post/168148637491/%E7%A4%BE%E4%BC%9A%E4%BA%BA%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E5%8D%9A%E5%A3%AB%E5%8F%B7%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F
 twitter.com http://twitter.com/izawajakahashi/status/936242135749115904
