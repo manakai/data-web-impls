@@ -1,6 +1,7 @@
 use strict;
 use warnings;
 use Promise;
+use Promised::Flow;
 use Web::UserAgent::Functions qw(http_get);
 use Web::DOM::Document;
 use Web::HTML::Parser;
@@ -9,22 +10,33 @@ sub get ($$$) {
   my ($y, $m, $d) = @_;
   my $date = sprintf '%04d%02d%02d', $y, $m, $d;
   my $url = q<http://b.hatena.ne.jp/ranking/daily/> . $date;
-  my $p = Promise->new (sub {
-    my ($ok, $ng) = @_;
-    http_get
-        url => $url,
-        anyevent => 1,
-        timeout => 600,
-        cb => sub {
-          my $res = $_[1];
-          if ($res->code == 200) {
-            $ok->([$url, $res->content]);
-          } else {
-            $ng->("GET <$url> failed");
-          }
-        };
-  });
-  return $p;
+  my $try_count = 1;
+  my $result;
+  return (promised_wait_until {
+    my $p = Promise->new (sub {
+      my ($ok, $ng) = @_;
+      http_get
+          url => $url,
+          anyevent => 1,
+          timeout => 600,
+          cb => sub {
+            my $res = $_[1];
+            if ($res->code == 200) {
+              $result = [$url, $res->content];
+              $ok->(1);
+            } else {
+              $ng->("GET <$url> failed");
+            }
+          };
+    });
+    return $p->catch (sub {
+      if ($try_count++ < 4) {
+        warn "Error: $_[0]; retry...\n";
+        return 0;
+      }
+      die $_[0];
+    });
+  })->then (sub { return $result });
 } # get
 
 sub urls ($$$) {
