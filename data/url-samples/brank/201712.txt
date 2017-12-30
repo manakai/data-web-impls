@@ -30,6 +30,7 @@ cao.go.jp http://www5.cao.go.jp/keizai-shimon/kaigi/special/2030tf/281003/shiryo
 cardmics.com http://news.cardmics.com/entry/iphonex-faceid-tsukaenai/
 careerconnection.jp https://news.careerconnection.jp/?p=45495
 careersupli.jp http://careersupli.jp/lifehack/ryousho/
+cgworld.jp https://cgworld.jp/feature/201712-cgwawards2017.html
 cheap-delicious.com http://www.cheap-delicious.com/entry/2017/12/20/171657
 cheena.net https://blog.cheena.net/2017/08/02/%E6%BC%AB%E7%94%BB%E9%81%95%E6%B3%95%E9%85%8D%E4%BF%A1%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E6%BC%AB%E7%94%BB%E6%9D%91%E3%80%8D%E3%81%AE%E9%BB%92%E5%B9%95%E3%81%AB%E8%BF%AB%E3%82%8B/
 chishikiyoku.com http://www.chishikiyoku.com/entry/onsen-towel
@@ -73,6 +74,7 @@ facebook.com https://www.facebook.com/macoto.kikuchi/posts/1787613671263371
 famitsu.com https://www.famitsu.com/news/201712/19148398.html
 fc2.com http://namekujinagaya.blog31.fc2.com/blog-entry-3135.html
 fnn-news.com http://www.fnn-news.com/news/headlines/articles/CONN00378306.html
+forbesjapan.com https://forbesjapan.com/articles/detail/19168
 france.jp http://www.france.jp/c/novels/yogo/top.html
 freee.co.jp http://developers.freee.co.jp/entry/chatbot_support
 fudousan-kyokasho.com https://fudousan-kyokasho.com/stock-quotations-11898
@@ -84,6 +86,7 @@ gamewalker.link http://gamewalker.link/design-blog/how-to-learn-interaction-desi
 gdm.or.jp http://www.gdm.or.jp/crew/2017/1209/245536
 geek-out.jp https://geek-out.jp/column/entry/2017/12/01/110000
 geekpage.jp http://www.geekpage.jp/blog/?id=2017-12-1-1
+geocities.jp http://1st.geocities.jp/taxion2300/Euler_letters1760_0.htm
 getnews.jp http://getnews.jp/archives/1999649
 gigazine.net https://gigazine.net/news/20160112-evernote-5-percent-problem/
 github.com https://gist.github.com/voluntas/85a6a7b5fcacbab72cd342a4056d8cfd
@@ -129,6 +132,8 @@ ismedia.jp http://gendai.ismedia.jp/articles/-/53481
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1712/22/news108.html
 itutado.com http://www.itutado.com/entry/karakai_moto
 j-cast.com https://www.j-cast.com/2017/12/01315473.html
+j-kamata.com http://www.j-kamata.com/special/kietayubiwa
+jalan.net https://www.jalan.net/news/article/211645/
 japaaan.com http://mag.japaaan.com/archives/66117
 japandesign.ne.jp https://www.japandesign.ne.jp/interview/land-of-the-lustrous-1/
 jetsetrecords.net https://www.jetsetrecords.net/feature/226
@@ -146,6 +151,7 @@ kiji.is https://this.kiji.is/311548272424944737
 kinbricksnow.com http://kinbricksnow.com/archives/52007320.html
 kitajirushi.jp http://www.kitajirushi.jp/archives/2017/12/14-090000.php
 kk3marketer.com http://www.kk3marketer.com/entry/17-service
+kobetsu.co.jp http://www.kobetsu.co.jp/cafeducation/gakushu/article-280.html
 kosotatu.jp http://kosotatu.jp/%E3%83%81%E3%83%BC%E3%82%BA%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%83%87%E3%83%BC%E3%82%BF%E3%80%81%E9%81%B8%E3%81%B3%E6%96%B9%E3%83%BB%E6%A5%BD%E3%81%97%E3%81%BF%E6%96%B9/
 kushii.net http://blog.kushii.net/archives/2068815.html
 kyoto-np.co.jp http://www.kyoto-np.co.jp/top/article/20171225000095
@@ -230,8 +236,10 @@ rakuten.co.jp https://plaza.rakuten.co.jp/shinichi0329/diary/201701060000/
 rakuten.jp https://srdk.rakuten.jp/entry/2017/11/29/110000
 recruit-mp.co.jp https://tech.recruit-mp.co.jp/project-management/14775/
 recruit-tech.co.jp https://recruit-tech.co.jp/blog/2017/12/11/go_dependency_injection/
+refugee.or.jp https://www.refugee.or.jp/fukuzatsu/shihotanaka01
 rehabilimemo.com http://www.rehabilimemo.com/entry/2017/12/14/132655
 reuters.com https://jp.reuters.com/article/idJPKBN1E006N
+rimse.or.jp http://www.rimse.or.jp/research/pdf/5th/work10.pdf
 rocketnews24.com https://rocketnews24.com/2017/12/19/995510/
 sankei.com http://www.sankei.com/affairs/news/171201/afr1712010036-n1.html
 sanspo.com http://www.sanspo.com/baseball/news/20171209/npb17120905060007-n1.html
@@ -255,6 +263,7 @@ spot-app.jp https://travel.spot-app.jp/evangelion_kumagaimanato/
 sputniknews.com https://jp.sputniknews.com/science/201712234410308/
 srad.jp https://linux.srad.jp/story/10/10/28/0314226/
 ssl-netowl.jp https://permanent-til-me.ssl-netowl.jp/archives/1700
+su-gaku.net http://www.su-gaku.net/press_release/detail.php?id=51
 suumo.jp http://suumo.jp/town/entry/akabane-norihisa.minagawa/
 tablo.jp http://tablo.jp/case/news002672.html
 taiyaki-oyako.com http://www.taiyaki-oyako.com/entry/cm-gogotea-girl
