@@ -18,6 +18,7 @@ automaton.am http://jp.automaton.am/articles/interviewsjp/20171215-59185/
 bbc.com http://www.bbc.com/japanese/42476520
 bengo4.com https://www.bengo4.com/c_5/n_7098/
 bilumen-taishi.jp https://bilumen-taishi.jp/black-mold-cleaning-of-the-bath
+bitflyer.jp https://news.bitflyer.jp/news/201712292137/
 blog.jp http://tozanchannel.blog.jp/archives/1069212254.html
 blogos.com http://blogos.com/article/264608/
 bokukoko.info http://www.bokukoko.info/entry/2017/12/20/000000
@@ -64,6 +65,7 @@ doorblog.jp http://kabumatome.doorblog.jp/archives/65894374.html
 e-aidem.com https://www.e-aidem.com/ch/jimocoro/entry/saito03
 empowershop.co.jp https://ecclab.empowershop.co.jp/archives/48246
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000
+engadget.com http://japanese.engadget.com/2017/12/29/nasa-2069-2113/
 entaku-guild.com http://ddd.entaku-guild.com/entry/bad-design-award-2017
 eure.jp https://developers.eure.jp/tech/knowledges-for-backend-from-native
 exblog.jp http://brevis.exblog.jp/26270824/
@@ -73,6 +75,7 @@ f1-gate.com https://f1-gate.com/max-chilton/f1_40269.html
 facebook.com https://www.facebook.com/macoto.kikuchi/posts/1787613671263371
 famitsu.com https://www.famitsu.com/news/201712/19148398.html
 fc2.com http://namekujinagaya.blog31.fc2.com/blog-entry-3135.html
+financepensionrealestate.work http://www.financepensionrealestate.work/entry/2017/12/29/082436
 fnn-news.com http://www.fnn-news.com/news/headlines/articles/CONN00378306.html
 forbesjapan.com https://forbesjapan.com/articles/detail/19168
 france.jp http://www.france.jp/c/novels/yogo/top.html
@@ -90,7 +93,7 @@ geocities.jp http://1st.geocities.jp/taxion2300/Euler_letters1760_0.htm
 getnews.jp http://getnews.jp/archives/1999649
 gigazine.net https://gigazine.net/news/20160112-evernote-5-percent-problem/
 github.com https://gist.github.com/voluntas/85a6a7b5fcacbab72cd342a4056d8cfd
-gizmodo.jp https://www.gizmodo.jp/2017/12/future-coming-2017.html
+gizmodo.jp https://www.gizmodo.jp/2017/12/apple-lisa-open-source.html
 glay.co.jp http://www.glay.co.jp/news/detail.php?id=2633
 gloomy.jp http://gong.gloomy.jp/blog/2017/11/30/thought_about_anti_nico/
 gmork.in http://blog.gmork.in/entry/post-internet
@@ -103,7 +106,7 @@ gunosy.io http://tech.gunosy.io/entry/crypto-mining-summary
 gururimichi.com http://blog.gururimichi.com/entry/2017/12/14/193356
 gyakushu.net http://blog.gyakushu.net/entry/oyanosei
 hageatama.org http://www.hageatama.org/20171206/1512492494
-hateblo.jp http://pha.hateblo.jp/entry/2017/12/15/170419
+hateblo.jp http://razokulover.hateblo.jp/entry/2017/12/29/214245
 hatebu.me http://hatebu.me/entry/research
 hatelabo.jp https://anond.hatelabo.jp/20120904230532
 hatena.ne.jp http://q.hatena.ne.jp/1514081165
@@ -128,7 +131,7 @@ ipping.jp https://ipping.jp/1835
 irasutoya.com http://www.irasutoya.com/2017/12/blog-post_775.html
 ironna.jp http://ironna.jp/article/8237
 irorio.jp https://irorio.jp/nagasawamaki/20150729/248667/
-ismedia.jp http://gendai.ismedia.jp/articles/-/53481
+ismedia.jp http://wedge.ismedia.jp/articles/-/11539
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1712/22/news108.html
 itutado.com http://www.itutado.com/entry/karakai_moto
 j-cast.com https://www.j-cast.com/2017/12/01315473.html
@@ -146,6 +149,7 @@ kachibito.net http://kachibito.net/useful-resource/restyaboard
 kai-you.net http://kai-you.net/article/48284
 kamipo.net http://blog.kamipo.net/entry/2017/12/23/230514
 karapaia.com http://karapaia.com/archives/52249991.html
+kasajei.com http://blog.kasajei.com/entry/2017/12/28/recommend_book_2017
 kayac.com http://techblog.kayac.com/10-spa-knowhow
 kiji.is https://this.kiji.is/311548272424944737
 kinbricksnow.com http://kinbricksnow.com/archives/52007320.html
@@ -168,6 +172,7 @@ lite-ra.com http://lite-ra.com/2017/11/post-3619.html
 livedoor.biz http://news4vip.livedoor.biz/archives/52255344.html
 livedoor.com http://news.livedoor.com/article/detail/13971240/
 livedoor.jp http://blog.livedoor.jp/bluejay01-review/archives/52542350.html
+logl.net https://logl.net/598
 logmi.jp http://logmi.jp/254674
 machishiru.jp https://nishitokyo.machishiru.jp/2017newleisure
 maff.go.jp http://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/naturaltoxin/loquat_kernels.html
@@ -198,6 +203,7 @@ newsphere.jp https://newsphere.jp/world-report/20171130-2/
 newspicks.com https://newspicks.com/news/2716606/
 newstopics.jp https://newstopics.jp/
 newsweekjapan.jp https://www.newsweekjapan.jp/lee/2017/12/post-27.php
+newswitch.jp https://newswitch.jp/p/11497
 nhiroki.jp https://nhiroki.jp/2017/12/01/chromium-sourcecode
 nhk.or.jp https://www3.nhk.or.jp/news/business_tokushu/2017_1204.html
 nicovideo.jp https://niconare.nicovideo.jp/watch/kn2802
@@ -246,6 +252,7 @@ sanspo.com http://www.sanspo.com/baseball/news/20171209/npb17120905060007-n1.htm
 sbfl.net https://sbfl.net/blog/2017/12/03/javascript-collision/
 seesaa.net http://mubou.seesaa.net/article/455338673.html
 seleck.cc https://seleck.cc/1137
+senjutsu.jp http://www.senjutsu.jp/archives/2013/82
 sesere.net http://blog.sesere.net/entry/2017/12/03/203149
 shiropen.com http://shiropen.com/2017/12/03/30099
 shoeisha.co.jp https://www.shoeisha.co.jp/book/detail/9784798155357
@@ -265,6 +272,7 @@ srad.jp https://linux.srad.jp/story/10/10/28/0314226/
 ssl-netowl.jp https://permanent-til-me.ssl-netowl.jp/archives/1700
 su-gaku.net http://www.su-gaku.net/press_release/detail.php?id=51
 suumo.jp http://suumo.jp/town/entry/akabane-norihisa.minagawa/
+syosetu.com http://ncode.syosetu.com/n5052el/
 tablo.jp http://tablo.jp/case/news002672.html
 taiyaki-oyako.com http://www.taiyaki-oyako.com/entry/cm-gogotea-girl
 takuros.net http://blog.takuros.net/entry/2017/11/30/111342
