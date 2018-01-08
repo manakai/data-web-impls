@@ -1,10 +1,12 @@
 4gamer.net http://www.4gamer.net/games/999/G999902/20180105085/
 4knn.tv https://4knn.tv/python/
 afpbb.com http://www.afpbb.com/articles/-/3157433
+anonymous-post.com http://anonymous-post.com/archives/17872
 asahi.com https://www.asahi.com/articles/ASKCS53MCKCSUCVL019.html
 automaton.am http://jp.automaton.am/articles/newsjp/20180104-60378/
 bbc.com http://www.bbc.com/japanese/42550531
 bengo4.com https://www.bengo4.com/other/n_7210/
+blog.jp http://ma-chan.blog.jp/archives/74311563.html
 btrax.com http://blog.btrax.com/jp/2017/12/31/2017-ux/
 bunshun.jp http://bunshun.jp/articles/-/5624
 businessinsider.jp https://www.businessinsider.jp/post-107607
@@ -37,7 +39,8 @@ hatenadiary.jp http://huyukiitoichi.hatenadiary.jp/entry/2018/01/01/080000
 hitode-festival.com http://www.hitode-festival.com/entry/2018/01/04/183439
 honmotakeshi.com http://www.honmotakeshi.com/archives/52717295.html
 hosyusokuhou.jp http://hosyusokuhou.jp/archives/48808685.html
-hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/nananatsubaki/17-00029
+hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/hiro-watanabe/17-00407
+houdoukyoku.jp https://www.houdoukyoku.jp/posts/24051
 huffingtonpost.jp http://www.huffingtonpost.jp/2018/01/01/muramoto_a_23320832/
 ign.com http://jp.ign.com/the-legend-of-zelda-hd/20549/feature/2017
 ismedia.jp http://gendai.ismedia.jp/articles/-/53522
@@ -45,6 +48,8 @@ itmedia.co.jp http://www.itmedia.co.jp/news/articles/1801/04/news030.html
 jlongster.com http://jlongster.com/How-I-Became-Better-Programmer
 jst.go.jp http://scienceportal.jst.go.jp/news/newsflash_review/newsflash/2018/01/20180104_01.html
 kakeru.me http://kakeru.me/line/kakerumedia-linecommunication/
+kamatte.cc https://kamatte.cc/
+kk3marketer.com http://www.kk3marketer.com/entry/bitcoin13
 kuronekoyamato.co.jp http://www.kuronekoyamato.co.jp/ytc/404error.html
 kwsklife.com http://kwsklife.com/miserable-innocence/
 kyoko-np.net http://kyoko-np.net/2018010101.html
@@ -54,6 +59,7 @@ lite-ra.com http://lite-ra.com/2018/01/post-3711.html
 livedoor.com http://news.livedoor.com/article/detail/14104805/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1952327.html
 mainichi.jp https://mainichi.jp/articles/20171229/dyo/00m/200/052000c
+matolabel.net https://www.matolabel.net/archives/70064554.html
 mediocrity-blog.com http://www.mediocrity-blog.com/entry/amazon-gold-card
 medium.com https://medium.com/@laqiiz/6116544cc6fd
 moguravr.com http://www.moguravr.com/reality-clash-ar-blockchain/
@@ -65,9 +71,11 @@ netgeek.biz http://netgeek.biz/archives/109444
 newswitch.jp https://newswitch.jp/p/11540
 nhk.or.jp https://www3.nhk.or.jp/news/html/20180101/k10011276711000.html
 nifty.com http://portal.nifty.com/kiji/180104201647_1.htm
+nikkan-spa.jp https://nikkan-spa.jp/1443430
 nikkansports.com https://www.nikkansports.com/general/nikkan/news/201801040000169.html
 nikkei.com https://www.nikkei.com/article/DGXMZO25274000R31C17A2MM8000/
 nikkeibp.co.jp http://business.nikkeibp.co.jp/atcl/report/16/101700172/122000005/
+nna.jp https://www.nna.jp/news/show/1707455
 note.mu https://note.mu/an_giee27/n/n7fca50aeba60
 okanenokozuchi.com https://okanenokozuchi.com/funded-nisa
 osaka.lg.jp http://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000419363.html
@@ -86,6 +94,7 @@ souspeak.com https://souspeak.com/blog/2018start/
 square-enix.com http://www.jp.square-enix.com/tech/openconference/library/2011/dldata/PM/PM.pdf
 srad.jp https://it.srad.jp/story/17/12/31/1352241/
 tamashii-yusaburuyo.work http://www.tamashii-yusaburuyo.work/entry/Google_Analytics%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9
+techcrunch.com http://jp.techcrunch.com/2018/01/06/g-tax/
 tinect.jp http://blog.tinect.jp/?p=46186
 togetter.com https://togetter.com/li/1185170
 toyokeizai.net http://toyokeizai.net/articles/-/202761
