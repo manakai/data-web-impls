@@ -17,7 +17,7 @@ buzz-plus.com http://buzz-plus.com/article/2018/01/08/usuta-kyosuke-ashi/
 buzzfeed.com https://www.buzzfeed.com/jp/hikaruyoza/line-de-undou
 chrisshort.net https://chrisshort.net/docker-inc-is-dead/
 classmethod.jp https://dev.classmethod.jp/cloud/alexa-sdk/
-cnn.co.jp https://www.cnn.co.jp/tech/35112794.html
+cnn.co.jp https://www.cnn.co.jp/fringe/35112870.html
 cointelegraph.com https://jp.cointelegraph.com/news/telegram-500-mln-pre-ico-aims-to-be-largest-ever
 courrier.jp https://courrier.jp/news/archives/108390/
 coziest.net http://coziest.net/?p=2686
@@ -27,8 +27,9 @@ daichi.blog http://daichi.blog/entry/bestbooks-2017
 denfaminicogamer.jp http://news.denfaminicogamer.jp/manga/180102
 dev.to https://dev.to/seizans/-d0j
 dmm.com http://eikaiwa.dmm.com/blog/1554/
+doda.jp https://mirai.doda.jp/series/interview/daisuke-suga/
 dokushojin.com http://dokushojin.com/article.html?i=2652
-doorblog.jp http://kabumatome.doorblog.jp/archives/65909788.html
+doorblog.jp http://kabumatome.doorblog.jp/archives/65850289.html
 efcl.info http://efcl.info/2018/01/04/what-is-this/
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/05/19/110000
 english-video.net https://www.english-video.net/p/ja/1
@@ -45,7 +46,7 @@ hageatama.org http://www.hageatama.org/20180107/1515308758
 hateblo.jp http://yamasy1549.hateblo.jp/entry/2017/12/28/222631
 hatelabo.jp https://anond.hatelabo.jp/20140623172009
 hatena.ne.jp https://subtech.g.hatena.ne.jp/mala/20110428/1303982930
-hatenablog.com http://xpcoin.hatenablog.com/entry/2018/01/02/183557
+hatenablog.com http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
 hatenablog.jp http://arufa.hatenablog.jp/entry/2018/01/04/190000
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20180105/1515099363
 hatenadiary.jp http://huyukiitoichi.hatenadiary.jp/entry/2018/01/01/080000
@@ -66,6 +67,7 @@ kamatte.cc https://kamatte.cc/
 kawade.co.jp http://web.kawade.co.jp/bungei/1816/
 kiji.is https://this.kiji.is/322643867512226913
 kk3marketer.com http://www.kk3marketer.com/entry/bitcoin13
+komugi.jp http://komugi.jp/?p=780
 kosotatu.jp http://kosotatu.jp/%E6%97%A5%E6%9C%AC%E3%81%A7%E5%A5%B3%E5%AD%90%E6%A0%A1%E3%81%8C%E6%B8%9B%E3%82%8B%E7%90%86%E7%94%B1/
 kuronekoyamato.co.jp http://www.kuronekoyamato.co.jp/ytc/404error.html
 kwsklife.com http://kwsklife.com/miserable-innocence/
@@ -75,11 +77,13 @@ lineblog.me https://lineblog.me/aya_uchida/archives/13167783.html
 lite-ra.com http://lite-ra.com/2018/01/post-3711.html
 livedoor.com http://news.livedoor.com/article/detail/14104805/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1952327.html
+lopan.jp https://lopan.jp/layout2/
 mainichi.jp https://mainichi.jp/articles/20171229/dyo/00m/200/052000c
 matolabel.net https://www.matolabel.net/archives/70064554.html
 mediocrity-blog.com http://www.mediocrity-blog.com/entry/amazon-gold-card
 medium.com https://medium.com/@laqiiz/6116544cc6fd
 megaya.net http://www.megaya.net/entry/2018/01/07/174924
+moae.jp http://www.moae.jp/comic/1nichi3syoku
 moguravr.com http://www.moguravr.com/reality-clash-ar-blockchain/
 moneyforward.com https://moneyforward.com/engineers_blog/2018/01/05/optional2018/
 moneypost.jp https://www.moneypost.jp/234308
@@ -88,13 +92,14 @@ natalie.mu https://natalie.mu/comic/news/263760
 naver.jp https://matome.naver.jp/odai/2151263234891614601
 netgeek.biz http://netgeek.biz/archives/109444
 newsdigest.jp https://newsdigest.jp/936
+newsweekjapan.jp http://www.newsweekjapan.jp/stories/world/2018/01/dna2.php
 newswitch.jp https://newswitch.jp/p/11540
 nhk.or.jp https://www3.nhk.or.jp/news/html/20180101/k10011276711000.html
 nifty.com http://portal.nifty.com/kiji/180104201647_1.htm
 nikkan-spa.jp https://nikkan-spa.jp/1443430
 nikkansports.com https://www.nikkansports.com/baseball/column/naruohama/news/201801080000505.html
 nikkei.com https://www.nikkei.com/article/DGXMZO25274000R31C17A2MM8000/
-nikkeibp.co.jp http://business.nikkeibp.co.jp/atcl/report/16/101700172/122000005/
+nikkeibp.co.jp http://business.nikkeibp.co.jp/atcl/report/16/022700115/010900068/
 nna.jp https://www.nna.jp/news/show/1707455
 note.mu https://note.mu/an_giee27/n/n7fca50aeba60
 nubatamanon.com https://www.nubatamanon.com/entry/2018/01/07/234650
@@ -116,6 +121,7 @@ seesaa.net http://mubou.seesaa.net/article/455942508.html
 sekkachi.com http://www.sekkachi.com/entry/2018_hatenablog
 slideshare.net https://www.slideshare.net/hiromasaiwasaki/ss-85538212
 souspeak.com https://souspeak.com/blog/2018start/
+speakerdeck.com https://speakerdeck.com/isobetomohiko/ansibledegou-cheng-guan-li-tatutahitotufalsehu-etayarikata
 square-enix.com http://www.jp.square-enix.com/tech/openconference/library/2011/dldata/PM/PM.pdf
 srad.jp https://it.srad.jp/story/17/12/31/1352241/
 tamashii-yusaburuyo.work http://www.tamashii-yusaburuyo.work/entry/Google_Analytics%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9
