@@ -1,6 +1,7 @@
 200kounen-training.com http://www.200kounen-training.com/entry/2018/01/10/223227
 4gamer.net http://www.4gamer.net/games/999/G999902/20180105085/
 4knn.tv https://4knn.tv/python/
+affi-note.com https://affi-note.com/yu-howtowriting
 afpbb.com http://www.afpbb.com/articles/-/3157433
 akiba-souken.com https://akiba-souken.com/article/32693/
 ameblo.jp https://ameblo.jp/kokkoippan/entry-12343370647.html
@@ -19,6 +20,9 @@ bunshun.jp http://bunshun.jp/articles/-/5624
 businessinsider.jp https://www.businessinsider.jp/post-107607
 buzz-plus.com http://buzz-plus.com/article/2018/01/08/usuta-kyosuke-ashi/
 buzzfeed.com https://www.buzzfeed.com/jp/hikaruyoza/line-de-undou
+byosoku100.com http://www.byosoku100.com/entry/2018/01/13/212749
+card-life.jp http://card-life.jp/tesuuryou-chip-11729
+careersupli.jp http://careersupli.jp/career/nihoneiga/
 change.org https://www.change.org/l/jp/businessmodel
 chrisshort.net https://chrisshort.net/docker-inc-is-dead/
 classmethod.jp https://dev.classmethod.jp/cloud/alexa-sdk/
@@ -74,11 +78,14 @@ houdoukyoku.jp https://www.houdoukyoku.jp/posts/24051
 huffingtonpost.jp http://www.huffingtonpost.jp/2018/01/01/muramoto_a_23320832/
 ign.com http://jp.ign.com/the-legend-of-zelda-hd/20549/feature/2017
 impress.co.jp https://pc.watch.impress.co.jp/docs/news/1100519.html
+inouetakuya.info http://blog.inouetakuya.info/entry/2018/01/13/235843
 ismedia.jp http://gendai.ismedia.jp/articles/-/53522
 itjinzai-lab.jp https://itjinzai-lab.jp/article/detail/856
 itmedia.co.jp http://www.itmedia.co.jp/mobile/articles/1801/10/news151.html
 itutado.com http://www.itutado.com/entry/osusumecomic_2018
 j-cast.com https://www.j-cast.com/2018/01/11318462.html
+jigowatt121.com http://www.jigowatt121.com/entry/2018/01/08/001126
+jiji.com https://www.jiji.com/jc/article?k=2018011300400&g=pol
 jlongster.com http://jlongster.com/How-I-Became-Better-Programmer
 jst.go.jp http://scienceportal.jst.go.jp/news/newsflash_review/newsflash/2018/01/20180104_01.html
 kai-you.net http://kai-you.net/article/49366
@@ -108,6 +115,7 @@ medium.com https://medium.com/@laqiiz/6116544cc6fd
 megaya.net http://www.megaya.net/entry/2018/01/07/174924
 merumo.ne.jp https://news.merumo.ne.jp/article/genre/6991548
 moae.jp http://www.moae.jp/comic/1nichi3syoku
+moguragames.com http://www.moguragames.com/entry/freegame-indiegame-rec-2017/
 moguravr.com http://www.moguravr.com/reality-clash-ar-blockchain/
 moneyforward.com https://moneyforward.com/engineers_blog/2018/01/05/optional2018/
 moneypost.jp https://www.moneypost.jp/234308
@@ -120,6 +128,7 @@ newsdigest.jp https://newsdigest.jp/936
 newsweekjapan.jp http://www.newsweekjapan.jp/stories/world/2018/01/dna2.php
 newswitch.jp https://newswitch.jp/p/11540
 nhk.or.jp https://www3.nhk.or.jp/news/html/20180101/k10011276711000.html
+nicovideo.jp http://www.nicovideo.jp/watch/1515554001
 nifty.com http://portal.nifty.com/kiji/180104201647_1.htm
 nikkan-gendai.com https://www.nikkan-gendai.com/articles/view/news/221098?pc=true
 nikkan-spa.jp https://nikkan-spa.jp/1443430
@@ -137,6 +146,7 @@ osaka.lg.jp http://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000419363.html
 osushi.love https://osushi.love/
 otousan-diary.com http://www.otousan-diary.com/entry/2018/01/11/113903
 photoshopvip.net http://photoshopvip.net/106732
+pixivision.net https://www.pixivision.net/ja/a/3158
 ponchan.jp http://ponchan.jp/archives/post-4047.html
 postd.cc http://postd.cc/golang-clean-archithecture/
 potatoo.jp http://potatoo.jp/2017/12/31/%E4%B8%89%E6%B5%A6%E5%A4%A7%E7%9F%A5%E3%81%AE%E7%B4%85%E7%99%BD%E8%87%B3%E4%B8%8A%E5%88%9D%E3%81%AE%E7%84%A1%E9%9F%B3%E3%83%80%E3%83%B3%E3%82%B9%E3%81%A7%E9%AD%85%E3%81%9B%E3%81%9F%E3%83%91%E3%83%95/
@@ -154,6 +164,9 @@ sankei.com http://www.sankei.com/affairs/news/180107/afr1801070013-n1.html
 sanspo.com http://www.sanspo.com/baseball/news/20180103/swa18010321200003-n1.html
 seesaa.net http://mubou.seesaa.net/article/455942508.html
 sekkachi.com http://www.sekkachi.com/entry/2018_hatenablog
+shiropen.com http://shiropen.com/2018/01/14/31458
+shonenjumpplus.com https://shonenjumpplus.com/episode/13932016480029291902
+shunya-hitomi.com http://www.shunya-hitomi.com/entry/2018/01/10/113310
 slideshare.net https://www.slideshare.net/hiromasaiwasaki/ss-85538212
 soundproof-blog.com https://soundproof-blog.com/fatigue-recovery
 souspeak.com https://souspeak.com/blog/2018start/
@@ -185,7 +198,8 @@ xera.jp https://xera.jp/entry/google-home
 yahoo.co.jp https://news.yahoo.co.jp/byline/fukudamemori/20180103-00080046/
 yamaonsen.com http://www.yamaonsen.com/entry/onsen_houhu2018
 yomiuri.co.jp http://www.yomiuri.co.jp/national/20171231-OYT1T50007.html
-youtube.com http://www.youtube.com/watch?v=x5tAZZ7A8Jk
+youshoyomi.info http://youshoyomi.info/archives/650
+youtube.com http://www.youtube.com/watch?v=3bl1ZI-J6hM
 yutorism.jp http://www.yutorism.jp/entry/Bubble
 yuuk.io http://blog.yuuk.io/entry/2017/review
 zuuonline.com https://zuuonline.com/archives/182543
