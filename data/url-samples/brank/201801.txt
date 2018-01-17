@@ -5,6 +5,7 @@ affi-note.com https://affi-note.com/yu-howtowriting
 afpbb.com http://www.afpbb.com/articles/-/3157433
 akiba-souken.com https://akiba-souken.com/article/32693/
 ameblo.jp https://ameblo.jp/kokkoippan/entry-12343370647.html
+animationbusiness.info http://animationbusiness.info/archives/4742
 anonymous-post.com http://anonymous-post.com/archives/17872
 arcj.org http://www.arcj.org/animals/fish/00/id=1169
 asahi.com https://www.asahi.com/articles/ASKCS53MCKCSUCVL019.html
@@ -32,12 +33,15 @@ cnn.co.jp https://www.cnn.co.jp/fringe/35112870.html
 cocolog-nifty.com http://finalvent.cocolog-nifty.com/fareastblog/2018/01/100-7c9e.html
 cointelegraph.com https://jp.cointelegraph.com/news/telegram-500-mln-pre-ico-aims-to-be-largest-ever
 colopl.co.jp http://colopl.co.jp/shironekoproject/
+conobie.jp https://conobie.jp/article/11659
 courrier.jp https://courrier.jp/news/archives/108390/
 coziest.net http://coziest.net/?p=2686
 cri-o.io http://cri-o.io/
 cyberagent.co.jp https://www.cyberagent.co.jp/news/detail/id=21201
 cyblog.jp https://cyblog.jp/30950
 daichi.blog http://daichi.blog/entry/bestbooks-2017
+daily.co.jp https://www.daily.co.jp/gossip/2018/01/15/0010899654.shtml
+ddnavi.com https://ddnavi.com/review/429570/a/
 dena.jp https://engineer.dena.jp/2018/01/animew2v.html
 denfaminicogamer.jp http://news.denfaminicogamer.jp/kikakuthetower/180111
 dev.to https://dev.to/seizans/-d0j
@@ -51,7 +55,7 @@ en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000
 engadget.com http://japanese.engadget.com/2018/01/10/pubg-0-16/
 english-video.net https://www.english-video.net/p/ja/1
 eshizuoka.jp http://osake.eshizuoka.jp/e1863605.html
-exblog.jp http://geopoli.exblog.jp/27977196/
+exblog.jp http://wivern.exblog.jp/28003839/
 expedia.co.jp https://welove.expedia.co.jp/destination/japan/31986/
 facebook.com https://www.facebook.com/souryuu.kizu/posts/1137835473017267
 fcart.jp https://akasugu.fcart.jp/taikenki/entry/2018/01/12/special1520
@@ -93,6 +97,7 @@ jigowatt121.com http://www.jigowatt121.com/entry/2018/01/08/001126
 jiji.com https://www.jiji.com/jc/article?k=2018011300400&g=pol
 jlongster.com http://jlongster.com/How-I-Became-Better-Programmer
 jst.go.jp http://scienceportal.jst.go.jp/news/newsflash_review/newsflash/2018/01/20180104_01.html
+jxck.io https://blog.jxck.io/entries/2018-01-12/let-it-bookmarklet.html
 kai-you.net http://kai-you.net/article/49366
 kaikore.blogspot.com https://kaikore.blogspot.com/2018/01/the-fall-of-anime-in-germany.html
 kakeru.me http://kakeru.me/line/kakerumedia-linecommunication/
@@ -117,6 +122,7 @@ livedoor.com http://news.livedoor.com/article/detail/14104805/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1952327.html
 lopan.jp https://lopan.jp/layout2/
 mainichi.jp https://mainichi.jp/articles/20171229/dyo/00m/200/052000c
+mantan-web.jp https://mantan-web.jp/article/20180114dog00m200015000c.html
 matolabel.net https://www.matolabel.net/archives/70064554.html
 mediocrity-blog.com http://www.mediocrity-blog.com/entry/amazon-gold-card
 medium.com https://medium.com/@laqiiz/6116544cc6fd
@@ -150,9 +156,11 @@ note.mu https://note.mu/an_giee27/n/n7fca50aeba60
 nubatamanon.com https://www.nubatamanon.com/entry/2018/01/07/234650
 okanenokozuchi.com https://okanenokozuchi.com/funded-nisa
 oldno07.com https://oldno07.com/access-up-10manpv/
+osaka-u.ac.jp http://www.sfs.osaka-u.ac.jp/user/swedish/
 osaka.lg.jp http://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000419363.html
 osushi.love https://osushi.love/
 otousan-diary.com http://www.otousan-diary.com/entry/2018/01/11/113903
+pasolack.com https://pasolack.com/tool/juicer/
 photoshopvip.net http://photoshopvip.net/106732
 pixivision.net https://www.pixivision.net/ja/a/3158
 ponchan.jp http://ponchan.jp/archives/post-4047.html
@@ -192,7 +200,7 @@ togetter.com https://togetter.com/li/1185170
 toyokeizai.net http://toyokeizai.net/articles/-/202761
 tr246.github.io https://tr246.github.io/Sigene/
 tumblr.com http://sunaot.tumblr.com/post/169565067905/1%E8%A1%8C%E7%9B%B4%E3%81%99%E3%81%A0%E3%81%91%E3%81%A3%E3%81%A6%E3%81%9D%E3%82%93%E3%81%AA%E3%81%AB%E5%A4%A7%E5%A4%89%E3%81%AA%E3%81%AE
-twitter.com http://twitter.com/Simon_Sin/status/952508512445153280
+twitter.com http://twitter.com/ARuFa_FARu/status/952850509680947201
 type.jp https://type.jp/et/feature/232
 uedakeita.net http://diary.uedakeita.net/entry/2018/01/07/204424
 ufcpp.net http://ufcpp.net/blog/2018/1/await
@@ -203,6 +211,7 @@ venture-support.biz https://www.venture-support.biz/media/
 vivi-blo.com http://www.vivi-blo.com/entry/2018/01/12/170000
 welserch.com https://welserch.com/trivia/handicapped-income
 wezz-y.com http://wezz-y.com/archives/51175
+wikipedia.org https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%91%E3%83%86%E3%82%A3%E3%82%A2
 wired.jp https://wired.jp/2017/12/31/wired-best-2017/
 wtnbyou.com http://www.wtnbyou.com/entry/hoshiiro-kusoanime.review
 xera.jp https://xera.jp/entry/google-home
