@@ -1,5 +1,5 @@
 200kounen-training.com http://www.200kounen-training.com/entry/2018/01/10/223227
-4gamer.net http://www.4gamer.net/games/999/G999902/20180105085/
+4gamer.net http://www.4gamer.net/games/407/G040707/20180116025/
 4knn.tv https://4knn.tv/python/
 affi-note.com https://affi-note.com/yu-howtowriting
 afpbb.com http://www.afpbb.com/articles/-/3157433
@@ -69,9 +69,10 @@ gigazine.net https://gigazine.net/news/20180101-trees-language/
 gizmodo.jp https://www.gizmodo.jp/2018/01/altered-carbon-trailer-1.html
 glitch.me https://font-display.glitch.me/
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/shiatsu/4385
+gorilla.clinic https://gorilla.clinic/cms/imaneta/170386_1801kuri/
 hageatama.org http://www.hageatama.org/20180107/1515308758
 hateblo.jp http://yamasy1549.hateblo.jp/entry/2017/12/28/222631
-hatelabo.jp https://anond.hatelabo.jp/20140623172009
+hatelabo.jp https://anond.hatelabo.jp/20140116140438
 hatena.ne.jp https://subtech.g.hatena.ne.jp/mala/20110428/1303982930
 hatenablog.com http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
 hatenablog.jp http://arufa.hatenablog.jp/entry/2018/01/04/190000
@@ -88,11 +89,15 @@ huffingtonpost.jp http://www.huffingtonpost.jp/2018/01/01/muramoto_a_23320832/
 ign.com http://jp.ign.com/the-legend-of-zelda-hd/20549/feature/2017
 impress.co.jp https://pc.watch.impress.co.jp/docs/news/1100519.html
 inouetakuya.info http://blog.inouetakuya.info/entry/2018/01/13/235843
-ismedia.jp http://gendai.ismedia.jp/articles/-/53522
+iphone-mania.jp https://iphone-mania.jp/news-200321/
+irasutoya.com http://www.irasutoya.com/2018/01/blog-post_474.html
+ironna.jp http://ironna.jp/article/8689
+ismedia.jp http://jbpress.ismedia.jp/articles/-/52062
 itjinzai-lab.jp https://itjinzai-lab.jp/article/detail/856
 itmedia.co.jp http://www.itmedia.co.jp/mobile/articles/1801/10/news151.html
 itutado.com http://www.itutado.com/entry/osusumecomic_2018
 j-cast.com https://www.j-cast.com/2018/01/11318462.html
+jalan.net https://www.jalan.net/news/article/217733/
 jigowatt121.com http://www.jigowatt121.com/entry/2018/01/08/001126
 jiji.com https://www.jiji.com/jc/article?k=2018011300400&g=pol
 jlongster.com http://jlongster.com/How-I-Became-Better-Programmer
@@ -102,6 +107,7 @@ kai-you.net http://kai-you.net/article/49366
 kaikore.blogspot.com https://kaikore.blogspot.com/2018/01/the-fall-of-anime-in-germany.html
 kakeru.me http://kakeru.me/line/kakerumedia-linecommunication/
 kamatte.cc https://kamatte.cc/
+kansou-blog.jp http://www.kansou-blog.jp/entry/2018/01/16/173701
 karapaia.com http://karapaia.com/archives/52252109.html
 kawade.co.jp http://web.kawade.co.jp/bungei/1816/
 keens.github.io https://keens.github.io/blog/2018/01/12/enjinianohatarakihoutokanitsuitenoemoikiji/
@@ -118,10 +124,12 @@ labaq.com http://labaq.com/archives/51892631.html
 lifecooking.net http://www.lifecooking.net/entry/2017/04/16/214726
 lineblog.me https://lineblog.me/aya_uchida/archives/13167783.html
 lite-ra.com http://lite-ra.com/2018/01/post-3711.html
+livedoor.biz http://news4vip.livedoor.biz/archives/52261353.html
 livedoor.com http://news.livedoor.com/article/detail/14104805/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1952327.html
 lopan.jp https://lopan.jp/layout2/
-mainichi.jp https://mainichi.jp/articles/20171229/dyo/00m/200/052000c
+lowreal.net https://lowreal.net/2018/01/16/1
+mainichi.jp https://mainichi.jp/articles/20170214/ddm/008/020/092000c
 mantan-web.jp https://mantan-web.jp/article/20180114dog00m200015000c.html
 matolabel.net https://www.matolabel.net/archives/70064554.html
 mediocrity-blog.com http://www.mediocrity-blog.com/entry/amazon-gold-card
@@ -148,7 +156,7 @@ nikkan-gendai.com https://www.nikkan-gendai.com/articles/view/news/221098?pc=tru
 nikkan-spa.jp https://nikkan-spa.jp/1443430
 nikkansports.com https://www.nikkansports.com/baseball/column/naruohama/news/201801080000505.html
 nikkei.com https://www.nikkei.com/article/DGXMZO25274000R31C17A2MM8000/
-nikkeibp.co.jp http://business.nikkeibp.co.jp/atcl/opinion/15/174784/011100126/
+nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/17/122800596/010500003/
 nintendo.co.jp https://topics.nintendo.co.jp/c/article/a19cdf5e-e94f-11e7-86dc-063b7ac45a6d.html
 nippon1.jp http://nippon1.jp/news/new_title_interview/
 nna.jp https://www.nna.jp/news/show/1707455
@@ -172,6 +180,7 @@ qcweb.jp http://shrinkflation.qcweb.jp/wiki/
 qiita.com https://qiita.com/Rairaiden/items/539d429729d5819de0aa
 qz.com https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world/
 rakuten.jp https://srdk.rakuten.jp/entry/2017/12/19/110000
+randpy.tokyo http://www.randpy.tokyo/entry/word2vec_skip_gram_model
 rensakaki.jp http://rensakaki.jp/blog/902/
 reuters.com https://jp.reuters.com/article/idJPKBN1F008C
 rieti.go.jp https://www.rieti.go.jp/jp/columns/s18_0006.html
@@ -193,6 +202,7 @@ square-enix.com http://www.jp.square-enix.com/tech/openconference/library/2011/d
 srad.jp https://it.srad.jp/story/17/12/31/1352241/
 studyhacker.net http://studyhacker.net/columns/nounogomi-hamigaki-suimin
 tamashii-yusaburuyo.work http://www.tamashii-yusaburuyo.work/entry/Google_Analytics%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9
+tech-camp.in https://tech-camp.in/note/interviews/6892/
 techcrunch.com http://jp.techcrunch.com/2018/01/06/g-tax/
 tinect.jp http://blog.tinect.jp/?p=46186
 tmiyadera.com https://tmiyadera.com/blog/1326.html
@@ -200,6 +210,7 @@ togetter.com https://togetter.com/li/1185170
 toyokeizai.net http://toyokeizai.net/articles/-/202761
 tr246.github.io https://tr246.github.io/Sigene/
 tumblr.com http://sunaot.tumblr.com/post/169565067905/1%E8%A1%8C%E7%9B%B4%E3%81%99%E3%81%A0%E3%81%91%E3%81%A3%E3%81%A6%E3%81%9D%E3%82%93%E3%81%AA%E3%81%AB%E5%A4%A7%E5%A4%89%E3%81%AA%E3%81%AE
+tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000118823.html
 twitter.com http://twitter.com/ARuFa_FARu/status/952850509680947201
 type.jp https://type.jp/et/feature/232
 uedakeita.net http://diary.uedakeita.net/entry/2018/01/07/204424
