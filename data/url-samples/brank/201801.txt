@@ -1,6 +1,7 @@
 200kounen-training.com http://www.200kounen-training.com/entry/2018/01/10/223227
 4gamer.net http://www.4gamer.net/games/407/G040707/20180116025/
 4knn.tv https://4knn.tv/python/
+aco-tokyo.com https://aco-tokyo.com/journal/thinking/157/
 affi-note.com https://affi-note.com/yu-howtowriting
 afpbb.com http://www.afpbb.com/articles/-/3157433
 akiba-souken.com https://akiba-souken.com/article/32693/
@@ -72,6 +73,7 @@ gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/shiatsu/4385
 gorilla.clinic https://gorilla.clinic/cms/imaneta/170386_1801kuri/
 hageatama.org http://www.hageatama.org/20180107/1515308758
 hateblo.jp http://yamasy1549.hateblo.jp/entry/2017/12/28/222631
+hatebu.me http://hatebu.me/entry/shogunate
 hatelabo.jp https://anond.hatelabo.jp/20140116140438
 hatena.ne.jp https://subtech.g.hatena.ne.jp/mala/20110428/1303982930
 hatenablog.com http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
@@ -86,7 +88,8 @@ hosyusokuhou.jp http://hosyusokuhou.jp/archives/48808685.html
 hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/editorial/17-00315
 houdoukyoku.jp https://www.houdoukyoku.jp/posts/24051
 huffingtonpost.jp http://www.huffingtonpost.jp/2018/01/01/muramoto_a_23320832/
-ign.com http://jp.ign.com/the-legend-of-zelda-hd/20549/feature/2017
+icon.jp http://icon.jp/archives/14541
+ign.com http://jp.ign.com/rym9000-pc/21090/preview/2drym-9000
 impress.co.jp https://pc.watch.impress.co.jp/docs/news/1100519.html
 inouetakuya.info http://blog.inouetakuya.info/entry/2018/01/13/235843
 iphone-mania.jp https://iphone-mania.jp/news-200321/
@@ -136,6 +139,7 @@ mediocrity-blog.com http://www.mediocrity-blog.com/entry/amazon-gold-card
 medium.com https://medium.com/@laqiiz/6116544cc6fd
 megaya.net http://www.megaya.net/entry/2018/01/07/174924
 merumo.ne.jp https://news.merumo.ne.jp/article/genre/6991548
+mitanorifusa.com https://mitanorifusa.com/news/329
 moae.jp http://www.moae.jp/comic/1nichi3syoku
 moguragames.com http://www.moguragames.com/entry/freegame-indiegame-rec-2017/
 moguravr.com http://www.moguravr.com/reality-clash-ar-blockchain/
@@ -157,10 +161,11 @@ nikkan-spa.jp https://nikkan-spa.jp/1443430
 nikkansports.com https://www.nikkansports.com/baseball/column/naruohama/news/201801080000505.html
 nikkei.com https://www.nikkei.com/article/DGXMZO25274000R31C17A2MM8000/
 nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/17/122800596/010500003/
-nintendo.co.jp https://topics.nintendo.co.jp/c/article/a19cdf5e-e94f-11e7-86dc-063b7ac45a6d.html
+nintendo.co.jp https://www.nintendo.co.jp/20180118/index.html
 nippon1.jp http://nippon1.jp/news/new_title_interview/
 nna.jp https://www.nna.jp/news/show/1707455
 note.mu https://note.mu/an_giee27/n/n7fca50aeba60
+notosiki.co.jp https://www.notosiki.co.jp/
 nubatamanon.com https://www.nubatamanon.com/entry/2018/01/07/234650
 okanenokozuchi.com https://okanenokozuchi.com/funded-nisa
 oldno07.com https://oldno07.com/access-up-10manpv/
@@ -207,7 +212,7 @@ techcrunch.com http://jp.techcrunch.com/2018/01/06/g-tax/
 tinect.jp http://blog.tinect.jp/?p=46186
 tmiyadera.com https://tmiyadera.com/blog/1326.html
 togetter.com https://togetter.com/li/1185170
-toyokeizai.net http://toyokeizai.net/articles/-/202761
+toyokeizai.net http://toyokeizai.net/articles/-/202364
 tr246.github.io https://tr246.github.io/Sigene/
 tumblr.com http://sunaot.tumblr.com/post/169565067905/1%E8%A1%8C%E7%9B%B4%E3%81%99%E3%81%A0%E3%81%91%E3%81%A3%E3%81%A6%E3%81%9D%E3%82%93%E3%81%AA%E3%81%AB%E5%A4%A7%E5%A4%89%E3%81%AA%E3%81%AE
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_society/articles/000118823.html
@@ -220,6 +225,7 @@ univ-journal.jp http://univ-journal.jp/18104/
 useful-info.com http://useful-info.com/nyt-article-about-forced-sex-slave-by-japanese-military
 venture-support.biz https://www.venture-support.biz/media/
 vivi-blo.com http://www.vivi-blo.com/entry/2018/01/12/170000
+watto.nagoya http://www.watto.nagoya/entry/2018/01/17/233000
 welserch.com https://welserch.com/trivia/handicapped-income
 wezz-y.com http://wezz-y.com/archives/51175
 wikipedia.org https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%91%E3%83%86%E3%82%A3%E3%82%A2
