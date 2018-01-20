@@ -1,3 +1,4 @@
+1101.com http://www.1101.com/president/iwata-index.html
 200kounen-training.com http://www.200kounen-training.com/entry/2018/01/10/223227
 4gamer.net http://www.4gamer.net/games/407/G040707/20180116025/
 4knn.tv https://4knn.tv/python/
@@ -16,6 +17,7 @@ bengo4.com https://www.bengo4.com/other/n_7210/
 bhb.co.jp https://bhb.co.jp/staff-blog/11392/
 biz-journal.jp http://biz-journal.jp/2018/01/post_21949.html
 blog.jp http://ma-chan.blog.jp/archives/74311563.html
+blogos.com http://blogos.com/article/271859/
 bloomberg.co.jp https://www.bloomberg.co.jp/news/articles/2018-01-14/P16SKY6JTSEC01
 btrax.com http://blog.btrax.com/jp/2017/12/31/2017-ux/
 bunkakeihack.com http://www.bunkakeihack.com/entry/2018/01/06/200800
@@ -59,6 +61,7 @@ eshizuoka.jp http://osake.eshizuoka.jp/e1863605.html
 exblog.jp http://wivern.exblog.jp/28003839/
 expedia.co.jp https://welove.expedia.co.jp/destination/japan/31986/
 facebook.com https://www.facebook.com/souryuu.kizu/posts/1137835473017267
+fc2.com http://tirasimanga.web.fc2.com/TUM/043/043.html
 fcart.jp https://akasugu.fcart.jp/taikenki/entry/2018/01/12/special1520
 financepensionrealestate.work http://www.financepensionrealestate.work/entry/2018/01/12/200210
 fnshr.info http://id.fnshr.info/2018/01/01/gantan/
@@ -84,6 +87,7 @@ hayato.io https://hayato.io/2018/10th-anniversary/
 hitode-festival.com http://www.hitode-festival.com/entry/2018/01/04/183439
 honmotakeshi.com http://www.honmotakeshi.com/archives/52717295.html
 honz.jp http://honz.jp/articles/-/44579
+hororo-tusin.com http://hororo-tusin.com/post-3435
 hosyusokuhou.jp http://hosyusokuhou.jp/archives/48808685.html
 hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/editorial/17-00315
 houdoukyoku.jp https://www.houdoukyoku.jp/posts/24051
@@ -124,6 +128,7 @@ kwsklife.com http://kwsklife.com/miserable-innocence/
 kyoko-np.net http://kyoko-np.net/2018010101.html
 kyoto-np.co.jp http://www.kyoto-np.co.jp/top/article/20171211000111
 labaq.com http://labaq.com/archives/51892631.html
+ledge.ai https://ledge.ai/pix2code-on-floydhub/
 lifecooking.net http://www.lifecooking.net/entry/2017/04/16/214726
 lineblog.me https://lineblog.me/aya_uchida/archives/13167783.html
 lite-ra.com http://lite-ra.com/2018/01/post-3711.html
@@ -137,6 +142,7 @@ mantan-web.jp https://mantan-web.jp/article/20180114dog00m200015000c.html
 matolabel.net https://www.matolabel.net/archives/70064554.html
 mediocrity-blog.com http://www.mediocrity-blog.com/entry/amazon-gold-card
 medium.com https://medium.com/@laqiiz/6116544cc6fd
+medpeer.co.jp http://tech.medpeer.co.jp/entry/2018/01/18/174542
 megaya.net http://www.megaya.net/entry/2018/01/07/174924
 merumo.ne.jp https://news.merumo.ne.jp/article/genre/6991548
 mitanorifusa.com https://mitanorifusa.com/news/329
@@ -160,15 +166,16 @@ nikkan-gendai.com https://www.nikkan-gendai.com/articles/view/news/221098?pc=tru
 nikkan-spa.jp https://nikkan-spa.jp/1443430
 nikkansports.com https://www.nikkansports.com/baseball/column/naruohama/news/201801080000505.html
 nikkei.com https://www.nikkei.com/article/DGXMZO25274000R31C17A2MM8000/
-nikkeibp.co.jp http://itpro.nikkeibp.co.jp/atcl/column/17/122800596/010500003/
+nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/16/c/011800071/
 nintendo.co.jp https://www.nintendo.co.jp/20180118/index.html
 nippon1.jp http://nippon1.jp/news/new_title_interview/
 nna.jp https://www.nna.jp/news/show/1707455
-note.mu https://note.mu/an_giee27/n/n7fca50aeba60
+note.mu https://note.mu/akio_yoshihashi/n/n0050f5a353b4
 notosiki.co.jp https://www.notosiki.co.jp/
 nubatamanon.com https://www.nubatamanon.com/entry/2018/01/07/234650
 okanenokozuchi.com https://okanenokozuchi.com/funded-nisa
 oldno07.com https://oldno07.com/access-up-10manpv/
+orangeitems.com http://www.orangeitems.com/entry/2018/01/18/132032
 osaka-u.ac.jp http://www.sfs.osaka-u.ac.jp/user/swedish/
 osaka.lg.jp http://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000419363.html
 osushi.love https://osushi.love/
@@ -180,7 +187,7 @@ ponchan.jp http://ponchan.jp/archives/post-4047.html
 postd.cc http://postd.cc/golang-clean-archithecture/
 potatoo.jp http://potatoo.jp/2017/12/31/%E4%B8%89%E6%B5%A6%E5%A4%A7%E7%9F%A5%E3%81%AE%E7%B4%85%E7%99%BD%E8%87%B3%E4%B8%8A%E5%88%9D%E3%81%AE%E7%84%A1%E9%9F%B3%E3%83%80%E3%83%B3%E3%82%B9%E3%81%A7%E9%AD%85%E3%81%9B%E3%81%9F%E3%83%91%E3%83%95/
 prasm.blog https://prasm.blog/27852
-publickey1.jp http://www.publickey1.jp/blog/18/awsspectremeltdownamazon_ec2.html
+publickey1.jp http://www.publickey1.jp/blog/18/angularreactvuejsuiinputmanjs600kbime.html
 qcweb.jp http://shrinkflation.qcweb.jp/wiki/
 qiita.com https://qiita.com/Rairaiden/items/539d429729d5819de0aa
 qz.com https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world/
@@ -195,6 +202,7 @@ sankei.com http://www.sankei.com/affairs/news/180107/afr1801070013-n1.html
 sanspo.com http://www.sanspo.com/baseball/news/20180103/swa18010321200003-n1.html
 seesaa.net http://mubou.seesaa.net/article/455942508.html
 sekkachi.com http://www.sekkachi.com/entry/2018_hatenablog
+shinobi.jp http://magurojuice.blog.shinobi.jp/Entry/19/
 shiropen.com http://shiropen.com/2018/01/14/31458
 shonenjumpplus.com https://shonenjumpplus.com/episode/13932016480029291902
 shunya-hitomi.com http://www.shunya-hitomi.com/entry/2018/01/10/113310
@@ -232,6 +240,7 @@ wikipedia.org https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%91%E3%83%86
 wired.jp https://wired.jp/2017/12/31/wired-best-2017/
 wtnbyou.com http://www.wtnbyou.com/entry/hoshiiro-kusoanime.review
 xera.jp https://xera.jp/entry/google-home
+xrea.com http://itwork.s178.xrea.com/programming/2017/07/04/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AF%E3%82%82%E3%81%86%E5%8D%81%E5%88%86/
 yahoo.co.jp https://news.yahoo.co.jp/byline/fukudamemori/20180103-00080046/
 yamaonsen.com http://www.yamaonsen.com/entry/onsen_houhu2018
 yomiuri.co.jp http://www.yomiuri.co.jp/national/20171231-OYT1T50007.html
