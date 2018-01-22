@@ -9,6 +9,7 @@ akiba-souken.com https://akiba-souken.com/article/32693/
 ameblo.jp https://ameblo.jp/kokkoippan/entry-12343370647.html
 animationbusiness.info http://animationbusiness.info/archives/4742
 anonymous-post.com http://anonymous-post.com/archives/17872
+appgiga.jp http://plus.appgiga.jp/masatolan/2016/06/23/57067/
 arcj.org http://www.arcj.org/animals/fish/00/id=1169
 asahi.com https://www.asahi.com/articles/ASKCS53MCKCSUCVL019.html
 automaton.am http://jp.automaton.am/articles/newsjp/20180104-60378/
@@ -41,6 +42,7 @@ colopl.co.jp http://colopl.co.jp/shironekoproject/
 conobie.jp https://conobie.jp/article/11659
 courrier.jp https://courrier.jp/news/archives/108390/
 coziest.net http://coziest.net/?p=2686
+cpplover.blogspot.com https://cpplover.blogspot.com/2018/01/blog-post.html
 cri-o.io http://cri-o.io/
 cyberagent.co.jp https://www.cyberagent.co.jp/news/detail/id=21201
 cyblog.jp https://cyblog.jp/30950
@@ -74,6 +76,7 @@ gamesindustry.biz http://jp.gamesindustry.biz/article/1801/18011001/
 gamewalker.link http://gamewalker.link/game/xenoblade2/
 getbootstrap.com https://blog.getbootstrap.com/2018/01/18/bootstrap-4/
 gigazine.net https://gigazine.net/news/20180101-trees-language/
+github.com https://github.com/google/rejoiner
 gizmodo.jp https://www.gizmodo.jp/2018/01/altered-carbon-trailer-1.html
 glitch.me https://font-display.glitch.me/
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/shiatsu/4385
@@ -91,6 +94,7 @@ hatenadiary.jp http://moromii.hatenadiary.jp/entry/2018/01/19/085847
 hayato.io https://hayato.io/2018/10th-anniversary/
 hitode-festival.com http://www.hitode-festival.com/entry/2018/01/04/183439
 hitosara.com https://hitosara.com/contents/matome/advertising/h02.html
+hochi.co.jp http://www.hochi.co.jp/entertainment/20180120-OHT1T50145.html
 honmotakeshi.com http://www.honmotakeshi.com/archives/52717295.html
 honz.jp http://honz.jp/articles/-/44579
 hororo-tusin.com http://hororo-tusin.com/post-3435
@@ -102,6 +106,7 @@ icon.jp http://icon.jp/archives/14541
 ign.com http://jp.ign.com/rym9000-pc/21090/preview/2drym-9000
 impress.co.jp https://pc.watch.impress.co.jp/docs/news/1100519.html
 inouetakuya.info http://blog.inouetakuya.info/entry/2018/01/13/235843
+inside-games.jp https://www.inside-games.jp/article/2018/01/19/112263.html
 iphone-mania.jp https://iphone-mania.jp/news-200321/
 irasutoya.com http://www.irasutoya.com/2018/01/blog-post_474.html
 ironna.jp http://ironna.jp/article/8689
@@ -141,7 +146,7 @@ lineblog.me https://lineblog.me/aya_uchida/archives/13167783.html
 lite-ra.com http://lite-ra.com/2018/01/post-3711.html
 livedoor.biz http://news4vip.livedoor.biz/archives/52261353.html
 livedoor.com http://news.livedoor.com/article/detail/14104805/
-livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1952327.html
+livedoor.jp http://blog.livedoor.jp/dg_law/archives/52402082.html
 lopan.jp https://lopan.jp/layout2/
 lowreal.net https://lowreal.net/2018/01/16/1
 mainichi.jp https://mainichi.jp/articles/20170214/ddm/008/020/092000c
@@ -187,6 +192,7 @@ osaka-u.ac.jp http://www.sfs.osaka-u.ac.jp/user/swedish/
 osaka.lg.jp http://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000419363.html
 osushi.love https://osushi.love/
 otousan-diary.com http://www.otousan-diary.com/entry/2018/01/11/113903
+ousia.jp http://tech.ousia.jp/entry/DeepLearning-on-FPGA
 pasolack.com https://pasolack.com/tool/juicer/
 photoshopvip.net http://photoshopvip.net/106732
 pixivision.net https://www.pixivision.net/ja/a/3158
@@ -253,7 +259,7 @@ wired.jp https://wired.jp/2017/12/31/wired-best-2017/
 wtnbyou.com http://www.wtnbyou.com/entry/hoshiiro-kusoanime.review
 xera.jp https://xera.jp/entry/google-home
 xrea.com http://itwork.s178.xrea.com/programming/2017/07/04/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AF%E3%82%82%E3%81%86%E5%8D%81%E5%88%86/
-yahoo.co.jp https://news.yahoo.co.jp/byline/fukudamemori/20180103-00080046/
+yahoo.co.jp https://news.yahoo.co.jp/byline/fshin2000/20180120-00080681/
 yamaonsen.com http://www.yamaonsen.com/entry/onsen_houhu2018
 yomiuri.co.jp http://www.yomiuri.co.jp/national/20171231-OYT1T50007.html
 youshoyomi.info http://youshoyomi.info/archives/650
