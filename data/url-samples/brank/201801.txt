@@ -6,7 +6,7 @@ aco-tokyo.com https://aco-tokyo.com/journal/thinking/157/
 affi-note.com https://affi-note.com/yu-howtowriting
 afpbb.com http://www.afpbb.com/articles/-/3157433
 akiba-souken.com https://akiba-souken.com/article/32693/
-ameblo.jp https://ameblo.jp/hyadain/entry-12346326758.html
+ameblo.jp https://ameblo.jp/daisuke18/entry-12346606885.html
 animationbusiness.info http://animationbusiness.info/archives/4742
 anonymous-post.com http://anonymous-post.com/archives/17872
 appgiga.jp http://plus.appgiga.jp/masatolan/2016/06/23/57067/
@@ -30,6 +30,7 @@ byosoku100.com http://www.byosoku100.com/entry/2018/01/13/212749
 card-life.jp http://card-life.jp/tesuuryou-chip-11729
 careersupli.jp http://careersupli.jp/career/nihoneiga/
 change.org https://www.change.org/l/jp/businessmodel
+chosunonline.com http://www.chosunonline.com/site/data/html_dir/2018/01/22/2018012201560.html
 chrisshort.net https://chrisshort.net/docker-inc-is-dead/
 classmethod.jp https://dev.classmethod.jp/cloud/alexa-sdk/
 cnet.com https://japan.cnet.com/article/35113040/
@@ -70,6 +71,7 @@ facebook.com https://www.facebook.com/souryuu.kizu/posts/1137835473017267
 fc2.com http://tirasimanga.web.fc2.com/TUM/043/043.html
 fcart.jp https://akasugu.fcart.jp/taikenki/entry/2018/01/12/special1520
 financepensionrealestate.work http://www.financepensionrealestate.work/entry/2018/01/12/200210
+findy-code.io https://findy-code.io/engineer-lab/tenshoku-ng-jd
 fnshr.info http://id.fnshr.info/2018/01/01/gantan/
 footballchannel.jp https://www.footballchannel.jp/2018/01/08/post250360/
 forbesjapan.com https://forbesjapan.com/articles/detail/19130
@@ -173,6 +175,7 @@ nari.life http://blog.nari.life/entry/2018/01/08/114300
 natalie.mu https://natalie.mu/comic/news/263760
 naver.jp https://matome.naver.jp/odai/2151263234891614601
 netgeek.biz http://netgeek.biz/archives/109444
+netlorechase.net http://www.netlorechase.net/entry/2018/01/22/080000
 newsdigest.jp https://newsdigest.jp/936
 newspicks.com https://newspicks.com/news/2367316/
 newsweekjapan.jp http://www.newsweekjapan.jp/stories/world/2018/01/dna2.php
@@ -199,6 +202,7 @@ osaka.lg.jp http://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000419363.html
 osushi.love https://osushi.love/
 otousan-diary.com http://www.otousan-diary.com/entry/2018/01/11/113903
 ousia.jp http://tech.ousia.jp/entry/DeepLearning-on-FPGA
+p2ptk.org http://p2ptk.org/copyright/715
 pasolack.com https://pasolack.com/tool/juicer/
 photoshopvip.net http://photoshopvip.net/106732
 pixivision.net https://www.pixivision.net/ja/a/3158
@@ -227,6 +231,7 @@ seesaa.net http://mubou.seesaa.net/article/455942508.html
 sekkachi.com http://www.sekkachi.com/entry/2018_hatenablog
 shinobi.jp http://magurojuice.blog.shinobi.jp/Entry/19/
 shiropen.com http://shiropen.com/2018/01/14/31458
+shonenjump.com https://www.shonenjump.com/p/sp/1801/memumemu_anime/
 shonenjumpplus.com https://shonenjumpplus.com/episode/13932016480029291902
 shunya-hitomi.com http://www.shunya-hitomi.com/entry/2018/01/10/113310
 slideshare.net https://www.slideshare.net/hiromasaiwasaki/ss-85538212
@@ -239,6 +244,7 @@ speakerdeck.com https://speakerdeck.com/isobetomohiko/ansibledegou-cheng-guan-li
 square-enix.com http://www.jp.square-enix.com/tech/openconference/library/2011/dldata/PM/PM.pdf
 srad.jp https://it.srad.jp/story/17/12/31/1352241/
 studyhacker.net http://studyhacker.net/columns/nounogomi-hamigaki-suimin
+tam-tam.co.jp https://www.tam-tam.co.jp/tipsnote/html_css/post14400.html
 tamashii-yusaburuyo.work http://www.tamashii-yusaburuyo.work/entry/Google_Analytics%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9
 tech-camp.in https://tech-camp.in/note/interviews/6892/
 techacademy.jp https://techacademy.jp/magazine/16063
