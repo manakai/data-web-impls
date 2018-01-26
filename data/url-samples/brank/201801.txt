@@ -8,6 +8,7 @@ afpbb.com http://www.afpbb.com/articles/-/3157433
 akiba-souken.com https://akiba-souken.com/article/32693/
 ameblo.jp https://ameblo.jp/daisuke18/entry-12346606885.html
 animationbusiness.info http://animationbusiness.info/archives/4742
+anomaly3-movie.com http://www.anomaly3-movie.com/entry/AKIRA
 anonymous-post.com http://anonymous-post.com/archives/17872
 appgiga.jp http://plus.appgiga.jp/masatolan/2016/06/23/57067/
 arcj.org http://www.arcj.org/animals/fish/00/id=1169
@@ -57,11 +58,13 @@ denfaminicogamer.jp http://news.denfaminicogamer.jp/kikakuthetower/180111
 dengekionline.com http://dengekionline.com/elem/000/001/665/1665370/
 dev.to https://dev.to/seizans/-d0j
 diamond.jp http://diamond.jp/articles/-/155554
+diehardtales.com https://diehardtales.com/n/n2c2d285e4a32
 digicurr.jp http://digicurr.jp/175/
 dmm.com http://eikaiwa.dmm.com/blog/1554/
 doda.jp https://mirai.doda.jp/series/interview/daisuke-suga/
 dokushojin.com http://dokushojin.com/article.html?i=2652
 doorblog.jp http://kabumatome.doorblog.jp/archives/65850289.html
+e-aidem.com https://www.e-aidem.com/ch/listen/entry/2018/01/24/110000
 efcl.info http://efcl.info/2018/01/04/what-is-this/
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000
 engadget.com http://japanese.engadget.com/2018/01/10/pubg-0-16/
@@ -161,6 +164,7 @@ lowreal.net https://lowreal.net/2018/01/16/1
 mainichi.jp https://mainichi.jp/articles/20170214/ddm/008/020/092000c
 mantan-web.jp https://mantan-web.jp/article/20180114dog00m200015000c.html
 matolabel.net https://www.matolabel.net/archives/70064554.html
+mbs.jp http://www.mbs.jp/news/kansai/20180124/00000067.shtml
 mediocrity-blog.com http://www.mediocrity-blog.com/entry/amazon-gold-card
 medium.com https://medium.com/@laqiiz/6116544cc6fd
 medpeer.co.jp http://tech.medpeer.co.jp/entry/2018/01/18/174542
@@ -183,7 +187,7 @@ newsdigest.jp https://newsdigest.jp/936
 newspicks.com https://newspicks.com/news/2367316/
 newsweekjapan.jp http://www.newsweekjapan.jp/stories/world/2018/01/dna2.php
 newswitch.jp https://newswitch.jp/p/11540
-nhk.or.jp https://www3.nhk.or.jp/news/html/20180101/k10011276711000.html
+nhk.or.jp https://www3.nhk.or.jp/news/business_tokushu/2018_0124.html
 nicovideo.jp http://www.nicovideo.jp/watch/1515554001
 nifty.com http://portal.nifty.com/kiji/180104201647_1.htm
 nikkan-gendai.com https://www.nikkan-gendai.com/articles/view/news/221098?pc=true
@@ -237,6 +241,7 @@ shinobi.jp http://magurojuice.blog.shinobi.jp/Entry/19/
 shiropen.com http://shiropen.com/2018/01/14/31458
 shonenjump.com https://www.shonenjump.com/p/sp/1801/memumemu_anime/
 shonenjumpplus.com https://shonenjumpplus.com/episode/13932016480029291902
+shop-pro.jp http://isumi.rail.shop-pro.jp/?eid=3139
 shunya-hitomi.com http://www.shunya-hitomi.com/entry/2018/01/10/113310
 slideshare.net https://www.slideshare.net/hiromasaiwasaki/ss-85538212
 soar-world.com http://soar-world.com/2017/12/21/panorama/
@@ -257,6 +262,7 @@ tenki.jp http://www.tenki.jp/forecaster/diary/t_yoshida/2018/01/19/91681.html
 tinect.jp http://blog.tinect.jp/?p=46186
 tmiyadera.com https://tmiyadera.com/blog/1326.html
 togetter.com https://togetter.com/li/1185170
+tokyo-np.co.jp http://www.tokyo-np.co.jp/s/article/2018012401001937.html
 toyokeizai.net http://toyokeizai.net/articles/-/202364
 tr246.github.io https://tr246.github.io/Sigene/
 tumblr.com http://sunaot.tumblr.com/post/169565067905/1%E8%A1%8C%E7%9B%B4%E3%81%99%E3%81%A0%E3%81%91%E3%81%A3%E3%81%A6%E3%81%9D%E3%82%93%E3%81%AA%E3%81%AB%E5%A4%A7%E5%A4%89%E3%81%AA%E3%81%AE
@@ -265,6 +271,7 @@ twitter.com http://twitter.com/ARuFa_FARu/status/952850509680947201
 type.jp https://type.jp/et/feature/232
 uedakeita.net http://diary.uedakeita.net/entry/2018/01/07/204424
 ufcpp.net http://ufcpp.net/blog/2018/1/await
+ultrac2017.com http://www.ultrac2017.com/entry/2017/10/13/185140
 umenon.com http://umenon.com/2018/01/07/apptransfer/
 univ-journal.jp http://univ-journal.jp/18104/
 useful-info.com http://useful-info.com/nyt-article-about-forced-sex-slave-by-japanese-military
@@ -278,7 +285,7 @@ wired.jp https://wired.jp/2017/12/31/wired-best-2017/
 wtnbyou.com http://www.wtnbyou.com/entry/hoshiiro-kusoanime.review
 xera.jp https://xera.jp/entry/google-home
 xrea.com http://itwork.s178.xrea.com/programming/2017/07/04/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AF%E3%82%82%E3%81%86%E5%8D%81%E5%88%86/
-yahoo.co.jp https://news.yahoo.co.jp/byline/fshin2000/20180120-00080681/
+yahoo.co.jp https://news.yahoo.co.jp/byline/enokieisuke/20180124-00080798/
 yamaonsen.com http://www.yamaonsen.com/entry/onsen_houhu2018
 yomiuri.co.jp http://www.yomiuri.co.jp/eco/20180120-OYT1T50018.html
 youshoyomi.info http://youshoyomi.info/archives/650
