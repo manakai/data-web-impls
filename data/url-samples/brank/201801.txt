@@ -1,3 +1,4 @@
+100shiki.com https://www.100shiki.com/archives/2018/01/do_people_say.html
 1101.com http://www.1101.com/president/iwata-index.html
 200kounen-training.com http://www.200kounen-training.com/entry/2018/01/10/223227
 4gamer.net http://www.4gamer.net/games/407/G040707/20180116025/
@@ -42,14 +43,17 @@ cnet.com https://japan.cnet.com/article/35113040/
 cnn.co.jp https://www.cnn.co.jp/fringe/35112870.html
 cocolog-nifty.com http://finalvent.cocolog-nifty.com/fareastblog/2018/01/100-7c9e.html
 codezine.jp https://codezine.jp/article/detail/10585
+coincheck.com https://coincheck.com/ja/documents/security
 cointelegraph.com https://jp.cointelegraph.com/news/telegram-500-mln-pre-ico-aims-to-be-largest-ever
 coliss.com http://coliss.com/articles/build-websites/operation/css/css-tracking-and-analytics-web-page-crooked.html
 colopl.co.jp http://colopl.co.jp/shironekoproject/
+connpass.com https://coincheck.connpass.com/event/75718/
 conobie.jp https://conobie.jp/article/11659
 courrier.jp https://courrier.jp/news/archives/108390/
 coziest.net http://coziest.net/?p=2686
 cpplover.blogspot.com https://cpplover.blogspot.com/2012/05/60.html
 cri-o.io http://cri-o.io/
+cryptonews.com https://cryptonews.com/news/coincheck-hacked-more-than-500-million-xem-stolen-1093.htm
 cyberagent.co.jp https://www.cyberagent.co.jp/news/detail/id=21201
 cyblog.jp https://cyblog.jp/30950
 daichi.blog http://daichi.blog/entry/bestbooks-2017
@@ -67,6 +71,7 @@ dmm.com http://eikaiwa.dmm.com/blog/1554/
 doda.jp https://mirai.doda.jp/series/interview/daisuke-suga/
 dokushojin.com http://dokushojin.com/article.html?i=2652
 doorblog.jp http://kabumatome.doorblog.jp/archives/65850289.html
+dopeoplesay.com https://dopeoplesay.com/
 e-aidem.com https://www.e-aidem.com/ch/listen/entry/2018/01/24/110000
 efcl.info http://efcl.info/2018/01/04/what-is-this/
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000
@@ -93,6 +98,7 @@ gizmodo.jp https://www.gizmodo.jp/2018/01/altered-carbon-trailer-1.html
 glitch.me https://font-display.glitch.me/
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/shiatsu/4385
 gorilla.clinic https://gorilla.clinic/cms/imaneta/170386_1801kuri/
+goryugo.com http://goryugo.com/20180126/evernote-6/
 grooves.com http://tech.grooves.com/entry/2018/01/19/123248
 hageatama.org http://www.hageatama.org/20180107/1515308758
 hateblo.jp http://yamasy1549.hateblo.jp/entry/2017/12/28/222631
@@ -102,7 +108,7 @@ hatena.ne.jp https://subtech.g.hatena.ne.jp/mala/20110428/1303982930
 hatenablog.com http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
 hatenablog.jp http://takachi.hatenablog.jp/entry/2daysonsentrip
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20180105/1515099363
-hatenadiary.jp http://moromii.hatenadiary.jp/entry/2018/01/19/085847
+hatenadiary.jp http://orangestar.hatenadiary.jp/entry/2018/01/26/203143
 hayato.io https://hayato.io/2018/10th-anniversary/
 hikakujoho.com https://hikakujoho.com/manekai/entry/20180125
 himasoku.com http://himasoku.com/archives/52026007.html
@@ -144,6 +150,7 @@ kamatte.cc https://kamatte.cc/
 kansou-blog.jp http://www.kansou-blog.jp/entry/2018/01/16/173701
 karapaia.com http://karapaia.com/archives/52252109.html
 kawade.co.jp http://web.kawade.co.jp/bungei/1816/
+kayamayuzo.com http://www.kayamayuzo.com/news/detail.php?id=1516860848
 keens.github.io https://keens.github.io/blog/2018/01/12/enjinianohatarakihoutokanitsuitenoemoikiji/
 kiji.is https://this.kiji.is/322643867512226913
 kitchhike.com http://tech.kitchhike.com/entry/2018/01/19/172403
@@ -166,6 +173,7 @@ livedoor.com http://news.livedoor.com/article/detail/14104805/
 livedoor.jp http://blog.livedoor.jp/dg_law/archives/52402082.html
 lopan.jp https://lopan.jp/layout2/
 lowreal.net https://lowreal.net/2018/01/16/1
+luluepi.com https://luluepi.com/tomie-kyoto_citybus/
 mainichi.jp https://mainichi.jp/articles/20170214/ddm/008/020/092000c
 mantan-web.jp https://mantan-web.jp/article/20180114dog00m200015000c.html
 matolabel.net https://www.matolabel.net/archives/70064554.html
@@ -207,6 +215,7 @@ nna.jp https://www.nna.jp/news/show/1707455
 nomad-journal.jp https://nomad-journal.jp/archives/6089
 note.mu https://note.mu/akio_yoshihashi/n/n0050f5a353b4
 notosiki.co.jp https://www.notosiki.co.jp/
+nta.go.jp https://www.nta.go.jp/ntc/kenkyu/ronsou/12/107/hajimeni.htm
 nubatamanon.com https://www.nubatamanon.com/entry/2018/01/07/234650
 okanenokozuchi.com https://okanenokozuchi.com/funded-nisa
 oldno07.com https://oldno07.com/access-up-10manpv/
@@ -229,7 +238,7 @@ qcweb.jp http://shrinkflation.qcweb.jp/wiki/
 qiita.com https://qiita.com/Rairaiden/items/539d429729d5819de0aa
 qz.com https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world/
 rakumachi.jp https://www.rakumachi.jp/news/column/217029
-rakuten.jp https://srdk.rakuten.jp/entry/2017/12/19/110000
+rakuten.jp https://srdk.rakuten.jp/entry/2017/03/02/110000
 randpy.tokyo http://www.randpy.tokyo/entry/word2vec_skip_gram_model
 reform-journal.jp https://reform-journal.jp/bakingsoda-citric-acid-cleanup-52966
 rensakaki.jp http://rensakaki.jp/blog/902/
@@ -257,6 +266,7 @@ sonicgarden.jp https://kuranuki.sonicgarden.jp/2018/01/practice-of-programming.h
 soundproof-blog.com https://soundproof-blog.com/fatigue-recovery
 souspeak.com https://souspeak.com/blog/2018start/
 speakerdeck.com https://speakerdeck.com/isobetomohiko/ansibledegou-cheng-guan-li-tatutahitotufalsehu-etayarikata
+sponichi.co.jp https://www.sponichi.co.jp/sports/news/2011/10/19/kiji/K20111019001848350.html
 square-enix.com http://www.jp.square-enix.com/tech/openconference/library/2011/dldata/PM/PM.pdf
 srad.jp https://it.srad.jp/story/17/12/31/1352241/
 studyhacker.net http://studyhacker.net/columns/nounogomi-hamigaki-suimin
