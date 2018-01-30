@@ -1,7 +1,7 @@
 100shiki.com https://www.100shiki.com/archives/2018/01/do_people_say.html
 1101.com http://www.1101.com/president/iwata-index.html
 200kounen-training.com http://www.200kounen-training.com/entry/2018/01/10/223227
-4gamer.net http://www.4gamer.net/games/407/G040707/20180116025/
+4gamer.net http://www.4gamer.net/games/374/G037408/20180124068/
 4knn.tv https://4knn.tv/python/
 aco-tokyo.com https://aco-tokyo.com/journal/thinking/157/
 affi-note.com https://affi-note.com/yu-howtowriting
@@ -15,12 +15,14 @@ anlyznews.com http://www.anlyznews.com/2018/01/blog-post_25.html
 anomaly3-movie.com http://www.anomaly3-movie.com/entry/AKIRA
 anonymous-post.com http://anonymous-post.com/archives/17872
 appgiga.jp http://plus.appgiga.jp/masatolan/2016/06/23/57067/
+applech2.com https://applech2.com/archives/20180128-macos-freeze-due-to-high-sierra-kernel-bug.html
 arcj.org http://www.arcj.org/animals/fish/00/id=1169
-asahi.com https://www.asahi.com/articles/ASKCS53MCKCSUCVL019.html
+asahi.com https://www.asahi.com/articles/ASKC64TN8KC6TIPE01F.html
 ascii.jp http://ascii.jp/elem/000/001/620/1620949/
 ask.fm https://ask.fm/sweetsstreet/answers/144350080808
 asks.jp http://hiro.asks.jp/99815.html
 automaton.am http://jp.automaton.am/articles/newsjp/20180104-60378/
+barks.jp https://www.barks.jp/news/?id=1000151219
 bbc.com http://www.bbc.com/japanese/42550531
 beinspiredglobal.com http://beinspiredglobal.com/interview-iconspeak
 bengo4.com https://www.bengo4.com/other/n_7210/
@@ -34,7 +36,7 @@ bunkakeihack.com http://www.bunkakeihack.com/entry/2018/01/06/200800
 bunshun.jp http://bunshun.jp/articles/-/5624
 businessinsider.jp https://www.businessinsider.jp/post-107607
 buzz-plus.com http://buzz-plus.com/article/2018/01/08/usuta-kyosuke-ashi/
-buzzfeed.com https://www.buzzfeed.com/jp/hikaruyoza/line-de-undou
+buzzfeed.com https://www.buzzfeed.com/jp/eimiyamamitsu/alibaba-jack-ma-forum
 byosoku100.com http://www.byosoku100.com/entry/2018/01/13/212749
 card-life.jp http://card-life.jp/tesuuryou-chip-11729
 careersupli.jp http://careersupli.jp/career/nihoneiga/
@@ -84,7 +86,7 @@ english-video.net https://www.english-video.net/p/ja/1
 eshizuoka.jp http://osake.eshizuoka.jp/e1863605.html
 exblog.jp http://wivern.exblog.jp/28003839/
 expedia.co.jp https://welove.expedia.co.jp/destination/japan/31986/
-facebook.com https://www.facebook.com/souryuu.kizu/posts/1137835473017267
+facebook.com https://www.facebook.com/masanork/posts/10155050841676583
 fc2.com http://tirasimanga.web.fc2.com/TUM/043/043.html
 fcart.jp https://akasugu.fcart.jp/taikenki/entry/2018/01/12/special1520
 financepensionrealestate.work http://www.financepensionrealestate.work/entry/2018/01/12/200210
@@ -170,7 +172,6 @@ kyoko-np.net http://kyoko-np.net/2018010101.html
 kyoto-np.co.jp http://www.kyoto-np.co.jp/top/article/20171211000111
 labaq.com http://labaq.com/archives/51892631.html
 ledge.ai https://ledge.ai/pix2code-on-floydhub/
-lifecooking.net http://www.lifecooking.net/entry/2017/04/16/214726
 lineblog.me https://lineblog.me/aya_uchida/archives/13167783.html
 lite-ra.com http://lite-ra.com/2018/01/post-3711.html
 livedoor.biz http://news4vip.livedoor.biz/archives/52261353.html
@@ -185,7 +186,7 @@ mantan-web.jp https://mantan-web.jp/article/20180114dog00m200015000c.html
 matolabel.net https://www.matolabel.net/archives/70064554.html
 mbs.jp http://www.mbs.jp/news/kansai/20180124/00000067.shtml
 mediocrity-blog.com http://www.mediocrity-blog.com/entry/amazon-gold-card
-medium.com https://medium.com/@laqiiz/6116544cc6fd
+medium.com https://medium.com/@FL4T_LiN3/2368d072fd5a
 medpeer.co.jp http://tech.medpeer.co.jp/entry/2018/01/18/174542
 megaya.net http://www.megaya.net/entry/2018/01/07/174924
 merumo.ne.jp https://news.merumo.ne.jp/article/genre/6991548
@@ -289,6 +290,7 @@ tinect.jp http://blog.tinect.jp/?p=46186
 tmiyadera.com https://tmiyadera.com/blog/1326.html
 togetter.com https://togetter.com/li/1185170
 tokyo-np.co.jp http://www.tokyo-np.co.jp/s/article/2018012401001937.html
+tomabechi.jp http://www.tomabechi.jp/archives/51560371.html
 toyokeizai.net http://toyokeizai.net/articles/-/196512
 tr246.github.io https://tr246.github.io/Sigene/
 tumblr.com http://sunaot.tumblr.com/post/169565067905/1%E8%A1%8C%E7%9B%B4%E3%81%99%E3%81%A0%E3%81%91%E3%81%A3%E3%81%A6%E3%81%9D%E3%82%93%E3%81%AA%E3%81%AB%E5%A4%A7%E5%A4%89%E3%81%AA%E3%81%AE
