@@ -471,9 +471,12 @@
             "Bydvrw==" : 1,
             "Bydxog==" : 1,
             "Bye2Cg==" : 1,
+            "Bye9zg==" : 1,
+            "Bye9zw==" : 1,
             "ByeBQg==" : 1,
             "ByeLBg==" : 1,
             "ByeQ9g==" : 1,
+            "ByeWyA==" : 1,
             "Byeaqw==" : 1,
             "ByeekA==" : 1,
             "ByemaQ==" : 1,
@@ -717,6 +720,11 @@
             "OhrtngFwotLcm4i\u002Bz00SjA==" : 1
          }
       },
+      "MHAxCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xLzAtBgNVBAMTJkRpZ2lDZXJ0IFNIQTIgSGlnaCBBc3N1cmFuY2UgU2VydmVyIENB" : {
+         "serial_numbers" : {
+            "Cn\u002BuUpLudsH09lYYIPTK5A==" : 1
+         }
+      },
       "MHExCzAJBgNVBAYTAkRFMRwwGgYDVQQKExNEZXV0c2NoZSBUZWxla29tIEFHMR8wHQYDVQQLExZULVRlbGVTZWMgVHJ1c3QgQ2VudGVyMSMwIQYDVQQDExpEZXV0c2NoZSBUZWxla29tIFJvb3QgQ0EgMg==" : {
          "serial_numbers" : {
             "AImQERVYPoeb" : 1,
@@ -956,6 +964,11 @@
       "MIGFMQswCQYDVQQGEwJHQjEbMBkGA1UECBMSR3JlYXRlciBNYW5jaGVzdGVyMRAwDgYDVQQHEwdTYWxmb3JkMRowGAYDVQQKExFDT01PRE8gQ0EgTGltaXRlZDErMCkGA1UEAxMiQ09NT0RPIFJTQSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eQ==" : {
          "serial_numbers" : {
             "AKrMYlJmUUin8FOM/0TJrmk=" : 1
+         }
+      },
+      "MIGFMQswCQYDVQQGEwJQTDEiMCAGA1UEChMZVW5pemV0byBUZWNobm9sb2dpZXMgUy5BLjEnMCUGA1UECxMeQ2VydHVtIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MSkwJwYDVQQDEyBDZXJ0dW0gRG9tYWluIFZhbGlkYXRpb24gQ0EgU0hBMg==" : {
+         "serial_numbers" : {
+            "VEav0UR\u002Bl38TpKTRi7sS1g==" : 1
          }
       },
       "MIGFMQswCQYDVQQGEwJVUzEgMB4GA1UECgwXV2VsbHMgRmFyZ28gV2VsbHNTZWN1cmUxHDAaBgNVBAsME1dlbGxzIEZhcmdvIEJhbmsgTkExNjA0BgNVBAMMLVdlbGxzU2VjdXJlIFB1YmxpYyBSb290IENlcnRpZmljYXRlIEF1dGhvcml0eQ==" : {

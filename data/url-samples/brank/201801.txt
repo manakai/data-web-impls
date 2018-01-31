@@ -9,6 +9,7 @@ afpbb.com http://www.afpbb.com/articles/-/3157433
 airdo.jp http://yorimichi.airdo.jp/snow-camp_yoppy
 akiba-souken.com https://akiba-souken.com/article/32693/
 alfalfalfa.com http://alfalfalfa.com/articles/210445.html
+amazon.com https://aws.amazon.com/jp/blogs/news/the-floodgates-are-open-increased-network-bandwidth-for-ec2-instances/
 ameblo.jp https://ameblo.jp/daisuke18/entry-12346606885.html
 animationbusiness.info http://animationbusiness.info/archives/4742
 anlyznews.com http://www.anlyznews.com/2018/01/blog-post_25.html
@@ -22,6 +23,7 @@ ascii.jp http://ascii.jp/elem/000/001/620/1620949/
 ask.fm https://ask.fm/sweetsstreet/answers/144350080808
 asks.jp http://hiro.asks.jp/99815.html
 automaton.am http://jp.automaton.am/articles/newsjp/20180104-60378/
+avast.com https://blog.avast.com/jp/avast-open-sources-its-machine-code-decompiler-0
 barks.jp https://www.barks.jp/news/?id=1000151219
 bbc.com http://www.bbc.com/japanese/42550531
 beinspiredglobal.com http://beinspiredglobal.com/interview-iconspeak
@@ -42,8 +44,10 @@ card-life.jp http://card-life.jp/tesuuryou-chip-11729
 careersupli.jp http://careersupli.jp/career/nihoneiga/
 catapultsuplex.com http://www.catapultsuplex.com/entry/coincheck-nem-interview
 change.org https://www.change.org/l/jp/businessmodel
+chibicode.com https://chibicode.com/jp/world-trip/
 chosunonline.com http://www.chosunonline.com/site/data/html_dir/2018/01/22/2018012201560.html
 chrisshort.net https://chrisshort.net/docker-inc-is-dead/
+chuo-u.ac.jp http://c-faculty.chuo-u.ac.jp/blog/kaifu/2018/01/29/2018%E5%B9%B4%E6%BC%81%E6%9C%9F-%E3%82%B7%E3%83%A9%E3%82%B9%E3%82%A6%E3%83%8A%E3%82%AE%E6%8E%A1%E6%8D%95%E9%87%8F%E3%81%AE%E6%B8%9B%E5%B0%91%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E3%81%9D%E3%81%AE/
 classmethod.jp https://dev.classmethod.jp/cloud/alexa-sdk/
 cnet.com https://japan.cnet.com/article/35113040/
 cnn.co.jp https://www.cnn.co.jp/fringe/35112870.html
@@ -53,6 +57,7 @@ coincheck.com https://coincheck.com/ja/documents/security
 cointelegraph.com https://jp.cointelegraph.com/news/telegram-500-mln-pre-ico-aims-to-be-largest-ever
 coliss.com http://coliss.com/articles/build-websites/operation/css/css-tracking-and-analytics-web-page-crooked.html
 colopl.co.jp http://colopl.co.jp/shironekoproject/
+conia617.com http://www.conia617.com/entry/town-for-woman
 connpass.com https://coincheck.connpass.com/event/75718/
 conobie.jp https://conobie.jp/article/11659
 courrier.jp https://courrier.jp/news/archives/108390/
@@ -78,7 +83,7 @@ doda.jp https://mirai.doda.jp/series/interview/daisuke-suga/
 dokushojin.com http://dokushojin.com/article.html?i=2652
 doorblog.jp http://kabumatome.doorblog.jp/archives/65850289.html
 dopeoplesay.com https://dopeoplesay.com/
-e-aidem.com https://www.e-aidem.com/ch/listen/entry/2018/01/24/110000
+e-aidem.com https://www.e-aidem.com/ch/jimocoro/entry/syaryou12
 efcl.info http://efcl.info/2018/01/04/what-is-this/
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000
 engadget.com http://japanese.engadget.com/2018/01/10/pubg-0-16/
@@ -94,6 +99,7 @@ findy-code.io https://findy-code.io/engineer-lab/tenshoku-ng-jd
 fnshr.info http://id.fnshr.info/2018/01/01/gantan/
 footballchannel.jp https://www.footballchannel.jp/2018/01/08/post250360/
 forbesjapan.com https://forbesjapan.com/articles/detail/19130
+freelifetech.com https://freelifetech.com/recommended-books-for-game-programmer/
 gakkyludique.com http://www.gakkyludique.com/entry/osusume-ryouribook
 gamesindustry.biz http://jp.gamesindustry.biz/article/1801/18011001/
 gamewalker.link http://gamewalker.link/game/xenoblade2/
@@ -116,7 +122,9 @@ hatenablog.com http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
 hatenablog.jp http://takachi.hatenablog.jp/entry/2daysonsentrip
 hatenadiary.com http://tyoshiki.hatenadiary.com/entry/2018/01/22/213912
 hatenadiary.jp http://orangestar.hatenadiary.jp/entry/2018/01/26/203143
+hatenastaff.com http://bookmark.hatenastaff.com/entry/2018/01/29/150428
 hayato.io https://hayato.io/2018/10th-anniversary/
+hide10.com https://www.hide10.com/archives/6186
 hikakujoho.com https://hikakujoho.com/manekai/entry/20180125
 himasoku.com http://himasoku.com/archives/52026007.html
 hitode-festival.com http://www.hitode-festival.com/entry/2018/01/04/183439
@@ -132,6 +140,7 @@ huffingtonpost.jp http://www.huffingtonpost.jp/2018/01/01/muramoto_a_23320832/
 icon.jp http://icon.jp/archives/14541
 ign.com http://jp.ign.com/downwell/20466/news/downwell20
 impress.co.jp https://pc.watch.impress.co.jp/docs/news/1100519.html
+infoq.com https://www.infoq.com/jp/articles/architecture-five-things
 inouetakuya.info http://blog.inouetakuya.info/entry/2018/01/13/235843
 inside-games.jp https://www.inside-games.jp/article/2018/01/19/112263.html
 iphone-mania.jp https://iphone-mania.jp/news-200321/
@@ -181,6 +190,7 @@ lopan.jp https://lopan.jp/layout2/
 lowreal.net https://lowreal.net/2018/01/16/1
 luluepi.com https://luluepi.com/tomie-kyoto_citybus/
 mainichi.jp https://mainichi.jp/articles/20170214/ddm/008/020/092000c
+manba.co.jp https://magazine.manba.co.jp/2018/01/29/ueda-dragonball5/
 mangaonweb.com http://mangaonweb.com/news/2018/01/27/448
 mantan-web.jp https://mantan-web.jp/article/20180114dog00m200015000c.html
 matolabel.net https://www.matolabel.net/archives/70064554.html
@@ -206,7 +216,7 @@ netgeek.biz http://netgeek.biz/archives/109444
 netlorechase.net http://www.netlorechase.net/entry/2018/01/22/080000
 newsdigest.jp https://newsdigest.jp/936
 newspicks.com https://newspicks.com/news/2367316/
-newsweekjapan.jp http://www.newsweekjapan.jp/stories/world/2018/01/dna2.php
+newsweekjapan.jp https://www.newsweekjapan.jp/stories/world/2018/01/40-16.php
 newswitch.jp https://newswitch.jp/p/11540
 nhk.or.jp https://www3.nhk.or.jp/news/business_tokushu/2018_0124.html
 nicovideo.jp http://www.nicovideo.jp/watch/1515554001
@@ -257,6 +267,7 @@ rieti.go.jp https://www.rieti.go.jp/jp/columns/s18_0006.html
 riken.jp http://www.riken.jp/pr/press/2018/20180110_1/
 risktaisaku.com http://www.risktaisaku.com/articles/-/2109
 rocketnews24.com https://rocketnews24.com/2018/01/07/1004918/
+ryukyushimpo.jp https://ryukyushimpo.jp/news/entry-655697.html
 sankei.com http://www.sankei.com/affairs/news/180107/afr1801070013-n1.html
 sanspo.com http://www.sanspo.com/baseball/news/20180103/swa18010321200003-n1.html
 searchapp.jp https://searchapp.jp/appmarketer-use-apps
