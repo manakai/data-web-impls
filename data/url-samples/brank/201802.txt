@@ -14,6 +14,7 @@ ascii.jp http://ascii.jp/elem/000/001/626/1626480/
 at99.net http://at99.net/post-2612/
 automaton.am http://jp.automaton.am/articles/newsjp/20180131-62035/
 bacchi.me https://bacchi.me/linux/diff-tips/
+bbc.com http://www.bbc.com/japanese/features-and-analysis-43007538
 bengo4.com https://www.bengo4.com/c_5/n_7375/
 bijutsutecho.com https://bijutsutecho.com/news/11562/
 bilumen-taishi.jp https://bilumen-taishi.jp/how-to-clean-toilets
@@ -35,6 +36,7 @@ cnn.co.jp https://www.cnn.co.jp/fringe/35114250.html
 cococoin.jp http://cococoin.jp/book_fintech2-0/
 cocolog-nifty.com http://finalvent.cocolog-nifty.com/fareastblog/2018/02/2018-1d05.html
 cocoro-quest.net http://www.cocoro-quest.net/entry/ruminant-thinking21
+cookpad.com http://techlife.cookpad.com/entry/2018/02/10/150709
 cpplover.blogspot.com https://cpplover.blogspot.com/2018/02/12002.html
 creativevillage.ne.jp https://www.creativevillage.ne.jp/27962
 crypto-t.net https://crypto-t.net/payment/coincheck
@@ -52,6 +54,7 @@ excite.co.jp https://woman.excite.co.jp/article/lifestyle/rid_E1478759647199/
 f1-gate.com https://f1-gate.com/ecclestone/f1_40740.html
 famitsu.com https://www.famitsu.com/news/201802/07151265.html
 froggy.money https://www.froggy.money/2411/
+from-estonia-with-love.net http://www.from-estonia-with-love.net/entry/shitamachi
 gamespark.jp https://www.gamespark.jp/article/2018/02/06/78290.html
 geek-out.jp https://geek-out.jp/column/entry/2018/02/08/110000
 gigazine.net https://gigazine.net/news/20180131-game-faces-on-real-porn/
@@ -61,13 +64,13 @@ goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/ha_chu
 gunosy.io http://tech.gunosy.io/entry/sql-tutorial
 gururimichi.com http://blog.gururimichi.com/entry/2018/02/09/185621
 hajipion.com https://hajipion.com/2663.html
-hateblo.jp http://craftzdog.hateblo.jp/entry/tigris.nvim-great-syntax-highlighter-for-neovim
+hateblo.jp http://vergil.hateblo.jp/entry/2016/04/23/133823
 hatebu.me http://hatebu.me/entry/falserumor
 hatelabo.jp https://anond.hatelabo.jp/20140613121111
 hatena.ne.jp http://d.hatena.ne.jp/NATROM/20180202#p1
 hatenablog.com http://tjo.hatenablog.com/entry/2018/02/02/190000
 hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20180209/1518154574
-hatenadiary.jp http://karaage.hatenadiary.jp/entry/2018/01/31/073000
+hatenadiary.jp http://orangestar.hatenadiary.jp/entry/2018/02/10/201334
 hatenastaff.com http://bookmark.hatenastaff.com/entry/2018/02/07/164517
 himasoku.com http://himasoku.com/archives/52027072.html
 historyjapan.org http://historyjapan.org/
@@ -78,6 +81,7 @@ ieichiba.com http://www.ieichiba.com/single-post/2017/08/14/%E4%BE%A1%E6%A0%BC0%
 imagawa.tokyo http://www.imagawa.tokyo/entry/2018/02/02/080200
 impress.co.jp https://pc.watch.impress.co.jp/docs/news/1104573.html
 imyme9.com http://www.imyme9.com/entry/freefont
+inside-games.jp https://www.inside-games.jp/article/2018/02/10/112697.html
 ismedia.jp http://gendai.ismedia.jp/articles/-/54265
 itfun.jp http://itfun.jp/2010/07/puttt.html
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1802/08/news107.html
@@ -108,11 +112,14 @@ mynavi.jp https://news.mynavi.jp/article/20121102-a126/
 nagisa-inc.jp https://blog.nagisa-inc.jp/archives/2980
 natalie.mu https://natalie.mu/music/pp/uesakasumire12
 naver.jp https://matome.naver.jp/odai/2151739881888219401
+newspicks.com https://newspicks.com/news/2810942/
 newsweekjapan.jp https://www.newsweekjapan.jp/stories/world/2018/02/post-9477.php
 newswitch.jp https://newswitch.jp/p/11900
 nhk.or.jp https://www3.nhk.or.jp/news/business_tokushu/2018_0202.html
 nifty.com http://portal.nifty.com/kiji/180201201930_1.htm
+nikkan-gendai.com https://www.nikkan-gendai.com/articles/view/news/223012?pc=true
 nikkan.co.jp https://www.nikkan.co.jp/articles/view/00460670?twinews=20180206
+nikkansports.com https://www.nikkansports.com/general/nikkan/news/201802100000131.html
 nikkei.com https://www.nikkei.com/article/DGKKZO26561430W8A200C1FF2000/
 nikkeibp.co.jp http://natgeo.nikkeibp.co.jp/atcl/news/18/020100047/
 note.mu https://note.mu/ayaniememo/n/n29f7533f21c5
@@ -124,7 +131,7 @@ persol-tech-s.co.jp https://persol-tech-s.co.jp/i-engineer/product/llminatoll
 photoshopvip.net http://photoshopvip.net/107123
 planet12.jp http://blog.planet12.jp/post/dotaba/
 publickey1.jp http://www.publickey1.jp/blog/18/aws320174synergy_research_group.html
-qiita.com https://qiita.com/KanNishida/items/b78d60ce0847bfda326b
+qiita.com https://qiita.com/Brutus/items/1015cc01d2e1eb82a526
 qmedia.jp http://www.qmedia.jp/quantum-beat-super-computer/
 r25.jp https://r25.jp/article/507675171462676990
 rakuten.jp https://srdk.rakuten.jp/entry/2015/11/26/110000
@@ -148,6 +155,7 @@ the-ans.jp https://the-ans.jp/column/16842/
 tm2501.com http://tm2501.com/Walking_on_Hamstrings
 tmaita77.blogspot.com http://tmaita77.blogspot.com/2018/02/blog-post_5.html
 togetter.com https://togetter.com/li/1194947
+tokyo-np.co.jp http://www.tokyo-np.co.jp/article/national/list/201802/CK2018021002000137.html
 toyokeizai.net http://toyokeizai.net/articles/-/206148
 twitter.com http://twitter.com/HON5437/status/958917363910377472
 u-site.jp https://u-site.jp/alertbox/design-thinking-101
