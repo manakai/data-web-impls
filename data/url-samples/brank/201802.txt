@@ -1,5 +1,6 @@
 2chblog.jp http://rabitsokuhou.2chblog.jp/archives/68699728.html
-4gamer.net http://www.4gamer.net/games/999/G999905/20180126036/
+4gamer.net http://www.4gamer.net/games/409/G040961/20180209133/
+afpbb.com http://www.afpbb.com/articles/-/3162134
 alfalfalfa.com http://alfalfalfa.com/articles/211377.html
 all-nationz.com http://www.all-nationz.com/archives/1069641859.html
 amass.jp http://amass.jp/100540/
@@ -28,6 +29,7 @@ buzzfeed.com https://www.buzzfeed.com/jp/crystalro/this-artist-re-created-sexist
 bxd.co.jp https://idolmaster-shinycolors.bxd.co.jp/
 calciomatome.net http://www.calciomatome.net/article/456711589.html
 camobile.com http://tech.camobile.com/entry/viron_20180201
+cao.go.jp http://www.cao.go.jp/cool_japan/local/seminar4/pdf/siryou.pdf
 careerconnection.jp https://news.careerconnection.jp/?p=49490
 careersupli.jp http://careersupli.jp/lifehack/tabieiga/
 chatwork.com http://creators-note.chatwork.com/entry/scala3.5year
@@ -56,7 +58,7 @@ exblog.jp http://brevis.exblog.jp/26943020/
 excite.co.jp https://woman.excite.co.jp/article/lifestyle/rid_E1478759647199/
 f1-gate.com https://f1-gate.com/ecclestone/f1_40740.html
 famitsu.com https://www.famitsu.com/news/201802/07151265.html
-fc2.com http://famicoroti.blog81.fc2.com/blog-entry-1315.html
+fc2.com http://kaigainohannoublog.blog55.fc2.com/blog-entry-2603.html
 froggy.money https://www.froggy.money/2411/
 from-estonia-with-love.net http://www.from-estonia-with-love.net/entry/shitamachi
 gamespark.jp https://www.gamespark.jp/article/2018/02/06/78290.html
@@ -66,6 +68,7 @@ gizmodo.jp https://www.gizmodo.jp/2018/02/mars-curiosity-picture-beautiful.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/yajirobe/4427
 goo.ne.jp http://blog.goo.ne.jp/keisai-dousureba/e/f216d8d666d2bb4f9aa4a42ed47dce86
 goodbyebluethursday.com http://www.goodbyebluethursday.com/entry/ha_chu
+google.com https://drive.google.com/file/d/133deD8C2MSJNTOy_5aPfHzIeS2Bx6Ztd/view
 gunosy.io http://tech.gunosy.io/entry/sql-tutorial
 gururimichi.com http://blog.gururimichi.com/entry/2018/02/09/185621
 hajipion.com https://hajipion.com/2663.html
@@ -100,6 +103,7 @@ karapaia.com http://karapaia.com/archives/52253177.html
 ketancho.net http://www.ketancho.net/entry/2018/02/05/080500
 kiji.is https://this.kiji.is/332428591126742113
 konomanga.jp http://konomanga.jp/guide/135786-2
+kyoko-np.net http://kyoko-np.net/2018021201.html
 lambdanote.com https://www.lambdanote.com/blogs/news/openssl-cookbook
 life-and-mind.com https://life-and-mind.com/motivation-7800
 lineblog.me https://lineblog.me/yamamotoichiro/archives/13172599.html
@@ -143,6 +147,7 @@ qiita.com https://qiita.com/Brutus/items/1015cc01d2e1eb82a526
 qmedia.jp http://www.qmedia.jp/quantum-beat-super-computer/
 r25.jp https://r25.jp/article/507675171462676990
 rakuten.jp https://srdk.rakuten.jp/entry/2015/11/26/110000
+rbbtoday.com https://www.rbbtoday.com/article/2018/02/12/158137.html
 recomtank.com https://www.recomtank.com/entry/simplewriting
 rehabilimemo.com http://www.rehabilimemo.com/entry/2018/02/08/152451
 reuters.com https://jp.reuters.com/article/idJPKBN1FQ0MG
@@ -159,6 +164,7 @@ sponichi.co.jp https://www.sponichi.co.jp/entertainment/news/2018/02/03/kiji/201
 surf-paradise.net http://yamaken.surf-paradise.net/?eid=2
 suumo.jp https://suumo.jp/town/entry/ikebukuro-achico_w/
 tatsunoko.co.jp http://www.tatsunoko.co.jp/tvpaint
+tbs.co.jp http://news.tbs.co.jp/newseye/tbs_newseye3290300.htm
 techcrunch.com http://jp.techcrunch.com/2018/02/05/freee-cryptocurrency/
 the-ans.jp https://the-ans.jp/column/16842/
 tm2501.com http://tm2501.com/Walking_on_Hamstrings
@@ -173,7 +179,7 @@ verifiedby.me http://verifiedby.me/adiary/0113
 wantedly.com https://www.wantedly.com/companies/cast-er/post_articles/106557
 wikipedia.org https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%9C%E7%A7%81%E3%81%AF%E7%A7%81%E3%81%AA%E3%81%AE%E3%81%8B
 wired.jp https://wired.jp/2018/01/31/tethers-collapse/
-yahoo.co.jp https://news.yahoo.co.jp/byline/uenishimitsuko/20180203-00081208/
+yahoo.co.jp https://news.yahoo.co.jp/byline/egawashoko/20180211-00081509/
 yamaonsen.com http://www.yamaonsen.com/entry/prefectures
 yomiuri.co.jp http://www.yomiuri.co.jp/economy/20180203-OYT1T50089.html
 youtube.com http://www.youtube.com/watch?v=DYgegz4qzfI
