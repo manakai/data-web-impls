@@ -10,7 +10,7 @@ my $src_path = $root_path->child ('local/firefox-blocklist.xml');
 my $doc = new Web::DOM::Document;
 $doc->inner_html ($src_path->slurp_utf8);
 
-my $Data = {};
+my $Data = {issuers => {}, subjects => {}};
 
 for my $item (@{$doc->query_selector_all ('certItem')}) {
   my $issuer = $item->get_attribute ('issuerName');

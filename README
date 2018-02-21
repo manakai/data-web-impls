@@ -22,8 +22,7 @@ name/value pairs:
 
 * data/firefox-blocklisted-certs.json
 
-Revocations of certificates, extracted from Firefox's |blocklist.xml|
-<https://github.com/mozilla/gecko-dev/blob/master/browser/app/blocklist.xml>.
+Obsolete.
 
 * data/geckodriver-latest.txt
 
