@@ -7,6 +7,7 @@ amass.jp http://amass.jp/100540/
 ameblo.jp https://ameblo.jp/mikio-date/entry-12352887786.html
 amedama.jp http://blog.amedama.jp/entry/2018/02/04/034707
 analyze-world.com http://www.analyze-world.com/entry/2018/02/01/060000
+animate.co.jp https://www.animate.co.jp/info/182964/
 animatetimes.com https://www.animatetimes.com/news/details.php?id=1517584766
 animeanime.jp https://animeanime.jp/article/2018/02/04/36683.html
 anomaly3-movie.com http://www.anomaly3-movie.com/entry/Kingsman_goldencircle
@@ -39,7 +40,7 @@ chatwork.com http://creators-note.chatwork.com/entry/scala3.5year
 chintai.net https://www.chintai.net/news/2018/01/26/12948/
 chunichi.co.jp http://www.chunichi.co.jp/article/olympics/pyeongchang2018/news/CK2018021702100020.html
 ciamovienews.blogspot.com https://ciamovienews.blogspot.com/2018/02/Kill-Bill-Uma-Thurman-Quentin-Tarantino-Car-Crash.html
-classmethod.jp https://dev.classmethod.jp/planning/rk-20180207-nwdiag/
+classmethod.jp https://dev.classmethod.jp/cloud/aws/serverless-real-merit/
 cnet.com https://japan.cnet.com/article/35114850/
 cnn.co.jp https://www.cnn.co.jp/fringe/35114250.html
 cococoin.jp http://cococoin.jp/book_fintech2-0/
@@ -97,7 +98,7 @@ h-yamaguchi.net http://www.h-yamaguchi.net/2018/02/post-d38e.html
 hajipion.com https://hajipion.com/2663.html
 hateblo.jp http://vergil.hateblo.jp/entry/2016/04/23/133823
 hatebu.me http://hatebu.me/entry/falserumor
-hatelabo.jp https://anond.hatelabo.jp/20140613121111
+hatelabo.jp https://anond.hatelabo.jp/20140220144916
 hatena.ne.jp http://d.hatena.ne.jp/NATROM/20180202#p1
 hatenablog.com http://wasasula.hatenablog.com/entry/2018/02/12/224221
 hatenablog.jp http://miyalog.hatenablog.jp/entry/comfortable_office_pc
@@ -124,6 +125,8 @@ itfun.jp http://itfun.jp/2010/07/puttt.html
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1802/08/news107.html
 j-cast.com https://www.j-cast.com/2018/02/01320190.html
 jalan.net https://www.jalan.net/news/article/218551/
+jare59.blogspot.com http://jare59.blogspot.com/2017/12/blog-post_31.html
+jiji.com https://www.jiji.com/jc/article?k=2018022000647&g=pol
 kai-you.net http://kai-you.net/article/50102
 kansou-blog.jp http://www.kansou-blog.jp/entry/2018/02/05/180111
 karapaia.com http://karapaia.com/archives/52253177.html
@@ -148,6 +151,7 @@ mantan-web.jp https://mantan-web.jp/article/20180216dog00m200014000c.html
 mariegohan.com http://mariegohan.com/
 mashiro-writer.com http://www.mashiro-writer.com/entry/2018/01/31/190000
 medium.com https://medium.com/@ShinichiroMatsuo/cde3f8ffa0e4
+merumo.ne.jp https://news.merumo.ne.jp/article/genre/7099528
 microsoft.com https://docs.microsoft.com/ja-jp/azure/machine-learning/studio/algorithm-cheat-sheet
 mikinote.com http://www.mikinote.com/entry/jack-speaker
 miyearnzzlabo.com https://miyearnzzlabo.com/archives/47365
@@ -177,12 +181,14 @@ nikkei.com https://www.nikkei.com/article/DGKKZO26561430W8A200C1FF2000/
 nikkeibp.co.jp http://tech.nikkeibp.co.jp/atcl/nxt/column/18/00001/00053/
 nme-jp.com https://nme-jp.com/news/50466/
 note.mu https://note.mu/ayaniememo/n/n29f7533f21c5
+nuwton.com http://nuwton.com/comic/25846/
 okanenokozuchi.com https://okanenokozuchi.com/salary-mans-tax-saving-method
 okazuki.jp http://blog.okazuki.jp/entry/2018/02/06/210955
 okinawatimes.co.jp http://www.okinawatimes.co.jp/articles/-/204884
 osakaking.net https://osakaking.net/makura-manabe
 persol-tech-s.co.jp https://persol-tech-s.co.jp/i-engineer/product/llminatoll
 photoshopvip.net http://photoshopvip.net/107123
+pixiv.blog https://inside.pixiv.blog/geta6/3342
 planet12.jp http://blog.planet12.jp/post/dotaba/
 po-jama-people.info http://www.po-jama-people.info/entry/2018/02/11/120732
 pokemon.jp http://www.pokemon.jp/special/daipoke/
@@ -241,7 +247,7 @@ yamaonsen.com http://www.yamaonsen.com/entry/prefectures
 yasuhisay.info http://www.yasuhisay.info/entry/2018/02/16/001000
 yomiuri.co.jp http://www.yomiuri.co.jp/economy/20180203-OYT1T50089.html
 youtube.com http://www.youtube.com/channel/UCg49h2KFnB3SH1efaI_njVg
-yutorism.jp http://www.yutorism.jp/entry/Salary
+yutorism.jp http://www.yutorism.jp/entry/AngerManagement
 zinseitanosiku.com http://www.zinseitanosiku.com/entry/2018/02/08/182741
 zkai.co.jp http://www.zkai.co.jp/el/saponavi_a/bkmsk40000000cm9.html
 zozo.jp http://zozo.jp/teikibin/
