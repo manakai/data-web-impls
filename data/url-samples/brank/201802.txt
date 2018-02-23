@@ -16,7 +16,7 @@ asahi.com https://www.asahi.com/articles/ASL105FDXL10PTFC00N.html
 asahicom.jp https://www.asahicom.jp/olympics/2018/pdf_extra/images/20180217_01.pdf
 ascii.jp http://ascii.jp/elem/000/001/626/1626480/
 at99.net http://at99.net/post-2612/
-automaton.am http://jp.automaton.am/articles/newsjp/20180131-62035/
+automaton.am http://jp.automaton.am/articles/columnjp/20180221-63261/
 bacchi.me https://bacchi.me/linux/diff-tips/
 bakuage.com https://bakuage.com/
 bbc.com http://www.bbc.com/japanese/features-and-analysis-43007538
@@ -31,6 +31,7 @@ buzz-plus.com http://buzz-plus.com/article/2018/02/05/unauthorized-use-of-kemono
 buzzap.jp http://buzzap.jp/news/20180202-engels-law-wikipedia/
 buzzfeed.com https://www.buzzfeed.com/jp/crystalro/this-artist-re-created-sexist-vintage-ads-with-the-roles-1
 bxd.co.jp https://idolmaster-shinycolors.bxd.co.jp/
+c-brains.jp http://bashalog.c-brains.jp/18/02/21-170000.php
 calciomatome.net http://www.calciomatome.net/article/456711589.html
 camobile.com http://tech.camobile.com/entry/viron_20180201
 cao.go.jp http://www.cao.go.jp/cool_japan/local/seminar4/pdf/siryou.pdf
@@ -41,6 +42,7 @@ chintai.net https://www.chintai.net/news/2018/01/26/12948/
 chunichi.co.jp http://www.chunichi.co.jp/article/olympics/pyeongchang2018/news/CK2018021702100020.html
 ciamovienews.blogspot.com https://ciamovienews.blogspot.com/2018/02/Kill-Bill-Uma-Thurman-Quentin-Tarantino-Car-Crash.html
 classmethod.jp https://dev.classmethod.jp/cloud/aws/serverless-real-merit/
+cloudflare.com https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/
 cnet.com https://japan.cnet.com/article/35114850/
 cnn.co.jp https://www.cnn.co.jp/fringe/35114250.html
 cococoin.jp http://cococoin.jp/book_fintech2-0/
@@ -61,6 +63,7 @@ daito-suisan.com http://www.daito-suisan.com/interview/126
 denfaminicogamer.jp http://news.denfaminicogamer.jp/interview/180201b
 dengekionline.com http://dengekionline.com/elem/000/001/681/1681577/
 diehardtales.com https://diehardtales.com/n/n4c5c453c9fb1
+dmm-corp.com https://dmm-corp.com/press/press-release/22081
 doda.jp https://mirai.doda.jp/theme/essence/teal/
 dokushojin.com http://dokushojin.com/article.html?i=2831
 doorblog.jp http://kabumatome.doorblog.jp/archives/65887805.html
@@ -84,6 +87,7 @@ froggy.money https://www.froggy.money/2411/
 from-estonia-with-love.net http://www.from-estonia-with-love.net/entry/shitamachi
 gamespark.jp https://www.gamespark.jp/article/2018/02/06/78290.html
 gear-otaku.blogspot.com https://gear-otaku.blogspot.com/2017/10/mastodon-bill-kelliher-gibson-esp-ltd.html
+geek-koshiji.com http://geek-koshiji.com/2018/02/21/post-332/
 geek-out.jp https://geek-out.jp/column/entry/2018/02/08/110000
 gigazine.net https://gigazine.net/news/20180131-game-faces-on-real-porn/
 gizmodo.jp https://www.gizmodo.jp/2018/02/altered-carbon-netflix-giz-ask.html
@@ -120,7 +124,7 @@ imagawa.tokyo http://www.imagawa.tokyo/entry/2018/02/02/080200
 impress.co.jp https://pc.watch.impress.co.jp/docs/news/1104573.html
 imyme9.com http://www.imyme9.com/entry/freefont
 inside-games.jp https://www.inside-games.jp/article/2018/01/31/112476.html
-ismedia.jp http://gendai.ismedia.jp/articles/-/54265
+ismedia.jp http://gendai.ismedia.jp/articles/-/54251
 itfun.jp http://itfun.jp/2010/07/puttt.html
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1802/08/news107.html
 j-cast.com https://www.j-cast.com/2018/02/01320190.html
@@ -133,6 +137,7 @@ karapaia.com http://karapaia.com/archives/52253177.html
 ketancho.net http://www.ketancho.net/entry/2018/02/05/080500
 kiji.is https://this.kiji.is/332428591126742113
 kikibrero.com http://www.kikibrero.com/entry/2018/02/15/214003
+kindou.info https://kindou.info/92817.html
 konomanga.jp http://konomanga.jp/guide/135786-2
 kyoko-np.net http://kyoko-np.net/2018021201.html
 labaq.com http://labaq.com/archives/51893894.html
@@ -146,7 +151,7 @@ livedoor.biz http://lifehack2ch.livedoor.biz/archives/51676498.html
 livedoor.com http://news.livedoor.com/article/detail/14269652/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1955820.html
 lixil.co.jp http://inax.lixil.co.jp/support/inquiry/pdf/53029-1.pdf
-mainichi.jp https://mainichi.jp/articles/20180202/k00/00e/040/280000c
+mainichi.jp https://mainichi.jp/articles/20180112/dde/012/070/011000c
 mantan-web.jp https://mantan-web.jp/article/20180216dog00m200014000c.html
 mariegohan.com http://mariegohan.com/
 mashiro-writer.com http://www.mashiro-writer.com/entry/2018/01/31/190000
@@ -154,6 +159,7 @@ medium.com https://medium.com/@ShinichiroMatsuo/cde3f8ffa0e4
 merumo.ne.jp https://news.merumo.ne.jp/article/genre/7099528
 microsoft.com https://docs.microsoft.com/ja-jp/azure/machine-learning/studio/algorithm-cheat-sheet
 mikinote.com http://www.mikinote.com/entry/jack-speaker
+minnanokaigo.com https://www.minnanokaigo.com/news/yamamoto/lesson21/
 miyearnzzlabo.com https://miyearnzzlabo.com/archives/47365
 mobilehackerz.jp http://blog.mobilehackerz.jp/2018/02/1.html
 monoshirin.com http://blog.monoshirin.com/entry/2018/02/03/130825
@@ -163,7 +169,7 @@ mutant-tetsu.com http://www.mutant-tetsu.com/entry/programming-study
 mynavi.jp https://news.mynavi.jp/article/20121102-a126/
 mynewsjapan.com http://www.mynewsjapan.com/reports/2376
 nagisa-inc.jp https://blog.nagisa-inc.jp/archives/2980
-natalie.mu https://natalie.mu/music/pp/uesakasumire12
+natalie.mu https://natalie.mu/music/news/270531
 naver.jp https://matome.naver.jp/odai/2151739881888219401
 netgeek.biz http://netgeek.biz/archives/103861
 news24.jp http://www.news24.jp/sp/articles/2018/02/14/07385632.html
@@ -186,6 +192,7 @@ okanenokozuchi.com https://okanenokozuchi.com/salary-mans-tax-saving-method
 okazuki.jp http://blog.okazuki.jp/entry/2018/02/06/210955
 okinawatimes.co.jp http://www.okinawatimes.co.jp/articles/-/204884
 osakaking.net https://osakaking.net/makura-manabe
+parashuto.com https://parashuto.com/rriver/development/cssgrid-autofill-vs-autofit
 persol-tech-s.co.jp https://persol-tech-s.co.jp/i-engineer/product/llminatoll
 photoshopvip.net http://photoshopvip.net/107123
 pixiv.blog https://inside.pixiv.blog/geta6/3342
@@ -232,6 +239,7 @@ togetter.com https://togetter.com/li/1038917
 tokyo-np.co.jp http://www.tokyo-np.co.jp/article/national/list/201802/CK2018021002000137.html
 toyokeizai.net http://toyokeizai.net/articles/-/167691
 triedge-lab.com https://blog.triedge-lab.com/2018/02/19/post-1426/
+tv-asahi.co.jp http://news.tv-asahi.co.jp/news_geinou/articles/hot_20180221_230.html
 twitter.com http://twitter.com/HON5437/status/958917363910377472
 u-site.jp https://u-site.jp/alertbox/design-thinking-101
 uedakeita.net http://diary.uedakeita.net/entry/2018/02/09/131911
