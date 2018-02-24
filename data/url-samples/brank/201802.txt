@@ -1,6 +1,7 @@
 2chblog.jp http://rabitsokuhou.2chblog.jp/archives/68699728.html
 4gamer.net http://www.4gamer.net/games/374/G037408/20180201092/
 afpbb.com http://www.afpbb.com/articles/-/3162134
+airdo.jp http://yorimichi.airdo.jp/dog_sledding_jinushi
 alfalfalfa.com http://alfalfalfa.com/articles/211377.html
 all-nationz.com http://www.all-nationz.com/archives/1069641859.html
 amass.jp http://amass.jp/100540/
@@ -110,6 +111,7 @@ hatenadiary.com http://p-shirokuma.hatenadiary.com/entry/20180209/1518154574
 hatenadiary.jp http://orangestar.hatenadiary.jp/entry/2018/02/10/201334
 hatenastaff.com http://developer.hatenastaff.com/entry/2018/02/19/180000
 herumi.github.io http://herumi.github.io/ango/
+hikakujoho.com https://hikakujoho.com/manekai/entry/20180222
 hikkosi-hack.com http://hikkosi-hack.com/hanzaimap/
 himasoku.com http://himasoku.com/archives/52027072.html
 hiroshiba.github.io https://hiroshiba.github.io/blog/became-yuduki-yukari-with-deep-learning-power/
@@ -118,12 +120,14 @@ hochi.co.jp http://www.hochi.co.jp/entertainment/20180216-OHT1T50212.html
 honz.jp http://honz.jp/articles/-/44624
 hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/kemuta-otsubo/17-00480
 huffingtonpost.jp http://www.huffingtonpost.jp/2017/09/14/lipnitskaya-interview_a_23208693/
+ics.media https://ics.media/entry/17262
 ieichiba.com http://www.ieichiba.com/single-post/2017/08/14/%E4%BE%A1%E6%A0%BC0%E5%86%86%E3%80%81%E3%81%95%E3%82%89%E3%81%AB%E5%AE%B6%E3%81%AE%E4%B8%AD%E3%81%AE%E7%89%87%E3%81%A5%E3%81%91%E6%96%99%E3%81%A8%E3%81%97%E3%81%A650%E4%B8%87%E5%86%86%E5%B7%AE%E3%81%97%E4%B8
 ign.com http://jp.ign.com/blade-runner-2049/22072/news/2049
 imagawa.tokyo http://www.imagawa.tokyo/entry/2018/02/02/080200
 impress.co.jp https://pc.watch.impress.co.jp/docs/news/1104573.html
 imyme9.com http://www.imyme9.com/entry/freefont
 inside-games.jp https://www.inside-games.jp/article/2018/01/31/112476.html
+intellilink.co.jp http://www.intellilink.co.jp/all/topics/20180222/linux-kernel4_15.html
 ismedia.jp http://gendai.ismedia.jp/articles/-/54251
 itfun.jp http://itfun.jp/2010/07/puttt.html
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1802/08/news107.html
@@ -169,7 +173,7 @@ mutant-tetsu.com http://www.mutant-tetsu.com/entry/programming-study
 mynavi.jp https://news.mynavi.jp/article/20121102-a126/
 mynewsjapan.com http://www.mynewsjapan.com/reports/2376
 nagisa-inc.jp https://blog.nagisa-inc.jp/archives/2980
-natalie.mu https://natalie.mu/music/news/270531
+natalie.mu https://natalie.mu/comic/pp/bananafish
 naver.jp https://matome.naver.jp/odai/2151739881888219401
 netgeek.biz http://netgeek.biz/archives/103861
 news24.jp http://www.news24.jp/sp/articles/2018/02/14/07385632.html
@@ -191,6 +195,7 @@ nuwton.com http://nuwton.com/comic/25846/
 okanenokozuchi.com https://okanenokozuchi.com/salary-mans-tax-saving-method
 okazuki.jp http://blog.okazuki.jp/entry/2018/02/06/210955
 okinawatimes.co.jp http://www.okinawatimes.co.jp/articles/-/204884
+originalnews.nico http://originalnews.nico/81012
 osakaking.net https://osakaking.net/makura-manabe
 parashuto.com https://parashuto.com/rriver/development/cssgrid-autofill-vs-autofit
 persol-tech-s.co.jp https://persol-tech-s.co.jp/i-engineer/product/llminatoll
@@ -202,7 +207,7 @@ pokemon.jp http://www.pokemon.jp/special/daipoke/
 president.jp http://president.jp/articles/-/24409
 projectdesign.jp https://www.projectdesign.jp/201803/local-design-2018/004647.php
 publickey1.jp http://www.publickey1.jp/blog/18/apple_ios_macos_progressive_web_apps.html
-qiita.com https://qiita.com/Brutus/items/1015cc01d2e1eb82a526
+qiita.com https://qiita.com/Azunyan1111/items/b161b998790b1db2ff7a
 qmedia.jp http://www.qmedia.jp/quantum-beat-super-computer/
 r25.jp https://r25.jp/article/507675171462676990
 rakuten.jp https://srdk.rakuten.jp/entry/2015/11/26/110000
@@ -222,6 +227,7 @@ searchina.net http://news.searchina.net/id/1652845?page=1
 seesaa.net http://mubou.seesaa.net/article/456878346.html
 seleck.cc https://seleck.cc/1162
 shigotonadeshiko.jp https://shigotonadeshiko.jp/166987
+sirogohan.com https://www.sirogohan.com/recipe/ponzuni/
 slideshare.net https://www.slideshare.net/TakakiHoshikawa/how-multiaccount-app-works
 speakerdeck.com https://speakerdeck.com/daiksy/developer-summit-2018
 sponichi.co.jp https://www.sponichi.co.jp/entertainment/news/2018/02/03/kiji/20180203s00041000331000c.html
@@ -235,6 +241,7 @@ the-ans.jp https://the-ans.jp/column/16842/
 tinect.jp https://blog.tinect.jp/?p=48425
 tm2501.com http://tm2501.com/Walking_on_Hamstrings
 tmaita77.blogspot.com http://tmaita77.blogspot.com/2018/02/blog-post_5.html
+tmiyadera.com https://tmiyadera.com/blog/1388.html
 togetter.com https://togetter.com/li/1038917
 tokyo-np.co.jp http://www.tokyo-np.co.jp/article/national/list/201802/CK2018021002000137.html
 toyokeizai.net http://toyokeizai.net/articles/-/167691
