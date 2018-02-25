@@ -10,7 +10,7 @@ dependencies:
     - "git config --global url.https://github.com/.pushInsteadOf git@github.com:"
 test:
   override:
-    - true
+    - "true"
 deployment:
   UAnames:
     branch: uaname
