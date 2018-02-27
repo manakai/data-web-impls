@@ -27,6 +27,7 @@ bengo4.com https://www.bengo4.com/c_5/n_7375/
 bijutsutecho.com https://bijutsutecho.com/news/11562/
 bilumen-taishi.jp https://bilumen-taishi.jp/how-to-clean-toilets
 biz-journal.jp http://biz-journal.jp/2018/02/post_22453.html
+blog.jp http://mongol.blog.jp/2018/02/25/51972993
 blogos.com http://blogos.com/article/275010/
 bucchinews.com http://bucchinews.com/subcul/6256.html
 bulog.jp https://00.bulog.jp/archives/3169
@@ -52,7 +53,8 @@ cnet.com https://japan.cnet.com/article/35114850/
 cnn.co.jp https://www.cnn.co.jp/fringe/35114250.html
 cococoin.jp http://cococoin.jp/book_fintech2-0/
 cocolog-nifty.com http://finalvent.cocolog-nifty.com/fareastblog/2018/02/2018-1d05.html
-cocoro-quest.net http://www.cocoro-quest.net/entry/ruminant-thinking21
+cocoro-quest.net http://www.cocoro-quest.net/entry/body-fat-percentage
+cohki0305.com https://cohki0305.com/programing/awesome-google-apps-script
 comic-days.com https://comic-days.com/blog/entry/judai-happyo
 cookpad.com http://techlife.cookpad.com/entry/2018/02/10/150709
 corriente.top https://corriente.top/github-japan-website-release/
@@ -65,6 +67,7 @@ cyberagent.io https://adtech.cyberagent.io/techblog/archives/4025
 dailynewsonline.jp http://dailynewsonline.jp/article/1400790/
 daito-kentaku.blogspot.com http://daito-kentaku.blogspot.com/
 daito-suisan.com http://www.daito-suisan.com/interview/126
+dena.com https://fullswing.dena.com/graphicrecording2/
 denfaminicogamer.jp http://news.denfaminicogamer.jp/interview/180201b
 dengekionline.com http://dengekionline.com/elem/000/001/681/1681577/
 diehardtales.com https://diehardtales.com/n/n4c5c453c9fb1
@@ -76,6 +79,7 @@ dragon-rider.net https://www.dragon-rider.net/archives/2463
 dropbox.jp https://navi.dropbox.jp/dropbox-chrome
 e-aidem.com https://www.e-aidem.com/ch/listen/entry/2018/02/07/110000
 eetimes.jp http://eetimes.jp/ee/articles/1709/28/news039.html
+eigamagazine.work http://eigamagazine.work/archives/5335382.html
 eigo.plus https://eigo.plus/eigobenkyo/listening-9
 en-japan.com https://haken.en-japan.com/w_30153758/
 engadget.com http://japanese.engadget.com/2018/02/12/2-27/
@@ -133,12 +137,13 @@ imyme9.com http://www.imyme9.com/entry/freefont
 inside-games.jp https://www.inside-games.jp/article/2018/01/31/112476.html
 intellilink.co.jp http://www.intellilink.co.jp/all/topics/20180222/linux-kernel4_15.html
 irnote.com https://irnote.com/n/n46dd8e2437ce
-ismedia.jp http://gendai.ismedia.jp/articles/-/54251
+ismedia.jp http://jbpress.ismedia.jp/articles/-/52395
 itfun.jp http://itfun.jp/2010/07/puttt.html
 itmedia.co.jp http://www.itmedia.co.jp/business/articles/1802/08/news107.html
 j-cast.com https://www.j-cast.com/2018/02/01320190.html
 jalan.net https://www.jalan.net/news/article/218551/
 jare59.blogspot.com http://jare59.blogspot.com/2017/12/blog-post_31.html
+jigowatt121.com http://www.jigowatt121.com/entry/2018/02/25/185801
 jiji.com https://www.jiji.com/jc/article?k=2018022000647&g=pol
 kai-you.net http://kai-you.net/article/50102
 kansou-blog.jp http://www.kansou-blog.jp/entry/2018/02/05/180111
@@ -154,6 +159,7 @@ labaq.com http://labaq.com/archives/51893894.html
 lambdanote.com https://www.lambdanote.com/blogs/news/openssl-cookbook
 landerblue.co.jp https://www.landerblue.co.jp/blog/?p=37831
 life-and-mind.com https://life-and-mind.com/motivation-7800
+lifehacker.jp https://www.lifehacker.jp/2018/02/stop-answering-your-kids-questions.html
 lineblog.me https://lineblog.me/yamamotoichiro/archives/13172599.html
 linecorp.com https://engineering.linecorp.com/ja/blog/detail/254
 lite-ra.com http://lite-ra.com/2018/02/post-3808.html
@@ -161,6 +167,7 @@ livedoor.biz http://lifehack2ch.livedoor.biz/archives/51676498.html
 livedoor.com http://news.livedoor.com/article/detail/14269652/
 livedoor.jp http://blog.livedoor.jp/dqnplus/archives/1955820.html
 lixil.co.jp http://inax.lixil.co.jp/support/inquiry/pdf/53029-1.pdf
+logcamera.com http://logcamera.com/shosinshaosusume/
 logi-lab.com https://logi-lab.com/tie-necktie
 mainichi.jp https://mainichi.jp/articles/20180112/dde/012/070/011000c
 mantan-web.jp https://mantan-web.jp/article/20180216dog00m200014000c.html
