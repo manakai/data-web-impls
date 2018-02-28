@@ -49,6 +49,7 @@ chunichi.co.jp http://www.chunichi.co.jp/article/olympics/pyeongchang2018/news/C
 ciamovienews.blogspot.com https://ciamovienews.blogspot.com/2018/02/Kill-Bill-Uma-Thurman-Quentin-Tarantino-Car-Crash.html
 classmethod.jp https://dev.classmethod.jp/cloud/aws/serverless-real-merit/
 cloudflare.com https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/
+cms2.jp http://save.cms2.jp/mixwave/caudio_news180226.html
 cnet.com https://japan.cnet.com/article/35114850/
 cnn.co.jp https://www.cnn.co.jp/fringe/35114250.html
 cococoin.jp http://cococoin.jp/book_fintech2-0/
@@ -170,6 +171,7 @@ lixil.co.jp http://inax.lixil.co.jp/support/inquiry/pdf/53029-1.pdf
 logcamera.com http://logcamera.com/shosinshaosusume/
 logi-lab.com https://logi-lab.com/tie-necktie
 mainichi.jp https://mainichi.jp/articles/20180112/dde/012/070/011000c
+manba.co.jp https://magazine.manba.co.jp/2018/02/26/ueda-kimishima/
 mantan-web.jp https://mantan-web.jp/article/20180216dog00m200014000c.html
 mariegohan.com http://mariegohan.com/
 mashiro-writer.com http://www.mashiro-writer.com/entry/2018/01/31/190000
@@ -178,6 +180,7 @@ merumo.ne.jp https://news.merumo.ne.jp/article/genre/7099528
 microsoft.com https://docs.microsoft.com/ja-jp/azure/machine-learning/studio/algorithm-cheat-sheet
 mikinote.com http://www.mikinote.com/entry/jack-speaker
 minnanokaigo.com https://www.minnanokaigo.com/news/yamamoto/lesson21/
+mitona.org http://dimofsoul.mitona.org/entry/homeopathyCont
 miyearnzzlabo.com https://miyearnzzlabo.com/archives/47365
 mobilehackerz.jp http://blog.mobilehackerz.jp/2018/02/1.html
 monoshirin.com http://blog.monoshirin.com/entry/2018/02/03/130825
@@ -228,12 +231,14 @@ qmedia.jp http://www.qmedia.jp/quantum-beat-super-computer/
 r25.jp https://r25.jp/article/507675171462676990
 rakuten.jp https://srdk.rakuten.jp/entry/2015/11/26/110000
 rbbtoday.com https://www.rbbtoday.com/article/2018/02/12/158137.html
+rdy.jp http://golang.rdy.jp/2018/02/25/vecty/
 realsound.jp http://realsound.jp/movie/2018/02/post-159738.html
 recomtank.com https://www.recomtank.com/entry/simplewriting
 redmine.jp http://blog.redmine.jp/articles/redmine-for-csirt/
 rehabilimemo.com http://www.rehabilimemo.com/entry/2018/02/08/152451
 reuters.com https://jp.reuters.com/article/idJPKBN1FQ0MG
 rocketnews24.com https://rocketnews24.com/2018/02/07/1017745/
+rokuzeudon.com http://blog.rokuzeudon.com/entry/bestfolios
 ryobi.gr.jp https://www.ryobi.gr.jp/message/4726/
 ryuzee.com http://www.ryuzee.com/contents/blog/7121
 sankei.com http://www.sankei.com/economy/news/180131/ecn1801310062-n1.html
@@ -245,6 +250,7 @@ seleck.cc https://seleck.cc/1162
 shigotonadeshiko.jp https://shigotonadeshiko.jp/166987
 sirogohan.com https://www.sirogohan.com/recipe/ponzuni/
 slideshare.net https://www.slideshare.net/TakakiHoshikawa/how-multiaccount-app-works
+soundhouse.co.jp https://www.soundhouse.co.jp/news/detail?NewsNo=12023
 speakerdeck.com https://speakerdeck.com/daiksy/developer-summit-2018
 sponichi.co.jp https://www.sponichi.co.jp/entertainment/news/2018/02/03/kiji/20180203s00041000331000c.html
 surf-paradise.net http://yamaken.surf-paradise.net/?eid=2
@@ -263,7 +269,7 @@ tokyo-np.co.jp http://www.tokyo-np.co.jp/article/national/list/201802/CK20180210
 toyokeizai.net http://toyokeizai.net/articles/-/167691
 triedge-lab.com https://blog.triedge-lab.com/2018/02/19/post-1426/
 tv-asahi.co.jp http://news.tv-asahi.co.jp/news_geinou/articles/hot_20180221_230.html
-twitter.com http://twitter.com/HON5437/status/958917363910377472
+twitter.com http://twitter.com/FondaToshi/status/966239329784758273
 u-site.jp https://u-site.jp/alertbox/design-thinking-101
 uedakeita.net http://diary.uedakeita.net/entry/2018/02/09/131911
 univ-journal.jp http://univ-journal.jp/19286/
