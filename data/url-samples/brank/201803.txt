@@ -1,8 +1,10 @@
 afpbb.com http://www.afpbb.com/articles/-/3166632
 ai.google https://ai.google/education/#?modal_active=none
+alpine-driveseminar.com http://www.alpine-driveseminar.com/drive/id_zekkei-driveload/
 ameblo.jp https://ameblo.jp/doctormoritayutaka/entry-12356571104.html
 applech2.com https://applech2.com/archives/20180305-daisy_sequence-sequence-diagram-editor.html
 archive.org https://web.archive.org/web/20170508134438/https://www.nishinippon.co.jp/feature/new_immigration_age/article/316447
+artlawworldjapan.net https://www.artlawworldjapan.net/blog/photograph
 asahi.com https://www.asahi.com/articles/ASL2S4G1BL2SUEHF001.html
 automaton.am http://jp.automaton.am/articles/newsjp/20180307-64088/
 bbc.com http://www.bbc.com/japanese/43253285
@@ -16,7 +18,7 @@ chromeexperiments.com https://musiclab.chromeexperiments.com/
 cinra.net https://www.cinra.net/interview/201803-nakatayasutaka
 classmethod.jp https://dev.classmethod.jp/client-side/language-client-side/try-swift-tokyo-2018-optimizing-swift-code-for-separation-of-concerns-and-simplicity/
 cnet.com https://japan.cnet.com/article/35115449/
-cnn.co.jp https://www.cnn.co.jp/usa/35115558.html
+cnn.co.jp https://www.cnn.co.jp/fringe/35115940.html
 coliss.com http://coliss.com/articles/build-websites/operation/design/cheat-codes-for-designing-user-interfaces.html
 comic-days.com https://comic-days.com/episode/13932016480029497648
 cookpad.com http://techlife.cookpad.com/entry/2018/03/02/000000
@@ -45,7 +47,7 @@ haconiwa-mag.com http://www.haconiwa-mag.com/magazine/2018/03/webdesign_logic/
 hateblo.jp https://igcn.hateblo.jp/entry/bookkeeping2-strategic-learning
 hatelabo.jp https://anond.hatelabo.jp/20140305195743
 hatena.ne.jp http://d.hatena.ne.jp/tikani_nemuru_M/20180301/1519833531
-hatenablog.com https://soreosre.hatenablog.com/entry/2018/03/09/124050
+hatenablog.com https://soudai.hatenablog.com/entry/2018/03/10/161136
 hatenablog.jp https://methane.hatenablog.jp/entry/2018/02/28/3%E6%9C%881%E6%97%A5%E3%80%81Homebrew_%E3%81%AE%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%81%AE_Python_%E3%81%8C_Python_3_%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82
 hatenanews.com http://hatenanews.com/articles/2018/03/08/110000
 hde.co.jp http://blog.hde.co.jp/entry/2018/03/05/130121
@@ -60,12 +62,13 @@ ingress-anime.com http://ingress-anime.com/index.php
 inouetakuya.info http://blog.inouetakuya.info/entry/2018/03/04/235226
 iphone-mania.jp https://iphone-mania.jp/news-205315/
 irorio.jp https://irorio.jp/kaseisana/20170520/401010/
-ismedia.jp http://gendai.ismedia.jp/articles/-/54631
+ismedia.jp http://gendai.ismedia.jp/articles/-/54614
 itmedia.co.jp http://www.itmedia.co.jp/news/articles/1802/28/news076.html
 j-cast.com https://www.j-cast.com/2018/03/07322908.html?p=all
 jaycee.or.jp http://www.jaycee.or.jp/2018/topic/01topicnotice/2243
 jigowatt121.com http://www.jigowatt121.com/entry/2018/03/03/134945
 jiji.com https://www.jiji.com/jc/article?k=2018030300423&g=eco
+kansou-blog.jp http://www.kansou-blog.jp/entry/2018/03/10/173418
 karapaia.com http://karapaia.com/archives/52254647.html
 kensuu.com https://kensuu.com/n/na448f3051a2c
 ketancho.net http://www.ketancho.net/entry/2018/03/07/080000
@@ -90,6 +93,7 @@ mojimo.jp https://mojimo.jp/
 natalie.mu https://natalie.mu/comic/news/271702
 naver.jp https://matome.naver.jp/odai/2152021600663185301
 newsphere.jp https://newsphere.jp/national/20180306-3/
+newswitch.jp https://newswitch.jp/p/12258
 nhk.or.jp https://www3.nhk.or.jp/news/business_tokushu/2018_0302.html
 nicovideo.jp http://www.nicovideo.jp/watch/sm32856182
 nifty.com http://portal.nifty.com/kiji/180307202250_1.htm
@@ -106,6 +110,7 @@ omocoro.jp https://omocoro.jp/kiji/133387/
 orangeitems.com http://www.orangeitems.com/entry/2018/03/07/001034
 oreilly.co.jp https://www.oreilly.co.jp/editors/archives/2018/02/ann-public-review-machine-learning-from-scratch.html
 postd.cc https://postd.cc/the-stress-of-remote-working/
+president.jp http://president.jp/articles/-/24556
 programming-books.io https://www.programming-books.io/essential/go/
 publickey1.jp http://www.publickey1.jp/blog/18/5_codementorxcoding_dojo.html
 qiita.com https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe
@@ -127,14 +132,17 @@ sho-yamane.me https://note.sho-yamane.me/n/n07f850605cff
 shueisha.co.jp http://wpb.shueisha.co.jp/2018/03/03/100797/
 sideci.com http://blog-ja.sideci.com/entry/2018/02/28/100943
 smhn.info https://smhn.info/201803-acers-leap-beads
-speakerdeck.com https://speakerdeck.com/ianlewis/kubernetesfalsesekiyuriteifalsebesutopurakuteisu
+speakerdeck.com https://speakerdeck.com/hirak/php-static-analysis
 storialaw.jp https://storialaw.jp/blog/4019
 takagi-hiromitsu.jp http://takagi-hiromitsu.jp/diary/20180307.html
+takeshobo.co.jp http://mangalifewin.takeshobo.co.jp/rensai/popute3/popute3-006/18603/
 tbs.co.jp http://news.tbs.co.jp/newseye/tbs_newseye3305108.htm
 techcrunch.com http://jp.techcrunch.com/2018/03/04/2018-03-02-mit-study-shows-how-much-driving-for-uber-or-lyft-sucks/
 technologia-schoolofmagic.jp https://www.technologia-schoolofmagic.jp/sp/
+the360.life http://the360.life/U1301.doit?id=3025
 tinect.jp https://blog.tinect.jp/?p=49718
 togetter.com https://togetter.com/li/1203701
+tokyo-sports.co.jp https://www.tokyo-sports.co.jp/nonsec/social/944323/
 tonarinoyj.jp https://tonarinoyj.jp/episode/10834108156629255987
 toyokeizai.net http://toyokeizai.net/articles/-/209915
 true-font.com https://true-font.com/select/font-easy_to_read
@@ -152,3 +160,4 @@ yomiuri.co.jp http://www.yomiuri.co.jp/fukayomi/ichiran/20180307-OYT8T50008.html
 youtube.com http://www.youtube.com/watch?v=8Q_9nS5hFmM
 yushakobo.jp https://yushakobo.jp/shop/helix-keyboard-kit/
 yutorism.jp http://www.yutorism.jp/entry/Hatebu
+zakzak.co.jp https://www.zakzak.co.jp/soc/news/180310/soc1803100007-n1.html
