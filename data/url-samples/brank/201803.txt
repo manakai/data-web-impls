@@ -14,7 +14,9 @@ blogos.com http://blogos.com/article/282006/
 bunshun.jp http://bunshun.jp/articles/-/6375
 buzzfeed.com https://www.buzzfeed.com/jp/kotahatachi/uyokun2
 careerconnection.jp https://news.careerconnection.jp/?p=51077
+careerhigh.jp http://www.careerhigh.jp/entry/toefl
 chromeexperiments.com https://musiclab.chromeexperiments.com/
+chunichi.co.jp http://www.chunichi.co.jp/s/article/2018031190085517.html
 cinra.net https://www.cinra.net/interview/201803-nakatayasutaka
 classmethod.jp https://dev.classmethod.jp/client-side/language-client-side/try-swift-tokyo-2018-optimizing-swift-code-for-separation-of-concerns-and-simplicity/
 cnet.com https://japan.cnet.com/article/35115449/
@@ -24,6 +26,7 @@ comic-days.com https://comic-days.com/episode/13932016480029497648
 cookpad.com http://techlife.cookpad.com/entry/2018/03/02/000000
 critiqueofgames.net http://www.critiqueofgames.net/paper/gamesei.html
 dailyshincho.jp https://www.dailyshincho.jp/article/2018/03060800/?all=1
+deeeet.com https://deeeet.com/writing/2014/08/27/cli-reference/
 denfaminicogamer.jp http://news.denfaminicogamer.jp/manga/180301
 diamond.jp http://diamond.jp/articles/-/159185
 doorblog.jp http://kabumatome.doorblog.jp/archives/65913716.html
@@ -35,6 +38,7 @@ fc2.com http://readingmonkey.blog45.fc2.com/blog-entry-787.html
 froggy.money https://www.froggy.money/3530/
 from-estonia-with-love.net http://www.from-estonia-with-love.net/entry/anond
 gamespark.jp https://www.gamespark.jp/article/2018/03/04/78924.html
+geocities.jp http://www.geocities.jp/gimni300/2018fraud/
 gigazine.net https://gigazine.net/news/20180301-netflix-isp-speed-index/
 gizmodo.jp https://www.gizmodo.jp/2018/03/south-pole-scientists-watch-the-thing.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/note/4460
@@ -49,6 +53,7 @@ hatelabo.jp https://anond.hatelabo.jp/20140305195743
 hatena.ne.jp http://d.hatena.ne.jp/tikani_nemuru_M/20180301/1519833531
 hatenablog.com https://soudai.hatenablog.com/entry/2018/03/10/161136
 hatenablog.jp https://methane.hatenablog.jp/entry/2018/02/28/3%E6%9C%881%E6%97%A5%E3%80%81Homebrew_%E3%81%AE%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%81%AE_Python_%E3%81%8C_Python_3_%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82
+hatenadiary.jp http://huyukiitoichi.hatenadiary.jp/entry/2018/03/11/080000
 hatenanews.com http://hatenanews.com/articles/2018/03/08/110000
 hde.co.jp http://blog.hde.co.jp/entry/2018/03/05/130121
 hochi.co.jp http://www.hochi.co.jp/sports/winter/20180308-OHT1T50075.html
@@ -74,6 +79,7 @@ kensuu.com https://kensuu.com/n/na448f3051a2c
 ketancho.net http://www.ketancho.net/entry/2018/03/07/080000
 kiji.is https://this.kiji.is/342504486960677985
 kindaipicks.com http://kindaipicks.com/article/001375
+komagata.org http://docs.komagata.org/5485
 kuroeveryday.blogspot.com https://kuroeveryday.blogspot.com/2018/03/migrating-from-javascript-to-typescript.html
 labaq.com http://labaq.com/archives/51894554.html
 lettuceclub.net https://www.lettuceclub.net/news/article/138237/
@@ -87,6 +93,7 @@ mantan-web.jp https://mantan-web.jp/article/20180301dog00m200026000c.html
 mediologic.com http://www.mediologic.com/entry/2018/03/09/131942
 medium.com https://medium.com/@junpei9/30c20561f812
 mermirai.com http://www.mermirai.com/entry/howtowork
+missiondrivenbrand.jp http://www.missiondrivenbrand.jp/entry/kaitai_brandingKPI
 miyearnzzlabo.com https://miyearnzzlabo.com/archives/47702
 moae.jp http://www.moae.jp/comic/shikishoshinjinsen/4
 mojimo.jp https://mojimo.jp/
@@ -109,6 +116,7 @@ omg-ox.org http://www.omg-ox.org/entry/oni
 omocoro.jp https://omocoro.jp/kiji/133387/
 orangeitems.com http://www.orangeitems.com/entry/2018/03/07/001034
 oreilly.co.jp https://www.oreilly.co.jp/editors/archives/2018/02/ann-public-review-machine-learning-from-scratch.html
+po-jama-people.info http://www.po-jama-people.info/entry/2018/03/11/154302
 postd.cc https://postd.cc/the-stress-of-remote-working/
 president.jp http://president.jp/articles/-/24556
 programming-books.io https://www.programming-books.io/essential/go/
@@ -132,7 +140,7 @@ sho-yamane.me https://note.sho-yamane.me/n/n07f850605cff
 shueisha.co.jp http://wpb.shueisha.co.jp/2018/03/03/100797/
 sideci.com http://blog-ja.sideci.com/entry/2018/02/28/100943
 smhn.info https://smhn.info/201803-acers-leap-beads
-speakerdeck.com https://speakerdeck.com/hirak/php-static-analysis
+speakerdeck.com https://speakerdeck.com/hidenorigoto/solidfalseyuan-ze-tutedonnahuunishi-ufalse
 storialaw.jp https://storialaw.jp/blog/4019
 takagi-hiromitsu.jp http://takagi-hiromitsu.jp/diary/20180307.html
 takeshobo.co.jp http://mangalifewin.takeshobo.co.jp/rensai/popute3/popute3-006/18603/
@@ -146,9 +154,11 @@ tokyo-sports.co.jp https://www.tokyo-sports.co.jp/nonsec/social/944323/
 tonarinoyj.jp https://tonarinoyj.jp/episode/10834108156629255987
 toyokeizai.net http://toyokeizai.net/articles/-/209915
 true-font.com https://true-font.com/select/font-easy_to_read
+turingcomplete.fm https://turingcomplete.fm/9
 twitter.com http://twitter.com/adachiyasushi/status/968736163770060801
 waka-okami.jp http://www.waka-okami.jp/
 wanta.fun https://corp.wanta.fun/news/201803/1/
+webmedipr.jp http://kagayaki.webmedipr.jp/contents/kagayaki/026.html
 wikipedia.org https://ja.wikipedia.org/wiki/%E9%A6%96%E3%81%AA%E3%81%97%E9%B6%8F%E3%83%9E%E3%82%A4%E3%82%AF
 wired.jp https://wired.jp/2018/03/03/koji-tajima-blade-runner-2049/
 withnews.jp https://withnews.jp/article/f0180304000qq000000000000000G00110701qq000016833A
