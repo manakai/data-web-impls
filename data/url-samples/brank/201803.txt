@@ -47,7 +47,7 @@ excite.co.jp https://www.excite.co.jp/News/reviewmov/20180312/E1520782233250.htm
 facebook.com https://www.facebook.com/watanabemiki.official/posts/672516276205977
 famitsu.com https://www.famitsu.com/news/201803/01152806.html
 fashion-press.net https://www.fashion-press.net/news/37750
-fc2.com http://readingmonkey.blog45.fc2.com/blog-entry-787.html
+fc2.com http://workingnews.blog117.fc2.com/blog-entry-11388.html
 fcart.jp https://akasugu.fcart.jp/taikenki/entry/2017/08/18/special1228
 froggy.money https://www.froggy.money/3530/
 from-estonia-with-love.net http://www.from-estonia-with-love.net/entry/anond
@@ -59,6 +59,7 @@ geocities.jp http://www.geocities.jp/gimni300/2018fraud/
 gigazine.net https://gigazine.net/news/20180301-netflix-isp-speed-index/
 gizmodo.jp https://www.gizmodo.jp/2018/03/south-pole-scientists-watch-the-thing.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/note/4460
+gohongi-beauty.jp https://www.gohongi-beauty.jp/blog/?p=24654
 google.ai https://google.ai/education/
 google.com https://docs.google.com/presentation/d/1CNTa1nR9Fgf53md3oUaqpImJRyxStnaHsTyWje9YUbQ/mobilepresent?slide=id.g34c53852b2_0_12
 gsi.go.jp http://www.gsi.go.jp/kihonjohochousa/tozando-bigdata20180307.html
@@ -71,6 +72,7 @@ hatelabo.jp https://anond.hatelabo.jp/20140305195743
 hatena.ne.jp http://d.hatena.ne.jp/tikani_nemuru_M/20180301/1519833531
 hatenablog.com https://soudai.hatenablog.com/entry/2018/03/10/161136
 hatenablog.jp https://methane.hatenablog.jp/entry/2018/02/28/3%E6%9C%881%E6%97%A5%E3%80%81Homebrew_%E3%81%AE%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%81%AE_Python_%E3%81%8C_Python_3_%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82
+hatenadiary.com http://tyoshiki.hatenadiary.com/entry/2018/03/15/083000
 hatenadiary.jp https://huyukiitoichi.hatenadiary.jp/entry/2018/03/11/080000
 hatenanews.com http://hatenanews.com/articles/2018/03/08/110000
 hde.co.jp http://blog.hde.co.jp/entry/2018/03/05/130121
@@ -117,6 +119,7 @@ masui.github.io https://masui.github.io/GitHelp/
 mediologic.com http://www.mediologic.com/entry/2018/03/09/131942
 medium.com https://medium.com/@junpei9/30c20561f812
 mermirai.com http://www.mermirai.com/entry/howtowork
+mhatta.org http://www.mhatta.org/wp/blog/2018/03/15/beyond-democracy-1/
 missiondrivenbrand.jp http://www.missiondrivenbrand.jp/entry/kaitai_brandingKPI
 miyearnzzlabo.com https://miyearnzzlabo.com/archives/47702
 moae.jp http://www.moae.jp/comic/shikishoshinjinsen/4
@@ -133,7 +136,7 @@ nifty.com http://portal.nifty.com/kiji/180307202250_1.htm
 nikkan-gendai.com https://www.nikkan-gendai.com/articles/view/geino/225105?pc=true
 nikkei.com https://www.nikkei.com/article/DGXKZO27597540S8A300C1KNTP00/
 nikkeibp.co.jp http://tech.nikkeibp.co.jp/atcl/nxt/column/18/00134/030600024/
-nintendo.co.jp https://topics.nintendo.co.jp/c/article/a0d07f85-1b5c-11e8-a129-063b7ac45a6d.html
+nintendo.co.jp https://www.nintendo.co.jp/labo/invention/index.html
 note.mu https://note.mu/5rou/n/nb085c534a3fb
 nurs.or.jp http://www.nurs.or.jp/~ogochan/essay/archives/5121
 okinawatimes.co.jp http://www.okinawatimes.co.jp/articles/-/216274
@@ -143,6 +146,7 @@ omocoro.jp https://omocoro.jp/kiji/133387/
 orangeitems.com http://www.orangeitems.com/entry/2018/03/07/001034
 oreilly.co.jp https://www.oreilly.co.jp/editors/archives/2018/02/ann-public-review-machine-learning-from-scratch.html
 oricon.co.jp https://www.oricon.co.jp/news/2107350/full/
+photo-studio9.com http://photo-studio9.com/sony-loveletter/
 pixiv.blog https://inside.pixiv.blog/drill/3552
 po-jama-people.info http://www.po-jama-people.info/entry/2018/03/11/154302
 postd.cc https://postd.cc/the-stress-of-remote-working/
@@ -171,10 +175,13 @@ shiropen.com http://shiropen.com/2018/03/08/32941
 sho-yamane.me https://note.sho-yamane.me/n/n07f850605cff
 shogi.or.jp https://www.shogi.or.jp/news/2018/03/4_23.html
 shueisha.co.jp http://wpb.shueisha.co.jp/2018/03/03/100797/
+shunpon.com http://www.shunpon.com/entry/%E5%A4%AB%E5%A9%A6%E3%81%AE%E9%87%91%E9%8A%AD%E6%84%9F%E8%A6%9A%E3%81%AE%E9%81%95%E3%81%84%E3%81%AF%E9%9D%A2%E7%99%BD%E3%81%84
 sideci.com http://blog-ja.sideci.com/entry/2018/02/28/100943
 smhn.info https://smhn.info/201803-acers-leap-beads
 sodo-shed.com https://www.sodo-shed.com/archives/12182
+sonicgarden.jp https://kuranuki.sonicgarden.jp/2018/03/about-software.html
 speakerdeck.com https://speakerdeck.com/hidenorigoto/solidfalseyuan-ze-tutedonnahuunishi-ufalse
+srad.jp https://developers.srad.jp/story/18/03/15/0659224/
 storialaw.jp https://storialaw.jp/blog/4019
 sushi.money http://blog.sushi.money/entry/2018/03/14/111400
 takagi-hiromitsu.jp http://takagi-hiromitsu.jp/diary/20180307.html
