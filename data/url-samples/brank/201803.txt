@@ -1,5 +1,7 @@
 afpbb.com http://www.afpbb.com/articles/-/3166632
+agrinews.co.jp https://www.agrinews.co.jp/p43551.html
 ai.google https://ai.google/education/#?modal_active=none
+akitashoten.co.jp http://www.akitashoten.co.jp/news/1477
 alfalfalfa.com http://alfalfalfa.com/articles/214745.html
 alpine-driveseminar.com http://www.alpine-driveseminar.com/drive/id_zekkei-driveload/
 ameblo.jp https://ameblo.jp/doctormoritayutaka/entry-12356571104.html
@@ -34,14 +36,16 @@ cocolog-nifty.com http://finalvent.cocolog-nifty.com/fareastblog/2018/03/post-48
 coliss.com http://coliss.com/articles/build-websites/operation/design/cheat-codes-for-designing-user-interfaces.html
 comic-days.com https://comic-days.com/episode/13932016480029497648
 cookpad.com http://techlife.cookpad.com/entry/2018/03/02/000000
+copypet.jp https://copypet.jp/
 critiqueofgames.net http://www.critiqueofgames.net/paper/gamesei.html
 cyberagent.co.jp https://developers.cyberagent.co.jp/blog/archives/14664/
 dailyshincho.jp https://www.dailyshincho.jp/article/2018/03060800/?all=1
 deeeet.com https://deeeet.com/writing/2014/08/27/cli-reference/
-denfaminicogamer.jp http://news.denfaminicogamer.jp/interview/180313
+denfaminicogamer.jp http://news.denfaminicogamer.jp/gamenewsplus/180316b
 diamond.jp http://diamond.jp/articles/-/159185
+digiday.jp https://digiday.jp/platforms/twiitter-ajisawa-interview/
 doorblog.jp http://kabumatome.doorblog.jp/archives/65913716.html
-dropbox.jp https://navi.dropbox.jp/business-idea
+dropbox.jp https://navi.dropbox.jp/15-dropbox-paper-hacks-everyone-should-know
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/04/24/110000
 excite.co.jp https://www.excite.co.jp/News/reviewmov/20180312/E1520782233250.html
 facebook.com https://www.facebook.com/watanabemiki.official/posts/672516276205977
@@ -49,6 +53,7 @@ famitsu.com https://www.famitsu.com/news/201803/01152806.html
 fashion-press.net https://www.fashion-press.net/news/37750
 fc2.com http://workingnews.blog117.fc2.com/blog-entry-11388.html
 fcart.jp https://akasugu.fcart.jp/taikenki/entry/2017/08/18/special1228
+feedforce.jp http://developer.feedforce.jp/entry/2018/03/16/141806
 froggy.money https://www.froggy.money/3530/
 from-estonia-with-love.net http://www.from-estonia-with-love.net/entry/anond
 fuze.dj https://www.fuze.dj/2016/08/sonar2016-eno.html
@@ -78,7 +83,7 @@ hatenanews.com http://hatenanews.com/articles/2018/03/08/110000
 hde.co.jp http://blog.hde.co.jp/entry/2018/03/05/130121
 hochi.co.jp http://www.hochi.co.jp/sports/winter/20180308-OHT1T50075.html
 hotpepper.jp https://www.hotpepper.jp/mesitsu/entry/hiro-watanabe/18-00018
-huffingtonpost.jp https://www.huffingtonpost.jp/2018/03/11/entry-slug-1520760040172_a_23382524/
+huffingtonpost.jp https://www.huffingtonpost.jp/2018/02/20/gree-business-operations_a_23321130/
 ics.media https://ics.media/entry/17376
 iij.ad.jp http://eng-blog.iij.ad.jp/archives/1523
 iiyamaakari.com http://www.iiyamaakari.com/2018/03/vs.html
@@ -92,7 +97,7 @@ iphone-mania.jp https://iphone-mania.jp/news-205315/
 ipping.jp https://ipping.jp/3631
 irorio.jp https://irorio.jp/kaseisana/20170520/401010/
 ismedia.jp http://gendai.ismedia.jp/articles/-/54614
-itmedia.co.jp http://www.itmedia.co.jp/news/articles/1802/28/news076.html
+itmedia.co.jp http://www.itmedia.co.jp/enterprise/articles/1803/16/news015.html
 j-cast.com https://www.j-cast.com/2018/03/07322908.html?p=all
 jaycee.or.jp http://www.jaycee.or.jp/2018/topic/01topicnotice/2243
 jigowatt121.com http://www.jigowatt121.com/entry/2018/03/03/134945
@@ -127,6 +132,7 @@ mojimo.jp https://mojimo.jp/
 mynavi.jp https://news.mynavi.jp/article/20180312-599225/
 natalie.mu https://natalie.mu/comic/news/271702
 naver.jp https://matome.naver.jp/odai/2152021600663185301
+netgeek.biz http://netgeek.biz/archives/114674
 newsphere.jp https://newsphere.jp/national/20180306-3/
 newsweekjapan.jp https://www.newsweekjapan.jp/reizei/2018/03/post-982.php
 newswitch.jp https://newswitch.jp/p/12258
@@ -146,6 +152,7 @@ omocoro.jp https://omocoro.jp/kiji/133387/
 orangeitems.com http://www.orangeitems.com/entry/2018/03/07/001034
 oreilly.co.jp https://www.oreilly.co.jp/editors/archives/2018/02/ann-public-review-machine-learning-from-scratch.html
 oricon.co.jp https://www.oricon.co.jp/news/2107350/full/
+otakumode.com http://blog.otakumode.com/2018/03/16/remote-work-2018/
 photo-studio9.com http://photo-studio9.com/sony-loveletter/
 pixiv.blog https://inside.pixiv.blog/drill/3552
 po-jama-people.info http://www.po-jama-people.info/entry/2018/03/11/154302
@@ -168,6 +175,7 @@ sanspo.com http://www.sanspo.com/geino/news/20180303/pol18030305000001-n1.html
 sarazanmai.com http://sarazanmai.com/
 seesaa.net http://mubou.seesaa.net/article/457221062.html
 sega.jp https://sega.jp/history/hard/column/column_05.html
+seria777.com http://www.seria777.com/entry/2018/03/16/155102
 shibayu36.org http://blog.shibayu36.org/entry/2018/03/08/193000
 shigotoba.net https://www.shigotoba.net/cbre_1706_3_wadainoabw_zenpen.html
 shigotofield.jp http://shigotofield.jp/interview/production.html
@@ -189,6 +197,7 @@ takeshobo.co.jp http://mangalifewin.takeshobo.co.jp/rensai/popute3/popute3-006/1
 tbs.co.jp http://news.tbs.co.jp/newseye/tbs_newseye3305108.htm
 techcrunch.com http://jp.techcrunch.com/2018/03/04/2018-03-02-mit-study-shows-how-much-driving-for-uber-or-lyft-sucks/
 technologia-schoolofmagic.jp https://www.technologia-schoolofmagic.jp/sp/
+tenkinoarekore.com http://www.tenkinoarekore.com/entry/2018/03/16/130928
 the360.life http://the360.life/U1301.doit?id=3025
 tinect.jp https://blog.tinect.jp/?p=49718
 togetter.com https://togetter.com/li/1203701
@@ -198,6 +207,7 @@ toyokeizai.net http://toyokeizai.net/articles/-/209915
 true-font.com https://true-font.com/select/font-easy_to_read
 turingcomplete.fm https://turingcomplete.fm/9
 twitter.com http://twitter.com/SUGANOTAMO2/status/973164339963117568
+univ-journal.jp http://univ-journal.jp/19785/
 waka-okami.jp http://www.waka-okami.jp/
 wanta.fun https://corp.wanta.fun/news/201803/1/
 webmedipr.jp http://kagayaki.webmedipr.jp/contents/kagayaki/026.html
