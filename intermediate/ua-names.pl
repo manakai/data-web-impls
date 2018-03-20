@@ -1,7 +1,6 @@
 $VAR1 = {
           '' => 'Mozilla/5.0',
           ',linux' => 'Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:57.0)',
-          ',mobile' => 'Mozilla/5.0 (compatible; KZ BRAIN Mobile; http://servermobile.net) @124.146.175.129',
           ',tablet,windows' => 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; .NET4.0C; .NET4.0E; MALCJS; ms-office; MSOffice 15)',
           ',windows' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
           'chrome' => 'Mozilla/5.0 (en-US) AppleWebKit/537.36 (KHTML, like Gecko; Hound) Chrome/41.0.2272.118 Safari/537.36',
@@ -15,7 +14,7 @@ $VAR1 = {
           'firefox' => 'Mozilla/5.0 (X11; FreeBSD amd64; rv:57.0) Gecko/20100101 Firefox/57.0',
           'firefox,linux' => 'Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',
           'firefox,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:52.0) Gecko/20100101 Firefox/52.0',
-          'firefox,mobile,android' => 'Mozilla/5.0 (Android 7.1.1; Mobile; rv:58.0) Gecko/58.0 Firefox/58.0',
+          'firefox,mobile,android' => 'Mozilla/5.0 (Android 8.0.0; Mobile; rv:59.0) Gecko/59.0 Firefox/59.0',
           'firefox,tablet,android' => 'Mozilla/5.0 (Android 5.1.1; Tablet; rv:58.0) Gecko/58.0 Firefox/58.0',
           'firefox,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0',
           'webkit' => 'Mozilla/5.0 (PlayStation 4 5.50) AppleWebKit/601.2 (KHTML, like Gecko)',
