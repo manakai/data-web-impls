@@ -7,6 +7,8 @@ alpine-driveseminar.com http://www.alpine-driveseminar.com/drive/id_zekkei-drive
 alwaysonssl.com https://alwaysonssl.com/
 ameblo.jp https://ameblo.jp/doctormoritayutaka/entry-12356571104.html
 animatetimes.com https://www.animatetimes.com/news/details.php?id=1521020525
+anomaly3-movie.com http://www.anomaly3-movie.com/entry/Guillermo_del_Toro
+apple.com https://www.apple.com/jp/retail/shinjuku/
 applech2.com https://applech2.com/archives/20180305-daisy_sequence-sequence-diagram-editor.html
 archive.org https://web.archive.org/web/20170508134438/https://www.nishinippon.co.jp/feature/new_immigration_age/article/316447
 artlawworldjapan.net https://www.artlawworldjapan.net/blog/photograph
@@ -22,7 +24,7 @@ blog.google https://www.blog.google/topics/machine-learning/learn-google-ai-maki
 blogos.com http://blogos.com/article/282006/
 bpsinc.jp https://techracho.bpsinc.jp/hachi8833/2018_03_13/53183
 bunshun.jp http://bunshun.jp/articles/-/6375
-buzzfeed.com https://www.buzzfeed.com/jp/kotahatachi/uyokun2
+buzzfeed.com https://www.buzzfeed.com/jp/kensukeseya/intensive-discussions-1
 cakes.mu https://cakes.mu/posts/19159
 careerconnection.jp https://news.careerconnection.jp/?p=51077
 careerhigh.jp http://www.careerhigh.jp/entry/toefl
@@ -46,7 +48,8 @@ deeeet.com https://deeeet.com/writing/2014/08/27/cli-reference/
 denfaminicogamer.jp http://news.denfaminicogamer.jp/gamenewsplus/180316b
 diamond.jp http://diamond.jp/articles/-/159185
 digiday.jp https://digiday.jp/platforms/twiitter-ajisawa-interview/
-doorblog.jp http://kabumatome.doorblog.jp/archives/65910918.html
+doorblog.jp http://kabumatome.doorblog.jp/archives/65900288.html
+dororo-anime.com https://dororo-anime.com/
 dropbox.jp https://navi.dropbox.jp/15-dropbox-paper-hacks-everyone-should-know
 en-japan.com https://employment.en-japan.com/engineerhub/entry/2017/04/24/110000
 excite.co.jp https://www.excite.co.jp/News/reviewmov/20180312/E1520782233250.html
@@ -65,7 +68,7 @@ gamespark.jp https://www.gamespark.jp/article/2018/03/04/78924.html
 geocities.co.jp http://www.geocities.co.jp/Technopolis/1505/math_index.htm
 geocities.jp http://www.geocities.jp/gimni300/2018fraud/
 gigazine.net https://gigazine.net/news/20180301-netflix-isp-speed-index/
-gizmodo.jp https://www.gizmodo.jp/2018/03/south-pole-scientists-watch-the-thing.html
+gizmodo.jp https://www.gizmodo.jp/2018/03/report-finds-microplastic-in-93-of-bottled-water-tested.html
 gnavi.co.jp http://r.gnavi.co.jp/g-interview/entry/note/4460
 gohongi-beauty.jp https://www.gohongi-beauty.jp/blog/?p=24654
 google.ai https://google.ai/education/
@@ -141,6 +144,7 @@ mojimo.jp https://mojimo.jp/
 mynavi.jp https://news.mynavi.jp/article/20180312-599225/
 natalie.mu https://natalie.mu/comic/news/271702
 naver.jp https://matome.naver.jp/odai/2152021600663185301
+nelog.jp https://nelog.jp/cocoon
 netgeek.biz http://netgeek.biz/archives/114674
 newsphere.jp https://newsphere.jp/national/20180306-3/
 newsweekjapan.jp https://www.newsweekjapan.jp/reizei/2018/03/post-982.php
@@ -150,6 +154,7 @@ nhk.or.jp https://www3.nhk.or.jp/news/business_tokushu/2018_0302.html
 nicovideo.jp http://www.nicovideo.jp/watch/sm32856182
 nifty.com http://portal.nifty.com/kiji/180307202250_1.htm
 nikkan-gendai.com https://www.nikkan-gendai.com/articles/view/geino/225105?pc=true
+nikkansports.com https://www.nikkansports.com/entertainment/news/201803190000787.html
 nikkei.com https://www.nikkei.com/article/DGXKZO27597540S8A300C1KNTP00/
 nikkeibp.co.jp http://tech.nikkeibp.co.jp/atcl/nxt/column/18/00134/030600024/
 nintendo.co.jp https://www.nintendo.co.jp/labo/invention/index.html
@@ -175,7 +180,7 @@ r25.jp https://r25.jp/article/521242246122509418
 rakuten.jp https://srdk.rakuten.jp/entry/2018/02/23/110000
 recordchina.co.jp http://www.recordchina.co.jp/b578009-s0-c30.html
 redbull.com https://www.redbull.com/jp-ja/for-young-gamebasics-knowledge?linkId=48797105
-reuters.com https://jp.reuters.com/article/idJPKCN1GQ1YB
+reuters.com https://jp.reuters.com/article/idJPKBN1GV0PV
 rokuzeudon.com http://blog.rokuzeudon.com/entry/textlint-app-install
 roughjs.com http://roughjs.com/
 ryuzee.com https://slide.meguro.ryuzee.com/slides/75
@@ -221,6 +226,7 @@ true-font.com https://true-font.com/select/font-easy_to_read
 turingcomplete.fm https://turingcomplete.fm/9
 twitter.com http://twitter.com/SUGANOTAMO2/status/973164339963117568
 univ-journal.jp http://univ-journal.jp/19785/
+vinlandsaga.jp https://vinlandsaga.jp/
 waka-okami.jp http://www.waka-okami.jp/
 wanta.fun https://corp.wanta.fun/news/201803/1/
 webmedipr.jp http://kagayaki.webmedipr.jp/contents/kagayaki/026.html
