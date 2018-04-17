@@ -30,6 +30,8 @@ The version string of the latest release of geckodriver.
 
 * data/url-samples/brank/YYYYMM.txt
 
+Historical.
+
 Lists of top Japanese Web site of month YYYY-MM, extracted from the
 daily Hatena Bookmark ranking <http://b.hatena.ne.jp/ranking/daily>.
 
@@ -40,11 +42,11 @@ ranking, only one of them are chosen for the list.)  The site is
 identified by the ASCII serialization of the eTLD+1 of the host of the
 URL.  The order of the lines in the files is not significant.
 
+In 2017-03 the ranking page of the service has been removed.
+
 * Sources
 
 <https://archive.mozilla.org/pub/firefox/releases/>.
-
-<https://github.com/mozilla/gecko-dev/blob/master/browser/app/blocklist.xml>.
 
 <https://github.com/mozilla/geckodriver/releases>.
 
@@ -64,7 +66,3 @@ Per CC0 <https://creativecommons.org/publicdomain/zero/1.0/>, to the
 extent possible under law, the author of the data files, this
 document, and the scripts used to generate them has waived all
 copyright and related or neighboring rights to them.
-
-The |data/firefox-blocklisted-certs.json| file is extracted from
-Gecko's |blocklist.xml|, which is covered by
-<https://github.com/mozilla/gecko-dev/blob/master/LICENSE>.
