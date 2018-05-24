@@ -1,5 +1,5 @@
 $VAR1 = {
-          '' => 'Mozilla/5.0 (compatible; Daum/4.1; +http://cs.daum.net/faq/15/4118.html?faqId=28966)',
+          '' => 'Mozilla/5.0',
           ',linux' => 'Mozilla/4.72 [en] (X11; U; Linux 2.2.17 i686)',
           ',mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecho) Chrome/51.0.2704.84 Safari/537.36',
           ',mobile,windows' => 'Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NuAns; NEO)',
@@ -16,7 +16,6 @@ $VAR1 = {
           'firefox,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0',
           'firefox,mobile' => 'Mozilla/5.0 (Mobile; LGL25; rv:32.0) Gecko/32.0 Firefox/32.0',
           'firefox,mobile,android' => 'Mozilla/5.0 (Android 8.0.0; Mobile; rv:60.0) Gecko/60.0 Firefox/60.0',
-          'firefox,tablet,android' => 'Mozilla/5.0 (Android 7.1.1; Tablet; rv:62.0) Gecko/62.0 Firefox/62.0',
           'firefox,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
           'webkit' => 'Mozilla/5.0 (Nintendo WiiU) AppleWebKit/536.30 (KHTML, like Gecko) NX/3.0.4.2.13 NintendoBrowser/4.3.2.11274.JP',
           'webkit,linux' => 'Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1',
