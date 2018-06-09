@@ -1,5 +1,5 @@
 $VAR1 = {
-          '' => 'Mozilla/5.0',
+          '' => 'Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)/2.4w',
           ',linux' => 'Mozilla/4.72 [en] (X11; U; Linux 2.2.17 i686)',
           ',mobile' => 'Mozilla/5.0 (compatible; KZ BRAIN Mobile; http://servermobile.net) @124.146.175.136',
           ',mobile,android' => 'Mozilla/5.0 (Linux; U; Android 4.0.3; ko-kr; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
@@ -9,7 +9,7 @@ $VAR1 = {
           ',windows' => 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
           'chrome' => 'Mozilla/5.0 (X11; CrOS x86_64 10452.96.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36',
           'chrome,android' => 'Mozilla/5.0 (Linux; Android 6.0.1; JDN-W09 Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.59 Safari/537.36',
-          'chrome,linux' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36',
+          'chrome,linux' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36',
           'chrome,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36',
           'chrome,mobile,android' => 'Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome/38.0.1025.166 Mobile Safari/535.19',
           'chrome,tv,android' => 'Mozilla/5.0 (Linux; Android 6.0; d-01J Build/HUAWEIBTV-L0J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Safari/537.36',
