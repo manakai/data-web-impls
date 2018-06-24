@@ -1,6 +1,6 @@
 $VAR1 = {
           '' => 'Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)/2.4w',
-          ',linux' => 'Mozilla/5.0 (X11; U; Linux x86_64; ja-JP) Chrome/42.0 sgs/1.0',
+          ',linux' => 'Mozilla/4.72 [en] (X11; U; Linux 2.2.17 i686)',
           ',mobile' => 'Mozilla/5.0 (compatible; KZ BRAIN Mobile; http://servermobile.net) @27.90.206.146',
           ',mobile,windows' => 'Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; Microsoft; Lumia 535 Dual SIM)',
           ',tablet,windows' => 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; .NET4.0C; .NET4.0E)',
@@ -18,7 +18,7 @@ $VAR1 = {
           'firefox,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0',
           'firefox,mobile,android' => 'Mozilla/5.0 (Android 8.0.0; Mobile; rv:60.0) Gecko/60.0 Firefox/60.0',
           'firefox,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
-          'webkit' => 'Mozilla/5.0 (PlayStation Vita 3.68) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2',
+          'webkit' => 'Mozilla/5.0 (Nintendo WiiU) AppleWebKit/536.30 (KHTML, like Gecko) NX/3.0.4.2.13 NintendoBrowser/4.3.2.11274.JP',
           'webkit,linux' => 'Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1',
           'webkit,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.1 Safari/605.1.15',
           'webkit,mobile,android' => 'Mozilla/5.0 (Linux; Android 6.0; NCE-AL00 Build/HUAWEINCE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36',
