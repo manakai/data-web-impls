@@ -13,6 +13,7 @@ updatenightly: clean local/bin/pmbp.pl deps all
 	$(GIT) add modules
 	perl local/bin/pmbp.pl --update
 	$(GIT) add config
+	$(CURL) -sSLf https://raw.githubusercontent.com/wakaba/ciconfig/master/ciconfig | RUN_GIT=1 REMOVE_UNUSED=1 perl
 
 ## ------ Setup ------
 
