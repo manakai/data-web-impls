@@ -1,5 +1,5 @@
 $VAR1 = {
-          '' => 'Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)/2.4w',
+          '' => 'Mozilla/5.0',
           ',linux' => 'Mozilla/4.72 [en] (X11; U; Linux 2.2.17 i686)',
           ',mac' => 'Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_47_90) AppleWebKit/533.06.59 (KHTML, like Gecko) Chrome/57.6.1884.6157 Safari/530.67 Edge/34.73357',
           ',mobile,windows' => 'Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; Microsoft; Lumia 540 Dual SIM)',
