@@ -1,0 +1,89 @@
+{
+   "jobs" : {
+      "build" : {
+         "environment" : {
+            "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts"
+         },
+         "machine" : {
+            "enabled" : true
+         },
+         "steps" : [
+            "checkout",
+            {
+               "run" : {
+                  "command" : "mkdir -p $CIRCLE_ARTIFACTS"
+               }
+            },
+            {
+               "run" : {
+                  "command" : "git config --global user.email gaa@circleci.test"
+               }
+            },
+            {
+               "run" : {
+                  "command" : "git config --global user.name gaa4@CircleCI"
+               }
+            },
+            {
+               "run" : {
+                  "command" : "git config --global credential.helper store"
+               }
+            },
+            {
+               "run" : {
+                  "command" : "echo https://$GITHUB_ACCESS_TOKEN:@github.com > ~/.git-credentials"
+               }
+            },
+            {
+               "run" : {
+                  "command" : "git config --global url.https://github.com/.pushInsteadOf git@github.com:"
+               }
+            },
+            {
+               "run" : {
+                  "command" : "mkdir -p intermediate"
+               }
+            },
+            {
+               "run" : {
+                  "command" : "echo \u0022$UASTATS\u0022 | sed 's/ //g' | base64 -d > ua-names.pl.gz"
+               }
+            },
+            {
+               "run" : {
+                  "command" : "gzip -d ua-names.pl.gz && mv ua-names.pl intermediate/ua-names.pl || echo \u0022gzip -d failed\u0022"
+               }
+            },
+            {
+               "run" : {
+                  "command" : "true"
+               }
+            },
+            {
+               "store_artifacts" : {
+                  "path" : "/tmp/circle-artifacts"
+               }
+            },
+            {
+               "deploy" : {
+                  "command" : "if [ \u0022${CIRCLE_BRANCH}\u0022 == 'uaname' ]; then\u000Atrue\u000Agit add intermediate/ua-names.pl\u000Afi"
+               }
+            },
+            {
+               "deploy" : {
+                  "command" : "if [ \u0022${CIRCLE_BRANCH}\u0022 == 'uaname' ]; then\u000Atrue\u000Agit commit -m data && git push origin $CIRCLE_BRANCH || echo commish\u005C failed\u000Afi"
+               }
+            }
+         ]
+      }
+   },
+   "version" : 2,
+   "workflows" : {
+      "build" : {
+         "jobs" : [
+            "build"
+         ]
+      },
+      "version" : 2
+   }
+}
