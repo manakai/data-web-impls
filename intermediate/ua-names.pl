@@ -1,7 +1,6 @@
 $VAR1 = {
           '' => 'Mozilla/4.0 (compatible;)',
           ',linux' => 'Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.6) Gecko/20070817 IceWeasel/2.0.0.6-g3',
-          ',mobile,windows' => 'Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; FREETEL; FTJ152E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Mobile Safari/537.36 Edge/14.14393',
           ',tablet,windows' => 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Tablet PC 2.0)',
           ',tv' => 'Mozilla/3.0 WebTV/1.2 (compatible; MSIE 2.0)',
           ',windows' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
