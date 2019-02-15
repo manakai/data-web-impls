@@ -1,7 +1,8 @@
 $VAR1 = {
           '' => 'Mozilla/4.0 (compatible;)',
-          ',linux' => 'Mozilla/5.0 (X11; Linux x86_64; rv:3.4) Goanna/20180518 PaleMoon/27.9.2',
+          ',linux' => 'Mozilla/5.0 (X11; U; Linux i586; en-US; rv:1.7.3) Gecko/20040924Epiphany/1.4.4 (Ubuntu)',
           ',mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecho) Chrome/51.0.2704.84 Safari/537.36',
+          ',mobile,android' => 'Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; lephone W11 Build/MRA58K) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
           ',windows' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
           'chrome' => 'Mozilla/5.0 (X11; CrOS armv7l 11151.113.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.127 Safari/537.36',
           'chrome,android' => 'Mozilla/5.0 (Linux; Android 7.1.2; KFKAWI) AppleWebKit/537.36 (KHTML, like Gecko) Silk/71.2.4 like Chrome/71.0.3578.98 Safari/537.36',
