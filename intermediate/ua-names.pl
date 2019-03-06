@@ -18,7 +18,6 @@ $VAR1 = {
           'firefox,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:65.0) Gecko/20100101 Firefox/65.0',
           'firefox,mobile' => 'Mozilla/5.0 (Mobile; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5',
           'firefox,mobile,android' => 'Mozilla/5.0 (Android 8.0.0; Mobile; rv:65.0) Gecko/65.0 Firefox/65.0',
-          'firefox,tablet,android' => 'Mozilla/5.0 (Android 6.0.1; Tablet; rv:65.0) Gecko/65.0 Firefox/65.0',
           'firefox,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0',
           'webkit' => 'Mozilla/5.0 (PlayStation Vita 3.70) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2',
           'webkit,linux' => 'Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1',
