@@ -20,6 +20,7 @@ $VAR1 = {
           'firefox,mobile,android' => 'Mozilla/5.0 (Android 8.0.0; Mobile; rv:66.0) Gecko/66.0 Firefox/66.0',
           'firefox,tablet,android' => 'Mozilla/5.0 (Android 8.0.0; Tablet; rv:66.0) Gecko/66.0 Firefox/66.0',
           'firefox,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0',
+          'webkit,android' => 'Mozilla/5.0 (Linux; U; Android 2.3; en-us) AppleWebKit/999+ (KHTML, like Gecko) Safari/999.9',
           'webkit,linux' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) NG/6.5.24024 Safari/538.1',
           'webkit,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15',
           'webkit,mobile' => 'Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.3.3216 Mobile Safari/537.35+',
