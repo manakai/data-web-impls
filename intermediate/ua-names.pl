@@ -1,5 +1,5 @@
 $VAR1 = {
-          '' => 'Mozilla/5.0',
+          '' => 'Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)/2.4w',
           ',linux' => 'Mozilla/5.0 (X11; Linux 3.5.4-1-ARCH i686; es) KHTML/4.9.1 (like Gecko) Konqueror/4.9',
           ',mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_20_77) AppleWebKit/531.71.18 (KHTML, like Gecko) Chrome/55.1.6997.1625 Safari/532.00 Edge/36.04460',
           ',tablet,windows' => 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; InfoPath.3; MS-RTC LM 8)',
@@ -19,6 +19,7 @@ $VAR1 = {
           'firefox,mobile,android' => 'Mozilla/5.0 (Android 8.0.0; Mobile; rv:67.0) Gecko/67.0 Firefox/67.0',
           'firefox,tablet,android' => 'Mozilla/5.0 (Android 7.0; Tablet; rv:67.0) Gecko/67.0 Firefox/67.0',
           'firefox,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0',
+          'webkit' => 'Mozilla/5.0 (PlayStation Vita 3.70) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2',
           'webkit,android' => 'Mozilla/5.0 (X11; U; Linux armv7l like Android; en-us) AppleWebKit/531.2+ (KHTML, like Gecko) Version/5.0 Safari/533.2+ Kindle/3.0+',
           'webkit,linux' => 'Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34',
           'webkit,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15',
