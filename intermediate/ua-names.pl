@@ -10,7 +10,6 @@ $VAR1 = {
           'chrome,tv,android' => 'Mozilla/5.0 (Linux; Android 6.0; d-01J Build/HUAWEIBTV-L0J; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Safari/537.36 YJApp-ANDROID jp.co.yahoo.android.yjtop/13.49.0',
           'chrome,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36',
           'firefox' => 'Mozilla/5.0 (X11; NetBSD amd64; rv:66.0) Gecko/20100101 Firefox/66.0',
-          'firefox,android' => 'Mozilla/5.0 (Android; Linux armv7l; rv:9.0) Gecko/20111216 Firefox/9.0 Fennec/9.0',
           'firefox,linux' => 'Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101 Firefox/28.0',
           'firefox,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0',
           'firefox,mobile,android' => 'Mozilla/5.0 (Android 9; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0',
