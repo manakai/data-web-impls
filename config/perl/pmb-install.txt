@@ -6,14 +6,14 @@ Encode~3.02
 Encode::Locale~1.05
 Exporter::Lite~0.08
 HTTP::Date~6.05
-HTTP::Response~6.18
+HTTP::Request~6.18
 IO::HTML~1.001
 LWP::MediaTypes~6.04
 MIME::Base64~3.15
 Net::SSLeay~1.88
 Path::Class~0.37
 Path::Tiny~0.112
-Scalar::Util~1.53
+Scalar::Util~1.54
 Time::Local~1.30
 Time::Zone~2.24
 URI~1.76
