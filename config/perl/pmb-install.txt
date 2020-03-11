@@ -2,7 +2,7 @@ AnyEvent~7.17
 AnyEvent::HTTP~2.24
 Canary::Stability~2013
 Carp~1.50
-Encode~3.03
+Encode~3.04
 Encode::Locale~1.05
 Exporter::Lite~0.08
 HTTP::Date~6.05
