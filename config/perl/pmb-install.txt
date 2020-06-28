@@ -2,12 +2,11 @@ AnyEvent~7.17
 AnyEvent::HTTP~2.25
 Canary::Stability~2013
 Carp~1.50
-Clone~0.45
 Encode~3.06
 Encode::Locale~1.05
 Exporter::Lite~0.08
 HTTP::Date~6.05
-HTTP::Response~6.24
+HTTP::Request~6.25
 IO::HTML~1.001
 LWP::MediaTypes~6.04
 MIME::Base64~3.15
