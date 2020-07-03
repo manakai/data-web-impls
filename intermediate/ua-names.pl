@@ -1,6 +1,6 @@
 $VAR1 = {
           '' => 'Mozilla/5.0 (compatible; Daum/4.1; +http://cs.daum.net/faq/15/4118.html?faqId=28966)',
-          ',linux' => 'Mozilla/5.0 (X11; Linux 3.5.4-1-ARCH i686; es) KHTML/4.9.1 (like Gecko) Konqueror/4.9',
+          ',linux' => 'Mozilla/5.0 (X11; U; Linux i586; en-US; rv:1.7.3) Gecko/20040924Epiphany/1.4.4 (Ubuntu)',
           ',mobile,windows' => 'Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0) Asus;Galaxy6',
           ',windows' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
           'chrome' => 'Mozilla/5.0 (X11; CrOS x86_64 13020.82.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.112 Safari/537.36',
