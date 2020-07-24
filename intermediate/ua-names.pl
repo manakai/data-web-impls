@@ -15,7 +15,7 @@ $VAR1 = {
           'firefox' => 'Mozilla/5.0 (X11; FreeBSD amd64; rv:78.0) Gecko/20100101 Firefox/78.0',
           'firefox,linux' => 'Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.2.2) Gecko/20100316 Firefox/3.6.2',
           'firefox,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:78.0) Gecko/20100101 Firefox/78.0',
-          'firefox,mobile,android' => 'Mozilla/5.0 (Android 10; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0',
+          'firefox,mobile,android' => 'Mozilla/5.0 (Android 9; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0',
           'firefox,tablet,android' => 'Mozilla/5.0 (Android 6.0; Tablet; rv:68.0) Gecko/68.0 Firefox/68.0',
           'firefox,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0',
           'webkit' => 'Mozilla/5.0 (PlayStation 4 7.50) AppleWebKit/605.1.15 (KHTML, like Gecko)',
@@ -26,6 +26,6 @@ $VAR1 = {
           'webkit,mobile,android' => 'Mozilla/5.0 (Linux; U; Android 4.1; en-us; HTC6435LVW 4G Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
           'webkit,mobile,ios' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1',
           'webkit,mobile,mac' => 'Mozilla/5.0 (iPod touch; CPU OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/27.0  Mobile/15E148 Safari/605.1.15',
-          'webkit,tablet,ios' => 'Mozilla/5.0 (iPad; CPU OS 13_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/83.0.4103.88 Mobile/15E148 Safari/604.1',
+          'webkit,tablet,ios' => 'Mozilla/5.0 (iPad; CPU OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1',
           'webkit,windows' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b'
         };
