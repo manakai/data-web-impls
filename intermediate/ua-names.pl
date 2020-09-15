@@ -1,5 +1,5 @@
 $VAR1 = {
-          '' => 'Mozilla/5.0 (compatible; Daum/4.1; +http://cs.daum.net/faq/15/4118.html?faqId=28966)',
+          '' => 'Mozilla/5.0 zgrab/0.x',
           ',ios' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML',
           ',linux' => 'Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.6) Gecko/20070817 IceWeasel/2.0.0.6-g3',
           ',mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecho) Chrome/51.0.2704.84 Safari/537.36',
@@ -12,7 +12,7 @@ $VAR1 = {
           'chrome,android' => 'Mozilla/5.0 (Linux; Android 9; d-02K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Safari/537.36',
           'chrome,linux' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36',
           'chrome,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36',
-          'chrome,mobile,android' => 'Mozilla/5.0 (Linux; Android 10; SO-05K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36',
+          'chrome,mobile,android' => 'Mozilla/5.0 (Linux; Android 9; SOV36) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36',
           'chrome,tv,android' => 'Mozilla/5.0 (Linux; Android 6.0; d-01J Build/HUAWEIBTV-L0J; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Safari/537.36 YJApp-ANDROID jp.co.yahoo.android.yjtop/13.74.0',
           'chrome,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36',
           'firefox' => 'Mozilla/5.0 (ISnowOS Desko 1; ISD64; x64; rv:81.0) Gecko/20100101 Firefox/81.0 ISnow/1.0',
