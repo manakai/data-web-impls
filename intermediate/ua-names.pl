@@ -1,11 +1,10 @@
 $VAR1 = {
-          '' => 'Mozilla/5.0 (compatible; Embedly/0.2; +http://support.embed.ly/)',
+          '' => 'Mozilla/5.0 zgrab/0.x',
           ',ios' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML',
           ',linux' => 'Mozilla/5.0 (X11; Linux x86_64; rv:4.7) Goanna/20201205 PaleMoon/28.16.0',
           ',mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) Project-Resonance (http://project-resonance.com/) (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36',
-          ',tablet,windows' => 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Tablet PC 2.0; Creative AutoUpdate v1.41.07)',
           ',windows' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
-          'chrome' => 'Mozilla/5.0 (X11; CrOS x86_64 13505.63.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
+          'chrome' => 'Mozilla/5.0 (X11; CrOS aarch64 13505.63.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36',
           'chrome,android' => 'Mozilla/5.0 (Linux; Android 4.0; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/59.0.3071.92',
           'chrome,linux' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36',
           'chrome,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36',
