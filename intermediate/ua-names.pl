@@ -1,9 +1,7 @@
 $VAR1 = {
           '' => 'Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)',
-          ',linux' => 'Mozilla/5.0 (X11; Linux x86_64) Presto/2.8.119 Firefox/50.0.2',
-          ',mac' => 'Mozilla/5.0 (Macintosh; U; PPC; en-US; rv:0.9.2) Gecko/20010726 Netscape6/6.1',
+          ',linux' => 'Mozilla/4.5b1 [en] (X11; I; Linux 2.0.35 i586)',
           ',tablet,windows' => 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; wbxapp 1.0.0; ms-office; MSOffice 15)',
-          ',tv,windows' => 'Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; KITV4.7 Wanadoo)',
           ',windows' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
           'chrome' => 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36',
           'chrome,android' => 'Mozilla/5.0 (Linux; Android 8.1.0; U1005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.86 Safari/537.36',
