@@ -1,32 +1,34 @@
 {
    "jobs" : {
-      "build" : {
-         "environment" : {
-            "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts"
-         },
+      "gaa4" : {
          "machine" : {
-            "enabled" : true
+            "image" : "ubuntu-2004:202101-01"
          },
          "steps" : [
             "checkout",
             {
                "run" : {
-                  "command" : "mkdir -p $CIRCLE_ARTIFACTS"
+                  "command" : "git config --global user.email \u0022temp@circleci.test\u0022;git config --global user.name \u0022CircleCI\u0022"
                }
             },
             {
                "run" : {
-                  "command" : "true"
+                  "command" : "make deps"
                }
             },
             {
                "run" : {
-                  "command" : "true"
+                  "command" : "make updatenightly"
                }
             },
             {
-               "store_artifacts" : {
-                  "path" : "/tmp/circle-artifacts"
+               "deploy" : {
+                  "command" : "git diff-index --quiet HEAD --cached || git commit -m auto"
+               }
+            },
+            {
+               "deploy" : {
+                  "command" : "git push origin \u002B`git rev-parse HEAD`:refs/heads/nightly"
                }
             }
          ]
@@ -34,9 +36,23 @@
    },
    "version" : 2,
    "workflows" : {
-      "build" : {
+      "gaa4" : {
          "jobs" : [
-            "build"
+            "gaa4"
+         ],
+         "triggers" : [
+            {
+               "schedule" : {
+                  "cron" : "52 14 * * *",
+                  "filters" : {
+                     "branches" : {
+                        "only" : [
+                           "master"
+                        ]
+                     }
+                  }
+               }
+            }
          ]
       },
       "version" : 2
