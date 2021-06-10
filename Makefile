@@ -42,7 +42,11 @@ SAVE = $(WGET) -O
 
 build: data
 
-data: data/firefox-versions.json data/firefox-locales.json \
+data: data-deps data-main
+
+data-deps: deps
+
+data-main: data/firefox-versions.json data/firefox-locales.json \
     data/firefox-latest.txt \
     data/geckodriver-latest.txt
 
