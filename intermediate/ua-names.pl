@@ -1,7 +1,8 @@
 $VAR1 = {
-          '' => 'Mozilla/5.0 (compatible; Embedly/0.2; +http://support.embed.ly/)',
+          '' => 'Mozilla/5.0 zgrab/0.x',
+          ',mac' => 'Mozilla/5.0 (Macintosh; U; PPC; ja-JP; rv:0.9.4) Gecko/20011022 Netscape6/6.2',
           ',windows' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
-          'chrome' => 'Mozilla/5.0 (X11; CrOS x86_64 13904.41.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.81 Safari/537.36',
+          'chrome' => 'Mozilla/5.0 (X11; CrOS x86_64 13904.55.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.102 Safari/537.36',
           'chrome,android' => 'Mozilla/5.0 (Linux; Android 9; d-02K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36',
           'chrome,linux' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36',
           'chrome,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36',
