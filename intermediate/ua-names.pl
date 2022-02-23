@@ -1,5 +1,5 @@
 $VAR1 = {
-          '' => 'Mozilla/5.0 zgrab/0.x',
+          '' => 'Mozilla/5.0 (compatible; Qwantify/1.0; +https://www.qwant.com/)',
           ',android' => 'Mozilla/4.0 (compatible; MSIE 8.0; Android 2.2.2; Linux; Opera Mobi/ADR-1103311355; en) Opera 11.00',
           ',linux' => 'Mozilla/5.0 (X11; U; Linux i586; en-US; rv:1.7.3) Gecko/20040924Epiphany/1.4.4 (Ubuntu)',
           ',mac' => 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.2a1pre) Gecko/20090626 Fennec/1.0b2',
