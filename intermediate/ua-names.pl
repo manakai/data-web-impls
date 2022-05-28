@@ -1,6 +1,6 @@
 $VAR1 = {
           '' => 'Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)',
-          ',linux' => 'Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.9) Gecko/20071103 BonEcho/2.0.0.9',
+          ',linux' => 'Mozilla/5.0 (X11; Linux x86_64; rv:109)',
           ',tablet,android' => 'Mozilla/5.0 (Android 8.1.0; Tablet; rv:68.4.2) Gecko/68.4.2 IceCat/68.4.2',
           ',windows' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
           'chrome' => 'Mozilla/5.0 (X11; CrOS x86_64 14588.98.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.59 Safari/537.36',
@@ -17,7 +17,6 @@ $VAR1 = {
           'firefox,tablet,android' => 'Mozilla/5.0 (Android 8.1.0; Tablet; rv:68.0) Gecko/68.0 Firefox/68.0',
           'firefox,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0',
           'webkit' => 'Mozilla/5.0 (PlayStation Vita 3.73) AppleWebKit/537.73 (KHTML, like Gecko) Silk/3.2',
-          'webkit,android' => 'Mozilla/5.0 (Linux; U; Android 3.0.1; fr-fr; A500 Build/HRI66) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
           'webkit,ios' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15 646F636F6D6F3031',
           'webkit,linux' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) wkhtmltoimage Safari/534.34',
           'webkit,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15',
