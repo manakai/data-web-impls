@@ -1,6 +1,6 @@
 $VAR1 = {
           '' => 'Mozilla/5.0 (compatible; Daum/4.1; +http://cs.daum.net/faq/15/4118.html?faqId=28966)',
-          ',linux' => 'Mozilla/5.0 (X11; Linux x86_64) Chrome/98.0.4758.132 Safari/537.36',
+          ',linux' => 'Mozilla/5.0 (X11; Linux x86_64) KHTML/4.14.8 (like Gecko) Konqueror/4.14 Fedora/4.14.8-13.el7',
           ',mac' => 'Mozilla/4.05 (Macintosh; I; 68K Nav)',
           ',windows' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
           'chrome' => 'Mozilla/5.0 (X11; CrOS x86_64 14909.132.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36',
@@ -15,7 +15,7 @@ $VAR1 = {
           'firefox' => 'Mozilla/5.0 (X11; FreeBSD amd64; rv:104.0) Gecko/20100101 Firefox/104.0',
           'firefox,linux' => 'Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0',
           'firefox,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:104.0) Gecko/20100101 Firefox/104.0',
-          'firefox,mobile,android' => 'Mozilla/5.0 (Android 12; Mobile; rv:104.0) Gecko/104.0 Firefox/104.0',
+          'firefox,mobile,android' => 'Mozilla/5.0 (Android 11; Mobile; rv:104.0) Gecko/104.0 Firefox/104.0',
           'firefox,tablet,android' => 'Mozilla/5.0 (Android 9; Tablet; rv:68.0) Gecko/68.0 Firefox/68.0',
           'firefox,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0',
           'webkit,android' => 'Mozilla/5.0 (Linux; U; Android 4.4.2; de-de; GT-P5210 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30',
