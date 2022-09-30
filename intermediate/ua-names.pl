@@ -1,5 +1,5 @@
 $VAR1 = {
-          '' => 'Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)',
+          '' => 'Mozilla/5.0 (compatible; Daum/4.1; +http://cs.daum.net/faq/15/4118.html?faqId=28966)',
           ',linux' => 'Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 SeaMonkey/2.53.13',
           ',tablet,windows' => 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; Tablet PC 2.0; Zoom 3.6.0; ms-office)',
           ',windows' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
@@ -14,7 +14,7 @@ $VAR1 = {
           'firefox,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:104.0) Gecko/20100101 Firefox/104.0',
           'firefox,mobile,android' => 'Mozilla/5.0 (Android 12; Mobile; rv:105.0) Gecko/105.0 Firefox/105.0',
           'firefox,windows' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0',
-          'webkit' => 'Mozilla/5.0 (X11; FreeBSD amd64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15',
+          'webkit' => 'Mozilla/5.0 (X11; UNIX BSD/SYSV system) AppleWebKit/538.1 (KHTML, like Gecko) QupZilla/1.8.9 Version/7.0 Safari/538.1',
           'webkit,ios' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15 646F636F6D6F3031',
           'webkit,linux' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) wkhtmltoimage Safari/534.34',
           'webkit,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15',
