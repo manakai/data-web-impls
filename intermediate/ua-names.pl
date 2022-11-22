@@ -2,7 +2,7 @@ $VAR1 = {
           '' => 'Mozilla/5.0 (compatible; Daum/4.1; +http://cs.daum.net/faq/15/4118.html?faqId=28966)',
           ',mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) Project-Resonance (http://project-resonance.com/) (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36',
           ',windows' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
-          'chrome' => 'Mozilla/5.0 (X11; CrOS x86_64 15054.98.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
+          'chrome' => 'Mozilla/5.0 AppleWebKit (KHTML, like Gecko) Chrome Safari',
           'chrome,android' => 'Mozilla/5.0 (Linux; Android 9; d-02K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36',
           'chrome,linux' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36',
           'chrome,mac' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36',
