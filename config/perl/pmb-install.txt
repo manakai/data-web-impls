@@ -7,7 +7,7 @@ Encode~3.19
 Encode::Locale~1.05
 Exporter::Lite~0.09
 HTTP::Date~6.05
-HTTP::Request~6.44
+HTTP::Response~6.44
 IO::HTML~1.004
 LWP::MediaTypes~6.04
 MIME::Base64~3.16
