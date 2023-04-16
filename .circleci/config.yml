@@ -1,13 +1,22 @@
 {
+"parameters": {
+  "uastats": {"type": "string","default": ""}
+},
    "jobs" : {
       "build" : {
          "environment" : {
-            "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts"
+            "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts",
+            "UASTATS": "<< pipeline.parameters.uastats >>"
          },
          "machine" : {
             "enabled" : true
          },
          "steps" : [
+            {
+               "run" : {
+                  "command" : "echo $UASTATS"
+               }
+            },
             "checkout",
             {
                "run" : {
