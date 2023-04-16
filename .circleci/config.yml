@@ -6,7 +6,7 @@
       "build" : {
          "environment" : {
             "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts",
-            "UASTATS": "<< pipeline.parameters.uastats >>()"
+            "UASTATS": << pipeline.parameters.uastats >>()
          },
          "machine" : {
             "enabled" : true
