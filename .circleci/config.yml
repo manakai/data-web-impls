@@ -1,22 +1,14 @@
 {
-"parameters": {
-  "uastats": {"type": "string","default": "((uastats parameter not specified))"}
-},
    "jobs" : {
       "build" : {
          "environment" : {
-            "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts",
-            "UASTATS": "<< pipeline.parameters.uastats >>"    
+            "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts/build",
+            "UASTATS" : "\u003C\u003C pipeline.parameters.uastats >>"
          },
          "machine" : {
-            "enabled" : true
+            "image" : "ubuntu-2004:202101-01"
          },
          "steps" : [
-            {
-               "run" : {
-                  "command" : "echo $UASTATS"
-               }
-            },
             "checkout",
             {
                "run" : {
@@ -70,7 +62,7 @@
             },
             {
                "store_artifacts" : {
-                  "path" : "/tmp/circle-artifacts"
+                  "path" : "/tmp/circle-artifacts/build"
                }
             },
             {
@@ -86,12 +78,20 @@
          ]
       }
    },
+   "parameters" : {
+      "uastats" : {
+         "default" : "",
+         "type" : "string"
+      }
+   },
    "version" : "2.1",
    "workflows" : {
       "build" : {
          "jobs" : [
-
-{"build": {}}
+            {
+               "build" : {
+               }
+            }
          ]
       },
       "version" : 2

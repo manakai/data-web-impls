@@ -1,10 +1,6 @@
 {
-  "travisci": {
-    "merger": true,
-    "pmbp": "latest",
-    "notifications": "suika"
-  },
   "circleci": {
+    "params": ["uastats"],
     "build": [
       "git config --global user.email gaa@circleci.test",
       "git config --global user.name gaa4@CircleCI",
