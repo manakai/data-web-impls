@@ -5,8 +5,7 @@
    "jobs" : {
       "build" : {
          "environment" : {
-            "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts",
-            "UASTATS": << pipeline.parameters.uastats >>()
+            "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts"
          },
          "machine" : {
             "enabled" : true
@@ -90,7 +89,12 @@
    "workflows" : {
       "build" : {
          "jobs" : [
-            "build"
+
+{"build": {
+  "environment": {
+            "UASTATS": "<< pipeline.parameters.uastats >>"    
+}
+}}
          ]
       },
       "version" : 2
