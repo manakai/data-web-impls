@@ -1,12 +1,12 @@
 {
 "parameters": {
-  "uastats": {"type": "string","default": ""}
+  "uastats": {"type": "string","default": "((uastats parameter not specified))"}
 },
    "jobs" : {
       "build" : {
          "environment" : {
             "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts",
-            "UASTATS": "<< pipeline.parameters.uastats >>"
+            "UASTATS": "<< pipeline.parameters.uastats >>()"
          },
          "machine" : {
             "enabled" : true
