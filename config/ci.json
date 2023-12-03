@@ -21,5 +21,11 @@
         "git commit -m data && git push origin $CIRCLE_BRANCH || echo commish\\ failed"
       ]
     }
+    "merger": true
+  },
+  "github": {
+    "merger": true,
+    "pmbp": "latest",
+    "gaa": true
   }
 }

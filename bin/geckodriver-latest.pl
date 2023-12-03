@@ -1,20 +1,15 @@
 use strict;
 use warnings;
-use Web::DOM::Document;
 use Path::Tiny;
 
 {
   my $path = path (__FILE__)->parent->parent->child
       ('local/geckodriver-latest.html');
-  my $doc = new Web::DOM::Document;
-  $doc->manakai_is_html (1);
-  $doc->inner_html ($path->slurp_utf8);
-  my $title = $doc->query_selector('title')->text_content;
-  if ($title =~ m{ (v[0-9][0-9.]*)}) {
+  if ($path->slurp_utf8 =~ m{/mozilla/geckodriver/releases/tag/(v[0-9][0-9.]*)}) {
     my $version = $1;
     print $version;
   } else {
-    warn "Title doesn't have version (title: $title)";
+    warn "Version tag not found in |$path|";
     exit 1;
   }
 }
