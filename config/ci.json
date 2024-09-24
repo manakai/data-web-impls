@@ -1,8 +1,6 @@
 {
-  "circleci": {
-    "pmbp": "latest"
-  },
   "github": {
+    "pmbp": "latest",
     "merger": true,
     "gaa": true
   }

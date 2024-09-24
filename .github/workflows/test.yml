@@ -2,6 +2,9 @@
    "jobs" : {
       "deploy_github_nightly" : {
          "if" : "${{ github.ref == 'refs/heads/nightly' }}",
+         "needs" : [
+            "test"
+         ],
          "runs-on" : "ubuntu-latest",
          "steps" : [
             {
@@ -40,6 +43,9 @@
       },
       "deploy_github_staging" : {
          "if" : "${{ github.ref == 'refs/heads/staging' }}",
+         "needs" : [
+            "test"
+         ],
          "runs-on" : "ubuntu-latest",
          "steps" : [
             {
@@ -75,6 +81,49 @@
                "run" : "curl -sSf $BWALLER_URL | BWALL_GROUP=merger.${GITHUB_REF/refs\u005C/heads\u005C//} BWALL_NAME=${GITHUB_REPOSITORY} bash"
             }
          ]
+      },
+      "test" : {
+         "continue-on-error" : "${{ matrix.experimental }}",
+         "env" : {
+            "CIRCLE_ARTIFACTS" : "/tmp/circle-artifacts/test",
+            "PMBP_PERL_VERSION" : "${{ matrix.perl_version }}"
+         },
+         "runs-on" : "ubuntu-latest",
+         "steps" : [
+            {
+               "uses" : "actions/checkout@v2",
+               "with" : {
+                  "ssh-key" : "${{ secrets.GH_GIT_KEY }}"
+               }
+            },
+            {
+               "run" : "mkdir -p $CIRCLE_ARTIFACTS"
+            },
+            {
+               "run" : "make test-deps"
+            },
+            {
+               "run" : "make test"
+            },
+            {
+               "if" : "${{ always () }}",
+               "uses" : "actions/upload-artifact@v4",
+               "with" : {
+                  "path" : "/tmp/circle-artifacts/test"
+               }
+            }
+         ],
+         "strategy" : {
+            "fail-fast" : false,
+            "matrix" : {
+               "include" : [
+                  {
+                     "experimental" : false,
+                     "perl_version" : "latest"
+                  }
+               ]
+            }
+         }
       }
    },
    "name" : "test",
