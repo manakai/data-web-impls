@@ -15,7 +15,7 @@ MIME::Base64~3.16
 Net::SSLeay~1.94
 Path::Class~0.37
 Path::Tiny~0.148
-Scalar::Util~1.68
+Scalar::Util~1.69
 Time::Zone~2.24
 URI~5.31
 common::sense~3.75
