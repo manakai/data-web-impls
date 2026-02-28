@@ -16,6 +16,6 @@ Net::SSLeay~1.94
 Path::Class~0.37
 Path::Tiny~0.150
 Scalar::Util~1.70
-Time::Zone~2.24
+Time::Zone~2.34
 URI~5.34
 common::sense~3.75
