@@ -2,7 +2,7 @@ AnyEvent~7.17
 AnyEvent::HTTP~2.25
 Canary::Stability~2013
 Carp~1.50
-Clone~0.48
+Clone~0.47
 Encode~3.21
 Encode::Locale~1.05
 Exporter::Lite~0.09
@@ -16,6 +16,6 @@ Net::SSLeay
 Path::Class~0.37
 Path::Tiny~0.150
 Scalar::Util~1.70
-Time::Zone~2.34
+Time::Zone~2.24
 URI~5.34
 common::sense~3.75
