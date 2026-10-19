@@ -17,5 +17,5 @@ Path::Class~0.37
 Path::Tiny~0.150
 Scalar::Util~1.70
 Time::Zone~2.35
-URI~5.37
+URI~5.40
 common::sense~3.75
